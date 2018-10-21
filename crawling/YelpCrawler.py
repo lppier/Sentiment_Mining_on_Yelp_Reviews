@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 import time
 import random
 import logging
+import traceback
 
 
 BASE_URL = "https://www.yelp.com"
@@ -125,50 +126,58 @@ def fetch_restaurant_reviews(url, id, name, category, save_data=False):
     page_no = 0
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
-    reviews = soup.select("div.review--with-sidebar")
-    reviews_count = len(reviews)
+    reviews_element = soup.select("div.review--with-sidebar")
+    reviews_count = len(reviews_element)
 
     records = {}
 
     while reviews_count > 1:
+        
+        # add random sleep to prevent robot blocking
+        time.sleep(random.randint(0, 2))
+
         records[str(page_no * PAGE_SIZE)] = {
             "id":  id,
             "name": name,
             "category": category,
-            "servesCuisine": soup.select_one("span.category-str-list > a").text.strip(),
-            "priceRange": soup.select_one("dd.nowrap.price-description").text.strip(),
+            "servesCuisine": soup.select_one("span.category-str-list > a").get_text().strip(),
+            "priceRange": soup.select_one("dd.nowrap.price-description").get_text().strip(),
             "address": {
                 "addressLocality": "United Kingdom",
-                "addressRegion": soup.select_one("div.map-box-address > span.neighborhood-str-list").text.strip(),
-                "streetAddress": soup.select_one("div.map-box-address > strong.street-address > address").get_text(separator="\n"),
+                "addressRegion": soup.select_one("div.map-box-address > span.neighborhood-str-list").get_text().strip(),
+                "streetAddress": soup.select_one("div.map-box-address > strong.street-address > address").get_text(separator="\n").strip(),
                 "postalCode": None,
                 "addressCountry": "GB"
             },
-            "@context": "http://schema.org/",
+            "context": "http://schema.org/",
             "image": soup.select_one("img.photo-box-img").attrs["src"],
-            "@type": "Restaurant",
-            "telephone": soup.select_one("span.biz-phone").text.strip(),
+            "type": "Restaurant",
+            "telephone": soup.select_one("span.biz-phone").get_text().strip(),
             "review": []
         }    
         reviews = []
         logger.info("Fetch reviews from page {}".format(page_no + 1))
-        for review in reviews:
+        for element in reviews_element:
             try:
-                if review.attrs["data-review-id"]:
+                if element.attrs["data-review-id"]:
                     review = {
-                        "reviewId": review.attrs["data-review-id"]
+                        "reviewId": element.attrs["data-review-id"]
                     }
                     for aspect in CRAWL_TEMPLATE_DICT:
                         element_attrib = CRAWL_TEMPLATE_DICT[aspect]
                         if element_attrib["type"] == "string":
-                            review[aspect] = get_string(review, element_attrib["css_selector"])
+                            review[aspect] = get_string(element, element_attrib["css_selector"])
                         if element_attrib["type"] == "date":
-                            review[aspect] = get_date(review, element_attrib["css_selector"])
+                            review[aspect] = get_date(element, element_attrib["css_selector"])
                         if element_attrib["type"] == "rating":
-                            review[aspect]["ratingValue"] = get_rating(review, element_attrib["css_selector"])
-                            review["sentiment"] = SENTIMENT_MAP[review[aspect]]
+                            rating = get_rating(element, element_attrib["css_selector"])
+                            review[aspect] = {
+                                "ratingValue": rating
+                            }
+                            review["sentiment"] = SENTIMENT_MAP[rating]
                     reviews.append(review)
-            except(KeyError):
+            except KeyError as err:
+                logger.error(traceback.print_exc())
                 pass
 
         records[str(page_no * PAGE_SIZE)]["review"] = reviews
@@ -176,16 +185,16 @@ def fetch_restaurant_reviews(url, id, name, category, save_data=False):
         page_no += 1
         page = requests.get(url + "&start={}".format(page_no * PAGE_SIZE))
         soup = BeautifulSoup(page.content, 'html.parser')
-        reviews = soup.select("div.review--with-sidebar")
-        reviews_count = len(reviews)
+        reviews_element = soup.select("div.review--with-sidebar")
+        reviews_count = len(reviews_element)
 
     logger.info("---------------------------------------")
     
     if save_data:
         with open("./data/yelp_{}_{}.json".format(category, name), "w") as outfile:
-            json.dump(reviews, fp=outfile, indent=4)
+            json.dump(records, fp=outfile, indent=4)
 
-    return reviews
+    return records
 
 
 def fetch_all_restaurants_reviews(category, url, limit=4):
@@ -197,7 +206,6 @@ def fetch_all_restaurants_reviews(category, url, limit=4):
     elements = soup.select("div.search-result")
 
     index = 0
-    reviews = []
     for element in elements:
         if index >= limit:
             break
@@ -207,13 +215,11 @@ def fetch_all_restaurants_reviews(category, url, limit=4):
         restaurant_name = restaurant_element.text
 
         logger.info("Fetch reviews of {}".format(restaurant_name))
-        review = fetch_restaurant_reviews(restaurant_link, restaurant_id, restaurant_name, category, save_data=True)
-        reviews.append(review)
+        fetch_restaurant_reviews(restaurant_link, restaurant_id, restaurant_name, category, save_data=True)
         index += 1
-    return reviews
 
 
 if __name__ == "__main__":
     for category in RESTAURANT_CATEGORIES:
-        data = fetch_all_restaurants_reviews(category, RESTAURANT_CATEGORIES[category]["url"], REVIEW_LIMIT)
+        fetch_all_restaurants_reviews(category, RESTAURANT_CATEGORIES[category]["url"], REVIEW_LIMIT)
         
