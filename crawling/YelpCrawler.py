@@ -147,8 +147,8 @@ def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
         page_no = 0
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
-        reviews_element = soup.select("div.review--with-sidebar")
-        reviews_count = len(reviews_element)
+        review_elements = soup.select("div.review--with-sidebar")
+        reviews_count = len(review_elements)
         reviews_found = (reviews_count >= 1)
 
         records = {}
@@ -178,7 +178,8 @@ def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
             }    
             reviews = []
             logger.info("Fetch reviews from page {}".format(page_no + 1))
-            for element in reviews_element:
+            logger.info("Review count: {}".format(len(review_elements)))
+            for element in review_elements:
                 try:
                     if element.attrs["data-review-id"]:
                         review = {
@@ -206,8 +207,8 @@ def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
             page_no += 1
             page = requests.get(url + "&start={}".format(page_no * PAGE_SIZE))
             soup = BeautifulSoup(page.content, 'html.parser')
-            reviews_element = soup.select("div.review--with-sidebar")
-            reviews_count = len(reviews_element)
+            review_elements = soup.select("div.review--with-sidebar")
+            reviews_count = len(review_elements)
 
         logger.info("---------------------------------------")
         
