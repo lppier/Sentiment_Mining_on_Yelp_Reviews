@@ -14,7 +14,7 @@ logger = setup_logger("YelpCrawler")
 
 BASE_URL = "https://www.yelp.com"
 PAGE_SIZE = 20
-RETRY_ATTEMPTS = 50
+MAX_RETRY_ATTEMPT = 50
 MIN_REVIEWS_PER_PAGE = 100
 
 CRAWL_TEMPLATE_DICT = {
@@ -69,34 +69,28 @@ def get_date(element, css_selector):
 
 
 def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
-    
+
+    # add random sleep to prevent robot blocking
+    time.sleep(random.randint(3, 10))
+        
+    page_no = 0
     attempt = 0
     total_reviews_count = 0
+    records = dict()
     condition = True
 
     while condition:
-        attempt += 1
-        logger.info("Attempt No {}".format(attempt))
+        page = requests.get(url + "&start={}".format(page_no * PAGE_SIZE))
+        soup = BeautifulSoup(page.content, 'html.parser')
+        review_elements = soup.select("div.review--with-sidebar")
+        reviews_count = len(review_elements) - 1
+        total_reviews_count += reviews_count
+
+        logger.info("Fetch reviews of {}".format(name))
+        logger.info("Inner attempt No {}".format(attempt))
         logger.info("---------------------------------------")
-
-        # add random sleep to prevent robot blocking
-        time.sleep(random.randint(3, 10))
-            
-        page_no = 0
-        records = {}
-        inner_attempt = 0
-        inner_condition = True
-
-        while inner_condition:
-            inner_attempt += 1
-            page = requests.get(url + "&start={}".format(page_no * PAGE_SIZE))
-            soup = BeautifulSoup(page.content, 'html.parser')
-            review_elements = soup.select("div.review--with-sidebar")
-            reviews_count = len(review_elements) - 1
-            total_reviews_count += reviews_count
-
-            logger.info("Inner attempt No {}".format(inner_attempt))
-            logger.info("---------------------------------------")
+        
+        if reviews_count > 0:
             logger.info("Page {} reviews count: {}".format(page_no + 1, reviews_count))
             logger.info("Total reviews count: {}".format(total_reviews_count))
 
@@ -151,18 +145,19 @@ def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
 
             records[str(page_no * PAGE_SIZE)]["review"] = reviews
 
+        if total_reviews_count < MIN_REVIEWS_PER_PAGE:
             if reviews_count > 0:
                 page_no += 1
-            if total_reviews_count > MIN_REVIEWS_PER_PAGE and reviews_count == 0:
-                inner_condition = False
+            else:
+                attempt += 1
+        else:
+            condition = False
 
-        logger.info("---------------------------------------")
-        
-        if save_data:
-            with open("./data/yelp_{}_{}_{}.json".format(category, index, name), "w") as outfile:
-                json.dump(records, fp=outfile, indent=4, ensure_ascii=False)
-
-        condition = (attempt < RETRY_ATTEMPTS)
+    logger.info("---------------------------------------")
+    
+    if save_data:
+        with open("./data/yelp_{}_{}_{}.json".format(category, index, name), "w") as outfile:
+            json.dump(records, fp=outfile, indent=4, ensure_ascii=False)
 
     return records
 
@@ -193,7 +188,6 @@ def fetch_all_restaurants_reviews(category, url, limit=4):
             restaurant_id = restaurant_element.attrs["data-hovercard-id"]
             restaurant_name = restaurant_element.text
 
-            logger.info("Fetch reviews of {}".format(restaurant_name))
             fetch_restaurant_reviews(category, index, restaurant_link, restaurant_id, restaurant_name, save_data=True)
             index += 1
         
