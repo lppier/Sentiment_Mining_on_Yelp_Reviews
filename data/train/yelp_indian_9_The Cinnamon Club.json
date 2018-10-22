@@ -1,0 +1,1662 @@
+{
+    "0": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "cBKKaRLlu9G8Bc4tjNtVdA",
+                "author": "Christopher C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is exquisite! From the space to the service and WOW, the food. I have been twice and ordered different items each time and all were fantastic! Leave you assumptions about Indian cuisine behind this food es exotic and yet entirely accessible. Well done Cinnamon Club! I'll come\nEverytime I am\nIn London",
+                "datePublished": "2018-09-08"
+            },
+            {
+                "reviewId": "X0q9RHMEPPTB9E-p-wVWzA",
+                "author": "Joshme K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This restaurant was recommended to us by my husbands brother-in-law. It's tucked away in a gorgeous building, I actually couldn't find a sign with the restaurant name. When you look up at it from the street, it looks like a library, and you see no tables. Just people moving around. I found it once I put it in my google maps to walk. \nWe arrived 45 minutes after our reservation time and the hosts was still happy to seat us and didn't mind we were late, probably because it wasn't busy. \nThe prices are high for the food as others have said, but my husband and I left full. We ordered two starters, and for the main course, we shared the malai kofta. It was all delicious (maybe too much cardamom though?). I wasn't a fan of the aloo paratha though. It tasted more oniony than potatoey. \nThe waiters and waitresses were so kind and professional. \nI'd definitely recommend this place!",
+                "datePublished": "2018-08-03"
+            },
+            {
+                "reviewId": "2ALtDysC7PAlkS6i0aPMBA",
+                "author": "Beata S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'd like to start by saying that this place is gorgeous. It's a sexy dinner house located in London's first public library. Which is just cool! They pride themselves on a vast and very interesting gin menu. They also advertise a awesome gin and tonic service by a professional gin and tonic bartender... but the delivery is abut of a letdown... the lovely stuttering young man that was manning the gin cart, stuttered through the gin presentation that he was reading off a card... and he wasn't stuttering because he had a stutter, he had very obviously never served a gin and tonic before.\nThen there was the food. We ordered butter chicken, The tasting of mushroom which featured a large and dry portobello, a mushroom briyani with wayyyy to much star anice, a butter chicken that was just ...meh, lamb with saffron which was underwhelming.  We also ordered a  bread basket that was very good and chutney tray that came with a mind blowing gooseberry chutney. All together a 3 star experience... I think we just expected more.",
+                "datePublished": "2018-08-02"
+            },
+            {
+                "reviewId": "iWBQHgU-faxJAmnmQNMIxw",
+                "author": "Tania S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing is all I have to say. From the service to the food. Impecable service. Exquisite dishes. We ordered two desserts which I didn't take pictures because they disappeared, but our wonderful waiter sent us a third dessert at no charge.",
+                "datePublished": "2018-09-09"
+            },
+            {
+                "reviewId": "ozzV4q8EDnX4wVQ-JkGYeQ",
+                "author": "Remy B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This place has a lot of positives, but many negatives as well. \nI'll start with the negatives:\n1. It's very expensive for the amount of food you're given. We were barely full after the meal.\n2. The mango lassi doesn't taste very authentic. I can pinpoint what was off about it, but it didn't taste like a traditional mango lassi, like many other restaurants have.\n3. It took a very long time to get our bill at the end of the meal (about 20 minutes). Our waiter forgot about us, so I had to eventually request it.\n4. They should distinguish better between what water costs money and what doesn't. To clarify, request tap water if you don't want to be charged for a bottle of water or more.\nHowever, I did enjoy some aspects about it:\n1. It was beautiful! It used to be a library, which made for a very interesting & unique aesthetic during our meal. \n2. The service, other than my negatives above, was great. They sat us quickly and we had some good conversation with our waiter.\nI probably wouldn't recommend this place unless it's a very special occasion.",
+                "datePublished": "2018-04-16"
+            },
+            {
+                "reviewId": "jGRLtdneXEMXgvk6WQ8eBA",
+                "author": "Mary A.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Service is not equivalent to this level of restaurant. The food was reasonable but not terrific. Service was below this level of restaurant in London.  Go to a good curry house instead.",
+                "datePublished": "2018-09-20"
+            },
+            {
+                "reviewId": "tG-qYzeG6czrpWsPYSWfQQ",
+                "author": "Paul W.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I have been in food service now for 33 years.  I have eaten at many Indian restaurants in five countries and numerous states.\nIt was a Tuesday night around eight and the place was busy.  The prices on the menu included a $130 tasting menu and main courses as much as $50.  Starters began at $18.  I am translating to US dollars @1.4 to 1 pound.\n1.  The first thing to arrive at my table was a Mango Lassi.  It was a very small drink for $10 and came with a soapy aftertaste.  \n2.  The garlic naan was cooked incorrectly TWICE, something that even children in India are tasked with.  To make matters worse, the first attempt was served after it cooled(see #3). The tandoori oven was too hot causing it to not rise correctly while cooking... In India I saw a monkey that was in charge of a tandoori bread oven, so can you imagine how easy it should be.\n3.  I had an asparagus starter that was sent to the table after it lost its temperature.  The flavor profile was nice, despite it's delayed delivery.\n4.  I chose the butter chicken for a main course since there were only three or four meat options, while most Indian restaurants of at least fifteen different options.  It was an over cooked breast without enough sauce to accompany it.\n5.  Dessert, not a chance after that train wreck.\nIn summary, this is a businessperson's(tourist) environment in a nice building with fancy table cloths.  Selling alcohol is CLEARLY the priority.  Service was horrible relative to the price.  My server had no support staff and that is insane for the amount they are charging.\nI later learned of a place call Brick Lane(?) where locals go to get REAL Indian food.",
+                "datePublished": "2018-07-18"
+            },
+            {
+                "reviewId": "-8JOLpz2N-CaOEfpLZ1PBw",
+                "author": "Katie Y.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I thought it was okay, perhaps a little pricy with smaller portions. We were seated in the upper area, which had an incredibly strange layout because they had clearly moved tables around to accommodate other parties - so to the left of us was a giant gaping hole in the middle of the dining area which just looked rather strange.\nWe opted for some kind of prix-fixe corse that related to the Royal wedding, it said it was a traditional Bengali wedding course. It came out on a platter and each dish was about the size of 1 cup (sorry, American units) and for me, was really hit and miss between all of them. Whatever dish the giant prawn was in though, was one of the best Indian dishes I've had of all time. The bread was dense, but a bit overly greasy. The service was slightly inattentive. The locale was hard to find (it's not labeled from the outside) and if someone hadn't seen us looking so confused and asked us if were looking for the Cinnamon Club, we probably would have walked past it a few times. The interior was beautiful, but we were seated in the upper area so we could barely see/appreciate any of it. It was a neat place to come but I was a bit disappointed that we were seated upstairs because that defeated most of the reasons why we had decided to come here in the first place. I probably won't be back anytime soon.",
+                "datePublished": "2018-05-28"
+            },
+            {
+                "reviewId": "wXJ3_0RDL1GpxtLtwe8diw",
+                "author": "Lisa C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My friends were visiting from the U.S. last week and they suggested \"high end Indian\" for dinner on Friday night. I haven't had a lot of experience with this niche category, as to me Indian usually means the neighbourhood curry joint or one of the go-tos around Whitechapel or Brick Lane. But I've definitely heard of quite a few big names, and after thorough research, I would conclude that there are at least 8 high end / Michelin Indian establishments in London, which could really only happen in a city like London. Given this was Thursday night and I was trying to make a booking for Friday night, they were all fully booked and the best I could do was an 8:45 PM booking at the Cinnamon Club. So that's how we ended up at the Cinnamon Club.\nThat said, it is a fantastically impressive place to take visitors to London. It's located not far from Westminster, so on our cab ride over there was an impromptu viewing of the London Eye and the Houses of Parliament. The building is the former Westminster Library, and the walls are filled with an impressive collection of old books. There is even a plaque outside to commemorate the history. We were in a chatty mood and too busy catching up to contemplate the menu, so we went for the full tasting menu. It was priced at £85, and we got a bottle of Sangiovese to share. In hindsight, I wouldn't particularly recommend that wine, but there were some other reasonably priced options on the wine list, as well as the high end that you would expect.\nI would describe the food as fine dining with an Indian flair, mostly with a strong dose of spices. But it is completely recognizable from your typical curry and rice / naan (in fact we never saw rice or naan during the whole meal!) There was a heavily spiced soup that was perhaps the strongest indication that the meal was Indian influenced. But otherwise, there was a salmon carpaccio, some seasonal squab, and poached pear with ice cream, among others. When we ordered, I had asked how long the tasting menu would take, and they indicated 2-3 hours, which was about right (I think we were about 2.5 hours). So it's not a huge endeavour to undertake (having done some 5 hour tasting menus), and just the right amount of food (we didn't feel like we overate).\nOverall I would definitely recommend the experience (especially for visitors), but given it's fine dining rather than your local curry house, I'm not in a rush to go back again.",
+                "datePublished": "2017-10-30"
+            },
+            {
+                "reviewId": "k8mDz20h3s6rb-1diYgK2Q",
+                "author": "Dustin H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "For my first trip to the UK, I was really looking forward to trying some LEGIT Indian food. A co-worker recommended Vivek Singh's Cinnamon Club, so we made a reservation. It sounded conceptually awesome! As we jumped out of our Uber, it was hard to tell we were at the right place, as the entrance is a bit unwelcoming.\nThe atmosphere was very contemporary. From the bright lighting and modern furniture to the service, we were set up for a fine dining experience. But that's not actually what we experienced...\nWe started with a selection of chutneys. 3 arrived... one was delightfully spicy and the other two were siiiiiickly sweet. I've had my fair share of stateside naan and hoped my UK experience would be even more flavorful. Not at all... all of the bread was fine at best. The varieties were lost on me.\nMy tablemate and I decided to share the \"Old Delhi style\" butter chicken on the bone which came with, black lentils, pilau rice and more garlic naan. We added the chilled bitter melon, pickled shallot and cucumber salad, and the home-style split yellow peas with cumin.\nFirst up, the sides were mediocre. The only thing that stood out was the bitter melon salad, which had an incredible flavor and texture. Everything else was surprisingly bland! Like, scratch your head bland, why is there no salt on the table bland.\nAnd for the chicken? The sauce and flavors were INCREDIBLE. Deep, dark, full of mouth feel and just... wow wow wow. But... for some bizarre reason, as it was prepared table side, I was served only wing parts, while my companion got thigh and white meat... cutting through and trimming meat off the bone when I just wanted to eat was beyond disappointing. We only realized the strange serving error as we shared notes after the dinner in our cab.\nWill I be back? More than likely not. For the price and flavors, it's just not worth it. Don't get me wrong, it's an incredibly lovely restaurant. But for the price, it should be perfect, which it is nowhere near.",
+                "datePublished": "2017-07-04"
+            },
+            {
+                "reviewId": "uMJBaoJ4A61MgVXNKlxgzg",
+                "author": "Amber A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My husband and I were very excited about this meal and it lived up to expectations for the most part. The restaurant vibe and aesthetics were awesome. The food, also awesome. The reason I gave 4 stars was due to the service. We felt others around us were getting good service but we seemed to get less attention. It was terrible but for where my expectations were at it could have been better.  \nI had the sea bass and my husband had the red deer. The sea bass was super delicious w red lentils and a delicious curry sauce. \nAlso the bar area on the bottom floor was super cool and stylish! Definitely pick this as a cocktail stop!!",
+                "datePublished": "2016-12-18"
+            },
+            {
+                "reviewId": "GcmNvbR_XSIACIkPQCq1zQ",
+                "author": "Matthias H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "As aficionados of Indian cuisine, we were eager to visit the Cinnamon Club. We were not disappointed. The fact that they are open later than many restaurants was much appreciated, as we were coming from the theatre. All of the dishes and condiments were excellent. I highly recommend the gin cart, which gives you a very personal experience and is an excellent way to discover new and interesting gins. The library ambiance is lovely as well and the book titles provide for interesting conversation.",
+                "datePublished": "2018-06-03"
+            },
+            {
+                "reviewId": "QhB0tSOHaovDRCXP51q0tQ",
+                "author": "Taylor M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I took my family on the recommendation of a colleague while we were in London.  My wife and I dearly love Indian cuisine, and he stated this was the best the old city could offer.  We made reservations and went with great expectations.\nWhen we arrived, we were greeted warmly and asked to wait in the library bar as we were a bit early for our (admittedly) early American dining hour.  We enjoyed a pricey, but quality, cocktail before being shown to the dining room.\nWe were pleasantly surprised they offered a tasting menu with wine pairings.  It was VERY pricey, but as we had never experienced this approach in Indian dining we decided to splurge.  \nI won't get into the specifics of each dish, but let me just say we were pretty disappointed.  For the price, there was nothing special.  The food was good, but merely good doesn't cut it at that price point.  The wines, on the other hand, were excellent, and the wine steward was charming and knowledgeable.\nWhen we returned home, our memories of great meals in the UK were from a local pub followed by a hole-in-the-wall curry shop where a ten quid plate of curry was recalled fondly.  This outrageously pricey meal didn't even register on the memorable experience meter.",
+                "datePublished": "2018-02-02"
+            },
+            {
+                "reviewId": "YJpjk80fQEEK2KjSR-pi-Q",
+                "author": "Ameena D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Had lunch with my husband at Cinnamon Club yesterday and was pleasantly surprised. \nAmbiance is nice. I love the library in general so eating in a library was pretty fabulous.\nService is courteous but not very friendly....here's where TCC loses one star.\nFood is really fantastic:\n- Green pea and potato cake was the highlight of my meal. I couldn't stop eating this, and neither could my husband (I didn't want to share).\n- Grilled halibut was well received by my husband. I can't comment on the taste but the portion size was quite small.\n- Baked plaice sole was good. Accompanying sauce was tasty as well.\n- Organic roti and naan were very good. Love that they offer organic options.\n- Mango sorbet was complimentary (for my birthday) and was delicious.\nPrices were decent for a restaurant of this caliber.\nThe bottom line: we'd definitely return!",
+                "datePublished": "2017-03-24"
+            },
+            {
+                "reviewId": "uLF3RaSQuxKl0_I9hbHS2Q",
+                "author": "Jennifer L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Not your average Indian food!\nCame here as none of my other options were available for my friends visit but it wasnt a disappointment.\nThis is really upscale and refined Indian food.\nWe had for starters: \nOkra filled with peanuts and jaggery (one of the tastiest okra Ive ever had) \nSandalwood flavoured Norfolk free range chicken: the sauce was really good\nTandoori octopus with chutney aloo, perfectly cooked and the tomato and lemongrass dressing was gorgeous nicely spiced a must order! \nFor mains: \nChicken breast in pistaccio korma sauce \nRoast saddle of lamb with saffron sauce and root vegetable (it was my dish and it was gorgeous!) \nTandoori loin of Oisin red deer, was also very tasty\nAnd last but not least, the desserts: \nDark chocolate paan: very tasty and interesting texture\nGreen cardamom brulee: really good the cardmom and realky going through the whole dessert!\nBaked Jalhandar: think baked Alaska with Indian spices. It was just devine!\nOverall this is a special occasion Indian feast but I loved how original the dishes were, far far away from your usual suspects",
+                "datePublished": "2016-11-18"
+            },
+            {
+                "reviewId": "d4wdbyYoNtPX7ax9RqRTpQ",
+                "author": "Tom B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Let's start with the positives.  The dishes themselves were quite nice and certainly not standard indian cuisine.  If you are hoping to eat some familiar standards like tikka masala, this is not the place.  However, the food overall was good, not great.  I really did like the library themed bar and the bartender was very nice.\nThe bad.  We arrived at 8:02 for an 8pm reservation and had to wait 30 minutes for our table.  Once we were told our table was ready we went back to the main entrance and waited another 2-3 minutes while both hostesses ignored us.  Finally once we were seated our food took forever to arrive.  Food arrive at 9:30.  \nThe manager wound up comping our drinks in the bar and several items from our meal.  I do appreciate them recognizing the service issues we had.  But all in all, even if we were seated on time and food came relatively quickly I probably still would have been a little underwhelmed given both the hype of this place and the plethora of other Indian restaurants in London.",
+                "datePublished": "2017-12-28"
+            },
+            {
+                "reviewId": "yh7VeStiBY22tP-yK02Fxw",
+                "author": "Min W.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Horrible services! This is the worst British restaurant we have ever been to. We have been to many different places, from Michelin star to local pub and no one is more arrogant and rude than this place. We have been sitting there for about 10 minutes when everyone is working around us and no one even stopped to even offer a water. Finally we put our order in and still no water and we have to keep asking. My little girl is too tired to walk and otherwise we will walk right to there. There are so many great curry places in London - with food so so and service like this, skip it and you will find much better places!",
+                "datePublished": "2018-08-17"
+            },
+            {
+                "reviewId": "yls0ljY-9LcW-Jkt40HwvA",
+                "author": "Sudha K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The food was excellent. The service was perfect - I could not find a flaw in either. And I am a connoisseur of Indian restaurants. This deserves a Michelin star for its food and service, surprised I don't see it. I am from the US where I have been to Michelin restaurants of much lower standard in flavor and service. Definitely worth visiting.",
+                "datePublished": "2017-12-30"
+            },
+            {
+                "reviewId": "o_cNXP4nE3YZUS8EepyDcg",
+                "author": "Douglas A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I was rather disappointed with our meal in a restaurant with so many good reviews.  While our food was okay, it lacked consistency which is one of the themes for this restaurant.\nOur starters were excellent and the preparation was flawless.  My wife had a chicken tikka.  I had an excellent Haddock fish cake.  Our entrees were not as good, my crab risotto was super salty and my wife's Haddock did not taste \"charbroiled\" and the consistency was mushy.  Our sides did not come out with our entrees and we had to remind them to bring them to our table.  Our second round of drinks showed up at the end of our meal.  We had two or three wait staff, not sure who was in charge.  So issue number two is the indifferent service.\nNot a great review for place that gets good buzz in London.",
+                "datePublished": "2016-10-15"
+            },
+            {
+                "reviewId": "UG_8mj-NyxvnhxybadG_ww",
+                "author": "Hong N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "There are few places where i have no reservations about giving a 5/5 review, but the Cinnamon Club is most definitely one of them.\nA friend had been keen to visit the restaurant, especially after its recent refurbishment, so we decided to organise a Saturday brunch. The restaurant is so discreet one might have difficulties finding it (they've kept the old Westminster Library entrance) - upon entering you will see room to the left, which is the bar (please see photos), and the main restaurant ahead. The reception is well decorated with beautiful paintings, but the main restaurant has less - only because it's kept the original bookshelves from the old library. We were sat on the open ground floor, but there is an upper level (as one would find in a library setup) which may offer a more intimate setting if necessary. Words don't do the inner decor justice, so please refer to the photos.\nOn to the food - we were well greeted by the waiting staff and lead to our table. After sitting down we were offered complimentary rice cakes - even before the menus had arrived! The menu offers a variety of dishes. Some of us went with the set menu, others a la carte - the portions are just right and the seasoning perfect. The alphonso mango was a theme throughout the brunch, with me ordering alphonso mango lassi to drink. The food came beautifully presented, and tasting equally good. Between our starter and main, as well as the main and dessert, we were offered complimentary sweets and alphonso mango - this didn't feel forced or tacky - genuinely good fillers between meals. The staff were knowledgeable and friendly throughout the whole experience, even when we were leaving.\nThe price came to approx. £45 per person for two/three courses and a drink. We were well satisfied with the whole experience and are certain to return. 5/5 no qualms about it.",
+                "datePublished": "2016-05-30"
+            }
+        ]
+    },
+    "20": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "g9pqBQy-Drk0aRWTBMNZJA",
+                "author": "Mathieu L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Very high end Indian 'Nouvelle Cuisine' with small portions, sophisticated presentation. It's a far cry from 'regular' indian restaurants and the prices are, well..., high\nThe food was good, no doubts, but nothing exceptional either\nGreat service, very nice space in a library, just a little too stuffy for my taste, but some people may like it. Not a huge fan of the location either, behind Westminster Abbey, not much around...",
+                "datePublished": "2017-06-20"
+            },
+            {
+                "reviewId": "EWRZxtkhQlS6u-ed5ufMLw",
+                "author": "J B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Just an absolutely lovely, charming restaurant. The atmosphere is classic and refined without being stuffy. The food was of the highest quality and incredibly well-made. This would be a restaurant I wouldn't hesitate to go to on a special occasion or even take a guest or customers to. Highly recommended.",
+                "datePublished": "2017-06-28"
+            },
+            {
+                "reviewId": "GC2-OQ1rtVSBZCig8lFN1g",
+                "author": "F B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went there for celebrate my wife's birthday. The food was amazing with excellent presentation. The staff was friendly and the place had a soothing ambiance.\nWe had the sharing main of butter chicken which was more than enough for two.\nAfter our meal we went to the bar downstairs and just like the restaurant it didn't disappoint us. \nWe'll be visiting again soon",
+                "datePublished": "2017-11-07"
+            },
+            {
+                "reviewId": "I1Z4hMJ3za23USgMNxUBeg",
+                "author": "Dave S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A gorgeous backdrop and ambience as you enter for sure, however overall we were a bit disappointed that the service didn't live up to the expectations set.\nHad a nice table in what used to be the \"reading room\", which offered a nice intimate setting.  We split the butter chicken for two and the dish was fantastic.  All the right blends of spices and creaminess you'd hope for.  The black daal was great, as other reviews have called out, and the naan was slightly above average as far as naan goes.  \nThe letdown was the service.  It was very disjointed (asking us as we sat down what we wanted to drink, then waiting about half an hour to cme back to take or food order) and on multiple occasions different waitstaff asked us the same question someone had just asked a couple minutes ago.  The price seemed justified for the location and the food, but factoring in the service it seemed a bit overpriced.\nImprove the service and this turns into a 4-4.5 star experience, but as-is, an overall average experience",
+                "datePublished": "2017-03-14"
+            },
+            {
+                "reviewId": "LwscFhQrf7ycTd2c9S5zaA",
+                "author": "Stephanie T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The appetizers were delightful. The okra was outstanding and the chicken tikka was a hit with the kids. We had 2 of the sharing main courses for 2. The Malai kofta was our favorite. The butter chicken was good, but we like it a bit spicier. The white Bordeaux we selected was outstanding.",
+                "datePublished": "2017-04-18"
+            },
+            {
+                "reviewId": "E7VTSGEUqq2DfAoTKIcR8g",
+                "author": "David P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was craving Indian food and found the Cinnamon Club and figured \"what the heck... lemme give it a try.\"\nI was blown away by the Cinnamon Club.\nThe interior and overall presentation felt like a proper British club from a 1950s movie with books on shelves, leather chairs, and all manner of other subtle and posh touches.\nA drink in the bar was a treat. There were lots of different types of chairs, stools, benches, couches to sit on and the vibe was hushed, mellow, quiet, and romantic.\nThe main dining room was more vibrant. While the tables were close together, we rarely heard conversations from other tables.\nThe food was among the best I've tasted anyplace. The spices were subtle, complex, and absolutely perfectly complementary of each of the dishes. The presentation was worthy of any high end San Francisco restaurant.\nThere were a few glitches in the service (e.g., the naan was not delivered with the first course as we requested) and every glitch resulted in the food that was not delivered as we requested being removed from the bill... without us asking.\nFor me, the Cinnamon Club was the best of London posh club atmosphere combined with the kind of complexity and presentation that one associates with San Francisco combined with food that is the best Indian food I've ever had.\nAll-in-all, worth the price for the excellent food and overall experience.",
+                "datePublished": "2017-07-08"
+            },
+            {
+                "reviewId": "Ellk_5ZREoZ_Qe3w9R6nvQ",
+                "author": "Amy O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We went for a dinner with work colleagues.  The atmosphere is beautiful and lively and there is good people watching.  The wine list is very good.  The service was ok.  They were prompt with pouring wine but they didn't give an extra utensils to share the dishes (and I find it a little off putting when people are using the same fork to grab the food and sauces that they are putting in their mouth).  This was inconsistent with the posh atmosphere.  They also had to be prompted to explain which was the lamb, the chicken, the vegetarian dish etc and they seemed anxious to drop the dishes and jump away.  The food was good.  Not excellent.  Not a lot heat to any dish.  Small portions.  Admittedly my expectations must have been too high.  They weren't met.  I have much better Indian.",
+                "datePublished": "2016-06-16"
+            },
+            {
+                "reviewId": "thQysbypOuRrsF76hhNckw",
+                "author": "Nicholas C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Food was good but not amazing. Very hot day and the air conditioner had stopped working at 6 we arrived around 8:30 and it was to hot to relax. Water was needed to stop you from passing out and the staff were more than happy and to charge for the bottle of water even though the air conditioning was off. The bar below is amazing and will return to the bar. My suggestion is go on a cold day",
+                "datePublished": "2017-06-22"
+            },
+            {
+                "reviewId": "aeWhCmcWCpgCbuexEdS7uQ",
+                "author": "Amber L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food here was mediocre.   I have had high quality fusion and indian and this place was simply ok.  Had a number of the appetizers and nothing had the flavor or taste of San Francisco.   My main course was the fish which was ok too.  The ambiance is great but the food is less than the ambiance.",
+                "datePublished": "2016-09-24"
+            },
+            {
+                "reviewId": "0lhoxX4CA9GmurljU5NWAA",
+                "author": "Nainesh R.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I had high expectations for this place.  The restaurant interior is beautiful, and I appreciate that they kept the Victorian library look and feel of the space.  \nFor the price point, I have to say that the food was less than stellar, and the portions were on the small side, requiring my group to order more and more.  There was nothing in particular that stood out for me in terms of any dishes that \"wowed\" me, other than the butter chicken.  However, I liken butter chicken to pizza.  Even bad pizza is still pretty good pizza.\nService was okay to below-average.  I was without a drink for quite some time, and had to constantly flag the wait staff down to put my order in.    \nFor your money and time, I would probably try other places out over the Cinnamon Club.  Not worth the time.",
+                "datePublished": "2016-04-06"
+            },
+            {
+                "reviewId": "Uh74k-gXH5I5DKyHHybl8Q",
+                "author": "Joanne M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A great restaurant that is owned by one of the amazing chefs Vivek Singh with his modern take on Indian dishes.  The restaurant is light and airy with its conservatory style window ceiling.  I also love the way the tables are dotted around the restaurant however  I do feel that tablecloths are now old hack and should be got rid off and replaced with nice marble or wooden tables. Thee price of the food is a tad expensive for the a la carte menu however if you go for a set menu via Bookatable approx. £30 for three courses I feel is much better as a main course on the a la carte menu is approx. £23 alone.  However I went for the a la carte menu as I had a voucher to use up and that was the terms to buy from the a la carte menu so for just a starter each and a main meal plus non alcoholic cocktail for us two it came to around £95. However unlike most celebrity / michellin stared chef restaurants I feel that the portions served here are much bigger than some.  I had the halibut with lemon sauce and lime rice and it was pure citrus heaven for me with a tad of back spice.  My husband had the beef with a spicy peppery coating and it was cooked to perfection (medium rare as requested).  The chocolate bomb was just lush and so tangy with the passionfruit that is in the bomb highly recommend and I love the touch of gold flake that was on top of the bomb.",
+                "datePublished": "2016-08-07"
+            },
+            {
+                "reviewId": "9rkhXqXOwAMMFqoXosYnjA",
+                "author": "Jahanbi R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My husband booked a table here on my birthday. A very nice fine dining place. The first thing that I noticed was the huge library full of books. \nThe food is itself an experience there! Exquisite and delicious menu.. I felt like tasting everything ;) :P\nOne of the places which I would recommend people to go.",
+                "datePublished": "2016-03-28"
+            },
+            {
+                "reviewId": "iGOIWURKKo60rpCKY97u_Q",
+                "author": "Kirsten H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food with very unique flavors. It is definitely an expensive place as other reviews have pointed out, but you know that going in. As with many upscale restaurant, the portion size was pretty tiny. You definitely won't leave feeling stuffed even if you order an app, entree, and dessert. \nThe restaurant itself is quite large and is housed in a old library, which made for a nice look and feel.",
+                "datePublished": "2015-04-10"
+            },
+            {
+                "reviewId": "U5-Bby98XT57bx6-wuE4pQ",
+                "author": "Shannon C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's not often a gal gets to travel to Westminster and dine among celebrities in a gorgeous former Victorian library. The decor was pristine, the service impeccable, and the food OMG, the food was Divine. I adore Asian cuisine and Indian food is at the very tippy top of that list. I have never been to India but it is to my understanding when you have Indian cuisine in the UK it is not much different. I have eaten at several Indian restaurants, but this was a very special invitation for our business partners, my husband and myself. The Chefs definitely put a precise modern spin on their dishes. This is not the ordinary potted masses of paneer, tikka masala and so on...this is fresh, organic free range and farm to table plating of the highest quality fish, meats, veg, and delightful desserts too. They have a selection of chutneys to pair to your plate as well. King prawns in mango sauce, Tandoori free range chicken, lamb in corn curry, Sea Bass in coconut ginger sauce served with lentils...are you drooling yet....a huge bar and drink selection too! We always have a superb crisp white wine and in this case Sauvignon Blanc to go with it. We highly suggest you treat yourselves to a lovely experience at the Cinnamon Club. We enjoyed it thoroughly and will gladly be back again.",
+                "datePublished": "2016-11-21"
+            },
+            {
+                "reviewId": "N4eD2B87McRYOao-o1rBaQ",
+                "author": "Minh C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'd say this is slightly overrated. I would give it 3.5 stars and for the price, would prefer Dishoom.\nFlavor wise, the food was good, but it didn't exactly match the price tag. Unless you include the shaved gold that was added on top of our meat. \nOur service was also a little strange and left a lot of awkward moments between us and the staff member. Rather than providing guidance on the menu, the waiter kept insisting we get XYZ, which felt pushy and unresponsive to the table's taste/needs.",
+                "datePublished": "2015-11-08"
+            },
+            {
+                "reviewId": "g-vc9CqGBBWhjmQveRQ9YA",
+                "author": "Phthalo B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My husband and I went here for dinner with one of my husband's colleagues. The place has a very nice upscale feel to it, but people were dressed casually. No sneakers! The staff treats you as if you were in a fine dimimg establishment. There is a separate bar area and shelves and shelves of books. It is a library after all.\nThe food is delicious and the portions just right. It is a bit pricey, but the quality of the food reflects that. \nThis was a wonderful dining experience and I hope to revisit this place if I ever get back to London.",
+                "datePublished": "2015-11-13"
+            },
+            {
+                "reviewId": "5_fHmEEL-NdENrVSW8Sy7w",
+                "author": "John M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Writing this review a year later, as I still remember the jackfruit served 3 ways.  I'm now a convert!",
+                "datePublished": "2017-05-05"
+            },
+            {
+                "reviewId": "ZXyEeQ5ZfBHXhX3I1gw3-g",
+                "author": "Michael P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Exceptional cod appetizer and lamb entree. The service was exceptional and the patrons were friendly (I ate alone). Best Indian good experience ever! Great bar downstairs plays Indian movies on a giant Sal screen behind the bar - nice ambiance. Rather modern feel.",
+                "datePublished": "2016-06-29"
+            },
+            {
+                "reviewId": "zdR1VtSYPrVJP5DNvF62DA",
+                "author": "A S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Many years ago, my dad told me I could get good Indian food for no more than £10 pp. Well suffice to say not here you can't. From previous experience I was expecting overpriced food, arrogant service and a somewhat standoffish greeting at the front desk. In the main I wasn't disappointed. The food however is very tasty, interesting flavours, so compliments to the chef and to 2 of the many waiters that served us.\nMy favourite dish was the livers, which were exquisite. \nWhy did I come here again I hear you ask? Because my other half needed to tick a box. In fairness it's the wine that really bumps up the bill, so next time I might just stick to tap water!",
+                "datePublished": "2015-02-20"
+            },
+            {
+                "reviewId": "jYTjcZ3N7pcAssuNwRJIJw",
+                "author": "Tania S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "What an cool and unusual restaurant, LOVE the library atmosphere of this restaurant.  We met a couple of friends in London and they took us to this place.  The food was more upscale and surely more elaborate than your usual Tikka masala.  Great wine selection and great dishes.  Duck breast is a must. Place gets really crowded so reservations is highly recommended.",
+                "datePublished": "2016-05-09"
+            }
+        ]
+    },
+    "40": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "H3f-duMx-0eatNU784O7jg",
+                "author": "Keentraveller 1.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went here for my birthday during the week. It was a busy night for the restaurant. We were seated next to one of the bookshelves against the wall which was good. Started with a bottle of red Malbec which was very good. My starter was the Reshmi chicken kebab and my main was the Romney Marsh lamb with corn sauce and pilau rice. Both were melt in your mouth and the taste was flavoursome. I would definitely go back again.",
+                "datePublished": "2016-04-26"
+            },
+            {
+                "reviewId": "9MtyX3rsUEeV-XHKk6vzGQ",
+                "author": "Louise D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was the best accidental find! It was Boxing Day and we were wandering around London when I needed to use the bathroom, so we decided to eat here. The food was excellent, but I definitely recommend saving room for dessert - the sorbet trio is a perfect complement to any meal.",
+                "datePublished": "2016-03-04"
+            },
+            {
+                "reviewId": "byre1e-iDXtXYj5zI51i2g",
+                "author": "Megan L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing service, drinks and food. Loved every single dish severed, hands down my favorite fix menu experience thus far. Can't wait to come back, thanks for the awesome night!",
+                "datePublished": "2016-01-01"
+            },
+            {
+                "reviewId": "CHQMsqeaPj_l-BqrM_SP_A",
+                "author": "Ambreesh K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Never been disappointed here. Just get the prix fixe menu and let them take care of you.",
+                "datePublished": "2014-03-08"
+            },
+            {
+                "reviewId": "xjxRlQFxXz1ZeZstNexx2A",
+                "author": "Justin P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Second time here this year, wow - definitely one of our favorites.  Modern and 'fine' takes on indian cuisine with just amazing results.  Nothing has disappointed.  This latest time had the tandoori pigeon starter, it was the star of the night.  Not just the meat, but the accompanying garnish flavors complemented so well I just wanted order three more.  Had the lamb saddle main, which was perfectly medium rare and one of the most tender lamb cuts I've ever had.  Also mentioned on the reservation that one of us had a shellfish allergy and didn't eat starch, the server came fully prepared and made solid recommendations and substitutions without even asking (including a different 'from the kitchen' tasting starter for me).  Only *extremely minor* suggestion would be to server the tea  in a different type of pot.  The nice glass pot provided no ability to remove the tea leaves, which left the water for 'second cup' seeping in the tea leaves while the first cup was being savored.  The 'second cup' was then a quite bitter.",
+                "datePublished": "2015-10-02"
+            },
+            {
+                "reviewId": "kpzhv2UKHg35X18JIm6MdQ",
+                "author": "Lorraine S.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Cinnamon Club is a beautiful restaurant with sketchy service and zero to no accommodation for anyone with a food allergy. Our server told me that I could have okra. That's it. So I ordered okra (for my dinner main course). I had hoped to have something. Anything. Although I have food allergies, I can always find something to eat just about anywhere. I hate being the person who's difficult to serve, so I'm extremely flexible. But that did not matter at Cinnamon Club. When my okra arrived, it was clearly an appetizer portion--even though they knew it was all I could have. No effort to bulk up my plate or anything. No one made me feel welcome or as if the chef or staff hoped to do something...anything at all...to make my experience nice. What I had was okay. Sadly, my cocktail wasn't impressive either. We noticed sluggish service all around our table as well. Others had to ask for a waiter to be sent over so they could order. They were seated before we were. I was really looking forward to this meal, but I am leaving hungry and unimpressed.",
+                "datePublished": "2017-06-06"
+            },
+            {
+                "reviewId": "tmidwkJsWweywhzJgGPo2Q",
+                "author": "Shetu S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "refined take on Indian food. you won't find the typical fare, and that's okay with me.\na new staple each time I visit London. can't go wrong with the lunch set menu.\nservice is as outstanding as the food.",
+                "datePublished": "2015-08-09"
+            },
+            {
+                "reviewId": "8IChdoFnYMBfCeq9EUOHDg",
+                "author": "Nathan B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Vegans: there are three things we can eat here, but each of them is really good. Starter involving potato, spinach, coriander; main course a spicy jackfruit curry, and the holy grail: delicious vegan naan! The ambience, service, and wine list are amazing. So if you're okay with the limited menu choices, you can have a great meal here with non-vegan friends.",
+                "datePublished": "2015-09-13"
+            },
+            {
+                "reviewId": "e0Y6x5WBx7CAX9kq2BDKOA",
+                "author": "Dominic M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The food here is amazing but we were clearly punished by our service staff for having booked for eight people when only five turned up. They virtually neglected our table despite having purchased large dinners, sides, appetizers, and bottles of wine. It was nearly embarrassing to see our waiter make numerous stops at every other table even when it was clear nothing was needed while neglecting ours.  To make matters worse on the odd occasion he did stop he would apologize but gave no reason for his tardiness. So enjoy the food but be warned the staff behaves like they are above you.",
+                "datePublished": "2015-01-14"
+            },
+            {
+                "reviewId": "7HOGnGxeZkaDP0KR6_KtWA",
+                "author": "Catherine W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Spent the evening here for drinks and the tasting menu. It was an incredible experience and would highly recommend the tasting menu to anyone visiting for the first time. Chef is amazingly versatile and the courses are interesting and delicious.",
+                "datePublished": "2016-07-04"
+            },
+            {
+                "reviewId": "VvNI3L9nwHRgSRwY165oUQ",
+                "author": "Jennifer M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I dined here by myself but I still very much enjoyed my experience.  I had to wait a little while since I showed up without a reservation, but having a drink at the library bar turned out to be an excellent way to spend time while waiting for a table.  \nThe cuisine was like no Indian food I've had before, and I've had a lot of Indian food.  Since this place is more on the upscale side I expected the food to be more bland (for Indian food, that is), so I was pleasantly surprised to find that you still got the intense mix of flavors with every bite.  \nI would definitely recommend this place to anyone.  The atmosphere is nice, too.  Next time I'll make sure I have a companion.  :-)",
+                "datePublished": "2013-07-20"
+            },
+            {
+                "reviewId": "b-6wc4LTIsmLMO3xqxOhbg",
+                "author": "Steve S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A terrific restaurant that virtually invented high-end Indian fusion for the London audience 11 years ago.\nMy wife and I tried the Tasting Menu (£75 per person £115 with paired wines).  I'll let the menu speak for itself:\n1. Roasted plaice fillet with Bengali spiced crab\n2. Tandoori breast of Anjou pigeon with chickpea chaat\n3. Ground vegetable kebab\n4. Baked wild African prawn with 'kadhai' spices\n5. Khus and mint sorbet\n7. Char-grilled halibut with Bengali 'dopyaza' sauce, ghee rice\n8. Saddle of Cumbrian wild red deer with corn and millet kedgeree\n9. Chocolate mousse with white chocolate and garam masala parfait\nCoffee and petits fours\nThe setting is an elegant terrific former library, with a hip modernistic bar downstairs.\nTable service was a bit mixed.  After the first 5 flawless courses, they cleared our sorbet and we waited a bit.  They then tried to serve our sorbet a second time.  They then tried to serve us another table's course, but finally got back on track.  A small gripe however, it was an awesome meal and they are friendly and seem to try hard to please.\nThe meal was just over 2.5 hours -- which was just fine by us.\nWe also ordered one of the 3 Cinnamon Club cookbooks by their celebrity chef and co-founder Vivek Singh, who was in the kitchen and was kind enough to sign one for us.",
+                "datePublished": "2012-09-22"
+            },
+            {
+                "reviewId": "kULSWveBpwM1lmxJz3fbwQ",
+                "author": "JP S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The Cinnamon Club came highly recommended and I was looking forward to dine there. By chance we got a table the same day\nWe arrived early evening and were shown to our table immediately. We ordered drinks before the food and had to wait 20 mins getting served. The somewhat inattentive service however does not spoil the incredible food experience coming out of the kitchen. This was without any doubt one of the best asian/indian meals ever!",
+                "datePublished": "2013-02-14"
+            },
+            {
+                "reviewId": "K5YOPbIxDQLIXwwb84svBg",
+                "author": "Sergio P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It used to be a great restaurant. Management changed and not the same anymore. Avoid on sundays since there are 3 main dishes only.",
+                "datePublished": "2016-07-04"
+            },
+            {
+                "reviewId": "vxqyO62SqPqDpS9SZKkg0A",
+                "author": "Rejo T.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Extremely overrated Indian food that is neither here nor there ! Waste of time, money and the one star ! Stay home and look up an Indian recipe online - it'll be more fun,  satisfying and more Indian than you know.",
+                "datePublished": "2015-12-02"
+            },
+            {
+                "reviewId": "aewoPFvQMizLuctoEH-Z7A",
+                "author": "Danielle G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very good Indian, in a neat old Library in Westminster.  A little pricey, but that's because of the location.",
+                "datePublished": "2013-02-10"
+            },
+            {
+                "reviewId": "EsGP_AKBE75opkP9sxXYdA",
+                "author": "Tom S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Consistently good.  I am a regular and have enjoyed this place for many years.",
+                "datePublished": "2016-04-11"
+            },
+            {
+                "reviewId": "QwJjTBPsUevJ5fCiSZaFxg",
+                "author": "Shayan S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I really, really, really wanted to like the Cinnamon Club.\nIt's a great locale, set in the old Westminster Library, very art-deco-ish (if you like that kind of stuff), has an exclusive feel to it as you enter, but then things kind of progressively deflated as the evening wore on.\nLet's start with the bar, where we had to wait 15-20m despite having reservations at 830pm and having arrived on time. People have gushed about the bar, but seriously, the room is a bit incongruous, the furniture mismatched, and the overall seating arrangement a bit weird. We ordered 2 martinez's (sp??)... however, which were truly excellently mixed. Chapeau to the bar tender.\nWe got seated, and I must say, the service for the most part was excellent. They moved us to a quiet corner, which, if you've been there, you know is difficult to achieve; the high ceilings reverberate, and the atmosphere gets pretty loud... which is great if you want to keep your conversations private.\nNow on with the food:\nFor appetisers, we shared the:\nGrilled Scottish king scallops with hot lentil chutney, smoked Devon crab puree (17£)\nHot yoghurt and chickpea soup with crisp pink aubergine steaks (£8)\nChar-grilled Welsh lamb fillet with nutmeg, sweetbread bhaji and caper kachumber (£10)\nEverything tasted delicious... except for the amount of money we were dishing out, I was expecting more bang for the buck, if you know what I mean. The scallops tasted amazing, but they were tiny! So great on the taste front, but really poor on the value for taste front. I know, I know, it's all about quality, not quantity... but I don't buy that BS. It's possible to have amazing quality with non military ration inspired amounts of food. This is just pure customer margin extraction.\nI had ordered a bottle of NZ Syrah... which was great... except 5 different waiters kept trying to pour my partner for the evening a glass of wine, despite numerous requests not to do so. I don't particularly like 'servititis', and the overzealous servers at the Club do have a little bit of that going on....\nThe mains were even better (and the portions reasonably more adequate):\nChargrilled Halibut with Kashmiri fennel and ginger sauce (£25)\nTandoor wild Spencer Gulf king prawns with Goan curry sauce, pandan, and coconut rice (£27.50)\nThe halibut tasted amazing, and the 4, let's say 'princely' rather than 'king' prawns were out of this world. But, I kept thinking back to my time living in Mumbai, where we would go to the ITC Hotel near the International Airport, and gorge ourselves on fat, juicy, tandoori tiger prawns for less than 10$. It made the 7£ per prawn slightly more expensive that I was happy with. Again, call me a miser... but I can't escape my internal benchmarks.\nFor dessert, we had the 'Lime Cheesecake' and the 'Pudding, Pecan Nuts with Garam Masala ice cream'.\nForget the cheesecake, it's a lump of 'crème fraiche' mixed through with some lime rind or something. Boring and uneventful.... the pudding however is to die for. The combination with the garam masala ice cream is out of this world, with the slight hint of heat from the masala accentuating the depth of the chocolate (kind of making it like an Indian version of mole sauce)... and the ice cream cooling stuff off. Nice combo. Worth coming back just for dessert next time (will help not to break the bank ;).\nAll in all, 200£ for 2 people. \nWas it worth it ? No.\nWould I do it again ? Only for dessert ;)\nWas the food good ? Yes\nCould I get as good quality somewhere else, minus some originality? Yes\nNow, don't let that detract you from seeing for yourself what the fuss is about.",
+                "datePublished": "2012-12-08"
+            },
+            {
+                "reviewId": "Q0e3MJo5L57uq-boq0Mkqw",
+                "author": "Vanessa G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If your looking for fancy swanky upscale delicious Indian fusion heaven you have come to the right place. Situated in the Old Westminster Library converted into a large open dining room, it has this classic air of English meets London. \nGiven a potato dumpling after ordering I knew we where in for a treat. The restaurant begin to fill up to capacity and the waiters who fix your napkin when you go to the bathroom no longer standing around trying to find something to do. I ordered the plantain kofta with beetroot chutney. Absolutely amazing. \nI am still full and it is the next day! I ended my meal with an over the top dark chocolate pudding served with masala ice cream which I could not finish but tried my best. \nThis place is a utter treat. The bar downstairs does 2 for 1 drinks between 4-7pm weeknights.",
+                "datePublished": "2012-06-12"
+            },
+            {
+                "reviewId": "WkK6sH1VdMG4J1RHRn0BvA",
+                "author": "Sarah O.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'm not huge on Indian food, but the ambiance and tastes in Cinnamon kitchen show why it's a top notch restaurant in London! We came for lunch, which was not crowded at all. We booked through toptable and got a deal that included a cocktail, quite naughty for lunch time during a work day!\nI won't repeat what everyone has said about the exceptional Westminster Library location and the great food (their flavoured mash is excellent!) but will say to be mindful of the price of their wines and sides as we nearly doubled our set menu price by having one glass of wine and one side each.",
+                "datePublished": "2013-01-03"
+            }
+        ]
+    },
+    "60": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "kguf5b8Oymw28q1oyaqOsQ",
+                "author": "Qype User\n anteen…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A fabulous meal in a lovely environment. We went relatively early at 6.30pm so very empty and placed in the corner but by 7.30pm it was packed.\nWe were given a free morsel a lovely potato ball deepfried.\nI had the scottish king scallops covered in baby squid stirfiry on a bed of spinach and cauliflower puree - amazing!!\nI then had the welsh saddle of lamb served with keema sag and finally a warm chocolate mousse with white chocolate icecream, followed by coffee which came with petite fours. I would love to go back and might try there special offers next time. I also had their zombie cocktail which contains absynthe which was quite refreshing",
+                "datePublished": "2011-05-17"
+            },
+            {
+                "reviewId": "yEL_pClKBCKhOnzCE73QFQ",
+                "author": "Meena L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A fabulous meal in a lovely environment. We went relatively early at 6.30pm so very empty and placed in the corner but by 7.30pm it was packed.\nWe were given a free morsel a lovely potato ball deepfried.\nI had the scottish king scallops covered in baby squid stirfiry on a bed of spinach and cauliflower puree - amazing!!\nI then had the welsh saddle of lamb served with keema sag and finally a warm chocolate mousse with white chocolate icecream, followed by coffee which came with petite fours. I would love to go back and might try there special offers next time. I also had their zombie cocktail which contains absynthe which was quite refreshing",
+                "datePublished": "2012-11-19"
+            },
+            {
+                "reviewId": "kplHpeKwkNktZp6olJB9OA",
+                "author": "Siobhan K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is an Indian restaurant with a British twist. The executive chef is Vivek Singh.\nThe building itself is pretty impressive - the old Westminister library so think lots of book shelves that I am sure can tell a few tales!\nThe crowd is a mix of casual/dressy/business and MP's - from the nearby Houses of Parliament.\nFood is very nice and original, think pigeon, quineoa, strawberries in your dinner all mixed with great Indian flavours and spices.\nIt can get a bit noisy due to the high ceilings.\nCocktails are fantastic. They have a lovely small library bar and then also a bar downstairs with Bollywood moives playing on the projector.\nRecommend.",
+                "datePublished": "2012-01-17"
+            },
+            {
+                "reviewId": "UE1Tla-qaXKGtp0B1pVgxg",
+                "author": "Julie D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Absolutely delicious! I am not a huge Indian food fan normally but this is an amazing place. The atmosphere is interesting in an old library and it is perfect for a large group - we had 12 people.",
+                "datePublished": "2012-09-29"
+            },
+            {
+                "reviewId": "o0-jVtwhKdUF6zBABA17yg",
+                "author": "Evelyn L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Really fantastic upmarket indian food, set in the Old Westminster Library. Totally wonderful and grand-feeling dining.\nWe took some friends from New York here for dinner, and all four of us loved the food. I think my favourite thing about the meal was the dessert, though! It was a really interesting combination of three different Indian-flavour-inspired things. Dessert is not a course I normally associate with Indian food, but my mind was changed after coming here.\nBasically, the standard of the food, quality of the service and all-round pleasant-ness of the experience is equal to the Cinnamon Club's prices. And that's always a good thing to find.",
+                "datePublished": "2012-05-17"
+            },
+            {
+                "reviewId": "15LRGZAN1FW4n29oYS8BzA",
+                "author": "Ann J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of my favorites. The atmosphere is very sophisticated but not stuffy. The wines are unique. The waitstaff is knowledgeable and friendly. I have enjoyed this restaurant on several occasions and never been served a bad meal. It is appropriate for small groups or on a special occasion. The bar is quaint and warm. Definitely must go!",
+                "datePublished": "2014-06-12"
+            },
+            {
+                "reviewId": "sJEZoOHMPQ7urDHC2w2t0A",
+                "author": "Andrew T.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good food but a bit pricey.  They take indian food from ethnic to upscale fairly well.  I enjoyed the club feel bar - nice for a low key drink before dinner.",
+                "datePublished": "2015-01-02"
+            },
+            {
+                "reviewId": "2riH4CdRtoHNmA5_gmMVXw",
+                "author": "Aaron A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Beautiful décor.  It is like an old library.  \nThe bar downstairs is very posh.\nThe service was meh.\nI got the prawns, which were amazing.  Suzanne got the halibut which was pretty good.\nIt ended up being close to $300 USD, so heads up!",
+                "datePublished": "2014-11-21"
+            },
+            {
+                "reviewId": "Dvi5Jdsq1ckVj98fUbPa1Q",
+                "author": "Katie W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'd start by saying that the food quality is absolutely superb, especially the king prawn dish and the black lentils. It's pretty pricey though and a little bit old school (it's not got the atmosphere of Dishoom) however it's great food, decent service and a lovely setting - arrive early and have a drink in the library bar!",
+                "datePublished": "2015-03-10"
+            },
+            {
+                "reviewId": "imrFdjnopCo_Z_TT8fBe3w",
+                "author": "Ben W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "There are times only a curry will do.\nThose times when you're hung over and you want to create a commotion in your mouth. To purge your body through fiery sweat of all the ills inside.\nTo comfort and sooth your aching bones with the magical lubricant that is ghee.\nTo gorge yourself silly with mad flavours and three too many side dishes. And poppadums.\nWarning. The Cinnamon Club isn't for those times.\nThere's no gorging here. No poppadums either. No flock wallpaper or piped music. No lurid picture of a waterfall where the water moves magically. The menus aren't laminated and the sauces aren't the colour of nuclear fusion. Personally I'm a sucker for all that stuff you get at your local curry house. \nBut I'm also a sucker for everything the Cinnamon Club has to offer.\nThe missus and I had been once before, about 10 years ago, and loved it. But we never find ourselves in Victoria much, hence the gap.\nWell, after a morning at Westminster Abbey, we thought it was time to go back, so we strolled down.\nFirst off, the building. A grand place. An old library with plenty of space, lots of crisp linen and sparkling glass. The welcome is warm but at the same time formal enough for you to know you're coming to dine, not gorge.\nNext the menu. A la cart dishes to make the mouth water and the eyes water too when you see the price. No vindaloo, no CTM (the most popular dish in the country so we're told). We plumped for the set lunch menu which had plenty of choice.\nTo start we had a mackerel fillet which had a beautifully balanced spice rub on it before being delicately steamed and fried (I think). Delicate flavours every one. Personally I prefer a well burnished skin on my mackerel but this would have defeated the point of the dish. It was accompanied by a mustard sauce which worked ever so well. It complimented the fish rather than overpowering it. The other starter was tender pieces of chicken, again beautifully spiced and served with a yoghurt that set if off well. It was close to tandoori chicken but simply more delicate in colour and flavour and cooking.\nMy main was a lamb curry (can't remember the exact description) which came as two pieces of lamb with a thick creamy red sauce around it. The sauce was soaked up by beautifully done rice. It was fantastic. The missus's main was two plaice fillets, again rubbed with a beautiful blend of spices, cooked to perfection. The salad it came with I didn't particularly care for, it was a runner bean and coconut thing. I'm just not a great fan of runner bean. It was expertly cooked and presented though. \nI can honestly say the plaice was sensational. So light and fluffy but with this pronounced spice which didn't mask the natural flavour of the fish. Memorable.\nNot that we needed a pudding afterwards but seeing as it was only £2 extra to have one, then why not?\nBasil Panna Cotta with a ginger and date crumble is what came out. Great texture, robust basil flavour, a hint of the east with the ginger. A lovely finish.\nThe thing about this place is that you eat an Indian here completely differently to how you eat one normally. we found ourselves savouring every mouthful, combining different flavours thoughtfully and really appreciating all that was happening on our excited tongues. Beautifully balanced is the best I can describe it. Thoughtful cooking which leads to thoughtful eating. Makes a change for a crammer like me.\nService was warm, friendly and helpful, especially with me enquiring after every dish EXACTLY what went into it. Surroundings ever so swish. Not the place for a proper rave up certainly. It's quite reserved and cool, but very relaxing and you really find yourself focussing on the food.\nAnd for £24 for three courses, well I think that's the best bargain I've come across in a long while. A lovely meal in every respect but mostly a real treat for the taste buds. A reminder if one was ever needed that Indian food is simply the king of all  cuisines. Je suis desole Frenchies.",
+                "datePublished": "2013-07-08"
+            },
+            {
+                "reviewId": "nDdf8IIn8wqms919J9oz7Q",
+                "author": "Spiros A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food, tremendous combination of different tastes on every dish we got! Service could have been better.",
+                "datePublished": "2014-11-25"
+            },
+            {
+                "reviewId": "3LXsjIf3t8LezzVDeL4Pbg",
+                "author": "Bill E.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place came highly recommended to us.  Now I know why!\nFirst, the location is beautiful, very close to westminster abbey\nThe library bar was one of the most subtle cool venues ever for a bar.  The drink menu has some very creative martinis.\nThe minute you walk in here, you've pretty much decided to splurge -- so we made it even more ridiculous by doing the 7 course fixed menu, since it had so many interesting items on it.\nThe food was exquisite!  Not exactly Indian, more Indian-inspired.  I don't think deer with curry is a common dish in India! :)  We struggled to keep up with all the wine that is paired with the meal.\nA word of caution -- at 250GBP for the meal (over 400 USD), this place is pricey!   But the amazing dining area, unique food, and the all-around experience made it worth it.",
+                "datePublished": "2009-07-22"
+            },
+            {
+                "reviewId": "CDVpLWWJGsIMm070z1DFUg",
+                "author": "Richard B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Probably the best example of how to handle a customer problem that I have ever come across. My wife and I went there a few weeks ago on a night when everything was going wrong for them, our main courses arrived before the starters, and naturally I was not happy; however, they got back to me and offered us a free meal on the house, which I was delighted to take up.\nWe have just enjoyed a wonderful meal, some of the best and most original Indian food that we have ever enjoyed - not your normal curries but something on a totally different level.\nIt is sophisticated and interesting food, perfectly cooked and served in a thoroughly professional manner. This place sets standards that few Indian restaurants could compete with, and we have eaten at Benares, Tamarind and Trishna, all of which have gained a Michelin star, I am amazed that Cinnamon Club doesn't have one.",
+                "datePublished": "2013-10-23"
+            },
+            {
+                "reviewId": "GysF_DLQHpb4oPUD4kTU1g",
+                "author": "Gene P.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Stood next to hotel concierge while he talked with Cinnamon Club and obtained confirmed reservations.  Later that evening, the restaurant called the concierge to state that they had no availability.  How can you confirm a reservation and then unconfirm it?  The restaurant manager had no explanation when asked.",
+                "datePublished": "2014-05-20"
+            },
+            {
+                "reviewId": "7be7rlAxh4U_lBc51E_O3A",
+                "author": "Grant T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I got an email about a special 5 course tasting menu with wine pairings that they were having.  My partner, being English, loves Indian food (especially curry), and I, having been to India, also love Indian food (perhaps more than English curry, but that can be our little secret).  We are also huge fans of wine, and we often find ourselves in a wine rut at home only purchasing the same wines over and over again.  Especially white wines.  Our white wine purchases are pretty much either New Zealand Sauvignon Blanc or the white wine from Chapel Down.  We're a bit more diverse in our red wine purchases, but living in California for ages, we're still developing our tastes for European wines.  For these two reasons, we jumped at the chance to have some Indian food with some European wines!\nWhen we got there, they were handing out either cinnamon bellinis or white port with tonic.  I definitely preferred the bellini, as tonic to me always makes me feel like I should be drinking gin, but since I wasn't, the taste just made it taste strange.  \nNeedless to say, we both had a great evening.  The wine was tasty, and there was plenty of it.  The food paired phenomenally with the wine.  My favorite course was probably the mutton.  It was quite smoky and delicious.  My partner liked the plaice with crab.  However, all the courses were great, including the chicken and the duck.  I really enjoyed the dessert as well, a chocolate tart with cumin. \nWe were both fairly plied with wine when we left, and we had a very enjoyable evening.  It's definitely on our list of places to go back to.  I enjoyed it so much that I kind of want the cookbook.",
+                "datePublished": "2011-04-15"
+            },
+            {
+                "reviewId": "lXZ4H-Y8CATA_V-bsXHAEw",
+                "author": "Peter B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A remarkable culinary journey that is unrivaled in Indian cuisine! Vivek Singh's remarkable interpretation of Indian cooking is presented with great flair at this Westminster converted library. The library bar is a quiet place to meet colleagues before retiring to the dining room for the grand meal. The downstairs bar has a little more energy for night life.\nThe dining room includes shelves of books denoting the building's prior life. Waiting service is extremely well appointed. Make sure to ask the sommelier for recommendations from the extensive wine list. Your wine and water glasses will never reach empty at the Cinnamon Club! \nBut enough about the atmosphere! The reason you go to CC is for the marvelous menu created by Executive Chef Vivek Singh. There was not a single dish among those I tasted from the 5 diners that I considered even mildly lacking in flavor. Dish after dish was replete with flavor and inspiration. If you have 3 hours to spare, I would recommend the 8 course tasting menu (with optional wine pairings). If not, then make sure to try one of the great appetizers, including: roasted plaice & crab, carpaccio of salmon, char-grilled Welsh lamb fillet and the tasting of Bombay street food.\nFor the entree, Singh's roast saddle of \"Oisin\" red deer is not to be missed! The hot & sweet prawns and the Hyderabadi lamb are also quite desirable. Order a side of garlic naan and masala mashed potatoes! \nFor dessert, the kulfi is my personal favorite but every dish I tasted was more than delicious!\nThis will always be a \"must-visit\" for me when in London. Well done Chef Singh!!!",
+                "datePublished": "2011-01-15"
+            },
+            {
+                "reviewId": "E3__ot53IeeAfpOGa8pJgw",
+                "author": "Marco C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's simply the best Indian restaurant in London. The environment is beautiful, service is impeccable , cuisine is excellent, cocktails from the bar are simply perfect. \nAs well as every beautiful thing even this one has its price. Booking is practically a must. The restaurant is set in the historic Grade II listed former Westminster Library. The food is the best Indian cuisine can provide in the world. Maybe that evening we may have overstepped with bread (as italians used) so as to spend about forty pounds just for that (about 12 Paratha). The elegant colonial atmosphere and great food make it a must, at least once in their lifetime. Dinner for three people, without wine, only sparkling water, over 300 pounds. But it was well worth it. I've been there for dinner, I hope one day to come back for other meals and to be able to taste it from breakfast to lunch, to dinner too. I strongly recommend it.",
+                "datePublished": "2012-12-09"
+            },
+            {
+                "reviewId": "f9AZBrDgOtEpL75yaVWnfg",
+                "author": "Katie W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The best posh indian food i've tasted.....but be warned, the heat is as high as the price.  \nWent here for a friends birthday who has nuclear taste buds and she had what was called the bollywood burner - we understand now that its no longer the hotest dish in the world....think it maybe around number 3 now (well thats what the tall dark and handsome guy said that offered to get me a chiili to try - maybe his plan was to try and cause me a heartatack then save my life than I would give an even bigger tip!!!).  Anyhows, friend did actualy sign the contract to eat this meal and she did find it too hot, but to everyones dissapointment working there who kept checking on us she didnt break into a sweat, although I must say they were never intrusive and i enjoy my glass being topped up every time i take a sip\nWine list is fair, but don't expect many bottles to be under the 50 quid mark, actually probably more 100.  The non nuclear food is just as good and has an extremly tasteful zing to it\nIts a posh place without the pretendance....everyone working there is attentive, but not intrusive, I would say that its posh but not old school posh and all are welcome, although you would fit in better if you wore a suit and your more 40 upwards (even in the funky looking downstairs bar)...basically for established people that can easily spend a couple hundread on dinner\nTo sum up;\nThe food was great, people working there really attentive and know how to provide a service.  The only down side (well apart from the fact someone else wasnt paying for me) was the wait for the wine...which we werre later infomed that they had to go to the cellar to fetch, which nearly caused me a mini heart attack as i thought I might have missed a 0 of the price tag\nwell worth a visit, although unfortunately for us non westminster suit types its going to have to be a special occassion",
+                "datePublished": "2011-04-02"
+            },
+            {
+                "reviewId": "v4X8RXLrPBQWkqPfyuVi7g",
+                "author": "Nathan L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'd been told great things about this restaurant so I was expecting a lot. I went here with my partner, my mum and sister and my cousin who's like a brother, so the food needed to match the company. We ordered starters naturally. I went for the vegetarian route and had tandoori broccoli. The main was a chicken curry of sorts. Both were excellent. Where everything excelled was in the quality of the side dishes. Every one of them so delicious I could have had them as mains. I didn't have one mouthful that I didn't like throughout the whole meal. Even the naan bread was amazing. For dessert I had the Indian equivalent of a creme anglaise tart, and wow was it good. I almost ejaculated whilst eating it. The bill was expectedly eye watering and it's definitely a place for extra special occasions, unless of course you're Tamara Ecclestone.",
+                "datePublished": "2013-03-25"
+            },
+            {
+                "reviewId": "HaAMpAdPOaeBAX8KwdaylA",
+                "author": "toussaint d.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Before you go here phone the bank manager and ask for his permission. Also let him know that your card hasn't been cloned or borrowed in answer to that recurring shonky email request. \nPut simply, Cinnamon Club is for high rollers, wannabe ballers and shot callers.\nI remember the first time i ever came here: it was like foreplay for the tongue. \nI've 'done' lunch here a few times over the years, sometimes on the largesse of others at on occasion by myself and what can i say?\nEvery time I go here the taste of the food refuses to budge from my palette for days. It's like being upgraded to First Class on a plane. You know, you go left instead of right and you start your trip off with a bang.  Every other flight experience thereafter is a pale imitation.\n \nSprinkle in a few celebs and politicians - if you like that sort of thing - and you'll be in the zeitgeist. Let's put it this way, if you think you're sitting next to someone famous then you probably are. It's that kind of place.\nThe sumptuous ambience takes civility up a notch. Concierge service at the front door, makes you feel like a true VIP the moment you breach the threshold. Then again, maybe they just liked my tailored suit. Sit down, ruffle an eyebrow and you'll have service before the word forms on your lips. Very attentive, very cute. \nBut what of the food?\nIt ain't cheap, but then again given its location, did you really expect that to be the case?\nIf your bank manager will let you, depart from the set menu. \nTry to explain to him how good the food is. Though it'll be like trying to describe colour to a blind man, it's worth the effort but ultimately futile.\nAt first glance the food doesn't look like much - shrimp on a stick, small pieces of weirdly shaped meat etc - and in truth the portions appear stingy but here, the ethos is clearly less is more. In their defence, i guess it's all about the ever-changing menu.\nThis is a definite once a year treat for restricted budgets or if you're a bonus heavy banker-type: a light, regular snack. Still if you want to live like there's no tomorrow go ahead and throw financial caution to your stomach. The experience promises not to disappoint. Just don't expect to come away to come away any wealthier or less hungry than when you stepped in.\nI won't even get you started on the wine list as it'll add a minimum of 20% to your bill by my calculations...",
+                "datePublished": "2010-11-12"
+            }
+        ]
+    },
+    "80": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "Iy6RpIRQVslXxC_WcyR-Lg",
+                "author": "Wendy C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Indian-influenced fine dining in Old Westminster Library, Intriguing enough! \nA large business group looking for a nice place to eat, some of us wanted Indian food, others don't really eat Indian food, so this place seemed to be a very happy compromise -- haute cuisine with a hint of Indian flavour, exquisite presentation, and gracious service. Not to mention the uniquely interesting location and interior decoration that other Yelpers have already commented on. \nThe food is quite tasty, albeit not authentic (the restaurant website uses the description \"Beyond Authentic\"). Amongst the dishes enjoyed by our group, there were tandoori breast of Anjou squab pigeon, skate wing, sea bass in goan curry sauce, Hyderabadi style lamb. The menu is not extensive but it changes frequently, if not daily, so the desired outcome is that you will always find something interesting enough to try. \nThe price is quite reasonable for this type of establishment and in this area of London, especially if you can get there during the time that set menu is being offered (2 courses for £19 or 3 courses for £22). \nAll in all, a nice place to go to for its location/ambience/service and Indian-influenced fine dining. Obviously don't go there if you are looking for hardcore authentic Indian food.",
+                "datePublished": "2010-08-06"
+            },
+            {
+                "reviewId": "quDSptYOSs56w8lw-uoaew",
+                "author": "Sheila P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I had wanted to try this place for awhile - Indian fine dining in a British Library! C'mon it's appealing and intriguing. So I lucked out when I was invited to a Private Dining event at this restaurant by a friend.\nThis is a special occasion type of place, not your casual average curry house! Don't go here expecting chicken tikka masala, Balti or Pillau - this is Indian Fusion at its best!\nThe room looked beautiful, the service was friendly but unobtrusive and the food was excellent. The interior is elegant, warm and Old-world chic.\nI enjoyed a good meal, however did find it a bit overpriced -good thing I didn't have to pay for it.\nEdit: If you are feeling adventurous try the deer, rabbit or pheasant. Othwise the chicken, prawns and Wagyu Beef are pretty good!",
+                "datePublished": "2010-02-08"
+            },
+            {
+                "reviewId": "FxIcF3hp6wQM0Cr_zZZC3g",
+                "author": "Maggie S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I usually avoid high end Indian restaurants (preferring more ordinary fare), but this was an exception.   Tasting menu and premium wine pairing.   All of the dishes were excellent, with sea bass being a narrow winner. Wines were also excellent, albeit somewhat obscure.  Nice room with no bad tables.  No missteps.",
+                "datePublished": "2013-09-30"
+            },
+            {
+                "reviewId": "W_Ticm3s5brj-_UO6oPLWw",
+                "author": "Eliza F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "My friend was sad. I decided to take her out to dinner to cheer her up. Problem was, I was also broke. But no matter - there was a great deal at Pizza Express. \nUnfortunately, my friend (of expensive taste and one never to miss out on an opportunity for free food) had already booked us into the Cinnamon Club. 'Don't worry,' she said, 'I've got a TopTable special!'. \nIn order to qualify for this (2 courses with Bellini for £19 or 3 courses for £22) we had to be seated by 6.30. As I don't finish work until 6pm in North London, I duly arrived at 6.40, a giant ball of sweatiness and immediately felt intimidated by my 'rah' surroundings. It didn't help that as I sat down with my friend her first words were 'Ha! you look like a nurse.'\n*yay*\nThe surroundings are beautiful - wood-panelled walls, a balcony dining area and crisp white table cloths. And quiet... Admittedly it was fairly early and therefore not too busy but you did feel awkward speaking at anything above a hushed whisper. \nAnyway, onto the important bit - the food! The Set Menu was limited - 3 choices for Starter, 3 for Main and 3 for pud. And it was a different Set Menu on their website from which I'd dribbled over earlier that day. I ordered the Grilled Plaice and Lamb Chops. Grilled Plaice was delicious, definitely more so than my friend's 'M&S' style tandoori chicken chunks. The Lamb chop was good although the portion was decidedly too little! My friend had the mullet which looked and tasted divine. The Bellini was most exquisite - it tasted of spice and exoticness.  I could have easily made my way through a pitcher. \nMy only alarming moment was when the waiter snuck up on me until his face was pretty much 3 inches from mine and asked 'DESSERT?'. I almost punched him. \nAll in all, the food was pretty tasty if a little on the small side, the atmosphere was rather hushed, and it was pretty expensive, even with our TopTable offer. An additional glass of wine and side dish bumped up our bill by £20. I'd go again, just as long as someone else was paying! For me, it's def a special occasion visit.",
+                "datePublished": "2010-06-16"
+            },
+            {
+                "reviewId": "aBWhn-mIQduXeEWyl3mt4Q",
+                "author": "David J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Hmmm...\n My experience of the Cinnamon Club is rather different from most of those here, so I'll get straight to the point!\n The interior is indeed impressive, having once been a library, this two-storey room does provide a unique ambience.\n The food is Anglo-Indian in true fusion style, and there's no doubt that you can get some rich and unique flavours. Whether you actually like something like Massala Mash will be up to you - expect the innovative rather than classic Indian cooking. Personally, I find the offerings a bit hit and miss, and the vegetarian selection disappointing for an Indian restaurant. Some dishes really are very good, but others rather less so. The wine list is very good indeed, at a price.\n The price: I've not tried the £22 early-bird menu, which sounds like a very good deal, and probably the best way to sample the food. If you go a la carte, expect to pay £60 a head or more - plus service. Go for an above-average bottle of wine and I'd budget on £75 a head.\n And that is my main gripe. For this amount of money, I have not been impressed with the quality of service. On my last visit, my starter arrived before I had finished my (actually rather nice) 'free' appetiser, which was unceremoniously whisked away before I had finished it, and without being asked. I found this absolutely astonishing. And the waiters seemed a little sniffy throughout - again not what I expect for this amount of money (or for any amount of money, actually).\n So, good marks for the food and surroundings, but three overall taking into account value for money and service.",
+                "datePublished": "2008-01-10"
+            },
+            {
+                "reviewId": "IILba4yOXDFNobdSy9d1ng",
+                "author": "Donna S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "preparation//\nmy friend and i decided to check out this restaurant because of its honorable mention in my 1001 destinations book\ntucked away in an alley...almost like an exclusive member's only entrance\nso if it's your first time, be sure you have a smartphone so you can find this place easily\nmy friend and i walked in without a reservation and were seated immediately! yay!\nambiance//*****\nwow how luxurious!  from the members' only entrance to the foyer and then into the dining area\nthere's a sort of quiet elegance to the place...*think* lawry's where you're surrounded by other tables, yet given privacy to engage in your own conversation\nservice//****\nwe were seated immediately after a long day of running around and catching a musical so this was a welcome end\nwe had a fairly attentive server that made recommendations and periodically checked with us on the refill of our drinks\nfood//**\nthey had interesting fusion dishes\ni'm not sure if it was because of the overwhelmingly high expectations for yummy indian food, but i've had equally good indian cuisine in asia for a much more affordable price especially when the portions are considered\n~*~\nas far as upscale indian dining experiences go, this is probably as good as it gets! however, as a foodie, and price vs. taste...i'd consider this a bit out of a splurge!",
+                "datePublished": "2012-05-29"
+            },
+            {
+                "reviewId": "6qYTrAp_EWDGEQdvWfmcyQ",
+                "author": "Agi K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "WHITE PLATE FOOD!!! The taste of the food was great - so no problem there but it was pricey though...and I left hungry.\nI am not a stranger to fine dining (and before you ask nooooo I don't have a chip on my shoulder) but the atmosphere was far too quiet and ultimately I could not shake the feeling that this place too stuffy for its own good.  Sorry guys it just didn't work for me.\nEveryone else seemed to like it though....so maybe I was having a bad day...or maybe I wasn't...",
+                "datePublished": "2010-02-28"
+            },
+            {
+                "reviewId": "gju0gXZymUzVkE2wyd4mIw",
+                "author": "Cristian P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Beautiful setting, delicate and non-mainstream Indian menu, attentive service - at a price.",
+                "datePublished": "2011-11-12"
+            },
+            {
+                "reviewId": "XO86mYhrc5fRjUlIFJrzfg",
+                "author": "Kirk F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "First, you need to know that this is one of the stupid-expensive London places.  Dinner for two is going to get you over 200--maybe well over depending on what you do about drinks and wine and tasting menus and such--without trying very hard.  So be warned!\nBut...I never regret the price afterwards.  (Well, maybe for a moment when the credit card bill comes.)  Cinnamon Club is fab and is worth the splurge.\nThe room is elegant (and the downstairs bar very swanky).  There tend to be a lot of well-dressed, moneyed folks around, from business people out spending their firms' dough (that still happens even in 2009!), to the older guy impressing the youngish girl, to the couple on the splurge, to the hens dumping their husbands for the night (you'll get the bill later, honey).  A few underdressed people stand out, and not in a good way...\nThe food is good and interesting.  Graduate school from the typical curry shop, this is elegant cuisine.  This visit I had a rabbit appetizer that was the perfect amount of spicy--my mouth tingled but was not lit up so much I couldn't taste beyond the heat.  All sorts of interesting depths of flavors.  My main course was venison in pickling herbs that was masterful (it was a cold, wet, wintery London night and game sounded great to me).  Everything went well with a bottle of New Zealand Pinot Noir (great wine list too).\nThen a walk back to the hotel passing by Westminster Abbey and Big Ben at night, a great way to end the evening.\nCinnamon Club is worth budgeting for, seriously!",
+                "datePublished": "2009-11-14"
+            },
+            {
+                "reviewId": "whbs_ptsroXw8wwSsyhvTA",
+                "author": "Sunil G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went there for a lunch on a Saturday. The restaurant was very quiet.\nService was fine without being exceptional, no complaints, job was done.\nFood was magnificent. I wasn't expecting amazing rich flavour at indian haute cuisine but there was never any taste lacking in any of the dishes on the tasting menu. I highly recommend getting that as it was a great experience.\nFor indian fine dining one cannot go wrong here but if you want your quick chicken tikka masala then this is not the place.",
+                "datePublished": "2010-08-16"
+            },
+            {
+                "reviewId": "JVTOvA1G91GtapOsNVX1bQ",
+                "author": "Stacy W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Loved this place...Excellent cocktails, great appetizers and amazing entrees.  This is truly a modern take on high level Indian cuisine.  Our waitress was a \"Low Talker\" and easily derailed BUT pleasant.",
+                "datePublished": "2012-06-01"
+            },
+            {
+                "reviewId": "msguL2APIQCvZbAQOjYKIA",
+                "author": "Qype User\n Caitli…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great food at reasonable prices. I have tried many items from the menu and I can guarantee that everything is amazing and freshly prepared. The online booking is a really nice option and I always get my table without waiting too long.",
+                "datePublished": "2013-04-04"
+            },
+            {
+                "reviewId": "USmKchqOFWZATOmsKTW96w",
+                "author": "Robyn R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Quite swish and a great clientele.  Portions are a little small for my liking but this can be a see and be seen kind of place.  Excellent wine with fantastic service.",
+                "datePublished": "2012-12-01"
+            },
+            {
+                "reviewId": "GrvYSnUJGjGrrrod5nWfmQ",
+                "author": "Thomas W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I have been meaning to go here for ages but it has always been one of those restaurants that I didn't want to pay for myself. \nI finally had an excuse to go during London Restaurant Week (which peversely lasts for two weeks) as they offered a set menu.  I enjoyed the meal enough that I plan to go to the Cinnamon Kitchen in the City sometime soon.\nThe building is a beautiful old converted public library which has a great leather bound bar and good dining room on the ground floor. The bar in the basement is a definite miss and is more suited to Tooting or Norbury than Westminster.\nThe food was better than I was expecting. The salmon starter was excellent. The duck main was enjoyable and the pudding was good (especially for an Indian restaurant where it is not exactly a forte of the cuisine).\nAs everyone says it is Westminster politico heavy but it makes interesting people watching.",
+                "datePublished": "2009-03-24"
+            },
+            {
+                "reviewId": "Et2NAcVZtjih8AVDjq1raA",
+                "author": "T E.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "For celebrity-spotting you go to Nobu, but for politician-spotting you go to the Cinnamon Club - Westminster's top-choice for power lunches and after-debate drinks. I GUARANTEE you that if you get lunch here mid-week you'll see at least one cabinet minister. After all, Cinnamon Club is sandwiched between ministries and it's much more patriotic to be seen eating Indian food than French or Japanese. Such is our perverted world.\nYou dine in a beautiful old hall lined two-floors high with books on all walls. The lighting is good and it's real excellent white tablecloth service through and through (as you'd expect from the high prices). It's worth also visiting the dungeon-like basement which has a small but stylish cocktail lounge. \nSo far, so good. But what of the food? Almost a decade ago Michelin made it the world's first Indian starred restaurant and Gordon Ramsay isn't shy at telling everyone how much he loves the cuisine here, but I found it underwhelming. My lamb dish lacked the sucker-punch I expected of sub-continent cooking and the mouthfuls I filched from my lunchmates solidified my thoughts... if you come in here thinking of the rich flavours and tastes of Indian food you'll only be disappointed, if you come in here having spent the last month dining on the bland subtleties of French food you'll love it.",
+                "datePublished": "2009-01-14"
+            },
+            {
+                "reviewId": "SK9BDvmtuKz4iB0FXec5Wg",
+                "author": "Ramsey J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'd have to go back and try the menu a la carte, but the tasting menu was decent if uninspiring. \nThe salmon tandoori, beetroot and plantain thingy, stir fry of shrimp, and breast of squab (the first 4 of 8 dishes) were very tasty, but the remaining dishes were fairy non-descript. I was particularly looking forward to the venison but the flavor of the meat was completely disguised by the strength of the accompanying curry (which was delicious by itself but I wanna taste deer!).\nThe service gets a star, they waiters were superlative, but the food gets an unenthusiastic thumbs up, at least until I can go back and try the rabbit tikka and some of the other a la carte dishes.",
+                "datePublished": "2009-02-22"
+            },
+            {
+                "reviewId": "xt5MR7BNTgs8OMe_Wo1-2A",
+                "author": "Chris O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What can I say that hasn't already been said in all the thorough reviews before mine? Well ... how about this? The morning menu here is on par with sister restaurant, Cinnamon Kitchen (\nlondonist.com/2009/07/re…\n) . The uttapam (south Indian rice pancake with onions, green chilli tomato and peppers served with coconut chutney and lentil broth) is an especially delicious way to spend £8. The flavourful and spicy Bombay scrabbled eggs are pretty rockin' too. \nGorgeous setting for a gorgeous menu.",
+                "datePublished": "2009-12-05"
+            },
+            {
+                "reviewId": "DE05NrkIddMg9wh1OB2lVQ",
+                "author": "Bill G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "You've got to try this place just for the decor. An old library put to excellent use. If you have the cash in the bank you should\nTry the food too",
+                "datePublished": "2012-04-23"
+            },
+            {
+                "reviewId": "E9siZ1fZZi7ZLvc0Zjl5XQ",
+                "author": "Amy A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "what a find!  we rarely venture into that area and wouldn't have found it without a friend's introduction.  reservations are a must and days in advance as i'm told that politicians and diplomats fancy the restaurant due to location.\nambiance is wonderful with the warm lights and books.  the menu was creative but kept depth in flavor.  i'm not sure what kind of peppers or chilis they use but i found it remarkable how the spicy-hottness intensified.\nservice was ok...we've had better at that calibar of a restaurant but it'll be the food that keeps me going back.  we've had \"posh Indian food\" before but this converted library is definitely noteworthy.",
+                "datePublished": "2011-05-31"
+            },
+            {
+                "reviewId": "u7hjPK-XfUirTW9Fl4JRKw",
+                "author": "Qype User\n Panfac…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My husband and I were lucky emough to visit this restaurant yesterday for a meal. It was a great experience although I wouldn't say the food matched the huge price tags! We started with (me) Breast of Partridge in pickling spices it was a little over cooked and tough to eat but still a wonderful taste to it and gorgeously presented. Husband had the plaice fillets with spiced crab which he really enjoyed. For main course I had the sea bass with chickpeas and green mango, wouldn't go mad about it but it was again beautifully presented. Husband had the saddle of deer in sesame and Tamarind sauce a little tough in parts but he thoroughly enjoyed it and the little bit I forced him to let me try was really tasty lol. The desserts were AMAZING!! I had the warm chocolate mousse with white chocolate icecream.. perfect and a chocoholics dream! My husband had the lemon tart with iced lemon cream and loved every mouthful! We were brought a THIRD dessert as a treat for our anniversary to share complements of the restaurant.. it was some kind of kittle sponge with a toffee type sauce and cinnamon ice cream.. very yummy AND a thin slab of dark chocolate with 'Happy Anniversary' piped on to it.. a really lovely touch and welcome suprise! \nThe service was fantastic, every member of staff so friendly and helpful without being intrusive. The surroundings are beautiful, it's an amazing old building. A lovely place to go (if you can afford it!) for a special treat.",
+                "datePublished": "2011-12-06"
+            }
+        ]
+    },
+    "100": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "3LGLF9Mx9iOYmx9T8lYRMQ",
+                "author": "Qype User\n ljric…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Thoroughly delicious refined modern indian food. Great value if you manage to pick up some of the special offers on the net, although it's still a bit dear for a weekly outing.\nEating in a beautiful wood-lined library is a lovely twist. Don't be fooled by the very proper-looking interior, the staff are absolutely fantastic  friendly and with just the right amount of service. It's not far from the Houses of Parliament, which is why I thought it was a great place to bring someone who's over in London on their travels. That's what I did, and my friend was chuffed to see Big Ben at night after our sumptuous shared banquet.\nMy recommendation would be the mystifyingly spicy plaintain dumplings with beetroot chutney. The bread basket is also pretty sensational. Only reason this place doesn't get 5 stars is that the desserts aren't in the same level as the frankly knockout modern indian cuisine.\nDinner: around £32 per head for 3 courses (with special offers)\nWould suit: small groups, couples, foodies with an eye for ambience",
+                "datePublished": "2011-07-22"
+            },
+            {
+                "reviewId": "Hm3ljB2vLsazC5KXRFKlkQ",
+                "author": "Brian S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The Cinnamon Club was fantastic, it was one of the most interesting and well done meals I've had in a very long time. \nI would say that Indian inspired is a good term for the cuisine, it's not standard Indian food by any means. \nEverything we had was perfectly cooked and the sauces they made had incredibly depth and flavor. The yellow curry I had with halibut was unbelievably rich and complex. Still thinking about it. \nThe desserts were especially fun as well. Very unique spices and flavors. \nDefinitely recommend this to anyone who wants to have a fantastic dinner in London (and has some coin to spend).",
+                "datePublished": "2011-07-20"
+            },
+            {
+                "reviewId": "DaFfhZof8dyc7aDyWLFUcQ",
+                "author": "Kelly W.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I've never been called to action to post before, but I was so taken aback by tonight's dinner that I must. I have never been treated so poorly and and with Such such disrespect! I went with friends to the cinnamon club for a fun evening away. As a host I was hoping to treat my company to a great dinner. I left midway through the meal to meet with the manager to speak about paying for the dinner as a good host. I was told that there was a man in my company and he was the host and he would make the decision! I try to explain that I was the host, and that I would be paying for it and do not want my my guess to see me pay for it. He abruptly turned away and walked away. I have never ever ever been so disrespected in my life. I truly feel that this was a slight and as later proves he walks the bill personally over to the only man in our group and placed it in his hands. I was so embarrassed as the man we were with then felt he must pay for everyone. It was truly an embarrassment and I am ashamed. I will never go here again.",
+                "datePublished": "2014-11-15"
+            },
+            {
+                "reviewId": "JwKeijw14ho5Vp15V3tL-Q",
+                "author": "Michael C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fixed priced lunch was a little expensive, 22 £, but excellent. The room is abuzz with business and government types, white table cloth, excellent service.",
+                "datePublished": "2011-08-19"
+            },
+            {
+                "reviewId": "gI07Cuy4-o0PagKHw80vFA",
+                "author": "Punam D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here Saturday night. Really lovely building - the old Westminster Library, and yet it manages to convey a feel of being light, airy and elegant. The menu is fine for omnivores, but is definitely sparse when it comes to vegetarians. The waiter suggested a main dish for one of our party which was off-menu, and it was insubstantial and very disappointing. In the end both vegetarians in our group had the set menu which comprised a 'Bengali vegetable chop' (very good) and 'Assamese vegetable dumplings' (delicious). The fried courgette flower was also pronounced to be impressive. The meat eaters enjoyed the grilled scallops and crab paste starter which was excellent, and the Tandoori Gulf king prawns were highly praised. I had the Calfreal black leg chicken which was really very good. What I liked most about the food here was not only its consistency across the board (except the off menu dish), but also the subtlety of the flavours. Very few elements were very spicy (and as an Indian I tend to put chilli on everything), and this feast taught me just how clever and creative a chef could be with spices. Loved it. One of the best Indian meals ever and I shall return.",
+                "datePublished": "2013-04-09"
+            },
+            {
+                "reviewId": "4Nhe3D8XFlzR-fauqxYD1g",
+                "author": "Qype User\n mattni…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Indian cuisine at its best.Friendly staff, knowledgeable and helpful but not overbearing.I haven't had many chances to taste Indian food before, so thought I'll give it a go in a restaurant that was recommended by a friend, it was lovely, an experience that I will repeat soon!",
+                "datePublished": "2012-01-13"
+            },
+            {
+                "reviewId": "Qkw1pVCrEM1KHNGEBTmPOQ",
+                "author": "Qype User\n lornyg…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "had a 3 course meal which was beautifully presented and tasted wonderful the staff was always come to make sure you were enjoying your meal. although it is pricey I would love to go again",
+                "datePublished": "2011-06-29"
+            },
+            {
+                "reviewId": "k32QxZMakMvfurZ64Ur8eQ",
+                "author": "Louise W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "If there are generally acknowledged to be two kinds of cinnamon -- the legitimate kind, cinnamomum verum, and its poor relative, 'bastard' cassia from Saigon -- then this must surely be a third: cinnamomum colonium, the rich affable uncle dispensing fat cigars and expensively-wrappered bonbons from Bombay. The Cinnamon Club -- whose proximity to the House of Commons makes it a favourite haunt of power-victualling MPs (we spotted a few ourselves, mostly of the affable uncle variety; those aspiring politicians of a lean and hungry look being, we surmised, still in the office) -- is wood-panelled, high-ceilinged, leather-seated and altogether distinctly colonial in ambience. Indeed, the Club's chic new City-branch sister restaurant, Cinnamon Kitchen, has taken up residence - appropriately or inappropriately, depending which way you look at it - in the old spice warehouses of the East India Company. As political correctness goes, the Old Westminster Library -- since 2001 the setting for restaurateur Iqbal Wahhab's original vision of Indian fine dining -- seems positively tame by comparison.\nIf the Cinnamon Club courts the colonial aesthetic, its chef takes up the cudgels against an equally familiar Anglo-Indian institution: the curry-house. Ringing the changes on the apocryphal origins of chicken tikka masala -- one man and a can of tomato soup. Don't ask. -- Indian cuisine is alchemized (or, as detractors will have it, \"Frenchified\") in Vivek Singh's kitchen by the use of haute cuisine cooking techniques. Leaving aside the slightly dubious semantics of Singh's claim for a menu \"beyond authenticity,\" the point is: it works. As I hope to show. \nOnce seated, watered, and titillated by the chef's amuse-gueule, a Lilliputian basket of gorgeously spicy tamarind in a polenta shell (solid enough, gratifyingly, to eat rather than to inhale), we ordered the roast saddle of 'Oisin' red deer, mouth-wateringly tender and seared to ruby in the French manner for an eye-watering £32. (Yes, it was worth it.). Having skipped a starter, we over-compensated on side-dishes. The masala mashed potatoes (£3) were coarsely mashed, Indian-style, and would have tasted far nicer had I known that while eating them (note to palate: for \"lumpy\", read \"authentic\"). Meanwhile, the mushroom and spinach stir-fry (£5) was heaven in a few fleshy mouthfuls, belying its rather pedestrian description with funghi so lusty in flavour as to make even the laying on of spinach-strands feel one indulgence too far. As for the selection of breads (£6): suffice it to say that if roti, paratha and naan sound like characters from an Indian fairy-tale, show me the multi-grained, organic fairy-tale hot from the griddle and stuffed with delicately saffroned potato chunks -- and I just might credit the analogy. \nOur waiters -- flawless throughout -- having tactfully decamped while we digested the hefty bill (I blame  the red deer), we had ample time to up-end our wine bottle (a two-year old Chilean pinot noir, excellent value at £34) and, finding it obdurately empty, to talk ourselves into a cocktail in one of the Club's two award-winning lounge bars. My vote was for the Library Bar, the literature scholar in me having found something naggingly ignoble in the supplanting of Westminster's shrine of learning by Westminster's best restaurant. (I sense objections. Yes, I /did/ just compare a fairy-tale with a hot chapatti, and find the fairy-tale wanting. But I didn't mean it.) Disappointingly few tomes remain in the main restaurant space, most relegated to the upper gallery or to the bar in the former Reading Room -- pure 'Club', not a whiff of cinnamon -- which, on peering in after dinner, was as empty as our bottle of pinot noir. It would, of course, be unfair to attribute the apparent unpopularity of the Library Bar to the quality of its reading material on the grounds of just one observed title (which, for reasons of copyright, and a bad memory, I paraphrase as \"A Compendious History of Coal-Mining\".)\nThe Club's ultra-modern second bar (downstairs) had fared better, racking up an impressively non-zero clientele of mainly (we thought) pre-dinner drinkers. The not-especially-welcome presence of a large, sports-broadcasting projection screen (the bar moonlights as a bijou Bollywood movie theatre; unfortunately, this wasn't one of those nights) was more than compensated for by the exuberant Asian-inspired cocktail menu. 'Fool's Gold', among the Club's signature cocktails, and chosen for the sheer hedonism of its ingredients (I'm a sucker for edible gold leaf) offers, in fact, much more than novelty value and cute gold twinkles. A faintly glowing ochre in hue, it's complex and saffron-smooth, with a trace of cardamom that delivers -- thankfully -- less a kick than a discreet tap on the shoulder from a Westminster aide. \nAnd not an \"Illustrated Chronicle of the Coal Trade\" in sight.",
+                "datePublished": "2010-03-10"
+            },
+            {
+                "reviewId": "KhRRoWbBDn6DaEnrSnOUVA",
+                "author": "Qype User\n sapoco…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Blackened chicken starter was excellent. The lamb was cooked to perfection and the service was very good. Would definately recommend",
+                "datePublished": "2011-11-15"
+            },
+            {
+                "reviewId": "hwmn3qZgv2AS4S6MSIUuXw",
+                "author": "Tony J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Beautiful restaurant, great service, FANTASTIC food and stoking wine list.  Heaven.",
+                "datePublished": "2012-06-14"
+            },
+            {
+                "reviewId": "PeE9EoVVZf0Tukl4fn5AzQ",
+                "author": "Qype User\n MarkDa…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Didn't quite live up to my expectations",
+                "datePublished": "2011-09-08"
+            },
+            {
+                "reviewId": "hhnBQ6-4r_e8SLQsA-xXdQ",
+                "author": "Mark K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Recently had the tasting menu - was a great way to enjoy a variety of their dishes with great wine pairings.  Really enjoyed the calamari rings added to the scallop dish.  Minced pigeon was excellent.  Deer was perfectly cooked and the tandoori salmon was amazing.",
+                "datePublished": "2011-01-29"
+            },
+            {
+                "reviewId": "pGrL70d-NlXbX2n4NK6ERw",
+                "author": "Qype User\n greenm…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This really is a top place, be sure to go in the bar first but you can't order your food in the bar!!\nThe flavours of the food are superb , different spices coming at you in succession, difficult to describe well enough.\nI've been a few times and nearly always the food is great.. try the Game Platter!!\nOn the downside the staff are proficient, but don't seem to do 'friendly'... it seems to be dliberate.\nReckon on £50 t0 £70 each for dinner and wine.",
+                "datePublished": "2008-04-08"
+            },
+            {
+                "reviewId": "d6M3jX_SSEWi1JcvJmlLLA",
+                "author": "Yvonne S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "went to the Cinnamon Club on Saturday, and what a perfect spot to enjoy a special occassion. \ni'm just starting to appreciate Indian cuisine and this restaurant is the place to go to if you are in those same shoes. the food is flavorful, not drenched or overwhelmed by sauce and spice and heat. i had the seared chicken and while it was good, i think i liked my husband's pork loin better. i loved the sides we chose, my favorite being the spinach and mushroom stir-fry. i ended the meal with the pumpkin tart served with homemade clove ice cream - yum! \nthe wait staff was so attentive, specifically making sure that i knew all of the ingredients and cooking temperatures to the items i chose - guess the black dress i wore no longer hides the pregnant belly i've got! they also brought me pillows for extra back support, so thoughtful.\nonly bummer was that there was a private party going on in the swanky lounge downstairs, so we couldn't retire there for a drink and further ambience after our meal.",
+                "datePublished": "2009-10-12"
+            },
+            {
+                "reviewId": "pQv6aCRZj7tx-WpkX-T0EA",
+                "author": "Qype User\n cah19…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was slightly apprehensive about this place. If you are a curry purest, then this place may offend. See the Cinnamon Club as an experiment in fine dining in the style of the Indian Sub-continent.\n Ambiance is first class, which isn't always easy to achieve with large spaces like this old library the restaurant now occupies. Ask to sit on the bench seating along the back for a kingly view of the whole dining area - great for people watching.\n Yes it is expensive - both times I've been there the bill has come to £84 for three courses including wine & coffee. They do a special set menu for £22, but you have to order before 7:30 or after 9:30 - an absolute bargain in my honest opinion!\n Can't fault the food or service. Some of the waiters try a little too hard, and would benefit from being more relaxed, but I've never had to wait long for anything. If you come here on your own, you're offered a newspaper to read while you wait!\n The staff, while initially seeming a little dry are very friendly once you get to know them. I've been twice last week and I'll definitely go back - this will probably become my favourite haunt while I'm working in Westminster.\n Cool little bar downstairs which would be great for a Qype party. AHunter are you reading this?",
+                "datePublished": "2008-06-28"
+            },
+            {
+                "reviewId": "YUL9uXeGzRLge6Ld0UPRUw",
+                "author": "Stefan R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "When we stayed in London for a week last time, my fiancée and me lived on indian food basically for the whole time. Almost made it, and with highly diverse results.\n We went to Cinnamon Club upon recommendation by a friend. Otherwise, I guess, we would not have found it. When I checked the web page online, I feared we would not get a reservation for dinner on the same day, but that was not an issue.\n Passing by Big Ben and Westminster Abbey, we found the Cinnamon Club in a side road. What a nice place! We sat in the middle of the lower floor, and it was quite big and lively there. Three business gentlemen at the next table each had 2 cellphones sitting next to their cutlery and were heavily discussing. Not the perfect place for a dinner for two, I thought. But I deemed wrong.\n The service was top! We had about four different waiters during the stay, and we never felt we had to wait for anything. Quite a difference when you're used to my home town's restaurants.\n The food is, as others noted here, a mixture of anglo/french/european style and indian cuisine. Don't expect the usual stuff for the usual price. You won't get it at Cinnamon Club. Admittedly, for enjoying a snug evening with garlic naan and massalla gosht, I still prefer my favourite indian place I go to since many years. But to make a difference, Cinneman Club is the place to go for lovers of indian cuisine.\n We chose a la carte, and spent something like 280 pounds that evening for starters, excellent meals, and an enchanting dessert, each accompanied by fit and proper choices of wine. I can't remember leaving that much money in a restaurant for a single dinner before, and I didn't believe I'd be willing to do so, either. After visiting Cinnamon Club, I changed my mind, and we will go there again, the next time we visit London.\n One down-side was the bar down stairs was closed for a private reception that evening we were there, so we could not test that. Well. There should always be something to look forward to, the next time.",
+                "datePublished": "2008-07-15"
+            },
+            {
+                "reviewId": "w6wzUbOxdEJCgfuZVxM3RA",
+                "author": "Qype User\n Martin…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fantastic place, great service, and like a reversal of the old colonial era. pricey, but an experience worth indulging in.",
+                "datePublished": "2011-07-17"
+            },
+            {
+                "reviewId": "6dVAkZf7t8gYSLOt1eenwQ",
+                "author": "Chris R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The (anglo)-indian breakfasts were amazing. One day I had Kedgeree and another morning I had the Uttapam. Absolutely delicious. I wanted to go back for dinner but they were fully booked until 9.45.",
+                "datePublished": "2010-03-31"
+            },
+            {
+                "reviewId": "YSQRnOufPaUueCUl7s9D1g",
+                "author": "Qype User\n Catgir…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'm not a great Indian food eater but got taken here by my partner who is and I have to say it was very pleasant.\n We were seated in the old library while we waited for a table and sipped on Kia Royales.\n We were then taken to our table in the main room which was lovely. It had a real buzzy atmosphere and the food served was delicious.\n The table next to us was having the taster menu which I believe is quite expensive £100+ but definitely worth a try on a revisit.\n The wine list complemented the type of food very well and I can see why this place is so popular. Its a modern twist on the typical Indian type restaurant and I thoroughly enjoyed my experience.",
+                "datePublished": "2008-07-31"
+            },
+            {
+                "reviewId": "2N8TNqICQMLQkrJc9qp8AA",
+                "author": "Sarah R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "the food was great. it was definitely expensive, but the food and atmosphere is worth it for a special occasion. however, i knocked it down a star for the service. it was bad. i experienced this across london. you expect such a nice plan to have excellent service, and it should for the price, but it didnt. it was very gluten free friendly, so points there including a special GF appetizer for me. hardly any GF dessert options though. i'd give it 3.5 if i could, but i was so annoyed by the bad service i chose 3 stars.",
+                "datePublished": "2012-05-31"
+            }
+        ]
+    },
+    "120": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "TFJWsHYZBZY3SzrIslzcTw",
+                "author": "Jonathan D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very nice Indian in the Old Westminster Library.  I went with the sea bass which was great.  The broccoli side dish is excellent--just a bit spicy.  Good wine list and nice venue.",
+                "datePublished": "2011-10-25"
+            },
+            {
+                "reviewId": "MRpIOEkjkESUEn9c6lk3nA",
+                "author": "Qype User\n tdste…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a treat. Expensive yes but something avant garde/ innovative mouth-wateringly different with some high end twists to Indian Cuisine. One of the places that is on my must list when visiting London.\nThe amuse bouchees (freebies) tell you you are in for a treat.\nDecor fresh and open with a funky little cocktail bar downstairs\nQuite good people watching offered here too\nHoisin deer with pickling spices fantastic. Only dish I have ever had that was not tremendous was the dhal. Fish and mat curries are excellent veg curries also (save the dhal)",
+                "datePublished": "2008-11-19"
+            },
+            {
+                "reviewId": "fr9QM0qVvxHMpQwvLWodBQ",
+                "author": "S M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "modern european presentation I ndian food. very strong flavours. £10 starters 26 main 7.50 culfi , cheapest bottle wine £24\n12.5% service added\nnot cheap but recomended",
+                "datePublished": "2010-12-03"
+            },
+            {
+                "reviewId": "8_8bjgoVl8GRifbSWSJHnA",
+                "author": "Qype User\n Ozikie…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Cinnamon Club is a stunning venue. It is set in what looks like an old library where the tables are surrounded by huge bookshelves. There are also potted trees throughout the restaurant which give the place a lovely feel.\n The food is a fusion of Indian with Modern British ingredients. The food is very good and service is attentive and friendly. This place is expensive though and a meal for two without drinks would be £100 +",
+                "datePublished": "2008-01-28"
+            },
+            {
+                "reviewId": "bO3k0sLH8xxcD3HiqC4VDA",
+                "author": "David L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've eaten at a fair number of Indian restaurants in London, and Cinnamon Club was one of the best. A non-traditional menu, well prepared food, and good but non-intrusive service.",
+                "datePublished": "2009-05-03"
+            },
+            {
+                "reviewId": "8K9CmPFrJC8tIHsIU0Sy0A",
+                "author": "Imran A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Had a function in their private room, amazingly tasty food, easily the best (other than my mum's) that I've had in months. Can't say anything about the atmosphere in the main room but this was great for our group of 60.",
+                "datePublished": "2009-03-19"
+            },
+            {
+                "reviewId": "-FfNjXcN3DqQN1VnTUoIQw",
+                "author": "jessie c.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We had their prix-fixe Christmas lunch. It was a lovely experience. All of the reviews are correct: it is an expensive place!\nIt was a real treat and plenty of food. We started with a spiced martini, followed by a potato fritter. We ordered a spicy vegetable dish and a prawn stir fry to start. I had the curry prawns, the person with me had halibut. It was so fresh. They brought another vegetable course in between. For a side, I had cucumber with yogurt and the person I was with had aubergine. The naan was warm and soft. I had a fresh fruit dish for dessert that had a thin layer of lemongrass gelatin over it which was interesting, albeit strange. The person with me had a lemon cardamom cake which was delicious. \nThe waitstaff was only okay. They were very busy due to the Christmas holiday, but I found them to be unattentive. The atmosphere in The Cinnamon Club is light and elegant.\nTheir bar is a real find- its a library with a bar tucked in the corner. They have an extensive drink menu. \nIt was a great Christmas lunch.",
+                "datePublished": "2009-12-28"
+            },
+            {
+                "reviewId": "7exq4vuf3FPCn1enwXhPjQ",
+                "author": "Corinna H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The Cinnamon Club offers Indian style breakfasts that are an interesting take on the traditional British fry up. So if you fancy something with a bit of spice to get you going in a morning it's worth a visit. \nI'm not sure that their food agreed with me though as the spicy scrambled eggs, Bombay spiced vegetables with cumin and a jasmine tea that I washed it all down with was a bit too much of a taste explosion to experience first thing. I would definitely go back to eat later on in the day as the food and service were top notch, but Indian for breakfast just seems a bit wrong (yes I admit to eating least nights curry when I woke up, but that's just somehow different, isn't it?!).\nI'll be sticking to bacon sarnies and fry ups, but if you for those of you who like it hot at all times of the day then it's nice to know that there are variations of the great British breakfast also available on London's morning menu.",
+                "datePublished": "2008-12-23"
+            },
+            {
+                "reviewId": "_T0KyIbHOwV2M00YwwiweQ",
+                "author": "Shan H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Upscale, great food and service.  Very flavorful and authentic.  3rd time here and I will be back.",
+                "datePublished": "2012-01-13"
+            },
+            {
+                "reviewId": "ovBQn_koWm7KFveJlXENlQ",
+                "author": "Michael M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is Indian curry in a fantastic building that may or may not have previously been some old library, but is somehow not stuffy. Delicious food.",
+                "datePublished": "2009-01-30"
+            },
+            {
+                "reviewId": "Jq5la_QKN7qdhc3v8-rSZA",
+                "author": "Jerrold S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "One of the nicest dinner venues I've eaten at.  A gorgeous walk up opens up into an even lovelier setting.  Bookshelves line the 2nd floor walkway that overhangs the main dining room.  Huge vaulted ceilings in what must be an old bank or library of some repute.  \nWent in for a late dinner and most every gentleman was wearing a suit and tie.  It was a bit of a shocker considering 2 of our group of 5 were wearing short sleeve t-shirts.  But I'm sure nobody in the restaurant enjoyed themselves or appreciated the food as much.  The food isn't the classical traditional type of Indian food you'd find at Brick Lane or Artesia, CA.  It's certainly more refined and updated but no less delicious.  I would have loved some curry, tikka masala, korma and whatnot the meal was very good.  We split a bunch of appetizers; salmon carpaccio, lamb curry, black chicken breast and mix of spicy Indian veggies.  The most traditional flavors and my favotire of the apps were the lamb curry and spicy Indian veggies.  The veggies packed a nice punch with some nice latent heat.  The black chicken and salmon weren't bad mind you but not very Indian and probably wouldn't order them again.  I ordered the lamb for main entree as well and was very satisfied.  The sauce was similar to a curry and the lamb was well cooked.  The biggest surprise was their naan.  Comparable to the best naan I've had anywhere.  Hot out of the oven, crispy of the bottom and a lovely way to pick up those extra juices.",
+                "datePublished": "2009-01-29"
+            },
+            {
+                "reviewId": "-J4rIQYpAEkpKKyZjyxPdg",
+                "author": "Qype User\n zara7…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The food here is a total overstatement of good Indian food. Their menu is very pricy but the attention given to the actual served food is poor,to say the least. They seem to be trading upon their presentation skills rather than anything else. I love good quality Indian food and go to Indian all the time. This place was meant to be a treat for a friend but i have to say I was embrassed to have bought a friend. It certainly did not live up to it expectation or maybe that was the problem-having any expectation?!",
+                "datePublished": "2009-06-02"
+            },
+            {
+                "reviewId": "ifLHA_7es6oCxz9dDIxgqg",
+                "author": "Qype User\n lonere…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Been coming here for years and still love the food (and the downstairs bar). It helps that it's 5 mins walk away - a great local to have!",
+                "datePublished": "2011-05-20"
+            },
+            {
+                "reviewId": "lTKtYFvMxtlLHexu7GbI5Q",
+                "author": "Qype User\n sbkoc…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Certainly not a cheap place, and you can feel it coming in. Think dark furniture, rose petals and water fountains. Along with attentive staff, this is a true treat to come to. If you have special dietary requirements, like I do, it can feel somewhat like you're inconveniencing the staff though.",
+                "datePublished": "2009-03-12"
+            },
+            {
+                "reviewId": "S4czNRNCTlVi42AWbskM8Q",
+                "author": "Qype User\n MissGo…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was impressed by the grace and beauty of this place when I ate there very recently. I think that the beauty of this place lies in the contrast between the gentlemen's club-style setting and the exoticism of modern Indian cuisine. Their early-bird menu offers really good value for 22.00 pounds.",
+                "datePublished": "2007-11-19"
+            },
+            {
+                "reviewId": "19mLfOwW9o2V7h3tlxYZFg",
+                "author": "Alex H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is outstanding. There's no better adjective. The setting, in the old Westminster Library, is absolutely inspired. At first glance, the menu looks like it's trying a bit too hard but when they can get away with it because the food lives up to the hyperbole on the menu. During the Christmas period they serve a signature cinnamon champagne drink which is amazing. Great food, great service, great wine list, great setting.",
+                "datePublished": "2007-11-28"
+            },
+            {
+                "reviewId": "Uu7aAhlAA2Uvay8zuR9m-A",
+                "author": "Qype User\n macaro…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yum yum yum yum. Another wonderful Indian restaurant in the Westminster area. Delicate dishes and interesting combinations of flavours, all set in a beautiful old building. It's full of MPs and business men at lunchtime, but don't let that put you off! If you love Indian food but usually stay away from it with the fear or feeling fat or bloated, come and try here! It's a very different dining experience to your regular Indian takeaway. First class service too.",
+                "datePublished": "2008-10-31"
+            },
+            {
+                "reviewId": "9vChGm5QmbuLui9g8D79hQ",
+                "author": "Qype User\n merenw…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I really liked the place. the ambience was fantastic - it is a great building. \nThe food was excellent and unusual Indian cuisine. \nDonwnside were slightly snobbish waiters - we went there for taste4london experience and we felt a bit like second class customers.",
+                "datePublished": "2009-05-21"
+            },
+            {
+                "reviewId": "ZV3EZrk5NK-JyWP1Bw1r7w",
+                "author": "Qype User\n citybo…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great place to eat. I took my girlfriend there and she loved it. Does cost a bit more that other places but you get what you pay for. Staff are great and I can't wait to go back. I have been once for breakfast and that is well worth it. 5 stars",
+                "datePublished": "2008-01-08"
+            },
+            {
+                "reviewId": "kr8gurbsUz5OSSaVlmNZXA",
+                "author": "Qype User\n ha…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had long desired a meal at the Cinnamon Club having had one of their cook books for some time, and on the occasion of my 40th birthday finally made it there, and if anything the food exceeded all expectations.\n This is the ultimate in classy Indian cuisine and my main course of rack of lamb with a corn sauce is one of the best dishes I have ever tasted - seasoned to perfection, full of subtlety yet still delivering the kind of hot spice kick I love.\n Some do say this restaurant is expensive, and it is certainly not cheap, but I think the rack of lamb, for example, at around £24 was well worth it. The drinks however are a bit extreme with the cheapest bottle of beer at £4.",
+                "datePublished": "2008-03-10"
+            }
+        ]
+    },
+    "140": {
+        "id": "C5vx27S4THgiIjitx0aXEQ",
+        "name": "The Cinnamon Club",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Westminster",
+            "streetAddress": "The Old Westminster Library\n30-32 Great Smith Street\nLondon SW1P 3BU\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/kbwr-ociE_nfjrdqH3A5gg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7222 2555",
+        "review": [
+            {
+                "reviewId": "xbHjbjwhNqS94UKPfUetYg",
+                "author": "Qype User\n Greek_…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went for London Restaurant week - £15 lunch. Food was fantastic from first bite to the last and just the right quantity. The Lychee and rose petal martini was not as good as Hakkasan but you can't have everything!",
+                "datePublished": "2009-03-24"
+            },
+            {
+                "reviewId": "jMc4X6_l6MkFXpPrCFPfuQ",
+                "author": "Qype User\n rani4…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "great resturant, food is very good and staff are very friendly, it is quite expensive but well worth it.\nThe decor is very good and the atmosphere has a very nice ambiance.",
+                "datePublished": "2008-10-07"
+            },
+            {
+                "reviewId": "lb8y158R9yFPvrz-1Slm8g",
+                "author": "Devin K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best meal I had in England.  Top notch for this New Yorker.",
+                "datePublished": "2010-12-17"
+            },
+            {
+                "reviewId": "-1_3RTZtnqdSxu62vv567A",
+                "author": "Qype User\n flashv…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Set in the heart of westminster, the ambience is akin to a typical london gentlemens club where you imagine the great and the good of the world mix and decide on the fate of countries. The service here is exceptional (as you would expect), and the food is not only delicious, but has some of the best presentation you will find for any indian restaurant in the UK. The wine list could (perhaps) be better, and i think sometimes, when quiet (mid-week) the atmosphere is not as lively as i would like - but if you are out with friends or for an intimate evening go for it!",
+                "datePublished": "2008-07-13"
+            },
+            {
+                "reviewId": "wEeZXfp7OHMVzYfpK_s-cQ",
+                "author": "Qype User\n nisha5…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Great food and great service, slightly expensive but the food tastes great. They do have early bird menus which are good deals but is limited to certain times.\nGreat atmosphere and friendly staff",
+                "datePublished": "2008-10-06"
+            },
+            {
+                "reviewId": "Ka3M6AohxCH4PuxNWdAgyg",
+                "author": "Lindsey V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fabulous upscale Indian cuisine. Beautiful building, great menu - would highly recommend.",
+                "datePublished": "2009-04-25"
+            },
+            {
+                "reviewId": "dmxlkwkBcrcMhuNCAjpkiQ",
+                "author": "Qype User\n Suzann…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good place to taste delicious Indian food. Good service. Ambience is a bit posh. Nice place to take your inlaws if you're willing to spend some money.\nGlamourous bar downstairs in de the basement, although a bit quiet when we were there, even on a Saturday night.",
+                "datePublished": "2007-04-19"
+            },
+            {
+                "reviewId": "61uRtEk-QpQxN6Op4_i-hg",
+                "author": "Rahul G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Had an excellent experience here.  Dinner was really, really good.  Well spiced and flavored.  Very atypical menu for an Indian restaurant (bison, pheasant, etc.).  Room was very elegant and service was prompt and informed.  It's very expensive, but worth it for the experience and food.",
+                "datePublished": "2010-02-12"
+            },
+            {
+                "reviewId": "Q-Zsar0d0gN3CFjluRzz6w",
+                "author": "Qype User\n keyz15…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The Cinnamon Club is in a class of its own, Truly the finest Indian restaurant in Britain a broad statement i know but as a real Curry aficionado and having dined at what are regarded as the best Indian restaurants in Britain i can tell you that none of them come close to the cinnamon club. The dishes are a kind of Indian/European fusion and are as good as any high end Michelin stared restaurant's I've been to, the decor and location is amazing think old English library meets Claridges. For a special night of amazing food i highly recommend the cinnamon club",
+                "datePublished": "2009-04-20"
+            },
+            {
+                "reviewId": "xVpFoHUYxxqpQiZ5OZA_iA",
+                "author": "Qype User\n skywal…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A lovely place for dinner. Excellent food and service. I love the place. Ideal for a first date!",
+                "datePublished": "2008-11-17"
+            }
+        ]
+    }
+}

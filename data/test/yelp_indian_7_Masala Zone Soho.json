@@ -1,0 +1,1652 @@
+{
+    "0": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "PIZTMf-OLt8ZejctDL-JPA",
+                "author": "Simon W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Pretty awesome spot for a lunch - Indian food on steroids!  We had a thali and dosa which was heaps for food for 2. So much flavour.  Definitely get a mango lassi too!",
+                "datePublished": "2018-08-12"
+            },
+            {
+                "reviewId": "7EF-Vb6WwRolFE993DMa3w",
+                "author": "Jordan M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I was walking around by myself one evening and thought it would be nice to try a fine dining Indian restaurant since many near where I live are quick serve.\nI probably should have left when I first walked in as I felt like the people working there thought it odd for me to ask to dine alone.\nIt took a very long time before anyone came to take my order. And overall, not really friendly at all.\nI wish now I had gone with the traditional Thali, but the dish I ordered sounded very good on paper. Noodles with prawns and squid.\nThe dish came out very quick, considering their menu mentions giving them time to prepare everything fresh. Now the sauce was delicious. Very very good. But given the price of the dish being over £17, there was very few prawns and only a couple pieces of squid.\nWhen I finished eating, it took a long time for anyone to check on me and get my bill (I had to ask for it). Even though I saw them attending to other tables.\nTherefore, given the poor service and price, I give it 2 stars.",
+                "datePublished": "2018-08-06"
+            },
+            {
+                "reviewId": "XI0waksEfpKqT8lduxg9DA",
+                "author": "Brenda Z.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Believe it or not... London is the place to eat the best Indian food in the globe! \nMasala Zone in the heart of the Soho delivers that great expectation. The food is exquisite and the flavors are not spice overpowering which makes the food delightful. \nIf you are not too much in to the super hot and spicy, there are great options. The waitress Sahana took the time to ask preferences and Based on answers she made excellent recommendations from appetizers, to main course, side dishes and dessert. Highly advise to order the  Butter Chicken, delicious! , and  Chicken Saffron Korma.  Make sure when you eat here to ask for Sahana she will ensure you will leave this place in love.\nThe  value was great for the quality of food! \nThe restaurant is posh and chic! \nThe Host was kind and very attentive,  and not having a booking was not a big deal.",
+                "datePublished": "2018-03-25"
+            },
+            {
+                "reviewId": "pIHEpYzKvnoYAlpQYDUI9A",
+                "author": "Cristina B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place was excellent/ ambiance was good!  Food was flavorful- the only draw back ... the waitress was not very attentive- she started cleaning up while my friend was still eating, we felt rushed!",
+                "datePublished": "2018-07-21"
+            },
+            {
+                "reviewId": "X7_iFswAJrT0GuruB8oewg",
+                "author": "Rahul R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good ambience, but acoustics can be better. A bit noisy restaurant. \nFood quality is very good, but it's no real Indian food taste. Very westernized and tasted bland. Ordered Butter Chicken thali, but had to add a bit more salt to it make it easy to eat. Probably inime with catering the local crowd, but the spice composition cannot be compared to 'real' Indian food. But customer service and attention given was good.",
+                "datePublished": "2018-07-24"
+            },
+            {
+                "reviewId": "Tklsj9H6EW1av0o8ovDaJA",
+                "author": "Deena H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was our first Indian Cuisine experience in the United Kingdom. We looked them up on Yelp and saw that the reviews were encouraging so we took a chance on a Friday night and showed up without reservations. They were about a 15 minute walk or less from Leicester square. They were fairly busy and we waited at least 10 minutes but still a very reasonable time to wait on a Friday night WITHOUT reservations. \nThe service is NOT great but you get over that pretty quickly because of the food. The samosa was amazing. Both of our meals were great. The drinks were excellent. The ambiance was awesome. The bathrooms were even cool. We wanted to order and eat so much more but we were full on the food we had ordered! All in all, it was a great experience and I can't wait to come back the next time I am on \"holiday\" (vacation) again in the United Kingdom.",
+                "datePublished": "2016-09-10"
+            },
+            {
+                "reviewId": "l7gpWaC4XrlV5PgaBmL5nA",
+                "author": "Clèm B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nice place for good and affordable Indian food.\nThe atmosphere was great, quiet and I enjoyed the decoration. The service was ok.\nWe ordered a lunch bowl (vegetarian) and a chicken thali. It was good and fulfill. I really liked the thali which was composed of a lot of small plates with different flavors. It was delicious and perfect to taste different spicy and Indian dishes.\nThe price was decent for what we ordered and I think I will go again !",
+                "datePublished": "2016-09-20"
+            },
+            {
+                "reviewId": "_NTxb1WkaReGCFQYPnujyQ",
+                "author": "Seo Young M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Love their butter chicken! Had it as the lunch bowl and it's quite a decent meal at a good price! The ambience is really nice too and the staffs all very friendly.",
+                "datePublished": "2017-03-22"
+            },
+            {
+                "reviewId": "2gkoV-SVcdKHapSDGagk-g",
+                "author": "Dan C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I came here for lunch yesterday had a great meal.  Mini-chains of Indian restaurants is not something we see in the States, so I was intrigued to see what the results would be.  The place was buzzing and very busy for lunch and we were seated right away.  The décor did not seem much like a chain restaurant in my opinion, it is modern, but also warm and cozy at the same time.\nThe menu is very busy and there is a lot to choose from.  I had the chicken saffron korma and we also got the butter chicken thali.  Additionally, we got garlic naan and rice.  Everything was very good.  Nothing was amazing, but not one thing that hit the table was mediocre.  I really liked the chicken saffron korma.  I have not seen it at many restaurants back home.  \nOne thing that was lacking here was the service.  We waited for a long time for our server, ultimately ordering from the host.  We got our drinks from one server, food from another server, drinks ordered from another server (which never came) and the bill from someone else.  A little annoying as we ended up being in a bit of a rush to get somewhere after.",
+                "datePublished": "2017-01-03"
+            },
+            {
+                "reviewId": "qNPu-EFHbZ6diSc4cnow7g",
+                "author": "Amanda M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've been to Masala Zone on multiple occasions and the food and service have always been good. Sure, sometimes it's REALLY busy and you may need to wait a little bit, but overall the service is very good. \nTo be honest, I still don't really understand how to order the Thalis, but whatever does come out is always yummy. We tried the shrimp curry and it was delicious. I love all the options you have with a Thali. The flavors are always so diverse and interesting. \nOne of my favorite appetizers is the dahi puri- it's like this spicy puff filled with cool yogurt. AH! SO GOOD! And the mango sorbet is a delicious finish to any meal. \nOn another occasion we decided against the Thalis and just ordered curry. They were also good but I think we've learned we can't handle heat as much as we thought we could ;)",
+                "datePublished": "2016-01-27"
+            },
+            {
+                "reviewId": "cqqILJ7z5GE3ZKaFAZ9ONQ",
+                "author": "J L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I had one chance to eat good Indian food during my WEEK in London. One would think I couldn't have screwed this up like I did.  Pressed for time we walked into Masala zone.  It should  be called the \"coriander zone\" for their  heavy handed use of the  spice.  The veggie samosas had large offensive seeds that I had to spit into my napkin. The korma has so much coriander it was inedible. \nAlso, I'm confused about the curries. They were more like  soup than actual curry.  The butter chicken lacked any kind of subtlety or depth. It was more like tomato soup.  \nFinally the rice didn't get eaten and the naan was bland. Such a bummer and I have to wonder how this place gets so many 5 star reviews.\nOn a positive note the staff was pleasant and the atmosphere appropriate for a soho restaurant.",
+                "datePublished": "2018-04-04"
+            },
+            {
+                "reviewId": "AlwEQ40_jsOs0DT9aiTLwQ",
+                "author": "Pam C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Review for the take-away. The interior however looks very nice and every time I walk past here it's quite busy. The place does seem a bit overdecorated but the vibe and the atmosphere is pretty good - I can definitely see this place being a good date dinner venue.  \nService was pretty lacking. Their payments system was down, and staff didn't seem to do a very good job communicating with each other so there was quite a bit of confusion and a pretty significant and frustrating delay. I ended up needing to pay in cash since they couldn't really sort out what was wrong. \nThe food is delicious and very heavily spiced - the spicy offerings are actually quite spicy. They have thali sets that come with a little bit of everything if you like variety. The grand thali can be split between two people easily. Portions are reasonable although Masala Zone is a bit on the pricey side, although I don't think it's egregious for the area.",
+                "datePublished": "2016-11-23"
+            },
+            {
+                "reviewId": "AyolyYCkncBppyXqAE1beA",
+                "author": "Jennifer B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "On the hunt for good Indian food.\nThis place was not it. We wouldn't have chosen a place called Masala Zone but our friends chose it b/c it was close to our hotel. We tried a lot of dishes but they weren't authentic. The service was good.",
+                "datePublished": "2016-11-28"
+            },
+            {
+                "reviewId": "ZYgyKEvVfI82RGK4N0HdUQ",
+                "author": "Valerie C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Really enjoyed this place even with kids. The staff was attentive and friendly, polite to a T. We had a few standards and a few more exotic choices and despite a few of us who are sissies about spiciness, everyone found things they liked. Yummy Indian Punch too!",
+                "datePublished": "2017-06-30"
+            },
+            {
+                "reviewId": "4NeQhcBgCES7rAuADt9wJQ",
+                "author": "Anthony S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place offers traditional curry and other classics. Manages to serve them quickly despite a crowd. This place does try to make you wait too long for a table even when they are clean and you are next for it. They seem to be content with leaving you at the bar and hoping you order a drink to pad your bill. When you're hungry this is a nuisance. The decor is great and if it was quiet it could even be romantic. That isn't possible however since this is close to soho's many bars. Service was pretty good for London.\nDefinitely recommend you go but get a reservation so you aren't one of the many groups being pushed back out the doors.\nAlso the doors are weird. Pay attention when you open them.",
+                "datePublished": "2017-07-13"
+            },
+            {
+                "reviewId": "z9qYzfuWInl2hwakkLA2WA",
+                "author": "Binal T.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Only reason this place gets a 3 star is because of its decor and ambience. This place is well lit and is beautiful. The food here is not as good as the decor. For someone who is from India or knows taste of some traditional dishes would agree with me. Their undhiyu was sweet and had ripe bananas in it which was a dealbreaker for me plus it was super oily I couldn't even eat anything after that. Their grant thali is ok but the worst part was when we asked server which vegetables are part of the grand thali she mentioned completely different vegetables from what came as a part of meal. Horrrible service plus ok food =not coming back again anytime soon.",
+                "datePublished": "2018-03-04"
+            },
+            {
+                "reviewId": "v-o67rz8d411NXJKi-9NrA",
+                "author": "Sierra N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was on a business trip alone in London and was craving Indian food. As any Bay Area person I looked for a place nearby in Yelp and found Masala Zone. It was the perfect ambience to have a nice meal alone. It was nice, but totally acceptable and not awkward to dine alone. I ordered the smaller size Thali w/ lamb. It also came with lentils, and a delicious broccoli dish. It was all soooo good.",
+                "datePublished": "2017-10-12"
+            },
+            {
+                "reviewId": "LDyHfuuaXWL8jxM906eSwQ",
+                "author": "P. A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very pleased with this place. We didn't have a reservation but got there around 5.00 and there was no wait. It quickly filled, however, so I'd recommend a reservation (but it obviously worked out for us, so don't be deterred). \nThey have a collection of curries that they serve on a platter with set sides, delicious chutney, and a few other things (called a thali). You can get a regular thali or a grand thali, which has a few more bells and whistles. You can add on another curry for a bit extra. We got the butter chicken (suuuuuper creamy) and the lamb curry (lamb was super tender). \nIf you are moderately hungry, adding a curry to the grand thali would sufficiently feed 2. We didn't realize that and added the chicken kottu parantha. Kind of glad we did, though, because it was delicious. Spiced chicken with lots of veggies and delicious things. They warned us it would take longer to cook, but I thought it was served quickly.",
+                "datePublished": "2017-01-01"
+            },
+            {
+                "reviewId": "Z78m_ksOSb1u7pFBUrtNxA",
+                "author": "George C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Poor quality Indian food, over-overpriced, on a nothing-to-mention space with slow service. Seems like someone thought to make an Indian fast-food but somethibg went wrong.",
+                "datePublished": "2016-08-26"
+            },
+            {
+                "reviewId": "3MDvc04Pb0k-NBwGdzr-xQ",
+                "author": "Satridia J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Went here on a Saturday afternoon for lunch around 1.30 pm. My friend has made a reservation so we didn't have problem getting a table.\nI think the food was just ok. Definitely not the best Indian food I've ever had.\nI ordered the grand thali with lamb (I added garlic naan) plus a glass of mango lassi.\nThe veggies dishes in my thali were actually better than the lamb curry (which suppose to be the star). The curry could be served hotter, it was a bit cold when I received it.\nPortion wise, it was big enough than I couldn't finish it.\nThe restaurant is classier than regular Indian restaurants, the service was also good. The waiter checked on us several times, and in the end he asked us to fill the feedback form. I guess they're trying to improve their service level due to the bad reviews about it.\nOverall, I had a good experience. However, I probably won't go here if I really craving good Indian food, if you know what I mean.",
+                "datePublished": "2016-03-12"
+            }
+        ]
+    },
+    "20": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "ehliOxuyXiChyT7we61-DA",
+                "author": "Rene V.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Open concept and beautiful decor. Definitely should have gotten a reservation prior to arriving. Only waited 30 minutes at the bar. I tried the Chai Negroni which I didn't like but in the restaurant's defense, it was labeled bitter and spicy. I tried something new; they aren't all winners. The Narial Punch was the perfect amount of sweetness and creamy texture. As for the meals, the food overall was incredibly full of flavor with different levels of heat. I highly recommend the cheese naan bread. I ordered two for myself, it was that good. Now to the bad stuff. As an American, I am comfortable in cargo shorts and a hoodie. Just because I look casual doesn't mean I'm broke or a poor tipper. I had to ask several times for more water AND when someone finally brought it, it was as if I was inconveniencing him for even being there. The food was divine, I can't deny that. My thing is I felt judged for how I prefer to dress. I still paid in full and as the tip was included in the bill, I can say my experience didn't warrant the 12.5% already added. Normally I tip 20% for excellent service. 0% would have been more appropriate.  As I am zaftig, I have no issue spending money on food. So now, I judge the service here and hope future experiences with people won't feel as overlooked as I did tonight.",
+                "datePublished": "2017-05-28"
+            },
+            {
+                "reviewId": "cNP63fzgLJTHPrhH_WhN9w",
+                "author": "Liz V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great service and atmosohere. Get the large thali with butter chicken. It was quite delicious with a side of garlic naan. Made reservations an hour before online on a Friday night. We arrived 15min early and were seated right away.",
+                "datePublished": "2017-06-03"
+            },
+            {
+                "reviewId": "GjxkhrtMeZIIzj3CznfhtQ",
+                "author": "Gloria S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The service is excellent, the food is delicious. We had the chicken masala plater it had a little bit of everything. Good place to eat when visiting London.",
+                "datePublished": "2017-04-09"
+            },
+            {
+                "reviewId": "n7pSCLq4qF9Npol5dIpmQA",
+                "author": "Corinne D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious Food! Beautiful ambiance. Wonderful service. The Grand Thali was excellent!",
+                "datePublished": "2017-05-08"
+            },
+            {
+                "reviewId": "ZnQVVutsi504oMw_ZzZuKw",
+                "author": "Sofia G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great ambiance, tasty food! They took our group reservations and had no problem fitting us all in for dinner! Slightly pricier than anticipated given that it wasn't necessarily \"extra special\", but overall still a good experience!",
+                "datePublished": "2018-01-20"
+            },
+            {
+                "reviewId": "grnT0X_OU-Khd3wY6mmjPA",
+                "author": "J C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I walked into this place expecting solid Indian food. What I did not expect is the well thought out and innovative cocktail menu. The star was a punch that is a twist on a chai tea and served in a metal tea cup with crushed ice. There is also a take on a. Gin and tonic that was delightfully bitter and a floral cocktail with a hint of prosecco. All of this melded perfectly with the meal, the thali with mangalore chicken. It's nice to know that you can swap out the main for the thali.",
+                "datePublished": "2016-06-24"
+            },
+            {
+                "reviewId": "CpoczFtEQcGgJBE7lbzCTQ",
+                "author": "Katie H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've been here a couple times always with a friend or family and we were always lucky not to queue because it can get very busy some evenings, especially Friday night. The food is a good range of everything and there always a different starter menu which the staff will tell you as soon as you sat down. \nIt's a little pricey and can get quite loud sometimes but the food is fantastic. It could be a little bit more as I had portions that were a bit small for my taste.\nThe restaurant is about 5 min from Oxford Station on the Central, Victoria and Bakerloo Line and 3 min from the bus stop Conduit Street Hamleys served by the buses 3, 6, 12, 13, 23, 139, N18 and N113.",
+                "datePublished": "2016-04-04"
+            },
+            {
+                "reviewId": "zyvkZSN1o1vb_0oIhtJiwg",
+                "author": "Douglas J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A very tasty experience from drinks to dessert. Friendly service, very pleasant atmosphere, and great food. We enjoyed the Regular Thali and Grand Thali - a good way to sample many flavors. Finished with the delectable Pistachio Kulfi. Highly recommended.",
+                "datePublished": "2016-09-16"
+            },
+            {
+                "reviewId": "nw1Ga01T8Y7mZW31m7aSEw",
+                "author": "Saad S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is my first time here and won't be the last time for sure.\nI strongly recommend it.\n1 tasty food \n2 amazing atmosphere \n3 friendly staff \n4 excellent in general",
+                "datePublished": "2016-08-24"
+            },
+            {
+                "reviewId": "4WG9Tv6sNvPYrA9HvaOoiA",
+                "author": "Lauren Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cute decor with yummy Indian fare. Had the grand thali with butter chicken. Huge portions and delicious side dishes.",
+                "datePublished": "2017-05-14"
+            },
+            {
+                "reviewId": "3jxmhI2L0lDl9oxJUYnHCQ",
+                "author": "Susan S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We really enjoyed our evening at this beautiful restaurant. The service is impeccable.  The food is superb.  If your ever in London, this is an exceptional Indian restaurant to try.  You will not be disappointed.",
+                "datePublished": "2017-07-14"
+            },
+            {
+                "reviewId": "8DDm_PqhB2Dbr8AaWgYlwg",
+                "author": "Bob A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The lamb curry was beyond any expectations and even after becoming full, I felt compelled to continue eating. It was indescribably delicious.\nThe restaurant is also very beautiful and the staff are nice!",
+                "datePublished": "2017-01-27"
+            },
+            {
+                "reviewId": "VDXYPasUshIi8nzxT0QZng",
+                "author": "Kevin L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I usually go for grubbier Indian joints where I don't even quite care what cut of meat or animal is being slapped into the curry sauce, so Masala Zone was very \"Oh, I see, we are properly in the West. Carry on.\"\nNot that it's a super fancy place, but it's clean, shiny, and you certainly don't smell that pungent oily fog of curry that permeates your clothes for days after. \nMany of us opted for the thalis, which is the usual order for indecisive people like myself. Why have one dish when you can opt for like nine things on a big silver platter. You have a choice of GRAND and regular, so being American, I of course supersized mine, so the thali gained kachumber (tomato & onion salad), raita, and an appetizer. Both types of thalis have a choice of meat curry, two veg curries (root & leaf), chapati, rice, and papadum.\nThe fish curry was fine as my main, though it could have used a kick in the spice levels. The chutneys and side sauces were on the blander side as well, but still mighty tasty. This might be an issue of getting used to more subtle flavors versus the sodium assaults of the curry houses I usually frequent.\nGreat place for large groups of hunger diners since we were a group of eleven and were seated immediately, right around dinner time on a weekend.",
+                "datePublished": "2014-12-03"
+            },
+            {
+                "reviewId": "aMmwQmE4Y49IAIIZ3xCwNQ",
+                "author": "Reba S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Food was good. The service was terrible in that no one was attentive enough to serve us properly. We had to ask for the bill several times. We had to ask where our naan was twice and came out when our food was cold. Disappointed with the high ratings.  Seemed like the staff was half awake.",
+                "datePublished": "2016-12-30"
+            },
+            {
+                "reviewId": "E42Y13HxDQT3_oGGURUcYQ",
+                "author": "Victoria C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wow. Wonderful Indian food. I'm not the biggest fan of Indian good, but I was really impressed with every dish (may except for the stewed lentils). I came with a group of 5 friends around 8 on a Thursday. Since Masala is large and spacious, we were quickly seated.\nBased on Yelp photos, I decided to opt for a curry. I forget what it's called, but it was spicy (two chilies on the menu) but with nice coconut-y undertones and with large pieces of dark meat chicken. The curry doesn't come with rice, so I ordered some Yellow lemony-Jasmine rice which was perfectly seasoned, spiced, and I even found a roasted lemon rind mixed inside.\nI tried my friend's Butter Chicken curry, which was a different type of spicy. Not in the sense of hot-spicy, but more like a flavorful, almost sweet spicy. She ordered garlic naan on the side, which came out slightly fluffy, fresh and warm. Other friends ordered the Thalis, which are definitely meant to be shared. I sampled their small side dishes - the lentil stew was mediocre but everything else was great. Also, good service!\nTl;dr - authentic, affordable Indian food in Soho.",
+                "datePublished": "2015-07-08"
+            },
+            {
+                "reviewId": "YopWZVF4fSLxT0foDnihhQ",
+                "author": "Rawan M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I think its the best indian food I had during my stay in London. The restaurant has a unique atmosphere, in comparison with other indian restaurants . The food is really delicious and esp. the starters ware very good and different from any indian restaurant i have been to.",
+                "datePublished": "2014-10-26"
+            },
+            {
+                "reviewId": "WjPb82vOYW9jroaKN_T-mA",
+                "author": "Boon K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This chain is still doing great Thalis after all these years! Prices have definitely gone up, but still OK. Portions are big, food is delicious, and not as oily or fatty as your \"local\". \nService at this branch was slow though, even though it was a Tuesday evening.",
+                "datePublished": "2014-09-13"
+            },
+            {
+                "reviewId": "Rx7RGBI-VORuOmJRQrB_SQ",
+                "author": "Sarita J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "4.5 stars - Side of dal \n4.5 stars - Chickpeas with lotus root and bread, even though it didn't have any lotus roots in it\n5 stars - Side of potatoes - it was made with spinach \n4 stars - Chili paneer\n4 stars - Side of White Pumpkin (lauki/ dudhi\n3.5 stars - Side of Spinach. Wish it was less greasy.",
+                "datePublished": "2015-11-24"
+            },
+            {
+                "reviewId": "rLx2rPJpUZ_3sPAGCPRzBw",
+                "author": "Keith S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great service. The food was great and the ambiance was very elegant. Get the Narial Punch \"if you like pina colada!\"",
+                "datePublished": "2016-11-12"
+            },
+            {
+                "reviewId": "DElqqbRj3dH8dXGMUxCKbA",
+                "author": "Alok B.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Terrible service, subpar food. Samosas  and chicken tikka were below average, sev puri and chicken 65 were ok, but garlic naan was good. \nUnfortunately, I had to ask three times before I got chutneys and they never refilled our water. Disappointing experience, will not be back.",
+                "datePublished": "2015-12-05"
+            }
+        ]
+    },
+    "40": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "-xHyrr9WJLUNvhG6NZUR-Q",
+                "author": "Leon G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cheese Naam was great, garlic naam - ok, regular Thali and grand Thali trays with chicken were pretty good. \nThe main con: service was a bit slow.",
+                "datePublished": "2014-12-22"
+            },
+            {
+                "reviewId": "098DtoDSD5ArCtZ8BsitCA",
+                "author": "Elias P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food was okay the drinks were awesome. The waiter was super helpful. I was a little disappointed because they didn't have a tandoori oven and I really wanted tandoori chicken. Ended up ordering the chicken biriyani. It was good just not memorable. It wasn't bad but it wasn't 5 star great. This is kind of surprising to me as I'd heard that England had some of the best indian food and this place was rated almost 5 stars.",
+                "datePublished": "2016-09-13"
+            },
+            {
+                "reviewId": "-Xf63KkAGe7rrfrVD7IPPw",
+                "author": "Elle B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food in a modern setting. They have a nice ledge over looking the kitchen that is good if you are dining by yourself. I had the chicken curry and vegetable curry. Both were good but I would have preferred it if they had a little more flavor, I thought they were on the mild side, although I normally like a lot of spice.",
+                "datePublished": "2015-02-04"
+            },
+            {
+                "reviewId": "kJV633F4KJz4QjPrdcsfyQ",
+                "author": "Sophia C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here on the recommendation of Rick Steve's London guide. Mind you, he's not that type of a traveler that knows good food. However, taking his advice on this chain while being in the neighborhood was a pleasant suprise.\nMasala Zone are a chain of retaurants with various themes, this one having the theme of an Indian marriage with close to 100 vibrant puppets from Rajasthan suspended from the ceilings. Definitely a great conversation starter.\nMenu is vast, but I went straight for one of the Thalis combo. I love my favorite Indian place in Glendale that does a great job on Northern Indian Thalis, so I had to see if this one stood up to it. \nI went with the The Grand Thali, which is equal to a starter and main course combined. It comprises a Canapé,  a choice of  curry, 2 vegetables (one green and one root), Dal (lentil), Raita (yoghurt), Indian salad, Papadum & Chutney, freshly-made whole wheat Chapatti (Indian bread) & Rice. You get to choose the meat. Be forewarned that when you say mild, it's VERY mild. You won't drip one bit of sweat at all. If you're like me and like to actually taste some spice in your food, medium should be good. Anywho, as noted on their website, the etiquette of eating a Thali is to spoon a small portion of food from an individual dish into the area next to the rice, and then combine it with the rice. Repeat this process in sequence. This enables the flavour of each dish to be appreciated individually. Do not either mix more than one dish simultaneously with the rice, or mix the rice in the individual bowls. Chapattis are eaten with the food by using a piece of chapatti to scoop the food from one of the dishes.\nFor a chain restaurant, the Thali was great and a good portion. It's not \"home made\" Indian food, but it's food that's tasty and you can try different combos. After walking an entire day around London, this did the job for a casual sit down. Definitely make a reservation if you're going to eat at 6pm and after or be prepared to wait and wait at this location.",
+                "datePublished": "2015-03-10"
+            },
+            {
+                "reviewId": "6cMF6jfEecvOw7el558X9w",
+                "author": "Daniel T.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I have visited the Bayswater location twice and had a fabulous experience. The food was excellent, including the kabobs, butter chicken, rogan josh, thali, pav bhaji, chaat, etc. however, I had a terrible experience at this location. \nYesterday, I came to this location for dinner. After a wait, we were seated and I ordered a lassi and then lamb seekh kabob and garlic naan. After 20 min, the kabob came out but the naan did NOT. After failing to get a waiters attention, I finally flagged one down and told her about the naan. She noted it and then continued working. 15 min later, still no naan. \nI finally flagged another server and she said she'd get us a naan. 10 min later, the naan showed up. It was flat, doughy, undercooked, and there was NO garlic. If you order garlic naan and you are being charged EXTRA for it being a garlic naan, there better actually be some garlic! And this wasn't a naan! This was a doughy chapati! And I know Masala Zone can do better since I had a good naan at the Bayswater location. I finally got the attention of the original server and asked him to send it back. He apologized briefly and offered to get me another one and check with the kitchen. 10 min later he finally came back and just said \"apologies for the naan\" and then went off again. \nWe wanted the bill but the servers did not come by for another 10 min. Finally he came over and explained that he hadn't charged us for the naan and he had taken off the service charge. I was very disappointed by the customer service at this location and I probably won't be coming back. It's a shame.",
+                "datePublished": "2015-06-22"
+            },
+            {
+                "reviewId": "ggMdV6GUGhljSJwAEGz7Ug",
+                "author": "Eve K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Casual Indian chain that's great for lunch. 3.5 stars\nFood: 3.5, Atmosphere: 3, Service: 3\nCost to worth it rating: 4\nReturn worthiness: sure\nHighlights:\n- Variety and quantity: with a thali you get rice, bread, vegetables, sauces, and a main of your choice \n- Butter chicken was good \nLowlights:\n- Spiced cola: gave it a try but not sure it's my thing\nHad a fine lunch and would return.",
+                "datePublished": "2013-10-08"
+            },
+            {
+                "reviewId": "AmK-6vcCNinxI4MzBtLF3g",
+                "author": "Irene G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was a little weary of coming here since I heard it was a chain restaurant. Boy was I wrong. It was a beautiful restaurant and when you first walk in, the wonderful smell of the Indian food was enough to make get rid of my doubts of this place. We ordered the thali and the grilled chicken. I ordered the Indian yoghurt drink and it tasted great. The food was amazing and everything was perfectly flavored. It was proportionate and filling. The service was good. A reservation is probably a good idea for this location since it was packed before 8 pm on a Saturday night.",
+                "datePublished": "2015-03-15"
+            },
+            {
+                "reviewId": "aiUh8sWCJ779ldW6flbHAw",
+                "author": "M Ari M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Three stars indicates just ok, but let's be clear, I actually like the food here just fine. It's not your momma's cooking, no, but it's fresh, clean-tasting, and everything actually tastes different (you know the ol' takeaway curry joint trick of making a giant vat of bland base gravy and then just adding a dash of tomato paste, saag, spices, etc to make it into separate dishes, yeah? yeah, this place doesn't do that, as far as I can tell).\nI would say that the stand-out dishes are almost exclusively the veg ones. Chicken tends to be a little dry and tired; lamb tends to be only ok. The veggie offerings are really quite nice, with a good range of starches and pulses and some solid paneer-based offerings.\nThalis are a good size.\nSo why the three stars? Primarily it comes down to price. Yeah, you can come in, get just a veg thali (£11.15) and their cheapest drink (tea or filter coffee, I believe, at £1.80) and have lunch for £14.57 when you add in gratuity. But that's an expensive lunch for Soho when you can get a solid, fresh falafel wrap etc for under £7 with a drink around the corner. And let's be real, you don't want just the thali: you want to try the appetisers (all sadly overpriced and not good value for the size, also generally underwhelming in terms of taste) and have a drink (also expensive), and maybe tack on a second curry to pad out your thali (£3.50). \nThe last time we went (yesterday, actually), we dropped just under £60--ouch!--for lunch: lassi, iced tea, thali with extra curry, a curry main, two appetisers, two desserts (both of which were awful), a tea, and a coffee.\nWhat gets my (roast) goat here is that the pricing always feels vaguely like a scam about to happen. It's always a little different; this time it was \"If you order a main and a drink, it's 20% off!\" Hey, that sounds really good-- no, wait. \"The 20% off is already reflected in the menu. If you want the full-price menu, we can offer it.\" What even is this? Seriously, guys. It's not classy, and your poor servers have to keep explaining it like it's reasonable. Don't do it. Just admit your food is grossly overpriced and then offer a discount from the price you want to charge, if that's what you're after.\nFood also does take forever to come out. Granted, yeah, things are being made mostly to order, but let's be real, the kitchen doesn't hustle, and there's no excuse for dessert (pre-made sweets and a lump of ice cream) taking 15 minutes to appear. Basically, you can't just nip in for a quick lunch here. Set aside two and a half hours.\nI don't hate this place, though I do sort of hate how it's structured. But after this last wallet-searing experience, I'm done. I really am. So, how about it, fellow Yelpers: is there a decent Indian place anywhere near-ish to Soho?",
+                "datePublished": "2014-12-17"
+            },
+            {
+                "reviewId": "6YNUby46p2Z-N683QKiqOw",
+                "author": "Tim W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Everything top notch, reasonably priced (esp. for that pat of London), great service. Very happy indeed! The Grand Thali was truly grand and beautiful to look at.",
+                "datePublished": "2015-06-16"
+            },
+            {
+                "reviewId": "wXQYJiDFs_qLEMynRfjxLA",
+                "author": "Angela K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I really didn't expect it, but this was some of the best Indian food I've ever had. My daughter loved the labneh (?) paneer, and my husband and I had thalis. Every single dish was incredible. My husband's cocktail was ridiculously refreshing, and I enjoyed my white wine as well. They were nice to our kids, and our kids loved the food. I really wish we had these restaurants in America! Make a reservation to ensure you don't have to wait in the queue.",
+                "datePublished": "2016-06-10"
+            },
+            {
+                "reviewId": "luqNcUuTKepab83WmEgIjw",
+                "author": "Veronica R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It's my second time in the soho establishment...great location. \nThali for lunch is just perfect.\nThe service was quick, friendly and helpful. \nThe food was tasty and plentiful. \nI only lamented very small dabs of chutney. Otherwise the experience was very good.\nFresh fruit juices are lovely.",
+                "datePublished": "2014-11-23"
+            },
+            {
+                "reviewId": "UtvOJtGvfAFD6gZsWurotg",
+                "author": "Casper D. R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Huge place. Lots of tables. Maybe too spacious. \nThe size of the restaurant didn't influence the swift service and frienlyness though. \nThe quality of the food is very o.k. and not too expensive.",
+                "datePublished": "2016-03-20"
+            },
+            {
+                "reviewId": "oAo1j4KvsvblgPLlLKnpFg",
+                "author": "Mike O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I went here on a recommendation from a friend of mine that has, what I'd perceived to be, excellent taste in the culinary arts, but now, I'm really starting to question that assumption. I head things like \"it's really good\" and \"there are clearly Indians making the food *and* eating there...\". I guess I should have asked for more elaborate descriptions.\nFor a chain (famous last words), it's good. Better than just okay. You walk into the restaurant and it's undeniably aromatic, fresh spice and charred goodness emanating from the tandoor. Your palate whet with anticipation.\nMy date and I dined on the Dari Puri and Goan Crispy Prawns to start. I didn't detect any chickpea in the Dari Puri, nor any chutney (perhaps it was the drizzle), but there was sure a mouthful of yogurt. The Goan Crispy Prawns were more crispy than prawn, and tremendously greasy. For our mains we had the Paneer Makhanwalla and Roghan Josh. Both mediocre, lacking the signature depth that we've all come to know and love from Indian cuisine, and falling a bit flat. The portion size was also slightly less than satiating.  \nMoral of the story: in a pinch, lack of similar alternatives, and need to get away from the hustle and bustle of Oxford and Regent, duck in here... it won't be offensive.",
+                "datePublished": "2014-12-28"
+            },
+            {
+                "reviewId": "yatEFSrcvwtETiVD1_UgiA",
+                "author": "Karsten T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is not first time we eat at this particular restaurant and as usual, the food is just great. A huge rainbow of different tastes and very delicious. The reason for 4 and not 5 stars are the fairly steep pricing.",
+                "datePublished": "2016-03-11"
+            },
+            {
+                "reviewId": "wHVibPBc_He4ZhTvBpm4og",
+                "author": "Vinay A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food, nice ambiance, and friendly staff. All good. Worth going back again.",
+                "datePublished": "2016-11-30"
+            },
+            {
+                "reviewId": "usRr_M0Ab_ZiSSnwQ5sgGg",
+                "author": "Dominique L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I saw their adds in the tube and was craving Indian, so I thought \"why not\". I had checked out a few of Indian places in the neighbourhood and they were all way more expensive. \nI had the vegetarian thali and a mango lassi it they were quite tasty. Although, way more oily than I'm used to and I didn't like that I had to pay extra for naan bread. Good portions for the price and quick service. \nThe staff were very kind as friendly. The location is ideal for tourists.",
+                "datePublished": "2014-06-17"
+            },
+            {
+                "reviewId": "TINyyLxacVRcOW-z6kQAVw",
+                "author": "Claudia C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The best indian food I've ever had. I ate prawn coconut curry with rice, and some awesome indian bread. The staff is very friendly and helpful. I'll be back soon!!",
+                "datePublished": "2015-02-15"
+            },
+            {
+                "reviewId": "UGwI9EeL2B3a66wVxZoNOA",
+                "author": "Mee V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I would have given them a five star rating but the service was subpar and the server kept us waiting a long time. Also, there isn't a lot of ventilation so it's hot and stuffy. Other than that, the food was amazing! The price was appropriate and portion sizes were generous. The grand thali and regular thali dishes were such a steal for the price/quantity/quality. I'd recommend this place to Indian food lovers!",
+                "datePublished": "2014-06-22"
+            },
+            {
+                "reviewId": "EdD8x_sJKh_aA0NRnRuQSg",
+                "author": "Simon D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cool kinda - safe bet- Indian eatery near Carnaby street. \nThe Thali's are always a little hit and miss in what accessory dishes you get, but overall it's a good experience place for a fast weekend lunch.\nSome of their curries are very tasty and it's not overpriced for the west end.",
+                "datePublished": "2014-02-10"
+            },
+            {
+                "reviewId": "ZK5h95FwuJigUKDncTAKJw",
+                "author": "Tiffany H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I came to Masala Zone with 2 friends when we were perusing Carnaby Street.\nWe decided to try multiple dishes so we could try a variety of Indian food.  We ordered a regular vegetarian thali, gol guppa, bhel and what I think was the Chana Dabalroti.  All of which were very tasty, however, it is a bit pricey for the portion of food that you get, but it is central london.  Each of us ordered a soft drink and our entire meal came to £51.\nIf you come here and are unfamiliar with indian food, definitely try to order different platters and try them around.  One of my friends is Indian and she thought the gol guppa were too tiny and were not filled with enough filling.  My favourite dish was the ghel, a puff rice and peanut salad.  It was something I wouldn't pick out if I was on my own, but I was certainly happy that my friend suggested it.",
+                "datePublished": "2014-01-01"
+            }
+        ]
+    },
+    "60": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "QL_rp3oxmsdvOJA3glW0GQ",
+                "author": "Dean T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I have had a fair few curries in my time, some good, some really ropey, but this has to be up there with the best.\nI had the two courses for a tenner deal,which was a veg street food starter and any Chicken curry.\nThe courses aren't massive like a lot of curry houses, but besides, who wants to eat too much rice anyway. Here they concentrate more of the flavours and blends of spices which were perfect, non of that greasy 'gee' topping that you get with a lot of curries.\nStaff are all really friendly and helpful, so if your'e in the area pop in, if you're not in the area get a train,bus,taxi,magic carpet,but get yourself here.",
+                "datePublished": "2013-08-17"
+            },
+            {
+                "reviewId": "RD68P6tA8TKowi8KoMGArA",
+                "author": "Ronald H.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Bad customer service, rude server. Food mediocre. Can get this somewhere else for half the price.",
+                "datePublished": "2015-12-01"
+            },
+            {
+                "reviewId": "S-o_IZRbTIikgozVOz82Ig",
+                "author": "Lucy S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "My experience at Masala Zone Soho was good and I can see how you could give the place more stars. However, I wasn't overwhelmed by my experience so I am giving three stars in my review. But the place really does Indian food very well and there is a lovely ambience. There are a good selection of street food. The dahi puri were delicious. Unfortunately the aloo chaat had been taken off the menu, as I was looking forward to ordering that. The thali and grand thali meal options are really good. They offer a balanced Indian meal. In general dishes are a good portion size, which is nice because you can avoid eating too much.",
+                "datePublished": "2016-11-03"
+            },
+            {
+                "reviewId": "mVtXxzpPuESDO9Q811IBSw",
+                "author": "Graham O.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place does a job and does it well.\nIt's not the most characterful Indian restaurant you've ever seen.  No opulent flock wallpaper here.  Quite functional.\nHowever, it does serve a wide range of Indian food you don't tend to see elsewhere.  Food which claims to be \"Street Food\", rather than the typical Chicken Tikka Masala.\nIt's the only place I've had a salt lassi with herbs (and that isn't a type of dog).\nTip: although the Thali is really cost-effective, you can easily fall into the trap of mixing everything up and getting an oddly featureless mush.  Discipline is needed to try to eat one thing at a time.  I've given up on that now, and go for the starter, main course, dessert route, to guarantee more distinct tastes.",
+                "datePublished": "2013-08-13"
+            },
+            {
+                "reviewId": "LhxfTVgnZTKTLJVu_QfnYw",
+                "author": "William G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The food is very good, the service great and the prices very reasonable.  I was traveling on my own and they have a counter that was perfect for the solo diner. Well worth a visit",
+                "datePublished": "2014-10-23"
+            },
+            {
+                "reviewId": "lkFV2j2yHI3uTGAoyHSvVA",
+                "author": "Faith S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We stopped in here after visiting the Royal Opera House, which is literally around the corner. My friend and I are complete Indian food enthusiasts, so it was a must when traveling in London. I'm so glad we stumbled upon Massala Zone! Affordable and delicious Indian in a fun atmosphere. We had chicken briyani, naan, and green curry and all were excellent. Four stars only because our server was extremely unfriendly. We will probably be back.",
+                "datePublished": "2015-08-06"
+            },
+            {
+                "reviewId": "gqHQa9TPh670pWI3rOpmRg",
+                "author": "Eric J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food. Relatively late on a Sunday night, the place was half full, which is a good sign. It was spacious, not noisy, clean, bright and nice design painted on the walls.\nI enjoyed my thali, although the selection is slimmer than a typical Indian restaurant. The spice level was at the top of my range, so I do not recommend if you like bland food. My only disappointment was that I had to get up to get the bill 15 minutes after the waitress confirmed I was done and did not want any dessert or tea.",
+                "datePublished": "2013-04-07"
+            },
+            {
+                "reviewId": "EPb52sLZUC1pN-9TmH3ifw",
+                "author": "Monica P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I dined with two friends (26 October 2011) at Masala Zone in Soho. We had early dinner reservations (6pm), as we flew in that morning from the USA and Canada. The place is quite lively and filled up quickly. The acoustics was pretty bad, but we still had a very nice time together. \n \nMy friend Lee selected Masala Zone for its Thali, which we all ordered. Thali is a medley of different dishes served on large platters. I selected the butter chicken for my meat course (you can choose chicken, lamb, shrimp, etc), which came with curry vegetables, lentils, raita, chapatis (whole wheat bread), and rice, all for about £11.50. Everything was scrumptious and the chicken tender! \nWhile this is a chain restaurant, I thought the food was well prepared (the flavors of each dish blended well), and reasonably priced, especially in expensive London. I would definitely return here the next time I'm in London. I'll have to search out for a similar type of place where I live.",
+                "datePublished": "2011-12-31"
+            },
+            {
+                "reviewId": "iWfC4KkNQknZA7V1diVcVg",
+                "author": "Jaime L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good for the price. Butter chicken is spicy but not too much. Chicken samosas are good.",
+                "datePublished": "2015-10-11"
+            },
+            {
+                "reviewId": "OSfMkhBbc2HEcLsg6SLz0w",
+                "author": "Khushboo M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Star rating only for the customer service. Food was so so so average! Don't be fooled since it is Indian Food for the non-Indian palette.",
+                "datePublished": "2016-07-27"
+            },
+            {
+                "reviewId": "WawKbiWX_FNCyJrhUuBL0g",
+                "author": "Neelakantan N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I love the lunch offers and a regular place to come for my late sunday lunch to get rid of a hangover. \nFor 10 pounds we get a chicken biryani and a starter as well. A brilliant filler. \nThe staff are courteous to a fault and ask you how we are enjoying our food a few too many times. This is a chain of restaurants so I can't say the food is unique to this place alone. But it isn'y curry house stuff. The spices are quite genuine and I truly like what they serve.",
+                "datePublished": "2013-02-03"
+            },
+            {
+                "reviewId": "wnUU7UZAnqTRyynxxBz_RQ",
+                "author": "A P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Masala Zone is a great venue overall.  The place is spacious for larger groups, an 8min walk from Piccidilly Cirxus.  Sevice overall was good.  Tried lamb kebabs, malahi chicken, butter chicken and green chicken.  All the dishes were very good and would recommend.  Only negatives are portions are smaller than expected and as a result we had to order more dishes pushing the price point higher then we expected.  Hence in a price scale it becomes at least 3 out of 5.\nWould visit again, so that pretty much sums it up.",
+                "datePublished": "2015-08-19"
+            },
+            {
+                "reviewId": "Cznk1PIkChzmXGPUo5_y2w",
+                "author": "Jeanie L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Indian puppets decorated the ceiling of the large open space. I ordered the chicken thali which gives you a choice of curry and comes with four side dishes plus rice/naan. Pretty good portion sizes and flavourful dishes for ₤14. Not to mention, the waiters and servers were on it. Great stumble upon!",
+                "datePublished": "2015-08-05"
+            },
+            {
+                "reviewId": "UT2JOYSKhAvw9-gLEydkYA",
+                "author": "Prima Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Delicious authentic indian food. The fish thali was plentiful and very filling. I especially loved the cauliflower and potatoes dish and of course the fish. The place is very big and spacious, no reservations needed since we came around 5pm for an early dinner. It is a bit pricey but really good.",
+                "datePublished": "2016-02-23"
+            },
+            {
+                "reviewId": "DqWFZjZ9Anbqlp-6pS8LMw",
+                "author": "HM N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "On impulse, I decided to try this place for dinner since I was in Soho and was planning on getting dinner somewhere anyway. There is a lot of space inside so I can tell it is a good place for groups. They have a bar-like seating in the middle of the dining room facing the open kitchen which is great for solo diners like me. I got a mango lassi and a regular thali with prawn curry. The thali was delicious and just the right amount of spicy. I loved the prawn curry - the sauce and prawns were cooked very well. They had a lot of staff that evening so service was good and attentive.",
+                "datePublished": "2014-11-30"
+            },
+            {
+                "reviewId": "kO2QefQ1sXtoFKnUGvNE-w",
+                "author": "Mike Y.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We figured a chain would have non-spicy food for the kids, so we picked Masala Zone.  So here is the review ...\n- Location: In Soho.  Easy to find.  Very accessible.\n- Service:  Good service (for a chain) in general.   The server gave us an introduction after we told her that this is the first time we are in Masala Zone.  She also recommended some dishes for the kids.\n- Environment:  Bathroom was clean.  Restaurant was clean and OK looking.\n- Food:  So so.  I definitely had much better Indian food before.   I also wish that the entree includes rice or bread so we don't need to separately order for the normal items.",
+                "datePublished": "2013-08-26"
+            },
+            {
+                "reviewId": "1N0celEpIf8gEyi6savUfw",
+                "author": "Ramyaa V.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Masala chai served without sugar by the side- not my idea of attentive service. But my siblings were happy with their masala ginger mojito. The food was good- some things were even very good. Dessert was meh. Service was unfortunately very slow and the demeanour of the person attending to our table was very ungracious to say the least. Was piqued enough to ask that the discretionary service charge be removed. Might still go back, hoping this experience was aberrational.",
+                "datePublished": "2015-06-13"
+            },
+            {
+                "reviewId": "6DydtyFUbCguHUZ9Yizd0w",
+                "author": "Steve W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Who doesn't like Thali? Well I suppose if you don't like Indian food, but if you do Thalis are a great way to have a taste of multiple things and Masala Zone does a good solid take on Thali in a modern clean setting.  Something different when you don't fancy the local curry house with the 70s decor.",
+                "datePublished": "2014-08-27"
+            },
+            {
+                "reviewId": "uaOz0Mq_y9yWr13uDnEn5Q",
+                "author": "F F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "3 star for this place due to service\nI was super excited to eat some Indian food in London. Can here on a sat night and the place looked modern. The menu has a lot to offer and we ordered a butter chicken and thali with a coconut chicken base. Both were tasty. Other people at our table also got different thali meats, beef and veggies. Reason for 3 star was due to service. After we just sat down our waiter asked if we want an appetizer and we said no but ordered drinks. After 10 mins we got our beers and then ordered.  We ended up ordering an appetizer and the waiter made a smart remark \"oh now you want an appetizer\" we didn't say anything. After everyone dishes started to come out we got our butter chicken but no thali. We waited till everyone else at the table got their food and after a good 5mins I had to ask for it. The waiter grabbed his pad and doubled check everyone's order and said oh I'll get it now so it looks like the kitchen either missed our order or a runner brought our food to someone else. By the time we got the thali everyone else was done eating so we rushed to finished ours. We also asked for water 3 times and didn't get it till the end of the night. I think the over all experience could of been better because there are waiters, food runners, managers and busboys but we some how couldn't get water when we ask 3 different people for it.",
+                "datePublished": "2014-06-17"
+            },
+            {
+                "reviewId": "IJHFqUUGEEwQ6_X-UIbIsg",
+                "author": "Paul B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Masala Zone?  Are you kidding me?  I'm not going to eat at somewhere named Masala Zone, that sounds terrible.  \nWrong.  This place is the tasty-ness.  If you didn't eat here because of the name then you just fucked up.  oops.  \nLets talk for a minute about why MZ is the hotness.  \n1.  If you have to eat out alone a lot (obvious I eat out alone, look at this review, you think I have friends?) they have a huge bar thats perfect for eating some lone tasties and not feeling like as much of a weirdo. They also are good about not keeping you waiting if you are on your own.  nice.\n2.  If you are jetlagged and eating at odd hours they have super cheap deals. Get on that.  \n3.  You can do your laundry next door while you eat.  Look how efficient you are.\n4.  Thalis mean you don't really have to make up your mind, Just order big and eat all kinds of goodness.\n5.  The desserts look delicious but I'm always so full I've never been able to try them.\n6.  Way cheaper and way better service than Chor Bizarre.  Whack ass Chor Bizzare, get that shit out of my face.  \nWhatever, lists are weaksauce, I'm sorry for even doing that.  I eat here all the time.  ALONE.  Come on, if that isn't going to persuade you to eat here then stop reading yelp, you are beyond helping.",
+                "datePublished": "2011-11-06"
+            }
+        ]
+    },
+    "80": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "8sfkYUfAXGkzoXODaRcO5A",
+                "author": "Justin K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I typically avoid chain restaurants, especially while on vacation but I was definitely impressed! I ordered the grand thali which was delicious and left me wanting more. We luckily were seated without a reservation even though we were initially told reservation only. Also far enough away from the hustle of Regent Street but close enough to explore SoHo after a great meal.",
+                "datePublished": "2015-03-15"
+            },
+            {
+                "reviewId": "7HK-s6aME5sNOOX64VnVHg",
+                "author": "Renee F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Clean and classy Indian joint in a convenient location. Delicious traditional recipes that do not disappoint. We enjoyed the butter chicken and the lamb vindaloo, each served as larger dishes accompanied by a mango chutney, mango sauce, lentils, rice and potatoes. Honestly one of these large dishes with a side of garlic naan is more than enough for two. But it was so tasty and we got greedy so the second serving was necessary. I definitely recommend this place and would come back again!",
+                "datePublished": "2014-09-14"
+            },
+            {
+                "reviewId": "2sKGlgWsoVuDRnHSkfBEQg",
+                "author": "Veronica K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Lived in India for 6 years so know good Indian food.  Their special was great with a variety of different choices.  Ordered naan and water on the side.  Curries are very spicy so ask if they can make it milder when you order.  Beautiful setting, easy to find, great service, reasonably priced, and extremely popular place to eat.",
+                "datePublished": "2014-02-24"
+            },
+            {
+                "reviewId": "PdSXa1z8pFs1K7gyBGBUfA",
+                "author": "Cindy H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Masala Zone was a recommendation from our hotel Concierge and a nice walking distance from where we were staying in London. \nWe were seated right away on a busy Saturday night. Service was excellent.  The waitress explained the menu to us and took our drink orders immediately. \nThe decor is modern and cozy. Soft lighting throughout the restaurant but still very upbeat with a combination of large party groups and tables for two.\nWe each ordered the Grand Thali, thanks to our gluttonous behaviour!\nThe Grand Thali consists of a canapé, papadum and chutney, a choice of curry, two vegetables, dal (lentil), raita (yoghurt), salad, chapati (indian bread) & rice. It sounds like a lot of food, but each of the dishes come out in mini bowls so you get to try a bit of everything. Price was 10-12GBP each. \nAlso on the menu is a good selection of starters; cold and hot, as well as 'street food' appetizers. We wanted to try some; however, resisted since our eyes are always bigger than our stomach.\nVery satisfied with this meal, as it was the end of our Europe trip.",
+                "datePublished": "2011-09-27"
+            },
+            {
+                "reviewId": "b0op0qfDDxXdSGjU4Tk2bQ",
+                "author": "Rachel H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very tasty food. I am very very partial to the Thali, especially the Managalore chicken curry. The regular thali was a bit much for me, in terms of portion size. I had trouble finish it up but forced my self anyway.Something to keep in mind, for next time, I should skip lunch if I am heading out here for dinner. \nMy husband had the butter chicken with naan and a chicken biryani. The portions were huge and he was able to finish it up quite easily. \nService is very good. I was quite surprised how attentive the waiters were.Always had our glasses of water topped up. \nOne of the few good Indian restaurants in the Covent Garden area. Good find, definitely going back.",
+                "datePublished": "2011-07-03"
+            },
+            {
+                "reviewId": "BoFqoRgxxgaKE39dX2pVJw",
+                "author": "Fotios T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I come here a lot. \nI mean, a LOT.\nMainly because of a promotion (no longer participating :() that gets me half price food to be honest. This makes their thalis a great lunch treat if I'm feeling like a chilled lunch. The grand thali is a fantastic beast comprised of a curry of your choice alongside several vegetable side dishes; always different, always a delight. Round it off with some rice, chutneys and a chapatti and you have yourself a meal. I'm that weird kind of person who doesn't mind taking a gamble on menus so this sort of pot-luck approach to the thali is awesome and encourages repeat visits. \nQuality of the food is good. The meat is cooked decently, never dry, and the curries have a great combination of flavours. The fact that the majority of your meal is in fact vegetarian and still fantastically tasty is testament to the chefs here (yeah, I'll say it, a lot of vegetarian food is bland and pointless)\nAt full price the dish is decent value; at half price I'm planning my return trip on the way out of the door.\nOh, one word of warning. Don't order the masala cola. Grim.\nUpdate on the taste london card discount: they no longer do it. However their lunch deals are still reasonable (starter and a regular thali for a tenner) so it's still not terrible value for money.",
+                "datePublished": "2011-07-11"
+            },
+            {
+                "reviewId": "W11S1PSzWYL3ltTTa06zjw",
+                "author": "Jaison S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "BEST Indian food I've tried (but i've only tried LA Indian food). Luckily, Yelp has extended it's reach to the UK, otherwise I would've never found this place. The staff was extremely kind and helpful with our dining choices.\nIt has been a month since I ate here but I STILL remember the name of the dishes I tried -- \nThe Grand Thali came with plenty of food (your choice of curry and different kinds of side dishes that were great for dipping your bread). If there's one thing you MUST try it's the DAHI PURI. No need for explanation just get it. You won't be disappointed. :)",
+                "datePublished": "2011-09-09"
+            },
+            {
+                "reviewId": "zPHp9Sn3tBFfaYvO0g5qnQ",
+                "author": "Sakshi T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great ambience!! Good food! \nThalis are really good!! We ordered one chaat and one thali, it was good for two of us.. They do give extra rotis :)",
+                "datePublished": "2014-07-02"
+            },
+            {
+                "reviewId": "5n2HWHeKnRK6d9uMCI03wg",
+                "author": "Justin D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Good selection of north and South Indian dishes (loved the Mangalorean Chicken). Food and atmosphere is great, so is value for money.",
+                "datePublished": "2015-11-15"
+            },
+            {
+                "reviewId": "V2_tglSud4Q3-ySd1lZXRg",
+                "author": "Sudeep B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Being a nitpicking Indian foodie I can vouch for the masala dosa which is done perfectly. But am afraid I can't say the same for the golguppas and the aloo tikki chaat. That is not how you make them and they are far from being authentic. Also found the service extremely slow but the staffs are pretty friendly.",
+                "datePublished": "2014-10-15"
+            },
+            {
+                "reviewId": "kjrKzy48UdRcgZOP9k0hUg",
+                "author": "Kara B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've been here on two occasions while visiting London. Both times I had the Thali which a mix of the daily specials. Indian is one of my favorite cuisines and I've been to many restaurants all over the world and this is truly world class. The staff is very friendly and the service is quick. Plus the atmosphere in Covent Garden with the puppets hanging from the ceiling give the restaurant a cool vibe.",
+                "datePublished": "2014-07-24"
+            },
+            {
+                "reviewId": "oQs_mzoMJ49yAdmebgwoOw",
+                "author": "Nathan L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I had always wanted to go here having walked past many times, and never quite managed it. That was until last Saturday when I treated my mum for her birthday. We all ordered a lunchtime thali, and what a delight it was. Often Indian food can be greasy and unfresh. This was quite the opposite. The grand thali came with at least 5 different small dishes, each one delicious, and all for a bargain £10! I will definitely be going back. The staff were lovely too.",
+                "datePublished": "2013-10-01"
+            },
+            {
+                "reviewId": "3ps14ndV99y6Vv6V-V4xPA",
+                "author": "Dana M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We quite travel the city to come to this place cause if u google \"best Indian food london\" this restaurant it's coming first up. I must say: best Indian food I ever had! Small portions of many types of Indian food. Delicious!!!! I would comeback for sure!",
+                "datePublished": "2014-01-16"
+            },
+            {
+                "reviewId": "scey-O4REs9qcsc_6xmbnA",
+                "author": "Mike D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Deeply average. Sauces were unsophisticated and bland. Salad was crudely prepared. Service was meh. I expected better from a place rated 4 Yelp stars in London.",
+                "datePublished": "2013-07-18"
+            },
+            {
+                "reviewId": "IR6dhNUvaNVwV_XKYIqmsg",
+                "author": "Punam D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Came here after a few hours hard shopping on Oxford Street on a Sunday. Although the staff were welcoming, the place was practically empty. The menu is quite varied, and centres around 'thalis' which provides for an assortment of complimentary dishes in a traditional plate. I had the tandoori chicken wrap which was filling but not particularly flavoursome. My friend had a small thali and she was very happy with that. If you're in the neighbourhood, and want something quick and reliable, if a little unadventurous, this might just be the place!",
+                "datePublished": "2012-11-25"
+            },
+            {
+                "reviewId": "8zxUwHJaxEkhiSib8IIBqA",
+                "author": "Yane Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wow, this place was good. \nI think I got the Thali (regular not grande) with butter chicken for about 8 GBP - I believe? The quantity was not too large, but the quality was definitely good. Actually, it's probably better that the quantity was average because you would get full. Unless you have a really large appetite, just get the regular thali. \nThe thali came with a potato salad type dish (which was excellent), green mint/coriander dish, and I can't recall. Either way, I enjoyed it and would definitely go back again. \nApparently, the owner is supposed to be similar to Tayyabs, which is another good Indian joint. (Don't take me for my word...this is what I heard from another person who lives here.) I have been to Tayyabs, and the wait is RIDICULOUS. \nMasala Zone is quite nice. Not loud. Nice ambiance. Good food. Would go back again. =)",
+                "datePublished": "2011-04-11"
+            },
+            {
+                "reviewId": "2D0gcdetlLy9vMZ7ETpWdQ",
+                "author": "Jen S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is a favorite of mine, and offers amazing Indian fusion food for the price. \nIt is located on a street that isn't as busy with stupid tourists and frenzied shoppers, which is nice if you are a calm person like myself. \nThe service at Masala Zone is top-drawer all the way, and the servers are very good and personable. \nThe menus offers a great deal of choices, and it is a good place for vegetarians too.",
+                "datePublished": "2011-05-16"
+            },
+            {
+                "reviewId": "qFoJtpnxQsh0ic_SR2MS7Q",
+                "author": "Rodene R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Not a HUGE fan of Indian food, but  this place gets a 3 star rating. They're decently priced, always a plus when the food tastes decent too.\nWhen in London, I usually end up eating here at some point during my stay. Again, not into Indian food, but this place makes the cut. \nIts not good when you have it delivered, so be sure to visit a location. \nIf I were you, I would order:\nthe grand thali with veges or prawns (the prawns are not good in Indian food from what I've been having...they're just way too small & unfulfilling)\nThis grand thali comes served on a huge round silver tray with little silver bowls of a crazy variety of spices, herbs, sauces, salads, veges, indian bread, rice, and lentils.\nI've never had Indian food served like this until this place, so it was unique. The whole layout of this particular place is pretty nice, simple, oak/wood decor, bar like seating in some areas, not usually crowded.\nI don't know if there is a specific way, or a specific order to eat everything on these trays, but I just graze about, trying all the different colored & textured randomness. Works for me every time. \nI don't like the yoghurt they serve with the entrees, nor do I like their special herb sodas, SOO GROSSS. Don't do it, don't. \nThis place is better than any other Indian place I've tried. I really don't like buffet styled restaurants, and most of the Indian places I've been to are, so good on ya Masala Zone for taking the road less traveled.",
+                "datePublished": "2010-08-20"
+            },
+            {
+                "reviewId": "KBRS1THnrdmH2rZAbOGqFQ",
+                "author": "Joe L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Been to this Masala Zone several times now and still think its great. Their food is delicious, if not incredible. Most importantly,  its different from the standard curry house - in a good way!\nThey have plenty of room but you should expect to wait a little while on busy nights as they're very popular. \nFood wise the thali is my favourite, you get a range of starter dishes and your own choice of main course but they also do a great line in tandoori. As if that wasn't enough the cocktails are delicious! \nThere are a couple of negatives... I'd say that its a little impersonal and sometimes rushed. The menu is also not very extensive, you'll quickly find yourself returning to the same old thing.\nOn the whole its well worth a visit, there are some great dishes and a great night to be had!",
+                "datePublished": "2010-12-03"
+            },
+            {
+                "reviewId": "q-C7gRXr3QXJhE23AQOJJg",
+                "author": "Jinny N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Everytime I've passed through Carnaby Street/Soho I've always found myself saying I must try Masala Zone and now I finally have!\nBeing located in a busy area the restaurant is simply but elegantly decorated like a canteen styled eatery. Menu is easy to read and the staff are very helpful explaining what everything is. I love food and I love curry, so I instantly went for a grand thali which is basically enough to count or a starter and main course. There wasn't a long wait till our huge platters arrived. I was a bit anti-social as I was concentrating so hard as I didn't know where to start with all the little bowls of delicious things. I accompanied my food with a yummy mango lassi which in hindsight I should have ordered for desert.\nWe had a voucher for 2-4-1 mains but there were 4 of us the and waiter kindly re-printed another voucher for us making the evening even more sweeter! However everything is very reasonable anyway considering the quality and quantity of food.\nA big must for a quick fix curry or for a group occasion.",
+                "datePublished": "2010-09-16"
+            }
+        ]
+    },
+    "100": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "oknRBvHE_HmHl5nAPFeM_g",
+                "author": "Paula D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Indian fast Food. Nothing else unfortunately. Good service. Nice place. However the food was just not good enough. Watery Korma with only cream flavor. Tikka Masala with no taste. Thin Naan with a taste of flour only, even the garlic one. Sorry there are much better Indians in London",
+                "datePublished": "2015-05-15"
+            },
+            {
+                "reviewId": "3E2CcXVIy5Cwce4venSdOg",
+                "author": "C C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "One of the best things about being in London is experiencing the Indian food! So it's ideal not to be disappointed when your food arrives. Masala Zone packs in an explosion of old world tastes into a new world setting.\nOne of the first things you'll learn when you enter the restaurant and talk to your waiter is that masala means spice. Here you'll find \"street dishes\" that are fit for royalty! Be sure to try the pan bhaji- yum!",
+                "datePublished": "2008-12-24"
+            },
+            {
+                "reviewId": "4QjTy2vOACqYeKkvHsrmlw",
+                "author": "Andres B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "pretty great \"street food\" from india. big share plates of multi items with dips.(Thali) big one nice for 2...samosa was perfectly good...lassi nice. even had one half decent beer choice. bit fast foodie...but all in all quite ok... would return..",
+                "datePublished": "2014-12-06"
+            },
+            {
+                "reviewId": "_nR1Iuv3VkZc1ozKHmL4cg",
+                "author": "Marc W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I have seen a number of reviews deriding this as merely a 'chain' as if that immediately detracts from its capability to deliver tasty robust and reasonably genuine Indian food. However when that chain has the parentage of the much respected Veeraswamy and Chutney Mary restauarants you tend to ignore that. Indeed as a 'chain' it has grown considerably but the quality of the food has not changed since there were one or two of them.\nThankfully I have at least a good enough comparison of food having been to India and living in an area where there is a large Indian community and award winning restaurants. So I can say that this is very well done and very well presented food. The spicing is as it should be and pungently aromatic at times. Well priced for the West End and with friendly and efficient service, this is a favourite of mine.\nIt can easily cater for couples or groups as they have tables of varying sizes. The menu caters for what they call 'street food' and is presented really as a fast food Indian experience. But that would be doing it down as these dishes are well worth savouring. \nIt's not a restaurant to bring a romantic date nor is it one where the wine list will leave you breathless but for excellent and extremely tasty Indian food, well presented and efficiently served, you can't go wrong.",
+                "datePublished": "2010-02-14"
+            },
+            {
+                "reviewId": "2lfDr_zpyBCOXBvXHKHCWg",
+                "author": "Denise C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The Masala Zone chain is a favorite in general for reliably good Indian food, but this location seems to be the best of the bunch.\nIt's located on a quiet street behind the bustle of Regent and Carnaby Streets, and is a welcome respite from the flotillas of stressed-out holiday shoppers. \nI almost always go for the chicken tikka kabob, which changes flavors on a daily basis so we can be surprised when it arrives.  And the garlic baby spinach dish from the side order menu is a must have which we always share no matter what else we order.\nDon't let the fact it's a casual dining chain keep you away - Masala Zone is under the same ownership as the fantastic and upscale Veeraswamy on Regent Street (which you must treat yourself to at least once in this lifetime).",
+                "datePublished": "2010-12-28"
+            },
+            {
+                "reviewId": "QGL6FWfQhxXjfmAbUAMXEQ",
+                "author": "Joris E.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food and good service, had the thali platter with lamb which has great taste, only the curry portion size was quite small and only had 3 pieces of meat in it",
+                "datePublished": "2015-04-10"
+            },
+            {
+                "reviewId": "ThNffF59vrHWbuf0rpJSVw",
+                "author": "Manasi K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This review is for the desi who's sick of eating bland Indian food that caters to the western palate. \nLet me begin with saying that the 'chaat' was perfect! We tried the sampler plate & they were all good. The chaat may not be as grand as that which you get in Delhi or Mumbai but it comes darn close.\nFor mains we ordered the regular 'thali' and there wasn't one thing in there that we could complain about. The thali was fairly spicy, though (both my husband & I had to blow our noses once through the meal). The portions are large, so we were stuffed & didn't try the desserts.\n      \nThe service was friendly & quick (we went after peak time & the restaurant wasn't full). We had 2 different restaurant staff walk over & ask if everything was OK.\nThe bathroom area door is deeply recessed & you don't get to see the insides of it each time someone opens it (yay!)\nThe \"show\" kitchen is visible from the dining area but it's pleasant to watch the activity in there. There main kitchen is behind recessed double doors & not visible. I liked the understated decor here (Warli murals on the walls) no Maharajas in gilded frames. The place is well lit.\nIt is handicap accessible (call ahead for assistance).",
+                "datePublished": "2010-01-24"
+            },
+            {
+                "reviewId": "GzJbjllGM2lkqU0uEJedAw",
+                "author": "Juncal P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I like Masala Zone for 3 reasons:\n-Thalis (I love everything that comes with more than 3 different kind of food on it)\n-Gol guppa or \"pani puris\"\n-Indian street food without having to spend 3 days in ICU after it (I will review the indian healthcare in YELP Bombay as soon as someone creates it, I promise...)\nThumbs up, Masala Zone!",
+                "datePublished": "2010-01-28"
+            },
+            {
+                "reviewId": "2zKQ0n0X0c8VYZWH8Nn8AA",
+                "author": "Graham G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I typically start with one of their delicious Mango lassis and then jump straight into either a Grand Thali or Regular Thali plate depending on whether I am going to share. The Thali plates come with a bunch of little bowls filled with dal, various vegetables, yogurt, and other things that are great for dipping. You also get to choose a curry. I can personally vouch for the butter chicken, chicken mangalore, and the other spicy green chicken curry.\nThe prices are already pretty reasonable, but if you want to have a very reasonably priced meal and there are two of you, try splitting a Grand Thali and throwing in an extra nan. You can also throw in an extra side bowl of curry. Even with the lassis the two of you can probably escape for just around 20 GBP. \nI think the only area that Masala Zone could significantly improve on is their nan. It lacks the freshness and fluffyness of excellent nan.\nCheers",
+                "datePublished": "2010-11-28"
+            },
+            {
+                "reviewId": "DU54gxaEsf2OtLpMZ6g_LQ",
+                "author": "Erik J.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Yelp lets me down again.  They is nothing four star about the place.  Had a a stellar curry last night, so coming off a fresh comparison.  Ok, this place is much cheaper, but really the food was so bland and uninteresting I could make better.  Lamb rogan josh, bland.  Garlic naan - looks like it had garlic on it, but couldn't taste it - oh and undercooked and cold.  Spinach with garlic - no garlic taste.  You get the idea.  Maybe relatively cheap, but no value.  Best to avoid.",
+                "datePublished": "2012-11-12"
+            },
+            {
+                "reviewId": "tEShUx1uLH4t8BBoM8jnWA",
+                "author": "Keith M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Grand tali nan. We went here twice and I thought this platter was great AND they were open late after a show.",
+                "datePublished": "2012-08-16"
+            },
+            {
+                "reviewId": "lsJkoWsXmeVW6hEZnhG5kA",
+                "author": "Thomas A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Lets say you were dating someone that was British-born Indian and you had never really had curry before and you asked them to bring you somewhere legit for your first curry experience.  Would you expect to be brought to a chain restaurant?  \nLet's just say I was mildly furious at the lack of effort. \nLet's also acknowledge that the term 'mildly' is an understatement. \nSo I have to say the only curry I had before this was on a flight on Air India on which I was weighing the probability of statistical outcome on which would kill me first:  the shotty plane, the pilot that seemed to like to create turbulance where it probably didn't exist, or the botched airline food that came in containers, none of which I could identify other than the one that said \"water\"... \nSo this being my first \"curry\" and living in the land of \"curry or go home\" I expected to prepare and deliver some speech on how \"oh gosh, this is what I've been missing, I feel so cultured\"  but instead I recited, \"hmm ok... well, thanks for ordering for me.\"\nMaybe Indian food isn't for me, it was ok, I've since walked by what seems like zillions of Masala Zones and have yet to be tempted to go back in.  As my date pointed out, there were other Indian people eating there and that was a good indication, so apparently it's somewhere close to legit.  \nI've been taken to two other places since then, one was supposed to be the top top top amazing and one was apparently supposed to be \"pretty good' for Brick lane standards, and they all tasted and looked the same to me but had different price tags.  I say this with the caveat that I'm apparently not a curry-person, but if someone is making me go get one with them, I'd rather just go to Brick lane.",
+                "datePublished": "2009-10-22"
+            },
+            {
+                "reviewId": "4HAM-4-RwTsJBBgVawMWTQ",
+                "author": "Vicky L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I've been to masala zone several times now and I still haven't decided whether it is good or not.  However, since I only ever come here about once every year and it is pretty low on my list of places to go for an indian, I think honestly, the verdict is leaning towards \"no, I don't particularly like it\".  \nMy friend and I arrived at peak hour- just after 8 and were asked to wait for a few minutes to be seated- however, during the 10 minutes we waited, there was a table close to the door that was free, and lo and behold! that was our table.  I guess this was to be expected as all the staff seemed very busy and in my personal opinion, the restaurant could have benefited from at least 1 if not 2 more servers this evening.  I was impressed that the staff were calm and friendly after running around in frenzy, although they did forget our extra order of poppadoms and had to be prompted for them.\nWe both had the butter chicken thali and the chicken was good, spices were well balanced.  The chapati was a large round pita/ naan without substance rather than a traditional chapati, so I was a little disappointed as I expected well, a chapati.  Personal bugbear of highly spiced poppadom was here and the daal tasted like Chinese red bean (aduki bean) soup without the sugar, underspiced and under salted (total failure in my point of view).  Aloo gobi was ok and the non-descript veggie curry was over spiced.  Actually I take that back; the poppadom was so over spiced, I believed the non-descript veggie curry was over spiced- I am not entirely sure on that one.\nI really like the idea of a fast food type thali restaurant serving good quality Indian food at reasonable prices.  However, I also believe that good indian food is delicately spiced- i.e. bursting with flavor; you can taste all the spices but not all screaming bloody murder in your mouth at the same time, then replaced by a bland hotness.  Masala zone comes in a little heavy handed with their spices, and that is just not the kind of indian that makes me food happy...  I want to taste be able to taste all the different dishes, I don't want to just slop different types of goop in my mouth.\nAll in all, I probably won't come back for at least another year, and by that time I would probably have forgotten what made me upset about the Masala Zone.  It is a lot of food for the money they charge though.  \nAt least I have tayyabs to look forward to tomorrow!  Yum.",
+                "datePublished": "2009-06-05"
+            },
+            {
+                "reviewId": "wxh7IQbFb-SuRedBWKb8XQ",
+                "author": "Qype User\n contes…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I took my godson who loves it here and loves curry...he's 11....it was my first time....and I hasten to add my last. The only saving grace were the staff who are lovely and very helpful but the food was a miserable excuse for Indian Cuisine....it's sort of dumbed down Indian for the masses and that's being kind. Everything was gloopy and even the Grilled Chicken Tikka had some kind of sweet slimey sauce on it....my Godson had the chicken saffron tikka Masala which was bright yellow..(not with saffron but tumeric) and sickly sweet with way way way too much coconut cream....the naan bread was clearly bought in and flat as a pancake, tasteless and cold... and all in all not good.\n Give it a miss.",
+                "datePublished": "2010-04-08"
+            },
+            {
+                "reviewId": "7l7yT3bfdRCxlVW1uW_b0g",
+                "author": "Fozz M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is one of my must-do's everytime I visit London and is often my first real meal after getting off a flight.  \nAnyone that is with me has to experience it and I have yet to have someone who was disappointed by the experience.  \nThe Thalis are definitely the way to go.  They offer quite a variety and for someone who loves to have multiple options during a meal they are great.",
+                "datePublished": "2009-08-11"
+            },
+            {
+                "reviewId": "fxPyTS9z0evNmtSLO9sLmA",
+                "author": "Gracie-C Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fun stuff.\nA place like Masala Zone could only exist in a densely-packed and highly concentrated Indian enclave like London, New York, or possibly San Jose.\nNaysayers will snub Masala Zone and call it a chain restaurant, but it's really quite nice and their concept is sound.  That and the fact that their food is quite good.\nTheir focus is thalis, and in my mind, this really is the best way to serve Indian food if you're not into the \"all you can eat buffet\" kind of thing.  A thali is pretty much a complete meal served on a large steel platter.  The rice is in the center and it is surrounded by small bowls (katoris) of condiments, side dishes, and whatever the kitchen was in the mood for making that day.\nThe ordering process is a little confusing at first, but easily understandable:\nStep 1: Decide on which thali you want, regular or grand.\nStep 2: Decide on your main protein or veg (e.g. chicken, prawn, veggie, etc.)\nStep 3: Decide on the style of your main protein or veg (e.g. curry, tikka masala, butter chicken, etc.)\nStep 4: Wait for your platter and chow down.\nThalis come in regular or grand, and they're a pretty good deal ranging from 9-12 pounds for a complete meal.  \nPapadum are so thin, you can almost see through them.  Chapatis are whole wheat and have a nice texture too.\nStaff are friendly and eager to guide you through the maze of choices on their menu.\nAtmosphere and decor is hip and casual.\nComplain all you want about the chain restaurant thang, but I'd kill for a masala zone here in the States.",
+                "datePublished": "2009-04-10"
+            },
+            {
+                "reviewId": "awBvU-I3kggLIBxxtzUXGA",
+                "author": "Yee Gan O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Masala Zone is a chain of Indian restaurants serving mainly thalis - combination of different dishes on one plate. I like dining here when I come to London on my own as it's relatively cheap to get a complete meal for one person with starter, main course, rice, naan and condiments without breaking the bank.\nThere is a lot of flexibility as to what you want on your thali plate as well as how many curries etc, with price obviously increasing with the number of items you choose. There is also a nice section of starters, which can be ordered separately.\nFor me, the food is competent and the portions are generous but the flavour is average. Perhaps I'm spoiled by having the curry houses of Tooting so close to home. However, I do still return here when I'm in town and fancy a curry for one.",
+                "datePublished": "2009-03-31"
+            },
+            {
+                "reviewId": "stAwMhEfZMHDVCQ_vxnP2w",
+                "author": "Qype User\n cheape…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Full review with pictures can be found here \ncheap-eat-london.com/200…\n \n Time Out describes Masala Zone as \"Soho's best Indian, no contest\" and therein lies the curry lover's problem: NO CONTEST!\nThere's a real dearth of good ol' Indian curry houses in the West End with a few sporadically dotted here and there, but most notably a small cluster of dingy restaurants on Denman Street in the Soho area. If you're ever unfortunate to walk into one of these places, might I suggest negotiating 10% off the menu price first. They usually oblige and you might feel a bit better knowing you salvaged something to go with that slab of ghee swimming in your belly.\nMasala Zone have thrived in part due to any lack of alternative choices but also through innovation (or modernisation), if I can call it that: Big, illustrated and descriptive menus; a bright interior; spacious seating; and well trained waiting staff that don't wear waistcoats. Most importantly of course is the food which I found to be a commendable effort. Previous visits with friends have taken in their renowned Thalis - a complete meal on a tray made up of several small dishes - and they've kinda dissapointed. The meat curry dishes aren't swimming in oil but at the detriment of any real flavours. Same with the vegetable dishes which were slightly on the cold side. At £11 for a thali, I'd also question the value - sure the variety seems impressive but an espresso cupful of rice, some shredded onions with green bits and a pot of minty yoghurt does not fool the tummy.\nThis recent visit with my buddy Nige saw us share: he, his lamb madras and I, my chicken mangalore. Supplemented with rice, chapatis and garlic spinach. For little more than a couple of thalis I'd say that it was a more fulfilling eating experience.\nThe madras was delicious - heavy on the chilli and tempered by tamarind. Lamb seemed a tad overcooked but it could've been a bit too lean. The Mangalore chicken was just right in it's combination of spice and coconut, with ginger being most prominent. The chicken was a bit dry though and I'm finding this to be a common occurence in all their meat dishes.\nWe decided on the Rasmalai for a sweet thing but other choices are standards - Golub Jamun, falouda (a sweet drink with colourful noodles) and kulfi almond ice cream. Rasmalai was a great choice - light, spongey, milky patties soaked in a saffron flavoured milk sauce and topped with pistachios went down a treat with the chai teas.\nMasala Zone is a pretty good Indian that provides a more contempory experience to the traditional restaurant and if they figured out a way of serving meat that isn't overcooked to a high turnover of customers then I'd say it'd be excellent.\nThis was my second visit and it was a more positive experience than the first one.\n£40 for the two of us which includes 2 mains, rice, chapatis, sides, drinks, desserts and chais.",
+                "datePublished": "2009-08-11"
+            },
+            {
+                "reviewId": "PX4iobNbCf9ZYSW6c3CAjA",
+                "author": "Katee L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I really liked this place. Perhaps the best Indian I've had in awhile. The thali was a good size and I felt satisfied without being over stuffed. The flavors were really great and you get a little taste of everything. Solid choice in London.",
+                "datePublished": "2011-08-05"
+            },
+            {
+                "reviewId": "KEFAU9CRlLIfxz85S3HR0A",
+                "author": "Elmars G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of the best indian restaurants in London. Perfect food but slightly slow service.",
+                "datePublished": "2014-03-08"
+            }
+        ]
+    },
+    "120": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "UnFo2i6jz5DytOmTYJcVnw",
+                "author": "joy o.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place has become like my second kitchen. I eat from here nearly everyday! You think I'm joking but I'm not. It helps that I live right next door but that isn't the only reason why I keep coming back. I love fresh food with flavor at bargain prices and that is exactly what I get here! How do I know it's fresh? Well, I see the delivery truck loaded with fresh fruit and veg everyday! Furthermore, I can smell the delish aromas of real Indian cooking creeping through the crevices of my windows and doors everyday! \nTypically my partner and I will order the regular sized thalis. The thali is basically like a set meal which comes with  sides of veg, potato, and lentils of the day, along with two sauces to eat with your popadoms, and then of course the main which is normally rice with whatever curry you choose. I usually go for the Prawn Malai. To me this curry is a perfect blend of creamy coconut milk based sauce with a barely there spice. \nMy partner likes to get the Lamb Korma. I am a pescatarian so I cant personally comment on this curry, but I take it from the numerous people that have tried this dish that it is pretty damn good.  \nThere isn't really any difference between the regular and large thali as you aren't getting larger portions with the latter. In fact, the extra bit is some naan bread, little salad, and small samosa. Regular thalis are about £6-7. I definitely recommend this set as you'll get to taste a little of everything without spending more.  \nDining in is also a nice option since staff are very congenial! The place itself is not posh but more casual. The look they're going for is maybe an underground clay like hut but creative and Indian inspired nonetheless. \nCompare this place to all the little restaurants on Brick Lane and Masala Zone would still come out on top for me. Only reason why this place didn't receive 5 stars is out of homage to my Indian friend's mum's cooking, who by far is the best at Indian cooking ever!",
+                "datePublished": "2010-10-10"
+            },
+            {
+                "reviewId": "ECrz3d9rwA_W9mmI9mq8vw",
+                "author": "Rich H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Ok, so it's not the most authentic in the entire world, but it's pretty good value, especially for the veg thali.\nService better than average.  Usually easy for a walk in after the theatre.  Recommended.",
+                "datePublished": "2009-01-24"
+            },
+            {
+                "reviewId": "rKIu6ULdK1__Li8rfKZXCw",
+                "author": "Qype User\n Ms_Bli…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A very satisfactory canteen-style approach to Indian food, which makes a welcome alternative to the traditional high st tandoori. I went to this one on Marshall St and had a very tasty meal with a friend.\n We started with Bhel Poori, which my dining companion had never had before but I recommended. It's like a crunchy mix of raw ingredients with a tamarind tang. Yum.\n The main courses were good too and the wine went well with the moderately spiced food. I was quite surprised by the good standard of food from a restaurant that is part of a chain, and the prices were very reasonable.",
+                "datePublished": "2008-12-30"
+            },
+            {
+                "reviewId": "mruGXELzhisODLujK3d83A",
+                "author": "Sanjit C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Masala Zone is run by the same people as Chutney Mary and Veeraswamy. There are other branches located at Covent Garden, Camden Town, Islington and Earls Court.\n Masala Zone - mercy be - entices and does not disappoint. Excellent service. Lovely range of non-alchoholic drinks (though booze is available for those as wants). A balanced selection of vegetarian to meat dishes available in combinations that illustrate the range of flavours from across India.\n As my record shows, I am a stern critic of sub-standard Indian/South Asian food. I can't bear insults to that culinary heritage such as bright red/orange sauces with generic chemical flavours which are an insult to the palate and do not represent 'Indian' food. If you want a curry out of a jar then get some muck from Sainsbury's or wherever but don't insult India's millenia of food tradition by calling it 'Indian' food.\n Masala Zone compliments India by serving proper Indian food - long may it stay that way!\n Prices are reasonable with excellent deals for 2/3 course lunches for between £8.50/£13. Dinners attract similar deals so you can be sure to fill up for £15.",
+                "datePublished": "2008-12-19"
+            },
+            {
+                "reviewId": "fcdTUf9fTj0gfNpKBi3oaQ",
+                "author": "Qype User\n Pierre…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very good Indian restaurant. I advise you the \"Grand Thalis\" which represents the typical tastes of indian food, it is not expensive and very copious !",
+                "datePublished": "2011-03-07"
+            },
+            {
+                "reviewId": "KNxzuLuSv0mOT9HRxPg52Q",
+                "author": "Stefan R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Masala Zone. This was the first restaurant we went to in our Live-one-week-of-indian-cuisine-only quest in London.\n Well, not really much to say. It's an ok place, but sure not outstanding from what I've seen in quite a couple of years of eating out in indian restaurants around the globe.\n For the price, the food is acceptable. Special wishes were not handled, especially not that of having the food spicy / hot / authentic. What a pity. Yet, the service was anxious. The place had, as others noted before, much of the franchise charm of big M. Yet, the place was clean and nice. Comfortable and ample.\n All in all, this experience has not floored me in any way, but neither did I regret going there.",
+                "datePublished": "2008-07-15"
+            },
+            {
+                "reviewId": "XnSOpGk-Medkj-ygHRHmAg",
+                "author": "Helen T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "for a chain, this is pretty good.  we shared the veg thali (not the grand thali, just the regular one), chana dabalroti, and the dahi puri.  i loved the dahi puri.  the chana dabalroti had more bread than i expected, and i was hoping for more lotus root.  the thali was great, and i liked that we were able to pick the curry we wanted.  it came w/ 2 chapatis, so it was plenty of food for 2 of us.  to drink, i had a mango bellini.  yum!",
+                "datePublished": "2011-10-20"
+            },
+            {
+                "reviewId": "lU9qy4xngLOH4Irr66u4ow",
+                "author": "Qype User\n mouch…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Masala Zone is the little sister of the stalwart Chutney Mary and Veeraswamy. Voted best value Indian in Soho by Timeout magazine, it's a fantastic Indian restaurant that has a great location, feels like a proper restaurant (to people like me who're usually on a budget anyway!) and doesn't break the bank.\n Masala Zone is built in a split level kind of way and has a lot of room - but it is so popular, you may have to wait a few minutes before you get a table, especially if you visit on Friday or Saturday night. I don't think it is possible to book ahead. The decor is nice and uncluttered with none of the kitsch that afflicts most Indian restaurants. The kitchen is located behind a glass panel and you can watch the chefs put your food together from the dining room. The service is polite and friendly and very quick.\n The food is essentially North Indian with a lot of curry and rice combinations. The chilli factor is clearly indicated and quite accurate. Try the double chilli options only if you really like spicy food! They also have a nice Indian drinks section, with the yoghurt based lassi being the thickest, creamiest lassi I've had in this country. Nimbu pani is the Indian lemonade and they also do a mean masala chai among other things. They have a liquor licence so you can also order from a selection of wines, beers, and a limited selection of cocktails. Everything I've eaten here has been good but among the starters a special mention goes to the seekh kabab which just melts in your mouth. The curries are all good; I haven't tried the noodle pots but if they really are the Indian version of Chinese (which is NOTHING like real Chinese!), then they should be worth a try.\n Their thalis seem to be very popular and are great value for money. Thalis are basically a full Indian meal served on a large metal plate (aka a thali). There are options in terms of the number of items you want and you can choose at least one of the items but in general a thali contains 2-3 vegetable curries, an optional non vegetarian curry, a poppadum, some rice, a lentil dish, and some sweet chutney. They also do a special ayurvedic thali for diabetics though I haven't tried this.\n In terms of prices, considering the quality of the food and the fact that it's located in Soho, it's very good value. My husband and I have stuffed ourselves for £55 for two people but we've also gone as a group of 4, and the bill has come to £68. It's possible to have a good meal and a drink there for under £15. So all in all, Masala Zone is great place to eat if you're in Central London.",
+                "datePublished": "2007-12-03"
+            },
+            {
+                "reviewId": "LdMWlVafCxHJUrv7TVmwDA",
+                "author": "Haley F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "masala zone. \ni love you.\nits funny. since ive moved here, about once a week i crave Indian food. some might argue that Masala Zone isnt that great, but for what it is, its pretty fantastic. its reliable, its fast, it tastes amazing. any questions?\nit serves until 11, so my friends and i often meet here before a night out. only once has the service been bad - and that time it was a nightmare - but the management took care of part of our bill with out us even saying anything, just reading the looks of horror on our faces. and hey, ive been back again, so...\nand their toilets are labeled \"Toilet Zone.\" if thats not hilarious, i dont know what is....",
+                "datePublished": "2009-08-08"
+            },
+            {
+                "reviewId": "5bzdxQcyeQh0GYWxo3ScAQ",
+                "author": "Qype User\n Superk…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very tasty and great atmosphere. All in all, I really enjoyed dinner here and would definitely recommend it. The thali dishes are excellent- little tasty bowls of curry, with veg dishes, popadoms and sauces. The wine was very drinkable and reasonably priced. The restaurant was clean, toilets clean etc. Staff were friendly, but did forget to bring the tap water we requested with our wine.\nThere is a variety of dishes available, so all tastes (and levels of spice!) should be catered for.",
+                "datePublished": "2008-11-19"
+            },
+            {
+                "reviewId": "HT2xARgGkuXcrcLkPUQRUA",
+                "author": "Qype User\n macall…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'll go along with the majority of other Qypers who rate this casual dining, Indian restaurant very favourably.\n This is new generation Indian dining, a whole different kettle of fish than the after pub type places that don't make any effort because the customers are all trolleyed.\n Well spiced food, meat eaters and veggies well catered for. Not to much oil and I would guess no artificial colourings used. They serve beer. Stainless steel thali style presentation. Well spaced, adequately comfortable tables and seating. Contemporary decor.\n Top marks, fully recommended.",
+                "datePublished": "2008-11-29"
+            },
+            {
+                "reviewId": "ectLgx4C9mKiUzMA7ptyZw",
+                "author": "Qype User\n TeamLu…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Was mega impressed by my meal there. I went with a small group on a fun night out. I was dubious at first and thought it looked like a standard chain serving bland food.\n How wrong was I?! Our very friendly and helpful waiter had us seated in no time and our order was taken equally promptly. The food was delicious and the portions weren't too big.\n We all had a great time and it set us up nicely for a good night",
+                "datePublished": "2008-06-30"
+            },
+            {
+                "reviewId": "TqC9aBDqP-dalx9GFkbg3w",
+                "author": "Melinda C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I am not an Indian food expert (although I eat it quite a bit in the US).  I had reservations about this being a chain, but the food was - my butter chicken (aka tikka masala, aka whatever) was good, and the accompanying side dishes in the Thalis were good.",
+                "datePublished": "2010-01-03"
+            },
+            {
+                "reviewId": "vlIUR8lUJ-TrY36y7iboWg",
+                "author": "Qype User\n juicyl…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Not only am I the worlds number one curry fan, but im the worlds number one curry critic, and given the slightest reason ill happily put to shame a curry if its not up to my standards. Once I even dared to complaine about a korma I had ordered in Goa, as I found it sour tasting. The chef was not impressed and I got the feeling I wouldn't be welcomed back\n The Masala Zone in Soho leaves me without complaint, and no matter how hard I try to find fault, I'm always left hushed. Every dish on the menu is mouth watering, the starters are gorgeous and the mains are divine. If your lucky enough to have any room in your tummy left then indulge in an Indian desert of coconut ice cream, probably the nicest thing to come out of Asia since silk.\n A meal for two with drinks shouldn't set you back more then 30 pound.",
+                "datePublished": "2008-01-23"
+            },
+            {
+                "reviewId": "WEQbWrOQHk7-2AIe4lnWDA",
+                "author": "Emily W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of the things we wanted to try when we visited the UK was Indian food.  Masala Zone did not disappoint!  It was some of the best food we had on our European vacay.  Everything on our thali plate was delectable!  It was a great dining experience and a nice way to end our trip.",
+                "datePublished": "2009-01-16"
+            },
+            {
+                "reviewId": "XaoqcsTmQnuEF9OoB-iWaw",
+                "author": "Ginny M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Nice restaurant deco....except the day I visited the air-con wasn't working and it was extrememly hot.  I had the lam and the mint apple juice.  I love the apple juice.  The food was decent and has a nice selection of sides.  This places emphasis is on vegetables.  Decent food but average for Indian food.",
+                "datePublished": "2009-06-20"
+            },
+            {
+                "reviewId": "UE_GKsSErQQ1-iprkpoDXg",
+                "author": "Qype User\n almans…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "very tasty food. price is also good compared to the portion size. nice staff and atmosphere. i'll going to this place again!",
+                "datePublished": "2012-05-06"
+            },
+            {
+                "reviewId": "l6Xm_ts4g2W8JtFI0fxGwQ",
+                "author": "Akira C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is modernized Indian food at its best. Clean restaurant with more mainstream type décor. It can get quite busy on weekends but the service is quick so that's usually not a major issue once you get a table. The staff are friendly and sincere and food was delicious. The menu is extensive and the vegetarian options are excellent. Highly recommended.",
+                "datePublished": "2008-11-29"
+            },
+            {
+                "reviewId": "kwRpy9kV4ZH4G1i0ZMp_Sw",
+                "author": "Anne S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "It was one unfortunate evening when the restaurant we had planned to go for dinner was not what we expected, and without a table reservation we ended up wandering along the streets of Soho with no luck of finding a restaurant with table  for six persons. Masala Zone was the only one welcoming us, and hungry and thirsty we were just glad to get into a any place.\nThe impression I got from the restaurant is that they offer fast food with Indian influence. My dish was actually very extraordinary mix of potato and banana (yes!) in a curry sauce and not bad at all. Creative at least! My friends experiences varied, but overall the food was ok. It was the service that gave us the empty feeling. \nThe waitresses were really fast, and little too effective, and gave us this in-and-out fast food restaurant feeling. You know as soon as you lie your fork and knife on the empty plate, it vanishes! We felt like we were pushed out as by that time there was already queue to this restaurant as well but that just left us a bit disappointed by the experience.",
+                "datePublished": "2008-11-18"
+            },
+            {
+                "reviewId": "6MaqSB8nNgbtMvcayonu_g",
+                "author": "Qype User\n willha…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good quality curry house that also opens on Sunday nights, unlike a lot of Soho restaurants. My girlfriend loves the thali, but I have one big problem with the place: they don't like people with nut allergies. Mention that you have a nut allergy in here and they present you with a bright yellow card informing you that if you eat one of their dishes and they happen to have chucked a brazil nut in it, then it's your own fault if you end up dead. Ask for the nut-free menu and you get a list that's barely one-eighth of the full menu. Is it too much to ask to eat something other than lamb rogan josh? Apart from that, the restaurant is both clean and speedy.",
+                "datePublished": "2008-11-30"
+            }
+        ]
+    },
+    "140": {
+        "id": "ye849AFuZlwSvdZ7KuOpYA",
+        "name": "Masala Zone Soho",
+        "category": "indian",
+        "servesCuisine": "Indian",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "9 Marshall Street\nLondon W1F 7ER\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/TzuHcVvZXxbNYVJAmiz5Hw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7287 9966",
+        "review": [
+            {
+                "reviewId": "LFCDjJXihBlgdFSShOQWsA",
+                "author": "Qype User\n foodfa…",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I didn't find this to be an enjoyable experience overall. The time I went it was noisey, a bit too noisey and I couldn't hear the waiter properly but he didn't seem much interested either. The food seemed to be favouring heat rather than flavour and we both felt disappointed especially as it came on a good recommendation. I would have to agree with another poster here it did have a McMasala feel to it. Not somewhere I would go again as I prefer somewhere with a more intimate feel.",
+                "datePublished": "2009-03-06"
+            },
+            {
+                "reviewId": "PRAFDpVRkOQaaec8kOlrrw",
+                "author": "Qype User\n izagui…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'm a real freak of indian food. I literally cook indian every week once or twice. For that reason I believe i'm hard to please.\nI have heard these people has something to do with Camelia Panjabi, an indian cook living in London. I bought her book and I thought the recipes were rubbish. The same book they promote for the web. Irrelevant? let's talk about the restaurant then.\nMasala zone looks like of the interior decorator of Macdonalds came to advice them. It's indian and so cliche that feels really unnatural. You could feel the chainish effect in the waiting system, in their uniforms.then10 minutes for a Masala coke, which is great, but 3poundsand gosh, is just lemon juice, mint and coriander (i reckon) with coke.\nfood? I do better butter chicken. Roghan josh was of sorts, so was naan. service was unhelpful.\nWith so many indian restaurants In london i certainly can't see the point in McMasala, Try little restaurants in esta London. they always deliver",
+                "datePublished": "2008-06-19"
+            },
+            {
+                "reviewId": "lomctTgfBKh3u88utM7Sow",
+                "author": "Qype User\n JujWal…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Right by Oxford Circus, this indian restaurant is conveniently located. The decor is not up to much, but the food makes up for it. You can get all your indian favourites for a very reasonable price.",
+                "datePublished": "2008-06-29"
+            },
+            {
+                "reviewId": "xrKI3s-xBnT5fotzLV5Ntw",
+                "author": "Qype User\n hish00…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Lovely atmosphere and good customer service. Ordered chicken and lamb. I must add, the lamb was fab but the chicken was a big no no. Been here a few times and the chicken always seemed to taste horrible! You could literally see the fat on the meat and it looked as if the poor creature had been hastily slaughtered and cooked (ok, im exaggearting) but i'm sure this place can do better!",
+                "datePublished": "2011-04-04"
+            },
+            {
+                "reviewId": "sIMio1eKRqW49tLcS0mA7w",
+                "author": "Qype User\n foodie…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "When it comes to Chinese and Indian Food - I never compromise and go for some doggy eatery. I was a little unsure when my mate at work told me about Masala Zone as I thought it would be another restaurant that serves unauthentic indian cuisine. I was so wrong. It's the best indian food is found in people's homes, in india. The menus present an exciting combination of flavours and offerings. we have something for everyone- freshly prepared. The quality of ingredients, the presentation and quality are not compromised by the price level. Meal for 2 person, without alcohol comes to about £15 per person. Value for money.",
+                "datePublished": "2008-11-21"
+            },
+            {
+                "reviewId": "DjmbTwMx70czIjOoY0CQ0A",
+                "author": "Qype User\n Donris…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is the latest restaurant from the owners of Chutney Mary. It is an extremely delightful place just off oxford circus. The Decor is very homely with very original wallpaper designs. The red colours make it feel extremely warm. It offers all the most favourite indian dishes though the best bet is the indian Thali. This is especially good for those of us who can't decide as it offers a bit of everything in small bowls. Okra, Chicken, Fish, dahl and rice all in one big combo dish. THey serve Kiran beer at a reasonable price and the waiters are extremely friendly and helpful.",
+                "datePublished": "2008-01-21"
+            },
+            {
+                "reviewId": "wmPyGCkIo-F9crUK0vJWcg",
+                "author": "Qype User\n x-dj-…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "A definite no no. \nA while back I don't doubt that the quality of the food was good but the freshness of the food is somewhat questionable, probably due to the fact that the restaurant was pretty much deserted.\nOn entering we had to wait in the entrance for 15 minutes (timed - no exaggeration) before being seated. Fine. Bad service doesn't particularly bother me - if the food is good, I couldn't care less.\nMy friends and I ordered vegetarian thalis. On reading the terrible reviews before my visit I had braced myself for the worst, but it was worse than I could imagine. The starters were okay albeit overpriced but as they were cold starters it was bearable.\nThe thali was the worst indian food I was ever tasted.\nThe poppadums within 1 minute had become soggy and there was no liquid on my plate but they tasted stale and were not crisp in the slightest, instead they had the texture of wet cardboard. The curries were COLD and I don't mean tepid, I mean COLD! They were completely lacking spice which is fine, I don't particularly want to eat food which has me running around screaming for water, but there was absolutely no flavour. So I had been presented with poor service, stale poppadoms, old cold tastless curries and at a price which is certainly not unbeatable!!\nDon't make the mistake I did in just taking a chance, because I can assure you it will not pay off!",
+                "datePublished": "2008-11-15"
+            },
+            {
+                "reviewId": "YwF2drdfQWgHYYsDWAWmng",
+                "author": "Qype User\n slickm…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "the service of this restraunt should be one factor why i would like to go here again. the clientle of this restraunt indicated to me that its a well known place, the prices are competitve in some cases but the prices for the rice dishes to me seemed on the higher end marginally but was not a cause of concern, i ordered a vindaloo curry, it was nicely finished, i also had the makhni curry which is worth mentioning, i topped this out with a mango lassi and scoop of choc ice cream for dessert, all in all was good experience. what i must say abt d decor is dat it is a little bold but dat depends whether u like it or not as dey say beauty lies in the eyes of the beholder.\n abt me i did like it :) ...\nc for urself and comment back if you found this review useful.",
+                "datePublished": "2008-10-03"
+            },
+            {
+                "reviewId": "fQ4qapXm9zEjlRt9aGu7lQ",
+                "author": "Qype User\n jjame…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is awesome - to deliver food of this quality, variety, and genuineness at moderate prices is quite an achievement. Plus they manage to combine it with smiley staff, and a funky decor. I cme twice a week, and it is prettyu consistent, a few minor points apart. The street food, and the thalis are particularly fab.",
+                "datePublished": "2008-10-04"
+            }
+        ]
+    }
+}

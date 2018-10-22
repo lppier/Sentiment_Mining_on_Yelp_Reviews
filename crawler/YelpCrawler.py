@@ -143,7 +143,7 @@ def get_date(element, css_selector):
 
 
 
-def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, save_data=False):
+def fetch_restaurant_reviews(category, index, url, id, name, save_data=False):
 
     # add random sleep to prevent robot blocking
     time.sleep(random.randint(10, 30))
@@ -154,12 +154,8 @@ def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, 
     records = dict()
     condition = True
 
-    # get approximate English reviews count
-    english_reviews_count = int(max_reviews_count * 0.9)
     logger.info("---------------------------------------")
     logger.info("Fetch reviews of {}".format(name))
-    logger.info("Reviews: {}".format(max_reviews_count))
-    logger.info("English Reviews (approx): {}".format(english_reviews_count))
     logger.info("---------------------------------------")
 
     while condition:
@@ -168,13 +164,21 @@ def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, 
         }
         page = requests.get(url + "&start={}".format(page_no * PAGE_SIZE), headers=headers)
         soup = BeautifulSoup(page.content, 'html.parser')
+        
+        # get English reviews count
+        english_reviews_count = get_string(soup, "#super-container > div > div > div.column.column-alpha.main-section > div:nth-of-type(3) > div.feed > div.feed_header > div > div.feed_filters.u-space-t1.u-space-b1 > div > div > div.arrange_unit.u-nowrap.feed_language.js-review-feed-language.dropdown--right > div > ul > li > div > div.dropdown_toggle.js-dropdown-toggle > a > span.dropdown_toggle-text.js-dropdown-toggle-text")
+        if english_reviews_count == "":
+            continue
+        english_reviews_count = int(english_reviews_count.replace("English (", "").replace(")", "").strip())
+        logger.info("English Reviews: {}".format(english_reviews_count))
+
         review_elements = soup.select("div.review--with-sidebar")
         reviews_count = len(review_elements) - 1
         total_reviews_count += reviews_count
 
         logger.info("Inner attempt No {}".format(attempt + 1))
         logger.info("---------------------------------------")
-        
+
         if reviews_count > 0:
             logger.info("Page {} reviews: {}".format(page_no + 1, reviews_count))
             logger.info("Total reviews: {}".format(total_reviews_count))
@@ -276,9 +280,7 @@ def fetch_all_restaurants_reviews(category, url, limit=4):
             restaurant_link = BASE_URL + restaurant_element.attrs["href"]
             restaurant_id = restaurant_element.attrs["data-hovercard-id"]
             restaurant_name = restaurant_element.text
-            max_reviews_count_element = get_string(element, "div.biz-rating.biz-rating-large.clearfix > span.review-count.rating-qualifier")
-            max_reviews_count = int(max_reviews_count_element.replace(" reviews", "").strip())
-            fetch_restaurant_reviews(category, index, restaurant_link, restaurant_id, restaurant_name, max_reviews_count, save_data=True)
+            fetch_restaurant_reviews(category, index, restaurant_link, restaurant_id, restaurant_name, save_data=True)
             index += 1
         
         condition = not (elements_count > 0)
