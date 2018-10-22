@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "id": "VZqEzifhvtYAxkWw6AuiCg",
+        "name": "Lanzhou Noodle Bar",
+        "category": "chinese",
+        "servesCuisine": "Chinese",
+        "priceRange": "Under £10",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "33 Cranbourne Street\nLondon WC2H 7AD\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/8xXPicXL8ZiF3sG2RfjQqw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7467 4546",
+        "review": [
+            {
+                "reviewId": "Z-yGhErgzC4goOxvCzI4UQ",
+                "author": "Shea B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Let's be real here...London...and noodles?? Yeah alright, let's go.\n+ probably one of the nicest staffs I came across in the city\n+ it's like a low-grade Panda Express with their set up\n+ Shit was bangin' and delicious\n+ Had the sweet/spicy chili chicken, oh shit it was delicious but...\n+ Had an authentic feel to it\n- sweet/spicy chili chicken was spicy affffffff\nI sat outside and had a couple people walk by and ask questions about it...in turn, I told them it was amazing and they went inside...so I wasn't the only customer that was happy at that moment.",
+                "datePublished": "2018-10-15"
+            },
+            {
+                "reviewId": "nRv4Ip_OBQhP5H-Z1CLI_g",
+                "author": "German P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Who goes to London and has Chinese food? Me of course. I've been to London a few times and I don't always want to have fish & chips with mushy peas, I decided to come to this place for dinner to stuff my face with Chinese noodles.\nThe place is located in a place that has lots of foot traffic, the restaurant itself is not that big, there will be a lot of people outside waiting for seating so one of the girls comes out and gives out menus so you already know what you want, when you've decided what you want, she'll take down the order and at the same time try to find you a table.\nSo now you come to your table, your finish ordering and they get to work, they're fast with the orders, I ordered some noodles with roast pork I believe and also some dumplings I believe, I have to say, the taste is amazing, full of taste, you can taste the spices, the meat and the consistency, delicious!\nIf you're in London and want noodles, yes, this is it, beware, it gets full but be patient because at the end of the wait you will be rewarded with a bowl of noodles that is big and plenty with great flavors all around.",
+                "datePublished": "2018-10-01"
+            },
+            {
+                "reviewId": "Pm4UjDtnSUYc5mjMsoHjJQ",
+                "author": "Katherine M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My family and I visited London for a few days and were looking for a nice noodle place we could visit for lunch. We were in the Covent Garden Area and were looking for somewhere close and saw Lanzhou Noodle Bar through Yelp. The reviews seem pretty mixed in that some people don't recommend because of the service, but our experience was wholly positive.\nWe were seated very quickly downstairs which was nice for us because it seemed cooler than the upstairs area. We ordered two water bottles straight ahead and sat with the menus to decide for a little bit. My mom ended up getting the fried noodles (G1 on the menu Dao Xia Mian), and my dad and I ordered the mixed beef noodle soup (G21 with Dao Xiao Mian). I wouldn't recommend the G21 if you're not good with intestines and stuff, but if you like it then I highly recommend it! We also got the pork and chive dumplings which was so great !All the food was really delicious and super filling! Could've ordered less probably since we came for lunch, but did not regret ordering! Everything was also very cheap and it's 10% off if you pay with cash! \nA must try if you're in the area!! Go try!! \n(Side note: not sure how this compares to actual Chinese hand pulled noodles because my family is Korean, but the hand pulled noodles were delicious to us! )",
+                "datePublished": "2018-09-28"
+            },
+            {
+                "reviewId": "NoTDzw0MZapZ5mTG8SM1cA",
+                "author": "Therese L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is so unassuming and very easy to pass by because it looks like a bad Chinese buffet, like the ones you see on the main strip in Chinatown. But actually it's probably one of the best places to get a decent bowl of noodles in all of London, not least because they pull and slice the noodles by hand. \nThe menu is actually quite vast but I would skip the rice dishes and just pick a noodle dish. You can't go wrong with lanzhou beef in either la mian (hand pulled) or dao xiao (knife cut.) get it with a soup and you're golden. It's like being in China. \nThe service is FAST because the chefs never stop. Literally almost the second you order, the food will arrive. Turnover is quick but there's no pressure to eat quickly. You'll probably want to dash though because the place is small and not very relaxing. \n£8.5 is about reasonable for central London. My previous favourite (Bao Inn 人民公社）increased their price to £11.5. Needless to say... We're no longer on speaking terms. \nCheck it out if you're nearby. Better than most places in Chinatown.",
+                "datePublished": "2018-09-19"
+            },
+            {
+                "reviewId": "fUq_4QIOAAJOebRCd3PbQg",
+                "author": "Lisa C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It's a small and cramped little hole in the wall, the noodles are hand made a few feet from where you will be seated. The noodles are fresh, the service is efficient, and there was a huge line out the door waiting for a seat.\nThe food itself was rather mediocre, nothing crazy different then other handmade noodle shops I tried in Vancouver.\nIt was worth a bite, especially if you're in the mood for chewy noodles.",
+                "datePublished": "2018-08-24"
+            },
+            {
+                "reviewId": "Zr9CF3_i992rFCRWQPlD6w",
+                "author": "Margaret L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Don't get me wrong, I love noodles. I love all types of noodles. If I had to choose between noodles and rice, I don't hesitant to pick noodles.\nSo I came here thinking I'll have the best noodles ever. This wasn't the case. This is your hole in the wall type of establishment, it's small, crowded, loud busy. Your tables are pushed close to each other - it reminds me of Asia in many ways. In terms of the food, it wasn't all that great. It was just okay. I suppose the noodles were satisfying but I don't really care enough to come back. If the food was better, the ambiance wouldn't bother me as much. Usually, if it's a busy, crowded establishment, I would expect stellar food but this is not the case.\nWhy is it so crowded? Not really sure why, maybe people like this type of atmosphere or they are satisfied with the mediocrity of the food? \nThis place may have a lot of reviews and hyped all over the internet but I don't believe it.",
+                "datePublished": "2018-07-30"
+            },
+            {
+                "reviewId": "B0edRquWnnMNfglSG5yiTg",
+                "author": "Maddie M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Worst meal of my trip.\nWe ordered two chicken noodle soups and a sweet and sour noodle with tofu. The soup was a big mistake. The chicken was flavorless and had a rubbery consistency. The  tofu noodle dish was just ok, and it took FOREVER to come. In fact, we were about to get the check and just leave when it finally came.\nI really don't recommend dining in due to the small size of the restaurant and the slow service. Don't recommend for takeaway either.",
+                "datePublished": "2018-07-11"
+            },
+            {
+                "reviewId": "uwxFILEnRvgxwDfMCcjVkg",
+                "author": "Susan L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Tiny place with great noodles! We stopped here after traveling for over 12 hours and beef noodle soup was the perfect comfort food that I needed after our journey. \nI've had lots of hand-pulled noodles but the texture of the ones here is definitely near / at the top of my list. The soup was good as well, but the noodle texture is what really stood out. One star off for service / experience - we shared a table with another couple and, when I asked about the super-thin noodles (you can ask for different thin-ness of noodles), the waitress told me that the regular was just fine (which, how did she know that? I'm into super thin noodles so I felt somewhat miffed...) Luckily the noodles did turn out to be good, hence the four stars, but I'm pretty sure I would've loved the super thin ones too. \nSkip the other food - we also had an eggplant appetizer and curry chicken and they were both meh. Just get noodles!",
+                "datePublished": "2018-05-25"
+            },
+            {
+                "reviewId": "vsQ6IfzH683YCRuI79vDPQ",
+                "author": "Stella Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A good place for a reasonably priced meal in the expensive city! I had a sudden craving for noodles and was content to find this place where they have hand made noodles! I got the handmade noodles with roasted duck. The bowl was just enough to be satisfied. The broth was pretty light but still really flavorful. I happily slurped up my noodles as they were really chewy, just how I liked them. The duck was okay. It was good but nothing amazing. \nSurprisingly, I didn't get super thirsty like I usually do after eating at a Chinese restaurant. Definitely a plus!",
+                "datePublished": "2018-05-10"
+            },
+            {
+                "reviewId": "aHWpzB3eufzWnvv8JHYk_g",
+                "author": "Jason G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went at about 6:30 on a busy Saturday night.  Despite only having a few seats, I was seated in less than 5 minutes.  Food came out in less than 5 more.  They key is they have an employee passing out menus and taking orders while you wait outside.  I ordered the Dan Dan noodle soup.  Excellent!",
+                "datePublished": "2018-10-20"
+            },
+            {
+                "reviewId": "uC2A_Lr7r-fPwbVJxm2S_A",
+                "author": "Jennifer J. L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I came here craving for Chinese hand pulled noodle soup after reading decent reviews. I was really let down by both the service and the food.\nFirst of all, the servers rushed me in to sit down and then gave me almost no time to even look at the menu before approaching me for my order. I later ordered a chicken dan dan noodle, which was not as described at all. The dan dan noodle broth was watery and plain, when the authentic version of it should be thick, rich and peanut-y. I had to add a lot of hot sauce to make it more flavourful. The noodles were the biggest disappointment as they gave me soggy rice noodles, when I was under the impression that it should've been a thicker hand-pulled noodle. Perhaps I ordered the wrong thing on the menu. Overall I was disappointed.",
+                "datePublished": "2018-06-06"
+            },
+            {
+                "reviewId": "J8YoMI2NkaqQ0VaDNHRT4w",
+                "author": "Sunny L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Legit noodles here that are made by hand. Small but worth the food. Expect good food and nothing else.  Recommended !!!!",
+                "datePublished": "2018-04-26"
+            },
+            {
+                "reviewId": "rV2FwSy7BKFIFuYYzXA0dg",
+                "author": "Naila T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "After a week in Italy, I didn't know how much I would miss eating vegetables until I found myself shoveling bok choi into my mouth from the delicious vegetable la-mian soup. They make the hand pulled noodles on the spot. While I can't guarantee that the broth was vegetarian, it was very flavorful and the noodles were just perfection!\nMy boyfriend, deciding to maintain a veggie-free diet, ate the fujian special mix peanut sauce on la-mian noodles and the flavor was just through the roof. So delicious and so cheap! Perfect little spot to go to if you're looking for cheap eats in Convent Garden.",
+                "datePublished": "2018-05-02"
+            },
+            {
+                "reviewId": "2GlBjQqtWdCHQUTIoD0rFA",
+                "author": "Shawn C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food is okay but not great. Had langzhou or xi'an noodle in a few US cities and this is at most  average.\nThe space is very small and underground. They had to move the tables to squeeze me in and I sat super close to many other people. The person eating facing me in the tiny table made a lot of noise eating. The table was greasy. With many people packed in the tiny space I felt difficult to eat.\nNo idea why so many people come to eat...",
+                "datePublished": "2018-08-18"
+            },
+            {
+                "reviewId": "hdPydG9hqajc45ylACizYg",
+                "author": "Cherpumple F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Hard working people literally pounding away at your hand made noodles as you wait. They have downstairs seating so don't get discouraged if you don't see any seats.\nExtensive menu! Go for the noodles. It's giant.",
+                "datePublished": "2018-08-09"
+            },
+            {
+                "reviewId": "KbRwBJmERlzyFLR88-T2JA",
+                "author": "Elle R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Hand pulled noodles made in front of you. This tastes like Hong Kong. The broth is delicious. Servings are quite large. I wish I had more space in my belly to eat. Seating is super small and is usually crowded.",
+                "datePublished": "2018-08-13"
+            },
+            {
+                "reviewId": "dNYn0XCOPRtV7Qjrk67IcQ",
+                "author": "Edwin R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "When I was walking around, I was wondering if they had pho around here in London. The closest pho place was too far from me so I found this place on yelp. There's definitely a huge difference between Chinese noodles and pho but this place makes it taste similar to pho. The broth was pretty good and the noodles are thick, just the way I like it, also my soup had a good amount of chicken as well. \nThankfully though it was just me eating inside there and I say that because it's really small and tight there, it's not a type of place you go to with a group of friends.",
+                "datePublished": "2018-05-07"
+            },
+            {
+                "reviewId": "WZBeLk94bp666X2xKJSFhg",
+                "author": "Matthew T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cheap but authentic Chinese hand pulled or knife cut noodles. I doubt you'll find a more real experience anywhere else in London.\nFirst, everyone working here is Chinese from the little lady barking seating instructions at the entrance to the cooks eating their own wares while pumping out dishes in no time.\nI think it was the comedian Russell Peters who joked you get your food within seconds of ordering at a Chinese restaurant. Here, the joke plays it in real life as it is comical how quickly your orders go from kitchen to table. I had one arm out of he sleeve of my coat when our entire four person order was in front of us.\nWe had the beef noodle soup (knife cut noodles) and the stir fry char siu noodles (knife cut). We also had their spicy Chinese cabbage (which was just kimchi lol) and the potato shears dish. Had a few egg rolls for good measure but they were only ok.\nEverything here is quick, cheap, and is legitimately Chinese comfort food. Our parents thought it lacked quality flavor though and the broth and ingredients are definitely on the cheaper side. But where else in all of London will you find good knife cut noodles for less than 7 pounds? \nThey accept card and your whole party must be there to be seated. Cramped tiny space so be prepared to be elbow to elbow with your neighbor. \nWater is an additional charge.",
+                "datePublished": "2018-01-12"
+            },
+            {
+                "reviewId": "8BLXI_18ZaLHNl8MQOm0YQ",
+                "author": "Chantee F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "You may easily miss this hole in the wall but you would be sorry. With a large menu that has something to please everyone, you will surely find something worth eating here.\nSpace is limited but I managed to get a shared table in the back with a friend. We both got noodle soups - your choice of noodles with proteins either dry or in a soup. The fried pork chops were flavourful in a clear broth. It came with Chinese greens and herbs. My friend enjoyed her choice of braised beef noodle. Simple and delicious!\nWe also shared the red oil wonton. Wontons were cooked perfectly in a spicy and tangy sauce with garlic and chilli oil. I would order this again.\nCheap and cheerful is what it's all about here.",
+                "datePublished": "2018-01-31"
+            },
+            {
+                "reviewId": "4VAhr6vxCBxcOSU264iFag",
+                "author": "Teddy C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious noodles and dumplings. We went for the dry noodles with minced beef and fried noodles with sliced pork.",
+                "datePublished": "2018-07-06"
+            }
+        ]
+    },
+    "20": {
+        "id": "VZqEzifhvtYAxkWw6AuiCg",
+        "name": "Lanzhou Noodle Bar",
+        "category": "chinese",
+        "servesCuisine": "Chinese",
+        "priceRange": "Under £10",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "33 Cranbourne Street\nLondon WC2H 7AD\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/8xXPicXL8ZiF3sG2RfjQqw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7467 4546",
+        "review": [
+            {
+                "reviewId": "YWZEzhjqhsVEvjg_BqzVqg",
+                "author": "Sheena N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was desperately craving noodle soup after spending 3 days in London eating the typical british fare (fish and chips, curries, etc). I need something asian and tasty so I decided to come here. I was not disappointed! \nI ordered the beef noodle soup with the thinner noodles. They have both types here, thicker knife cut noodles and the thin ones and they are both hand pulled. You can also order them with or without soup. I also decided to add a pickled egg to mine.\nTo me, the broth really makes the soup and it was really flavorful without being salty. I also didn't taste any msg in the soup, it tasted homemade. The beef was also very tender and tasted amazing with some of the chili sauce provided at the table.\nI was traveling only for a couple days in London so I decided to pay the extra 15% to use my credit card versus paying with cash. \nNote: this is a small, hole in the wall type place so you might need to share a table.",
+                "datePublished": "2017-07-30"
+            },
+            {
+                "reviewId": "PFNCJ6EFl9aEwMsmvb7oQA",
+                "author": "Alyssa F.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Hand made noodles, prepared and cooked with the worst quality ingredients imaginable. The food is stored in a Panda Express-like display at the entrance, which was pretty off putting. We came expecting fresh, traditional Chinese food. Upon entering were seated on the lower floor, a tiny cramped space with a few tables pushed so closely together that you bump elbows with other patrons around you. The walls are painted neon yellow, and there are no windows. Not one to be scared off by a diver interior, I was still hopeful, and happy to find plenty of vegan options on the menu. \nI got a Stir Fried Vegetable Noodle, which was disgusting. It tasted like cheap two day old Chow Mien. The noodles were overcooked and rubbery, tasting only of soy sauce, and the vegetables were soaked in oil. My boyfriend got a beef noodle dish that was equally inedible. We shared the Vinegar Cauliflower, which had good flavors but was nothing special. I have no idea how this place is so highly rated. Perhaps my standards are too high, having had great authentic food in China and the US. However, the lack of quality and flavor in our food here leaves me to strongly suggest dining elsewhere. I give two stars only because the food was dirt cheap-£18 for three large portions (which we barely touched, but still). Avoid.",
+                "datePublished": "2017-10-07"
+            },
+            {
+                "reviewId": "aJB8vWDphAW_EDkc1vEChQ",
+                "author": "Willy X.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Lanzhou Noodle Bar? More like mama's home cooked noodle bar.\nI've come here maybe ten times now and every single time there is a different combination of food that I am ingesting. From lamb kabobs to spring rolls to dumplings to beef soup to egg & tomato cuts  - lanzhou is awesome.\nAnd perhaps most people's least favorite parts is one of my favorites - getting to squeeze in with your compadres at tables made for 8 seating 6 different parties ordering at different times just slurping the noods into your mouth.\nHats off to you Lanzhou for bringing a bit of light into a gloomy city.",
+                "datePublished": "2017-12-11"
+            },
+            {
+                "reviewId": "RpBrFwzJcTq4OEaJ-AEocg",
+                "author": "Clarissa Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I have ascended to Valhalla. I have glimpsed what lies beyond this realm of mortal men.\nAnd it's all thanks to Lanzhou Noodle Bar.\n~ Atmosphere:\nTiny, dingy, and extremely chaotic. They only have a few long tables that they pile everyone on so get comfy because you'll be squashed up next to complete strangers. Getting out of the restaurant is a nightmare as well since the place to pay at is right by the tiny entrance way where loads of people are coming in and out. Basically, this restaurant is as close as you'll get to actually being in China.\n~ Customer Service:\nThey were really quick and efficient. The food came out at the speed of light. Not friendly, but they get you what you need.\n~ Food:\nTerrific. Can't say enough good things about it. I recommend you skip ordering the non-noodles though, to be honest. In addition to our noodles we got a plate of steamed pork dumplings and spicy wontons. Both of those dishes were OK, but my partner and I both came out of the experience wishing we just ordered another plate of those glorious noodles instead.\nTIP: Order 'Dao Xiao' noodles aka knife-shaved noodles. The texture is out of this world and the springy texture from the noodle being freshly made is a perfect 10/10. I've had knife-shaved noodles a million times before but never had it as fresh as this.\n---\nIf you can get over the dingy atmosphere and the fact that you're eating right next to strangers communal-style, you'll reach food nirvana like I have. Trust me - this place ROCKS!",
+                "datePublished": "2017-04-17"
+            },
+            {
+                "reviewId": "K3Bs672v1N1fI69f0EkAbw",
+                "author": "Kenny C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This is located close to Chinatown and has 4 tables in the entire establishment. Be warned that seating is very limited! I tried the hand-pulled dan-dan noodles and some duck and both dishes were just OK. I know London isn't well known for its Chinatown like some other big cities but you are definitely not missing much if you skip this place.",
+                "datePublished": "2018-05-24"
+            },
+            {
+                "reviewId": "tayUvKalA3QeU2Iu27KgGw",
+                "author": "Amy C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Sometimes the best meals are completely spontaneous. Experiencing the moody, unpleasant British weather was inevitable, so when a torrentuous downpour suddenly began, we ducked underneath an awning to shelter from the rain. We spotted a growing line a few doors down that piqued our interest. Although the exterior of the restaurant makes it look like a takeaway place, think of it as the middle ground between takeaway and eating in. This place is a total dive: the atmosphere leaves a lot to be desired, the service is close to nonexistent, and the cramped elbow-to-elbow communal seating probably violates the fire code.\nBut I'd be lying if I said the handmade noodles didn't make all of that worth it. Trust me, I'm from San Francisco, a world-renowned hub for authentic Chinese food.\nAn employee stands outside next to the line to take orders so the kitchen can start working on them before you're even seated. That way, your food will practically be ready for you once a spot frees up for you inside. This unassumingly authentic hole-in-the-wall serves delicious hand pulled noodles (seriously, you can see them being made right in front of you) in broth for lower-than-London prices.",
+                "datePublished": "2017-10-26"
+            },
+            {
+                "reviewId": "v_hcS3GezmE25sNFohzA5Q",
+                "author": "GT W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Right in the heart of Leicester Square, Lanzhou is a clutch venue for lunch or dinner. The interior is cramped with minimal seating upstairs with a similarly tight downstairs dining room. Prepare to dine with tables pushed together and almost overlapping. It's claustrophobic but seems to add some authenticity to the experience.\nWife and I both did dao xiao mian (hand cut noodle) soup with stewed beef. The food came out fairly quickly and the flavors were excellent with huge portions. Service was quick and efficient. \nOverall, this was a great hidden gem to grab some cheaper, filling food.",
+                "datePublished": "2017-11-14"
+            },
+            {
+                "reviewId": "uLWK8ieAqMRIvnQC-rDIIQ",
+                "author": "Kelvin Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ignore the takeaway in front of the restaurant.  Asked to be seated inside or downstairs where the food is great and authentic.\nYou have a choice of pulled Noodles (very thin - angel hair pasta sized to thick - udon sized) or cut Noodles - thicker and chewier that pulled Noodles.  You can choose the to have the Noodles served as part of s soup or dry.  The soup or dry Noodles can be served vegetarian, seafood or various types  of meat including Char Su Pork, Stewed Beef, Chicken Dan Dan etc....\nI had the Cold Stewed Beef with very thin pulled Noodles.  This dish was wonderful. The soup was a delicious chili infused broth that had a pleasant tang, hint if spiciness with just the right degree of umami.\nI also had the Braised Tofu dish - highly recommended.\nA hidden gem near Covent Garden, London.",
+                "datePublished": "2017-09-26"
+            },
+            {
+                "reviewId": "LzTcB_vQKIj7LdKWAcTKRw",
+                "author": "Angela W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This little restaurant is right outside of Chinatown, and I came here in search of knife shaved noodles. I got the half beef half tendon noodles for takeaway. They separate the noodles and soup so the noodles don't get soggy. The menu for noodles is very big as they are known for their noodles. The portions are pretty big, and prices are okay. The beef was very soft, and the tendon was chewy. I would've like some more spice or flavor in the soup. They also skimped on the vegetables and only gave me a little. The noodles were not authentic knife cut noodles, but they were still good. Lanzhou is an okay noodle place, good for when you're hungry and passing through the area.",
+                "datePublished": "2017-12-06"
+            },
+            {
+                "reviewId": "q1DZFWt34DqGQPV3-Y97tA",
+                "author": "Yonnie C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We came here on back to back nights...it's that good. Even with the cramped communal seating in the small space, food was enjoyable. \nI prefer the Dao Xiao noodles (knife cut) over the La Mein (hand pulled) noodles, thicker chewy texture. I also prefer stewed beef over sliced (Chunky cut, both are lean).\nLamb skewers are cumin flavored and excellent. My husband liked their wonton soup, handmade and meaty.\n(Written by husband)",
+                "datePublished": "2017-03-26"
+            },
+            {
+                "reviewId": "CoKNjsuwZbxBzijM-gYG7g",
+                "author": "Bonnie C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "This place is not worth it people!!! I've had my fair share of Chinese noodles...and this place was so-so. I didn't have the knife noodles but this place's soup was so unimpressive even if the knife noodles were good I wouldn't go back. Lanzhou is renowned for their noodles. This place uses the name to lure you in. The inside serves a mix of different Chinese foods. You're also allowed to customize your noodles. Hint that it isn't authentic!! If I had seen the menu first, I wouldn't have gone in.\nMy husband and I shared a bowl of beef tendon hand pulled noodles. Soup lacked depth. The chili on the side was good and the saving grace. I ended up dumping two tablespoons into my bowl. I also had two lamb skewers. It was pretty good. I almost wanted to order more. All it was missing was the good ratio of fat. Their skewers were all meat. That's not a bad thing but it's definitely better with the pieces of fat in between. \nThe lady taking our order was so distracted by the girl next to us who wanted to change her order last minute that she failed to put down our order of roast duck and bbq pork. We had to ask someone to follow up. The guy we asked was the same one I saw watching horse races on his phone... He then proceeded to tell me they don't have roast duck so I said 烧鸭 (roast duck in chinese) and he goes oh yes ok. That's when we found out she missed our order. So we order and wait... The bbq pork was so dry I  had to spit it out. My husband was super disappointed by the food coloring. It's supposed to be red but we were disturbed how it wasn't just the outside, the red had died random spots on the inside, likely from when they were slicing. If you normally have this, it's red on the outside only... no transference of dye people... The roast duck came drenched in a sauce... \nI'm pretty sure they were trying to serve the duck cantonese style because it was a 烧味 (A style of roast/bbq meat)... It was not accurate!!! Both were too sweet. Especially the bbq pork. \nFriendly reminder Hong Kong, located in the south of china, was a British colony. These roast meats are very common in HK. Also, Lanzhou is not in the south... \nI was disappointed this place was true to no region...\nEveryone was pretty nice except the guy who helped us at the cashier. Didn't ring me up stared at me. So I thought the number on the register was what I owed (28.10 pounds). This fool rang me up (22.50) while I was grabbing my money. So when I gave him 30 he gave me  5 back and waited for me to give him change or exact instead. Really?",
+                "datePublished": "2018-05-05"
+            },
+            {
+                "reviewId": "0xa1CzLb8Z2UssVOQOSQkA",
+                "author": "Emily G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "As a study abroad student in London for the summer, I was craving noodles and found this place close to my school! Have been here twice and ordered different dishes; both were delicious and worth the buy. Service was good too; right when you walk in the door, they'll ask you how many people are in your party and seat you right away (given that space is available). \nI recommend trying the knife-cut noodles, which are hand-shaven when you order. You can watch them cut your noodles. The beef noodle soup was very good--the broth was not too heavy and there is a good amount of both veggies and beef in it. Well-priced, about 7-8 pounds for a pretty big serving! \nWill be back again for the remainder of my stay in London! \n*NOTE*: Cash only if your order is under 20 pounds. I believe you can pay with card if it is under 20 pounds, but there is an added fee, so bring cash!",
+                "datePublished": "2017-07-19"
+            },
+            {
+                "reviewId": "Xa-jaUFvN6ln5GjmjJ0eZA",
+                "author": "Anjeline R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "YUM! I've been craving real asian noodles and this delivered. My boyfriend and I got pork la mien noodles and it was perfect on a cold and dreary London day. The broth had a lot of flavor and the pork was amazing. The place is tiny and cramped and we shared a table with two other parties but we were so hungry it didn't matter!\nIt was such a busy time that everything was rushed but the food tasted great so I'm not complaining!",
+                "datePublished": "2018-03-17"
+            },
+            {
+                "reviewId": "ZQsKSuW1oHAGPLYW4Plp9w",
+                "author": "Vicky T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "locals and tourists alike, we seem to have the hots for this place. it's a tight squeeze, but the staff do a profound job making sure their customers find seating quick! food was good, no complaints. price was reasonable, too. great location in proximity to the rest of china town, london. i ordered their spicy beef noodle. that was a popular dish. their battered \nshrimp sauté was a recommendation from our waiter.. my friend and i liked that too.",
+                "datePublished": "2018-03-31"
+            },
+            {
+                "reviewId": "UT623PpkSYOs9ZxFjDuJUA",
+                "author": "Chris J.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "This place definitely does not live up to the hype. \nMaybe it's because I've had a lot of good Chinese food back in the states and in China, but this really did not satisfy my craving for Chinese.\nThere is very little seating here, so you basically have to share a table with a bunch of strangers. It feels very tight and crowded. Not very pleasant.\nThe actual dishes are not well prepared and feel like they came out of a Panda Express. The stir fried meat is dry, but the bok Choy we got was nice, but you can't really mess up bokchoy. \nThe only I can really consider worth trying here are their noodles, and that's only because they handpull them. The actual noodles are quite nice. They're bouncy and have a good texture, but the broths that complement them are waaay too rich. The first few bites are great, but I couldn't even finish my bowl because of how much fat was in it.\nAnd if it was hard to take in the food, imagine what it was like to get rid of it. Let's just say, I was in the bathroom for half an hour after this.\nAnyways, disregarding that, I would not come back to this place, there MUST be a better Chinese place out here in London. Please fellow yelpers direct me to it.",
+                "datePublished": "2017-08-17"
+            },
+            {
+                "reviewId": "GMu1eO9kCQqIHwqNci-qtg",
+                "author": "Oren L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Simple, Cheap and tasty Asian food. \nThe noodles prepared at the order are nothing less than excellent. Just writing the review makes me crave for the noodle soup...",
+                "datePublished": "2017-12-07"
+            },
+            {
+                "reviewId": "FXmAScD1r7QF70Ea3-QW2Q",
+                "author": "Jenny C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My fiancé and I came here about 3 times during our week in London. The beef noodle soup is delicious. I'm a sucker for any restaurant that has freshly made noodles!",
+                "datePublished": "2018-03-19"
+            },
+            {
+                "reviewId": "R0r1y9xqFA2dI4VDFdxEww",
+                "author": "Michael W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is off the hook! Oh boy I am not even from London and this place is the best for dinner. Who knew? I usually eat Chinese food at home but when you are on the go you have to find a quick Chinese place to eat. I really like their beef noodle it's better than what I have in the city of Cupertino. The ingredients they use are of good quality, you don't just taste the food you taste the homestyle feeling of eating in Shanghai or Beijing. The staff that served me is real friendly! A nice lady knew what I wanted from my observations of other local and non local people in the restaurant. The best Chinese food in London \nDrawback: it can get real noisy here. If you are not from London this place can be real loud during the high season. If you are a tourist and you need to ride public transport here commute at your own time.",
+                "datePublished": "2017-07-01"
+            },
+            {
+                "reviewId": "1LDf6NIPbmKc3O4lPoExxg",
+                "author": "James K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is the real deal beef noodle soup spot.  Located in London's Chinatown district.  Walked in the restaurant and nobody speaks English.  They just look at you and smile.  That's when you know the food is going to be authentic and amazing!   My beef noodle soup was spicy and the broth was just right.  Check this place out if you're ever in London.",
+                "datePublished": "2018-07-03"
+            },
+            {
+                "reviewId": "bIRew528gbxSYIPpkmZzgA",
+                "author": "Anthony N.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Tourist here from Toronto! Went here with my gf and her family, ratings is 4 stars. Unfortunately, Overrated even for a cheap eats place. Food quality, average - noodles were okay, soup base was too sweet. Tasted like instant noodles. Ambiance is average, but expected for a cheap eats place. Dining experience, average for a Chinatown. Upside, orders came quick. Downside, service was limited, didn't even serve water. We had to ask. The restaurant charged an auto 10% service charge and gave VERY minimal service. Would contemplate going back!",
+                "datePublished": "2018-03-30"
+            }
+        ]
+    },
+    "40": {
+        "id": "VZqEzifhvtYAxkWw6AuiCg",
+        "name": "Lanzhou Noodle Bar",
+        "category": "chinese",
+        "servesCuisine": "Chinese",
+        "priceRange": "Under £10",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "33 Cranbourne Street\nLondon WC2H 7AD\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/8xXPicXL8ZiF3sG2RfjQqw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7467 4546",
+        "review": [
+            {
+                "reviewId": "4LbUsz48A94sDl3w-pt3yA",
+                "author": "Melissa Z.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Went here after seeing all the reviews on yelp and reading about it on timeout. Good food at a great price. Only concern is with cleanliness.\nVery tiny restaurant with limited seating. We were a group of 4 and it was quite crammed at the table. We were seated in the basement which looked dingy but that was okay, we were here for the food not the ambiance. We each got a bowl of la-mien noodles which were quite good but broth was too salty. Service was what was expected for a cheap-eat Chinese restaurant. I ordered the sliced beef noodles and they brought out the wrong order but was still tasty (picture attached). Cleanliness is concerning which is why I'm rating it 3 stars; we asked for water and it was very obvious that our water came in styrofoam cups that have been washed with hot water and reused.",
+                "datePublished": "2018-03-30"
+            },
+            {
+                "reviewId": "lzUmqEOt5ZNbFHvEEcSyXA",
+                "author": "Lena G.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "After a long day of traveling yesterday, we ventured out for some good food this afternoon. After seeing reviews for places in the area, we decided to give Lanzhou Noodle Bar a go. It's a tiny restaurant that's run quite efficiently. We browsed through the menu during our 10 minute wait, and were seated quickly. Hungry and excited, I started to dig into my food only to be terribly disappointed. I ordered a chicken curry plate with steamed white rice; the chicken pieces had a strange texture so I started to take a closer look...\nRAW/UNDERCOOKED chicken... Are you kidding me? People can get really sick! I stopped eating immediately. Before leaving, I pointed out that the chicken was raw/undercooked and the employee rolled her eyes as she grabbed my plate to re-cook the dish (I'm assuming). But I told her it's fine and that we were on our way out. We paid for our meals, crossed our fingers hoping I don't fall ill and no one else does either.",
+                "datePublished": "2017-05-29"
+            },
+            {
+                "reviewId": "laDjgDPZqS8kgH2Jo4BB_Q",
+                "author": "Nina H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is one of the only spots open early in Chinatown! They open at 10am and it was the perfect brunch meal after I picked up discounted tickets for a musical.\nThe hand shaved beef noodles were amazing! The broth was very soothing and it had the right amount of bok choy. Meat was tender and the texture of the noodles were perfect - chewy and tasty. \nBring cash or they will charge a bit extra for using card.",
+                "datePublished": "2017-05-05"
+            },
+            {
+                "reviewId": "W2XmbzWwuXZDLZLCZAUIBw",
+                "author": "Maya G.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "This place is extremely dirty and crammed. The food is really low quality- it's cheap, but still very, very gross food, even at that price. I am confused by how it has good reviews. Would never go back here.",
+                "datePublished": "2018-01-25"
+            },
+            {
+                "reviewId": "qv7sxrlkc68Q6y7xGw4SXA",
+                "author": "Sophia L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It's a bit of a dive, but it feels very authentic. The waitstaff bantering in Chinese, sitting elbow to elbow with strangers, and the rhythmic slap as they hand pull the noodles. Like others have mentioned, this is not the place to go on a romantic date but rather for a generous homemade bowl of noodles. The hand cut noodles which I ordered took longer and most of the other patrons looked to be ordering the la mian which came out almost instantaneously, so that might have been the move.",
+                "datePublished": "2018-07-12"
+            },
+            {
+                "reviewId": "neOQpnPw50YbLu1m3FegFw",
+                "author": "Jason C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Was deciding what to eat after landing in UK. Found this store on Yelp and thought of giving it a try to see the quality of asian food in London. \nThe food did not disapoint: had a sliced beef lanzhou soup noodle. The broth was clear but flavorful. Ordered lamb and squid sticks to go with the noodles. Overall the food has a very authentic taste. Service is fast and food is very reasonably priced.",
+                "datePublished": "2018-03-06"
+            },
+            {
+                "reviewId": "h83T1Xn7x3cTBTJDTvZXeQ",
+                "author": "Yuan L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very tasty and delicious lanzhou noodle soup. The soup is super good! Clear and tasteful. Noodle are real hand pull very chewy!",
+                "datePublished": "2018-06-17"
+            },
+            {
+                "reviewId": "3UGQ6LrcVeh4yEgR5TMz-A",
+                "author": "Yuanting C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Based on authenticity, it's really below average.. I mean the food is fine but if you are looking for a great noodle soup dish, don't go.\nThe waitress are weird and they just stand there pushing you to order and watching you eat. Anyway I'm not gonna go again.",
+                "datePublished": "2018-06-23"
+            },
+            {
+                "reviewId": "o6_0oB15YuYJ104sd-IBRw",
+                "author": "Tim G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Big fan of hand pulled noodles. The first time I walked by I was kinda skeptical due to their hygiene score (a few months ago). However, on a subsequent visit they have improved their score so I decided to give it a go. It was a Friday night and this place was bustling at 11pm, from the drunk/clubbing crowd. There was a line and it was a short 5 minute wait as they quickly turned around the tables.\nYou'll be dining communal style (we're kinda used to it) and sharing a table with other people. This place is pretty fast and you can see them make the noodles in front of  you. I ordered the beef stew hand pulled noodles. It arrived in a matter of minutes and was sooooo good. Be sure to put plenty of that hot sauce in your soup for the best experience. I shared a table with two girls that barely ate their appetizers. They clearly ordered too much (3 appetizers and two soups). Don't do what they did... Total waste. Most of the people eating here are locals and I was the only tourist (or so I thought). It is near Leicester Square which has a bunch of tourists but not too many of them appreciate the fine art of hand pulled noodles. \nSoooooo good.",
+                "datePublished": "2016-10-14"
+            },
+            {
+                "reviewId": "ju-q9VxWxiUZeaSljKCYkA",
+                "author": "Megan K.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "We stopped here for lunch after reading decent reviews and it was cheap. The service was terrible and the food wasn't that great. They took my order then came back and said they were all out (this was in the middle of lunch). I tried asking questions about other menu items where I was given little response and pushed quite vigorously to place a new order. I'm not even sure what chicken dish I ended up with. I ate it because I paid for it but I definitely didn't love it.",
+                "datePublished": "2018-06-22"
+            },
+            {
+                "reviewId": "G5kF2cqty-luSPsTL2D6Gw",
+                "author": "L W.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Found this restaurant on Yelp.  Disappointed.  It's literally a hole in the wall with limited seating.  We got seated in the basement.   Food was praised on Yelp but we found I mediocre at best!   Just barely tolerable.  Thought food would be good and authentic due to the China staff, but I thought wrong!   This place is a pass.",
+                "datePublished": "2018-08-27"
+            },
+            {
+                "reviewId": "tQVNRGL8yhV7RoNro4iryA",
+                "author": "June K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I didn't know the name of the venue until I found it on yelp since this place is so authentic that they only have chinese letters on their sign. (Not kidding)\nLet me be straight: The venue is small as f*ck, not cozy and overall poorly designed. \nBUT\nThe food is simply AMAZING: You can watch live how your noodles are prepared by the chef, who must be some kind of martial master, because damn son: He his beating up this noodle dough like a pro. \nThe food comes really quick (because of the mentioned martial art master) and is delicious. Our group had different soups and stir fries and all of them were well seasoned and fresh. The price is a joke for London and that quality. Will return as soon as I am back to London.",
+                "datePublished": "2016-06-15"
+            },
+            {
+                "reviewId": "CT1RfT7Bmea6GyVy7-upFg",
+                "author": "Lili T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Such a good spot to satisfy a noodle craving! Don't expect much from the service but it's quick, the ingredients are fresh and everything is delicious. You really can't go wrong with the price.",
+                "datePublished": "2018-01-07"
+            },
+            {
+                "reviewId": "0xs-4LD3Hr0Z-nyo6x2BiA",
+                "author": "Sal G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "London! My favorite city in the world just keeps getting better and better. Hidden in the bustling streets between Covent Garden and Leister Square you will find this tiny restaurant that will absolutely blow your tastebuds to another dimension.\nLook for a long line of (mostly) youngsters eye-eating  the menu as they wait in the sidewalk for a table. Busy servers will take your order as you stand and once a table is ready and you are seated, your food will follow within a minute (or less).    \nNoodles of all size and shapes, boiled, souped or fried, generous pork dumplings, all sizzling  from being super fresh made. \nThe Dao Xiao Mian noodles are SUPERB, tender moist and chewy with a subtle almost sweet taste. I had them fried with roasted duck, and served with a good heap of hot oil with chili peppers. Seated in a small table along side a very friendly couple (who found the place and were visiting for the third time in two days), this was a trip to the exotic in the middle of the eclectic. \nJust found another excuse to return to London, if you are in this touristy area of London, don't fall for the chains or the \"best British fish in chips\" find this place, get in line and enjoy.\nYou are welcome.",
+                "datePublished": "2017-09-22"
+            },
+            {
+                "reviewId": "kCGaZnhWVJK83FCmjDVwFA",
+                "author": "Daniel Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Awesome place to come to, pretty authentic Chinese food. Space is a bit small inside but definitely saw why the hype! \nOrdered a Dan Dan soup noodle, pan fried steak noodle, and the hot spicy shredded potato salad. Would come back again",
+                "datePublished": "2017-04-29"
+            },
+            {
+                "reviewId": "Gp3Ckswu3g5EAjCuLx7ZeA",
+                "author": "David J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This tiny restaurant is reasonably priced for anyone looking for a fast and simple Chinese dish.  Nothing fancy here and the flavors are decent with no frills or fancy dining space.  The street level seating area is very limited just as tight as the basement level quarters where patrons are squeezed together so as to maximize the tiny space.  Though the service is a bit rushed, staff members get the job done and rather swiftly.  The food choices to select from isn't bad as my family and I ordered lunch items--house fried rice, roast pork and roast duck with steamed rice.  Again nothing to marvel, but they did the trick with satisfying hunger, especially in the winter cold in London.",
+                "datePublished": "2017-12-26"
+            },
+            {
+                "reviewId": "jzdSfOXEu9NpTv5ETvivyg",
+                "author": "Ada C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've had this placed bookmarked to try for donkeys years and I am kicking myself that it took so long to get here. Who doesn't like delicious cheap eats?\nThe specialty here is hand pulled noodles. They have a guy making them as you come in and they are delicious. You can completely tell when you slurp them up that they are freshly made. \nWe asked our waitress to recommend some dishes. We shared a beef la mian soup which was super tasty. We also ordered an aubergine and potato stir-fry which was delicious. You never get potato in Cantonese cooking so this was a nice treat. We also ordered the chill chicken which came with Sichuan peppercorns. This was also very good. \nThe meal came to £23.50 for 2 which is a total bargain!  You pay at the cash register but please leave the wait staff a tip. They were on top of things and you could tell, working very hard. \nThis isn't a place to linger and the tables are communal and crowded. The staff speak basic English so break out your rusty Chinese if you can. But that's part of the fun. Loads of Chinese people eating here too which is never a bad thing.",
+                "datePublished": "2017-01-12"
+            },
+            {
+                "reviewId": "Wk9VWQpJ23F1bf92Ilz5Vw",
+                "author": "Sun L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Beef noodle soup should be a signature dish in such place. The soup should be very delicious and strong with meaty taste. Noop. The noodles should still have the fresh starchy powder smell on it. Noop. The noodle should be chewy but not soft. Noop. \nOverall I am disappointed. \nSalty soup, skinny beef and overcooked soft noodles in a bowl is all I got. Sorry, no good news. May be I am too harsh since I am from CA where good authentic Chinese food is like the rain here in London!\nCome to San Francisco bay area and read my reviews, you will find out how a real good bowl of beef noodle soup is! Price is 10 % lower.",
+                "datePublished": "2017-01-09"
+            },
+            {
+                "reviewId": "MtL5Ov-iFxt4h_30xwcTQw",
+                "author": "Hummus P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is a nice find in tourists zone. Authentic and hand pulled noodle place. The dumplings are good as well. I had the beef and tripe noodle soup which is a nice combo of spicy and sour although not very spicy for my taste.",
+                "datePublished": "2018-04-26"
+            },
+            {
+                "reviewId": "BKNI0c1iasNxP76VAineJA",
+                "author": "Sophie P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Seating ishard to come by during busy hours, and it feels like if there was a fire, we'd all be screwed, BUT the food is amazing. We were craving some noodles/ramen, so I found this place and we were skeptical at first from the outside, but once we got our food, it was awesome. The homemade noodles were super tasty and it was the first time since I've moved to Europe I got to taste some delicious chinese food. The dimsum here were also super tasty and honestly, I wanted to go back here for lunch every single day we were in London, but my boyfriend got tired of it.",
+                "datePublished": "2017-09-16"
+            }
+        ]
+    },
+    "60": {
+        "id": "VZqEzifhvtYAxkWw6AuiCg",
+        "name": "Lanzhou Noodle Bar",
+        "category": "chinese",
+        "servesCuisine": "Chinese",
+        "priceRange": "Under £10",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "33 Cranbourne Street\nLondon WC2H 7AD\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/8xXPicXL8ZiF3sG2RfjQqw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7467 4546",
+        "review": [
+            {
+                "reviewId": "ciAL0Kvlpuq-qQ0hEPHsgw",
+                "author": "Andreas T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Legit Chinese hand drawn noodles with no frills. Quick in and out in a cramped spot. You'll have to share tables with other parties.",
+                "datePublished": "2018-05-01"
+            },
+            {
+                "reviewId": "OR8PdG5S45DWVzCY29lW1g",
+                "author": "Jack L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "West end emergency --- 40 minutes before showtime, and I am on an empty stomach.  Mayday, mayday!  Fortunately, Yelp was just a click away.\nThis is the perfect hole-in-the-wall for a quick pre-show meal.  There is a wide variety of noodles, soup or dry, to be had, for less than 10 pounds.  Food is served quickly, and waiters seem to expect you to eat quickly.  \nI ordered the dao-shao (knife cut) noodles and was very impressed by the consistency of the noodle.  The best noodles are a bit chewy (Taiwanese describes this as being \"Q\"), which is only possible when the noodle is made fresh and made well.  The noodle here was definitely \"Q.\"\nA couple of cautionary notes: \n- Being a hole-in-the-wall, you are expected to share tables with strangers.  \n- Waitresses will try to upsell.  Check the menu before ordering anything.  The noodles may be cheap, but not all dishes are cheap.",
+                "datePublished": "2016-12-26"
+            },
+            {
+                "reviewId": "67bJ3HZnclJEG77aPfWK9A",
+                "author": "Nancy C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "When I discovered that there was a gem of a handmade noodle place by Covent Gardens, I was more than excited to try. This place is located right outside the Leicester Square tube stop. As soon as I walked inside, they greeted me in Mandarin and asked how many people I had with me.\nWe sat down at a long wooden table next to a trio of Chinese college students working on a mound of amazing-looking noodles.\nWe were given menus, and I (having done my Yelp homework) knew to go for the handmade noodles and not any of the typical Chinese fare. Also because I'm obsessed with handmade noodles.\nAfter asking the guy next to me what he was eating, I ordered the same: stir-fried knife-cut beef noodles. We also ordered the ji dan jiu cai he zi (egg and leek \"pancake\") to share. My plate came, gloriously heaped with noodles. I reached for the clay pot full of hot chili flakes in oil, dumped a copious amount on my noodles, and dug in.\nThe cramped noodle bar, with its communal tables, fluorescent lighting, and cooks making noodles two feet away from where you're sitting reminded me a lot of noodle shops I went to while in Hangzhou, China.\nThe food was no frills, authentic Chinese at its best. And even better? You can get a massive portion of noodles for under £7.\n100% recommend if you're in London and looking for quick, cheap, tasty, authentic bite.",
+                "datePublished": "2016-06-18"
+            },
+            {
+                "reviewId": "3-hSULhaulZaJHXg8LnL2g",
+                "author": "Dave W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "place is tiny.   cumen lamb is excellent.   very surprisdd by how tender it is.    flavor is excellent.\ngirls say the noodles are very good as well.\nhuge portions",
+                "datePublished": "2017-06-20"
+            },
+            {
+                "reviewId": "7rY2Ez75Vomn05-Ar-IB5w",
+                "author": "Christine C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This was a pleasant surprise for us. The Lanzhou noodle bar in London Chinatown beats the Lanzhou noodle in San Francisco bay area! One star off for bathroom afcility and always have to share table due to space limitations. We found the noodle and the BBQ kabobs to be so good that we came here three times during our 6-days stay, only wished we found it sooner! \n \nWe found this hole-in-the-walls place by chance, and noticed the online review was decent so decided to give it a try. Service was average and I saw people complaining the waiter/waitress tried to rush customers. We didn't mind it since we wanted a quick eats place. But I can see why some people may be offended.",
+                "datePublished": "2018-05-09"
+            },
+            {
+                "reviewId": "K39lsPrscNJp7l43MOrvpg",
+                "author": "Savi J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Literally in love with this place. My go to is to get vegetable la mian with veggie broth instead of pork. \nWhether it's lunch time or 2 am this is the place to go, but this is not a first date place...\nUnless you have an adventurous date. \nYou're going to have to share a table with strangers and be comfortable without having personal space.",
+                "datePublished": "2016-07-04"
+            },
+            {
+                "reviewId": "h3fmjCOPLIubeHDnDJlYjA",
+                "author": "Melissa D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This place is not in the heart of Chinatown. Decent place but not the friendliest. Tried to ask some questions about the menu and was not given real answers. Not entirely sure if she understood what I was asking. Still unsure of what I actually ordered too! Asked for a stir fried noodle dish and got a soup meal. It was good but a little bland. Also got a stir fry chicken dish it was similar to a sweet and sour but not 100% sure and it too was bland. Service is very quick! If I came with a regular that loves this place to show me the ropes, I am sure it would have been a much better experience!",
+                "datePublished": "2017-06-17"
+            },
+            {
+                "reviewId": "tt7MYmfQXhJjn97gPk-luA",
+                "author": "Joanna G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I spent the last 2 months in East Africa and I've been thinking about all of the food that I want to eat as soon as possible. Noodles was definitely on that list and this was my first meal in London, thanks to the positive Yelp reviews. It's a simple noodle shop where the front has the cooks making the noodles and in the back, there are some communal tables. Overall, the place could fit probably 10 people and you would be sharing tables. But I was seated right away when I entered. Ordered the cha siu noodle soup and my order took less than 5 minutes to arrive. Maybe even less than 2 minutes. It was REALLY fast and delicious and definitely satisfied the craving.",
+                "datePublished": "2017-08-06"
+            },
+            {
+                "reviewId": "9Ts4YRVBpmI37w48r7bg8w",
+                "author": "Chris M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very small noodle bar with very great food (freshly hand-made noodles and good broth) and low prices. The service may be a little bit quick and disinterested and since there aren't many places where to sit you may end up at the table with strangers but if your focus is having great noodles this is restaurant is perfect.",
+                "datePublished": "2017-08-12"
+            },
+            {
+                "reviewId": "0g73kQPpZLUiMoQNUSLINg",
+                "author": "Bernice R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yummy and inexpensive, best to take to go since the dine in space is very small. But the staff was friendly and helpful, food was pretty good",
+                "datePublished": "2018-04-21"
+            },
+            {
+                "reviewId": "0J0C4QQo9_L8eztXSv2gvw",
+                "author": "Alice T.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Service was efficient and prompt. This place is super small, so be ready to share a table with other people for maximum efficiency.\nChar siew dao xiao mian (BBQ pork knife-cut noodles)\nBBQ pork was extremely tough and over-boiled. With how overcooked it was, it might have been the previous day's leftovers. The knife-cut noodles were too inconsistent. Usually, knife-cut noodles are good because of the little inconsistencies in thickness, and therefore, texture, but these were too widely ranging. Most of the pieces were too thin, which made it like eating little bits of noodles the thickness of dumpling skins. The remaining pieces were extremely thick, which made for lots of QQ, but also just too doughy. I would normally always recommend the knife-cut noodles over pulled noodles, but I say go with the pulled noodles here.\nStewed beef la mian (pulled noodles)\nBeef was very tender and tasted marinated, noodles were good. Broth was good. Stick with this one.\nCash only.\n7.50GBP for soup with pulled noodles. 7.90GBP for soup with knife-cut noodles. Most dishes can also be customized to be a dry noodle or stir-fry noodle dish.",
+                "datePublished": "2016-11-26"
+            },
+            {
+                "reviewId": "GaPRpxAhplqvqGcVIYUjfA",
+                "author": "Olga R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Delicious!!! I ordered the La mian wonton soup and it was very good. We went here for dinner two out of our three nights in London. It was slightly uncomfortable as the location is quite small and you will likely share a table with strangers. No biggie, however i noticed the other girls at our table received their food long before we got our despite arriving and ordering much earlier.",
+                "datePublished": "2018-03-31"
+            },
+            {
+                "reviewId": "YyTz1eeCwZF6SJ1qbmZAEQ",
+                "author": "James G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I don't think I've had better noodles in my life before. The hand-made noodles were perfection and the broth was better than anything I could've imagined - not too salty, not bland... just right. Achieving that balance is harder than it often seems. I ordered the sliced beef noodle and it was absolutely delightful. The restaurant itself is certainly crowded; arriving with a big group might be a bit problematic if you want to sit down. Fortunately for me, I went alone and ended up making friends with the stranger seated next to me at the bar.",
+                "datePublished": "2017-09-25"
+            },
+            {
+                "reviewId": "b1K6tggHAjcTaSu4uIMv7g",
+                "author": "Wes D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wanted noodles. This hole in the wall has knife peel noodles! Super fresh and very tasty. We ordered beef noodle soup. Wonton in chili oil. Mapo tofu and bokchoy with fresh garlic sauce. Everything so good!",
+                "datePublished": "2017-09-04"
+            },
+            {
+                "reviewId": "0j4yRL2S7u_BGPAfxuNFIg",
+                "author": "Chills E.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Thought they serve vermicelli noodles but no longer on menu. Gluten free option is only rice plates or meat dishes.\nOrdered zha jiang mian, niu rou mian & roasted duck rice plate. Not much flavor with the zha jiang mian, niu rou mian had good flavored broth and small portion of duck with the rice plate. Quick service as they want quick turnover. Try to give tip to waitress but she refused and said come back if we like the food and service.",
+                "datePublished": "2017-08-22"
+            },
+            {
+                "reviewId": "WI5y3VRGaLaIRTkNUgN_3A",
+                "author": "Terry C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "As a vegan, I'm usually not very impressed with lanzhou noodles, but the bok choi and la mian were fantastic. Came at around 6pm. Place was buzzing and customer service was great! Would totally come again.",
+                "datePublished": "2018-07-18"
+            },
+            {
+                "reviewId": "joN6FJkp0zOgT2G6Md9stw",
+                "author": "Wendy L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here for dinner after yelping this place.  I dont remember the exact name but I had the peanut sauce dry la mian noodles £7.50.  The dish arrived rather quickly after we ordered. I was hoping that it would come with some bok choi or some veggies but the bowl only came with the noodles on top of the peanut sauce.  You have to mix it together before you eat.  \nPeanut sauce on noodles was quite tasty.  Rich flavour, almost but not quite overwhelming in flavour.  I almost wished I ordered a noodle soup instead due to the richness.\nDefinitely a no frills kind of place and you might have to share a table with strangers.  Best pay with cash!",
+                "datePublished": "2016-09-19"
+            },
+            {
+                "reviewId": "1ENyi63j1rk_3vgnmqdtHA",
+                "author": "Daisy C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place is busy and crowded. Food are reasonably priced and they offer the option of additional meat and/or noodles. I definitely recommend the hand pull noodles.",
+                "datePublished": "2016-10-25"
+            },
+            {
+                "reviewId": "Rq3TVqCM7acZkQ_q_-he9g",
+                "author": "Sakif F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "One of the few places in London offering late night quick bites. The food is okay, the limited menu still offers a good number of combinations. I appreciate that they have chili oil at every table, though the place is small and definitely more geared towards carry outs. Overall, worth checking out, especially for the hand pulled noodles.",
+                "datePublished": "2017-05-26"
+            },
+            {
+                "reviewId": "pBIPcdloxxIBz_WT_j89_w",
+                "author": "Michael G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Open late which is wonderful and strangely rare in this city. The other attendees were chinese ex pats which is a good sign i think.  Food was wonderful and just the right thing after a long, late international flight.",
+                "datePublished": "2017-05-10"
+            }
+        ]
+    },
+    "80": {
+        "id": "VZqEzifhvtYAxkWw6AuiCg",
+        "name": "Lanzhou Noodle Bar",
+        "category": "chinese",
+        "servesCuisine": "Chinese",
+        "priceRange": "Under £10",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "33 Cranbourne Street\nLondon WC2H 7AD\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/8xXPicXL8ZiF3sG2RfjQqw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7467 4546",
+        "review": [
+            {
+                "reviewId": "Whl7qomG9YuhmfNtj2lKIw",
+                "author": "Nicole W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Oh my gosh! The Chinese food here is SO good! The handcut noodles were amazing. Also, super cheap. Great Local London spot!",
+                "datePublished": "2018-05-27"
+            },
+            {
+                "reviewId": "JauCJZkUKxc_XQdnzuGW_g",
+                "author": "Kel P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Awesome food and relative to general London Chinese food this is superbly awesome with great price!\nLove the broth in this cold weather!",
+                "datePublished": "2015-11-14"
+            },
+            {
+                "reviewId": "sged_Yr_vk16nBt9m8CpwQ",
+                "author": "Andy V.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Good for late night noodles, lousy, lousy service.  Rude staff.  Food wise, it's decent, especially for a late night meal, but on a global scale, it's certainly not the best noodle place ever.  It's good for where you are.  I've also dealt with rude service on a global scale, and this place was right up there with the worst.  If you're coming for the food, then stop by, but my rating reflects an overall experience.",
+                "datePublished": "2017-04-27"
+            },
+            {
+                "reviewId": "54Lhs-PVPsK-3-jnALGwMA",
+                "author": "Mary T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I found this place on Yelp and wanted to give this place a try because I was craving Chinese food. I was in Paris a couple days ago before I tried this place and I was really craving a bowl of noodle soup right when I got to London! \nThey have an extensive menu and the price is reasonable considering the conversion rate of pounds to USD. 7-8£ for a bowl of noodle is probably the most reasonably priced meal I had in London. \nThere was a line when I went around 6pm on a Friday. But we got seated within 5-10 minutes. They are pretty efficient because you can order while you are in line so by the time you get seated, you only have to wait for another 5 minutes until you get your food.\nI got the noodle soup with roasted duck and vegetables. Their handmade noodles taste amazing! They have this hot chili sauce that you have to add to your noodle! It adds so much flavor and a kick to it. If I am ever back in London, I'll definitely come back and eat here.\nThis place is in Leicester Square and there's always things happening around here at night so it's a good place to eat before you go out for the night!",
+                "datePublished": "2016-05-14"
+            },
+            {
+                "reviewId": "nhjYef3MbjO1ld7picBNMQ",
+                "author": "Heather L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I went here when I went on vacation and even after returning to the states, I miss this place so so bad. I'm a big noodle soup girl and this place really hit the spot. I think my beef noodle plate was around 8 pounds, and the broth was salty and savory (just the way I like it)! They gave a good amount of noodles and beef and veggies. It is really busy here and crowded and cramped so it's best to just eat and leave.",
+                "datePublished": "2017-02-15"
+            },
+            {
+                "reviewId": "T9f60Y3rm0Wi7ixaVHk6BA",
+                "author": "Randy H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Takeout noodles tasted like plastic, fish and meat terrible. I do not suggest taking the take out food.",
+                "datePublished": "2017-11-04"
+            },
+            {
+                "reviewId": "YSBgzps_QQcEZLmB034qWg",
+                "author": "Adam C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "this is a very busy small place..it is fun watching the noodles being made..it is jammed and crammed. ..\nI've had several dishes here, and been happy..but I really like the fried pork  dumplings...\nthey have 5£, lunch specials but we didn't try them..next time..",
+                "datePublished": "2016-09-04"
+            },
+            {
+                "reviewId": "ty8_GfXajAhcLFsDqm2j2g",
+                "author": "Wendy L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Finally made my way to Lanzhou Noodle Bar for some fresh hand pulled noodle soup. It's what they well known for yet I can't help but feel sad when I see tourists or people unfamiliar with the cuisine going for a cheap container of their pre cooked buffet section.  Take the hint and order the freshly made hand pulled noodles instead.\nThe place felt like I entered a nursery with their bright colour walls of yellow, red and green and laminated printout of the food. \nStaff were efficient and quick but without the friendliness, which is very typical of a Chinese restaurant. With that in mind and the small canteen style restaurant, condiments on the table, short plastic and wooden stools, it was very reminiscent of canteens in Hong Kong and China.\nHouse special vermicelli \nOh my beautiful zingy garlicky vinegary salad of thinly sliced cucumbers, carrots, coriander, vermicelli and the novelty of frankfurters too. It was so refreshing, loved the crunchy texture and marinated perfectly. The frankfurters actually worked well adding some meaty sweetest to the dish, to balance out the sourness.\nChicken sour spicy la-mian noodles. \nI didn't expect the broth to be so umami and flavoursome. It had depth and a nice balance sourness as well as a good punch of spice from the chilli without being numbing. The noodles was full of bounce and generous, made long so it provided a really satisfying bite. The wood ear fungus gave a crunch to it and this was contrasted with the softer tofu. The chicken was a bit dry but that was the only compliant I have\nStewed beef Dao Xiao Mian (chopped noodles) in soup. \nThe broth was delicious and complex, once again full of flavour and depth. Sadly the noodles weren't as satisfying for me being short and doughy. It felt I spent more time chewing on the noodles than the enjoying the broth with it. Next time I might have it with the La Mian as the beef was spot on being incredibly tender and fragrant, with strong notes of the sweet soy braising marinating sauce. Nice addition of pak choi for a refreshing green taste and crunch.\nSteamed pork and chive dumplings \nThese were poorly made. The dough was too thick and chewy masking all the flavours of the meatball and the broth inside it. The meatball itself was nice and sweet, well marinated and juicy.\nFish ball BBQ skewer and lamb BBQ skewer \nThese were lovely and fragrant. It had a nice kick to it from the spice. The lamb was meaty and lean which was nice compared to all the fatty ones we've had. Fish balls were soft and bouncy with good umami flavours. It was great not to have a minimum order on them too like most places that sell skewers.\nChive and egg pie\nThis was very moreish. I love the doughy thin pastry, pan fried for a little bit of crisp around the edges. It was a bit greasy too but that kept it moist. Inside was a delicious filling of peppery chives mixed with silky eggs.\nI left so satisfied with Lanzhou Noodle Bar. For just £6.50 for each of the noodle soups it makes me question why a simple miso ramen can cost double that. It's cool how you can see the noodles made in the open preparation kitchen by the chef and the skilled involved. Menu is actually quite extensive covering mostly northern Chinese food so if you're hungry you can always add it along to your noodle as a side like what we did. Looks like I will be back soon.",
+                "datePublished": "2016-05-03"
+            },
+            {
+                "reviewId": "_nNBwhqwwUQdC-RtEO1gbw",
+                "author": "Michelle R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Everywhere I go, I like to visit the Chinese district or Chinatowns as its sometimes called. Most places in London are HK cuisines, with a sprinkling of northern Chinese cuisines. Lanzhou falls squarely in mainland/northern chinese cuisine. It's hand pulled noodles are freshly made and the sauce is super yum. There are all kinds of choices for everyone. I was excited to see that they served garlic and pepper marinated cucumbers, which is my favorite appetizer of all time. They don't serve water which is fine if you're getting a soup with noodles. \nThe restaurant is cramped, yes, but it feels pretty authentic that way. The crampness reminded me of many of the street restaurants I have been to in Asia and honestly, whenever I am in Asia, I prefer street food over fancy restaurants because it tastes way better. Lanzhou is also one of the rare places that take card (yay!).",
+                "datePublished": "2016-09-12"
+            },
+            {
+                "reviewId": "FRxT6JhbNz_oJ5aKcf_25Q",
+                "author": "Aria Z.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "This place is far far far from acceptable...Food is bad, service is worse, toilet is awful...got nothing good to say about it...",
+                "datePublished": "2018-05-21"
+            },
+            {
+                "reviewId": "60Ae7VKAupdYzjonv9P0iw",
+                "author": "Natalie R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'm still not sure how we ended up eating here on a Sunday afternoon, but what I will say is that I was actually really impressed with the noodles that this place offers. They are made fresh  and super tasty (that's only if you are planning to be seated with a menu + order from the left side of the noodle menu). \nFor a brief moment sitting outside at the only table on the pavement and with one of  the chefs munching away on is own dinner next to us, I felt as if we could have been in Beijing. \nThis noodle bar is right opposite Leister Square station, so not the most atmospheric place in the world, but definitely worth the experience.",
+                "datePublished": "2016-05-23"
+            },
+            {
+                "reviewId": "gOVuUZKWsMvYy0MonHIKSQ",
+                "author": "Jay Y.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Hectic place and rude service. \nThe noodles are not bad but the flavor is way off from what you would get in China. Below expectation.",
+                "datePublished": "2017-11-23"
+            },
+            {
+                "reviewId": "P4zSXyFVqzYH6RNbXIuS6w",
+                "author": "Karen N.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I wanted so badly to love this place as I had seen it show up on many lists for London's best cheap eats. \nYes, it's cheap for ~6.90 for a bowl of noodles in Soho. \nBest? Far from it! The bowl is packed with so much MSG (flavour enhancers, you'll know it's jammed with the bad stuff after you go running to find a drink after dining here!), fatty cuts of meat (stewed beef is the recommendation and 80% of it is fat) and I counted one slither of bok choy (yes, one!). Most of the bowl is filled with broth that's way too oily to drink. The handcut noodles are impressive and lives up to the hype. If you're not a fan of MSG and really oily/fatty food, I'm afraid I couldn't recommend Lanzhou Noodle Bar. \nService is inattentive and poor. The minute you put down your chopsticks, there's already a table standing next to you waiting for you to dash out ASAP. I understand that seat space is tiny and cramped, but it'd be nice not having to climb over bodies to exit the restaurant. \nYou'd be better off paying an extra £5 and grabbing a bowl of ramen nearby. Can I suggest Kanada-Ya? They have rad ramen and it's a consistent five stars from me.",
+                "datePublished": "2016-02-21"
+            },
+            {
+                "reviewId": "7QhCOnYceqGgODQ3yGzivA",
+                "author": "Deric C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Lovely noodles place with tailor hand made noodles..spicy sour soup with the variety of topping. Signature dish is beef stew noodles with spicy soup. Little restaurant with huge crowd of Chinese customers. If you like chinese ramen..this is the place you should visit.",
+                "datePublished": "2016-07-15"
+            },
+            {
+                "reviewId": "xJAuaGgd0JklVB-utTRRNw",
+                "author": "Tasha C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "After a month of gallivanting around Europe, my cravings for Chinese food were at an all-time high. Found this place on Yelp and was super excited to finally get a taste of the homeland. This noodle joint is a tiny hole in the wall, super casual with cramped seating, but it wasn't anything I didn't already expect. \nMy boyfriend and I ordered the stir fried hot and sour beef la mian (hand pulled noodles), as well as the pork sparerib dao xiao mian (hand cut noodles) in soup. Food came quickly within ten minutes and was super fresh. The hand pulled noodles were definitely the preferred style between the two as they were more al dente and retained a light bounce. I normally really like dao xiao mian, but I found that since they were in soup, they ended up getting overly doughy/overdone quicker than I anticipated. The pork sparerib was crisp and well executed, and the hot and sour beef had a nice level of acidity and spice. \nOverall, a quick cheap eat that hits the spot. Just bear in mind that it's definitely a no frills type of establishment.",
+                "datePublished": "2016-07-13"
+            },
+            {
+                "reviewId": "ZJ4AsFZl6zGXM29eWGZSOQ",
+                "author": "Jennifer F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'm still a fan of this place but the honeymoon period is over, sadly. The noodles are still fantastic and the service will always bring me back to the quality of service in China. \nI'm taking two star off of my original review because while the noodles are fresh and amazing, their other dishes are less desirable. I ordered the Mu-er cold dish as it's one of my favourite things to have in China. As I was digging into it, we saw not one, but 2 very long strands of hair. \nThey were nice enough to make me a new one, but I was rather put off from the initial dish already and probably nothing could have actually made the situation better. \nIn hindsight: Go for the noodles. Maybe try the lamb skewers. But stay away from the cold dishes.",
+                "datePublished": "2015-03-14"
+            },
+            {
+                "reviewId": "JyByq8cfDPUynhXVcU7xIA",
+                "author": "Chloe W.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The food was amazing but I don't care how good you are - you need to treat your customers with respect.\nI was shouted at several times just for trying to get a picture of the noodle making. Then they told us off for not being finished even though we'd barely been there 10mins and were sitting uncomfortably at the bar, so not even prime real estate. \nThen they tried to add on a charge to pay by card without warning in advance so had to trek off to go get cash and come back. There's no warning of this charge also when you're queuing for a table - which is when you're most easily able to pop off to get some cash.\nYup, damn good noodles but somehow was left with a bitter taste in my mouth from the p**s poor service.",
+                "datePublished": "2016-02-05"
+            },
+            {
+                "reviewId": "tcRMF9Ya3u8dxpBlSCyBmw",
+                "author": "Eddie Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Overall Score: 5\nService/Ambiance Rating: 4\nFood Rating: 5\nTip: They accept credit card! (Unlike what the Yelp page says)\nBeing Asian, I always find it nostalgic to eat Asian cuisine while I'm on holiday; the cheaper the better too. \nThere's a huge array of food at this spot and, being a lover of noodles, there wasn't enough space in my stomach for all the dishes I had my eyes on. \nP.S. I actually went here twice during my stay and the beef noodle soup wasn't as good as the ground beef noodle (G19, if I remember correctly) but I have lower standards when it comes to cheap, Asian food.",
+                "datePublished": "2016-04-28"
+            },
+            {
+                "reviewId": "r_CKP7RbaDOtfYkjkq25Bg",
+                "author": "Carmen Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Freaking delicious noodles!!! I got the sour and spicy chicken and shrimp noodles, and the flavor was amazing. No MSG either because I drank most of the soup and didn't feel terribly thirsty after. 4 stars because the service left something to be desired.",
+                "datePublished": "2018-04-19"
+            },
+            {
+                "reviewId": "nx1ovVFXJPUakhzln1DR3g",
+                "author": "Huy G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Another cheap yummy noodle place. I got the spiced beef ma mian (thin yellow noodle) for $7.5. Flavorful and hearty for especially the winter. Service was good and efficient.",
+                "datePublished": "2016-12-12"
+            }
+        ]
+    }
+}

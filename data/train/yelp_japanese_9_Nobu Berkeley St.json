@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "id": "7_vnaHG6FhnlZvyc5Mt4Hw",
+        "name": "Nobu Berkeley St",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Mayfair",
+            "streetAddress": "15 Berkeley Street\nLondon W1J 8DY\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/V33WYEyQGbnLuP-6BvrzAg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7290 9222",
+        "review": [
+            {
+                "reviewId": "WvSqERy0M5pNvt1Hhi2m2g",
+                "author": "Jr O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "While visiting London, wife and I decided on a nice dinner in the city! Nobu didn't disappoint! Just a tip,  call ahead and make a reservation.  \n5 stars for taste of food\n5 stars for service \nWe took an Uber so not sure about parking",
+                "datePublished": "2018-03-17"
+            },
+            {
+                "reviewId": "8IfrnWNK-ezP_NnWWlGaow",
+                "author": "Christie F.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The food is great. The noise level is simply intolerable. It was so loud that every guest at very at every table had to shout, so the noise level was off the charts. They sat us under a big dome which is the WORST architectural feature ever for a restaurant. I hated every minute of this experience (excluding the delicious food). Install some baffles, and I'll be back. Until then, I'll avoid this place.",
+                "datePublished": "2018-07-08"
+            },
+            {
+                "reviewId": "Cx2cEFd64EUl6A52APzApw",
+                "author": "Damian W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Food: 4.0/5.0\nService: 4.0/5.0\nValue: 2.5/5.0\nDecor: 4.0/5.0\nOverall: 4.0/5.0 \nDid the larger omakase option.  Pretty good meal with good service, but the food was honestly not mind blowingly good and the plates had smudges in them.  Not super surprised M took away the *.  Still a nice spot to try but its Mayfair, so.. be ready for that.",
+                "datePublished": "2017-04-02"
+            },
+            {
+                "reviewId": "1FmWVk1-7BvLzYkhs4jKZw",
+                "author": "Lynsey H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I visited Nobu on New Year's Day, which could have been a risky move but it paid off as it was amazing. The restaurant was full and service was a bit on the slow side to start but once we got our food it was game on. My friend and I ordered two bento boxes, the classic and the deluxe and shared them between us as well as some California crab rolls as well. It was plenty of food and we couldn't finish it all. The highlight for me was the black cod, which I also had on my last visit to Nobu. We decided to squeeze in dessert and shared the cheesecake, it was amazing and a great way to round off the meal. The presentation was great and it was tasty and refreshing, I would definitely recommend it. I can't wait to go back!",
+                "datePublished": "2017-01-27"
+            },
+            {
+                "reviewId": "h6bQ7tZsYEE-0XF4ZP_S-w",
+                "author": "Mike S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "No doubt NOBU is always a nice place, just about anywhere you go. \nThis specific location is in the heart of Mayfair, which by default makes the crowed a good and professional one.\nFood is very creative and original with a twist for just about every plate. \nService is very good. \nDownstairs has only a bar (cool one) and a large couch seating lounge. Big stairs takes you to upstairs, where the dining room is.",
+                "datePublished": "2016-04-20"
+            },
+            {
+                "reviewId": "7d-MWwlZ-89YYP2v-xc6QA",
+                "author": "Melissa O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This Nobu in particular had a really good dessert that I have been craving since I went. It was a chocolate ball with ice cream inside. The thin chocolate shell melts as hot chocolate is poured on top of it.  I was a little sad when I went to another location in Las Vegas to find that their desserts were different.Next time I'm in London I'll definitely come back to this Nobu for dessert!\nAlso, the appetizer salmon tacos are TO DIE FOR! I have to get them every time I go.",
+                "datePublished": "2017-03-30"
+            },
+            {
+                "reviewId": "RVSVZgehfF8R08c9mxbc8A",
+                "author": "Yordon D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "This particular Nobu restaurant seems to have lost quite a bit of its exclusivity and high standards in terms of service. Been to the NY location a few years ago and me and my family were extremely impressed!\nTherefore, went today and was really looking forward to it. We were welcomed and everything was good, bathroom didn't look like the NY location at all, just very simple and generic.\nWe were seated on wooden chairs and I asked whether we could sit on a soft couch twice, on which the reply was; sorry that is not possible while there were plenty of benches available...\nTheir salmon & tuna sashimi tasted just like the one u can get at YoSushi; like plastic. Maybe this is more of an environmental issue but still then don't dare to charge a Nobu price.\nAfter I refused to pay the optional service charge due to dissapointing fish quality and just rude seating arrangements, I was treated like a criminal - never again at this Nobu location that's for sure!",
+                "datePublished": "2016-08-16"
+            },
+            {
+                "reviewId": "PZ42WUGlfY06Dx3TyJvfsQ",
+                "author": "Robbie B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "There's a reason why it's so hard to get a booking at Zuma and yet it's so easy at nobu...\nIt didn't start well. We were a group of 3, there were a fair few tables empty and yet we were given a tight tiny table for 2. I refused such a bad table and was given a proper sized table.\nService was terrible, slow and quite frankly useless from start to end. \nAt an early evening booking, how do you run out of the rib eye steak? Or that there was no Sauvignon blanc by the glass? That's pretty poor.\nAnyway, had the tacos, nothing particularly special. A selection of sushi and sashimi, decent taste with the fish as expected, the rice in the sushi was not the best made, fell off too,easily.\nThe shrimp tempura was fine, but Zuma is another level, much nicer, they serve the whole shrimp in a much better batter. The asparagus tempura was fine, bit greasy, slightly too thick hence they were still a bit hard to break on the end pieces.\nI had ordered rice to come with the miso cod which was next. That rice never came so fish by itself, as tasty as the fish is, you need something else with it. Very disappointing.\nFinally the last course of tenderloin steak with rice finally. That was cooked rare perfectly and hat a spicy kick to it that worked. \nDessert was just green tea ice cream and petite fours. Was ok.\nAt the end they apologized for the slow/lacking service and gave the dessert free of charge but quite frankly \n, it shouldn't have been that bad.\nThe service needs to improve. Zuma will stay number 1 by miles in my book.",
+                "datePublished": "2016-01-30"
+            },
+            {
+                "reviewId": "roeBx1j9OEVYHaTxAwGd-Q",
+                "author": "Gary L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Super trendy and super loud. Restaurant has two levels and it's packed, like a night club! Service is plentiful, fast and efficient. Food come out quickly after ordering. We took the liberty of ordering 4 dishes at a time , tapa style to share, as we didn't know how much we were gonna eat. Each dish were delicious! Love the Octopus Carpaccio and the Waygu Beef, as the most memorable dishes. Expect to spend ££££ money here! Yeah it's worth it!",
+                "datePublished": "2016-05-26"
+            },
+            {
+                "reviewId": "-aK0c1UmsH--C8zyUghpfA",
+                "author": "John N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "How can you go wrong with Nobu? Great location for dinner and drinks, whether it be with friends, cowormers, or that special someone. Service was impeccable which you could expect for the price you pay. Have been to several other locations like las Vegas and San Diego, CA with lavish decorations and decor. This location seemed a bit lacking with the \"wow\" factor decor-wise. The food however is what you would expect from a 5 star restaurant. Every dish expertly prepared and plated. All sashimi was as fresh as could be and paired with a bottle of Brunello seemed to make everything taste even better. Wagyu is a must have and a recommended favorite! 5 stars for food, taste, and service. \nBe prepared to spend large when coming to Nobu. Dinner for 2 came out to about $480 pounds with 15% gratuity included.",
+                "datePublished": "2016-07-28"
+            },
+            {
+                "reviewId": "TTHGJhNtbgErM6k90HvzCA",
+                "author": "Celia R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Erm... Where to start? So much to say... \nSo we decided to do the very cliche thing - go to Nobu for Valentines Day! We dont really put much importance on Valentines day, its more an excuse for a fancy dinner! However we did have high expectations in terms of food. I remember many moons ago being repeatedly told by a friend in Rome that Nobu was the best restaurant in London. I remember thinking it would take me quite a few years before being able to afford. Although ive been able to for a couple years now, never got round to it, so this was exciting stuff. \nI want to start by saying the food was amazing. Really absolutely fantastic - ill go into more details below. However, when you pay this much and when you go somewhere with such a reputation you expect more, much more. So lets beginning:\nAbsolutely no atmosphere, no vibe, nothing. This place has no soul. White walls, no decoration, nothing to excite you. Very bad very loud music, i guess thats what they might call \"atmosphere\", but you could barely hear yourself think and even less talk. Seats and tables were particularly uncomfortable. Lots of fancy people in fancy clothes but nothing else. Thats gotta be why it lost its star... Great food just isnt enough for michelin starred restaurants. You want an experience with insane food. \nService was decent considering it was Valentines Day and surely a particularly busy evening. \nThe food though... Thats another story, we had the Valentines Day 6 course menu, so didnt get to try the special and ph so famous black cod. However, i was not dissapointed with any ofthe dishes. They looked good and tasted good. Fancy japonese food at its best, combination of exciting flavours & luxury products (from a little caviar to classic lobster) cooked to perfection. Every dish was exceptional. Quick mention for the dessert, which i guess i expected less off. It was stunning, fresh & tasty. \nIf we look at the food alone, i highly recommend, i wodeven want to go again and again and again. However you cant ignore the price tag, ita not cheap obviously. For thatprice id want thw food to be outstanding but also the restaurant also the atmophere... So overall, if you are looking for amazing food i would recommend, but if you are looking for an experience out of this world i wouldnt recommend. Honestly im not sure ill be back.  \nHowever, super keen to try Zuma now!",
+                "datePublished": "2016-02-18"
+            },
+            {
+                "reviewId": "9m_MDpmJ-0YZCPNMMmNOlA",
+                "author": "Jihane L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Not my favorite nobu . Tried it three times and I have a problem with the waiters ( I hate when it happens I am not eating for free please do your job or go work at a fast food) . The park lane one is better and ohhhhh man I miss nobu Malibu .",
+                "datePublished": "2016-09-30"
+            },
+            {
+                "reviewId": "8VisyPk06B22DdfLd_YVZQ",
+                "author": "Kate D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Was taken here for a meal before Christmas and as usual it was awesome. The food is simply stunning and the service incredibly attentive. The sashimi selection and beef tataki were amazing. I would go more often if I could afford it! The only thing I would say is we were at a table that was a little tucked away from the main area so the atmosphere was a little quiet, however this did not hamper our experience at all!",
+                "datePublished": "2017-03-06"
+            },
+            {
+                "reviewId": "TgXXf_ty3ZqnEOe9CiebiQ",
+                "author": "Jocelyn R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The Nobu restaurants are one of my favorites because of their usual amazing food and service.  However, I was disappointed when I recently visited Nobu Berkeley Street. Though the food tasted wonderful as usual, I was very agitated with the table service. I was sitting at a small table and servers continued to attempt to crowd the table with dishes, which made me feel rushed like they were trying to turn our table quickly. At other Nobu restaurants, dishes are served one by one so the guests can enjoy their dishes. The atmosphere of Nobu Berkeley street is loud: playing club lounge type music making conversation between those at your table difficult. If you are looking for Asian fusion, I would recommend you going across the street to Novikov's Asian restaurant where the food is delicious and service on point.",
+                "datePublished": "2016-04-17"
+            },
+            {
+                "reviewId": "1EmiqxBpw60c3AISsI8fRw",
+                "author": "Jonathan D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had a quick dinner at the bar last week and Nobu continues to be a great place for food and drink.  I tried the four horsemen cocktail which was a very interesting whiskey drink.  I had the field greens, salmon sashimi and a tuna roll.  The food was fresh and delicious and the salad is one of the stars of the menu.  I could eat the dressing by itself it is so amazing.",
+                "datePublished": "2017-07-04"
+            },
+            {
+                "reviewId": "cTP7TO5dliOfuCUE0uCekg",
+                "author": "Yaron V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of London's best Japanese restaurant!\nHigh-end food and  service, makes it a great experience, you can't really go wrong with the order.....what ever you will get would be taste and full of flavours. I Highly recommend to visit this one Michelin star restaurant.",
+                "datePublished": "2015-07-13"
+            },
+            {
+                "reviewId": "SEFLBhSMmu0nyf1jBGZhDQ",
+                "author": "Steve T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Had my first meal in London at this spot. This place has a nice decor, food was  good and the service was excellent. My GF made reservations in advance, so seating was a no problem when we got here. This restaurant is classier, so if you're trying to save or eat on a budget, don't bother coming. One dish you must order is the Black Cod. It is flavorful and melts in your mouth. It is the one dish that stands in my mind that i want again\nyelp.com/biz_photos/nobu…",
+                "datePublished": "2014-12-21"
+            },
+            {
+                "reviewId": "fGz237p6t3wKRxFkt3c4rw",
+                "author": "Grace R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came here for lunch for my Sisters Birthday. Greeted at the front of the restaurant very politely and someone took our coats. Didn't have chance to sit at the bar but it looked stunning!\nWent up to the Restaurant where the atmosphere was great. Not too quiet so you can laugh and have a good conversation without being loud. \nOrdered cocktails, sake and two Deluxe Bento boxes which were stunning. The Mojito is easily the best I've had. Food portions are generous so you won't be hungry! All the food tasted of very high quality and the service was fantastic. \nPrice including a fabulous birthday cake and service was £250. Don't be put off, you do get what you pay for!",
+                "datePublished": "2015-04-21"
+            },
+            {
+                "reviewId": "WyOCzAwon5zX-xJCT8UE_A",
+                "author": "Nicola W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Drink: order lychee martini,  it was good as most of thirty cocktail tend to taste sweeter.  But if u r into strong achoholic taste,  Nobu cocktail may be not for u, instead,  u can try their sake.\nFood: heard about this restaurant for long time and their famous waiting time for reservations.  Compared to other fusion restaurant I have tried, the food here is better than average,  but also a bit over rated. \nThe best dishes are the prawn tempura with their amazing three dipping sauces,  salads are good too with nice dressing, their seafood main courses r very good . \nBut I am disappointed by their sushi compared to other similar restaurant.  There are gaps for improvement to perfection. \nTacos are interesting,  the filling are good, but Tacos can be more crispy to make the dish work better. \nDesserts are better than normal restaurant,  but  less innovative compared to similar restaurant I have tried in London.",
+                "datePublished": "2014-04-26"
+            },
+            {
+                "reviewId": "gLvT2Sb2XijCgCLUHJa8aw",
+                "author": "Linda W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We really enjoyed our dinner.  Granted, it was £320 for 3 people, so keep that in mind, for that price, it should have been mind blowing.  Arrived promptly at 9pm, but our table wasn't ready, went to the bar for a drinks.  Half our drinks were good, the other half, not so much, so really hit or miss.  We tried a total of 7 at £16 a pop I believe.\nDinner upstairs, we had the tasting menu, 2 regular tasting menus, and 1 vegetarian with a chicken addition.  Funny thing was that the vegetarian with chicken was only £4 less than the regular tasting menu, and the regular tasting menu had the same chicken dish on it.\nAnyways, our server was pleasant, water refilled, never a problem with service.  And atmosphere was great.  Can't complain.  Just be ready to spend when you are here, and it'll be a good time.",
+                "datePublished": "2014-04-16"
+            }
+        ]
+    },
+    "20": {
+        "id": "7_vnaHG6FhnlZvyc5Mt4Hw",
+        "name": "Nobu Berkeley St",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Mayfair",
+            "streetAddress": "15 Berkeley Street\nLondon W1J 8DY\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/V33WYEyQGbnLuP-6BvrzAg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7290 9222",
+        "review": [
+            {
+                "reviewId": "srEhB7rwj5TIoN-wyR-D1g",
+                "author": "Loong J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place is spectacular!\nThe restuarant is based in Mayfair, London. So you would expect the dining experience to be above average, which it was. \nThe staff know the menu very well and explained it to me thoroughly. I opted for a la carte rather than the tasting menu.\nThe food:\nThe flavours are astonishing and presentation is wonderful.\nThis place dropped the 1star michelin and to be frank, I dont think it effected the food, as everything I ordered was, indeed, tasty. The service was spot on as staff were attentative, given that the place was very busy.\nOverall. Nobu is classy, but pricey. My experience here, was a good one. However, I would definitely recommend this place for a romantic date or a special occasion. Therefore, I can see myself coming back to dine.",
+                "datePublished": "2014-12-11"
+            },
+            {
+                "reviewId": "hxir3ZoO1CBNF4mIfRH2EQ",
+                "author": "Ben T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The food was great and very well presented, the service was also brilliant with polite and responsive staff. \nThe only problem I had was at a fun dressy restaurant it was a shame to see so many people allowed in wearing sweatpants and T-Shirts sitting next to very well dressed couples. A bit off putting but aside from that issue the food and service is great!",
+                "datePublished": "2015-07-12"
+            },
+            {
+                "reviewId": "RtJqouoOslj2z5PuDDlLGw",
+                "author": "Monica L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Always an amazing experience at Nobu but especially this one! Came here on Halloween and the place was creatively decorated. We sat upstairs and had amazing service. The seating was a little odd because it seems that they try to stuff a bunch of tiny tables in one spot. The drinks are always to die for as is the desert. This location is literally in the heart of Mayfair and the crowd is pretty good. I would definitely return, seems like the only issue is that they try to stuff you in like a can of sardines!",
+                "datePublished": "2016-05-20"
+            },
+            {
+                "reviewId": "XhJejTuxsetqssTK1WmF4w",
+                "author": "Millie F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "my favourite restaurant of all time. The shrimp tempura and black cod is just heaven and melts in the mouth. Highly recommend Nobu.",
+                "datePublished": "2015-04-13"
+            },
+            {
+                "reviewId": "AuV4B5xlsZZxS_XZrXbezw",
+                "author": "Helen H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Favorite dishes in order \nKing crab taco- mini mini taco but delicous \nYellowtail with jalapeño- so good\nTuna tataki with ponzu sauce- good but then the flavor for me got tiring \nBlack cod den miso- cooked well but a little bit too overpowering on sweetenes. \nLobster wasabi- most expensive, too rich for my taste, and I think disappointingly the wasabi flavor doesn't come out very well\nDrinks are amazing- the one in milk bottle was the best- naru bottle. Tastes like light creamy melted ice cream. \nService and ambiance are great",
+                "datePublished": "2013-07-05"
+            },
+            {
+                "reviewId": "uBwfXoeW4K7P28ub4wjkUw",
+                "author": "Mashael Z.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I was expecting Nobu to be very fancy and full of celebrities, but it was just a dimly-lighted and not particularly wonderful looking place. I have been to prettier restaurants and there certainly weren't any celebrities there that night. \nI was hoping the food would be out of this world, but it was like other places, there were a few things that were really good and most were just okay. It didn't feel like a special dining experience or a culinary journey. \nThe Creamy Spicy Rock Shrimp Tempura started out tasting okay, but the serving was quite huge (it is not cheap so I suppose that's why) and the more of it you eat, the more ill you feel. It is okay only in small amounts, but 2 people trying to eat a mountain of it is just ruining the experience. It is just too creamy and too heavy.\nIn general, Nobu had decent food, the tataki was good, but nothing to justify the price tag and it certainly wasn't exciting in terms of atmosphere.",
+                "datePublished": "2012-11-21"
+            },
+            {
+                "reviewId": "-R8Lu9gz97tgWDgGiuKwHg",
+                "author": "Dina H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is the best meal I have ever experienced in my whole life. \nEverything from the food, to the wine and dessert. The funny thing is that I always order special sushi, but this time I went for nigiri and it is the best sushi I have ever tried.\nThe salmon tacos as an appetizer is recommended.\nThe service, venue and food was all worth the price and you pay for the overall experience. I can not wait to go back.",
+                "datePublished": "2015-03-01"
+            },
+            {
+                "reviewId": "RkvNFWYaz5FMOgfzW-_4jA",
+                "author": "Jennifer F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've heard the cuisine at Nobu described as 'new style' Japanese, but never truly understood what this meant until now. The food is in a class of it's own - absolutely phenomenal! The seafood and meats are of the highest quality, which alone makes the food stand out. Add to this perfectly balanced flavors and textures and it doesn't get any better. Dining at Nobu was a tasting experience that I'd best describe as 'blow your mind' good, which puts this meal on my 'best things I've eaten' list. \nEverything from food prep to service was also spot on. The quiet confidence of the sushi chefs along the counter expertly and precisely preparing each dish is an impressive sight. And the servers are also on their game, working together to quickly usher each order from the counter to the tables as soon as they are ready. We ordered a number of things to share and each dish arrived at our table with perfect timing. \nMy only small nit about the restaurant was the dome shaped ceiling design that resulted in some strange acoustics where we were seated. We could clearly hear the conversation of a table on the other side of the room. We ended up sliding our table over a few inches which seemed to dull the effect a little.\nI can't wait for the next occasion when I return to Nobu (perhaps to check out another of their famous locations). Until then, I have the following sweet memories...\nRun down of the dishes we ordered:\nJapanese Julep Cocktail - Got things started at the bar downstairs with this refreshing twist on a traditional julep made with Yamazaki whisky. \nCrispy Rice with Spicy Tuna - Fun presentation! Crunchy cubes of crispy rice on sticks that you dip in soy and add a scoop of spicy tuna before popping in your mouth. \nYellowtail Sashimi with Jalapeno - My favorite dish of the night simply because the sashimi was unbelievably fresh, some of the freshest yellowtail I've ever eaten.\nSoft Shell Crab Roll - These crispy crabs didn't disappoint. Crunch, crunch, yum. \nFresh Salmon Sashimi - Like butter. Need I say more?\nShitake Anti Cucho Peruvian Style Skewer - Surprising transformation of a simple mushroom. They nailed the flavors on this one. \nNew Style Wagu Sashimi - 2nd favorite dish of the night. Wagu melts in your mouth. Our friends ordered a different preparation of wagu sashimi, which was not as good. Definitely go for the 'new style' wagu!\n 'Dragon Eyes': Warm Chocolate and Zabayon Ganache served with Crema Catalana Ice Cream, Pistachio Garapinados and Mixed Berry Coulis - Ah, a happy ending \nWine: Riesling 'Dachsfilet' D.Q Prinz Von Hessen  2009 Rheingau, Germanya - Great pairing with our meal. So good, we ordered a second bottle.",
+                "datePublished": "2012-02-13"
+            },
+            {
+                "reviewId": "Ll7a9QkGn2jLSKgP09sGpg",
+                "author": "Garion M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The venue is beautiful and modern, the hostess was was very welcoming and we were seated quickly. The service was top notch, yielding another delightful Nobu experience. \nWe got the Premium Prix Fixe menu, and the delicious courses did not disappoint. The standout of the night was the toro with truffles....amazing, maybe even cheating with such delectable ingredients! \nWe can't wait to return to try the next Prix Fixe!",
+                "datePublished": "2013-12-30"
+            },
+            {
+                "reviewId": "I4k1UDXzBtP62I5AaYLW6Q",
+                "author": "Alice G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Always a pleasure to dine in Nobu.   Pretty swanky.   Good service.   Had a delightful lunch with delightful company.  Tuna and beef tartare were delicious.   Black cod a must to order.  Snow crab was yummy.  And the dessert ... Apple tart with peanut ice cream!   Happy to go back anytime.",
+                "datePublished": "2016-01-20"
+            },
+            {
+                "reviewId": "pKTvfJU66RsQAOqRNoMX5Q",
+                "author": "Elizabethe A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "There's one thing you just have to know going into Nobu: it's expensive as all get out. Regardless of how much it costs to actually construct the dish, it will cost you an arm and a leg. It's kind of like Vegas, you just have to resolve yourself to a  certain \"sunk\" cost when you step inside. When you've made your peace with that, then you can make some smart choices to get the most enjoyment out of the 401k you gave up to eat there.\nIn terms of fish, I have to say that it's not the best, most flavorful, freshest fish I have ever tasted. Just like any other sushi joint, some days are better than others, and some cuts are better than others. Definitely ask what is best that day, because the sushi chefs will know. Remind yourself that you don't care about the price. The scallop has been very good, and of course you can rarely go wrong with Toro. Salmon is consistent but still not the best I've tasted.\nThe wagyu beef traditional style with two sauces is delicious. Sometimes you just can't beat a REALLY good cut of beef.\nThe hamachi and jalapeno starter is always a favorite of mine and Nobu does it to a standard almost worthy of the price.\nwhile miso glazed black cod isn't the most original of dishes anymore, it's still addictive, and just as flaky as you remember it the last time, every time. You will most likely never be disappointed ordering this.\nThe sashimi salads are also a great starter. I'm partial to salmon, but the tuna is also very good. The dressing is light and the greens are a really refreshing starter, especially when you've been eating nothing but heavy british food for awhile which I have been guilty of.\nThe rock shrimp tempura is a classic. The shrimp is meaty, the tempura is not too oily, and there's a lot of it. So it's good for larger parties.\nIn summary, I like going to Nobu because of the atmosphere and the service and just the overall feeling of luxury and being spoiled. Since the price is 5x more expensive than other places, is the quality 5x? meh, probably not. But like I said, if you are willing to put down the cash if only to guarantee a no hassle, relaxing, consistently delicious meal, Nobu will get the job done.",
+                "datePublished": "2013-03-27"
+            },
+            {
+                "reviewId": "Dtyc96bNJs-TY7u7GvfDuQ",
+                "author": "A G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is exactly the same as the other Nobus but twice as expensive because you are in London and there is nowhere else to eat. The fact that it is in London and not worse than the NY and LA locations merits at least four stars.",
+                "datePublished": "2015-04-11"
+            },
+            {
+                "reviewId": "xxZRgoz3QBOUby0wlDAJrQ",
+                "author": "Daniel H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "At Nobu, the food is always excellent. You need to book a long time in advance. The only complaint is that the prices are too high taking into account the variety you have in the area.",
+                "datePublished": "2015-10-06"
+            },
+            {
+                "reviewId": "oLW5gHxkypJofEg0JlVcQQ",
+                "author": "Zain K.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Yes, the food is decent (though not spectacular by any means), the ambiance is great, and the service is competent, but the prices simply aren't justified by any of the above. I've had just as good or better food for much less money, served with much less pretense.",
+                "datePublished": "2013-12-16"
+            },
+            {
+                "reviewId": "Ox5iRQhcf-oGTce4XpK5lg",
+                "author": "Brenda J L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Have been to Nobu in New York and Miami. Felt rushed here. Waiter made us feel rushed . If we mentioned a dish he would comment. I don't go often to Nobu but in the other places it was nice when the waiter took the time to offer suggestions when we weren't sure what to order. It was okay but the other restaurants have better atmosphere.   Place was packed though.",
+                "datePublished": "2016-10-03"
+            },
+            {
+                "reviewId": "ZWzmSG4S70_3pqhZXfGcHA",
+                "author": "Alex L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went to Nobu for a client dinner.\nThe food was a conversation stopper. Both of us studied the food after our first bites because of how good it was. Each dish that we ate had the same effect, and that is not an easy feat to achieve.\nOctopus Carpaccio with Bottarga (5/5): Very tender. \nCreamy Spicy Shrimp (5/5): Quite a nice kick to it. Have your water/beer close at hand.\nTuna Sashimi Salad with Matsuhisa Dressing (4/5): Probably what we liked least throughout the evening, but considering the competition - this is still high praise.\nChilean Sea Bass Yasai Zuke (5/5): Highlight of the night. Very well prepared, and a must if you visit this place.",
+                "datePublished": "2013-12-01"
+            },
+            {
+                "reviewId": "Jmy37PQCCDh201dghbMc5g",
+                "author": "Mohammed K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went to Nobu for lunch with my colleagues our boss was buying :) \nThe food was amazing, most of us got the Bento Nobu box. I ordered the Wagyu Rump with Anti- Cucho Sauce.\nEverything tasted amazing from the tampura to the salad to my amazing Wagyu Rump. The service was very personal and gave us great attention. Described all the dishes to us and a bit more when there were questions.\nThe setting upstairs for lunch is very comfortable but the place was packed so I advice you to book in advance. Obviously for dinner thats a must because I know from experience you can hardly get a table for dinner unless a week in advance.\nI rarely give 5 starts how ever this place with just the flavors of their food I give them all 5 stars.",
+                "datePublished": "2013-10-31"
+            },
+            {
+                "reviewId": "vvzgPYpbj3-a3EfRr9qgDw",
+                "author": "Alina S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My friend and I were visiting London and decided to try a trendy place like Nobu since I love the one in South Beach not so much Malibu. We made our reservations online got a confirmation call the day before which was great. As we arrived we were greeted at the door checked coats in waited for no more than 15 minutes which is a good time to check out the bar and have a drink. The staff were very nice and friendly.  The place is very stylish, great crowd amazing food. Price was as it is at any upscale sushi restaurant, you get what you pay for. It was our last night in London and we got a great experience. Highly Recommended",
+                "datePublished": "2015-01-06"
+            },
+            {
+                "reviewId": "_K2SrgWT4VdZ-vy-KMwi5Q",
+                "author": "Dana G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great service, amazing food!  Went there the day we arrived to London.  Our server was fantastic and she was very knowledgeable and recommended dishes that were suitable to my dietary requirements.  The only reason for the 4 stars and not 5 is because of the atmosphere - we sat next a a group with few kids behaving badly.  Even my child thought it was too much!!",
+                "datePublished": "2015-04-28"
+            },
+            {
+                "reviewId": "KaTh7MsKxryUKy-B1OhHKA",
+                "author": "Willie W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Some nice dishes (e.g., black cod) but I have three complaints:\n1) overpriced\n2) uneven service\n3) celebrity ass-kissing\n4) noisy\nIt is in some ways like all the other Nobus, that is fairly good sushi but more about the scene than the food. A long ways from the good old days of Matsuhisa on La Cienega in LaLaLand.",
+                "datePublished": "2012-07-26"
+            }
+        ]
+    },
+    "40": {
+        "id": "7_vnaHG6FhnlZvyc5Mt4Hw",
+        "name": "Nobu Berkeley St",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Mayfair",
+            "streetAddress": "15 Berkeley Street\nLondon W1J 8DY\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/V33WYEyQGbnLuP-6BvrzAg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7290 9222",
+        "review": [
+            {
+                "reviewId": "jzL8W9wa51M8cWA4HDQ7cw",
+                "author": "Honest D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My first Nobu experience and I loved it. \nThe ambiance was overall gorgeous although perhaps a little stuck up.\nDinner for two along with cocktails was well over several hundred. I hope to be back.",
+                "datePublished": "2013-12-03"
+            },
+            {
+                "reviewId": "bfrNROvz4OZCipV0UAKhag",
+                "author": "Tammie P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "3.5 stars. Came here with a friend for the first time with high expectations. Big mistake. I've had much better sushi back home in San Francisco for the same price or much cheaper. Heres what we ordered:\n1. Hamachi Tartare - pretty good, loaded with wasabi and topped with caviar so beware if you don't like wasabi. \n2. Salmon Tacos - MEH, it came with a \"spicy salsa\" which wasn't spicy... and the tacos were about the size of a pringle. -_-\n3. House Special Roll - Nothing out of the ordinary. Anyone can make this roll... just stuff salmon, tuna, and ebi into a roll and voila, you have Nobu's House Special Roll. \n4. Uni - Fresh, worth the 18 pounds it cost? Not sure.\n5. Ikura - Equally fresh\n6. Toro - Amazing\n7. Hamachi - Don't even bother.\n8. Mackerel - YUM.\n9. Dessert - Chocolate Bento Box - EHHHHHHHH. Whatevs. \nHOWEVER, I ordered a glass of Billcart-Salmon Rose - this was the best glass of rose I've ever had. If you are a big champagne drinker, do not pass this up !\nService was exceptional (after all this place has atleast 20 of them running around aimlessly)\nEven though my experience at this Nobu didnt meet my expectations, I'm still going to try the Los Angeles location but if I'm ever in London again, I doubt I'd come back.",
+                "datePublished": "2011-07-10"
+            },
+            {
+                "reviewId": "aIvtPov-fK-2pnRpKYGgZA",
+                "author": "Sereia C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We were lucky enough to wander across the street from our hotel to bump into Nobu.  Walked in without a reservation, and after a bit of schmoozing with the manager, got a table in the middle of the lounge.  Great ambiance there...a huge tree as a backsplash on the bar with lots of tea light candles.  The bar area got packed fast; not where you go for a romantic dinner...but perfect for dinner/drink pregame.  The tables are somewhat low and small, with cushiony backless curved seats, which was inviting for mingling on a busy Saturday.\nAmong amazing things to put in your mouth:\n-lobster ceviche, sea bass sashimi, softshell crab harumaki with wasabi, pumpkin tempura...and to chug: wash it all down with a green tea martini (okay fine, sip it.  What fun are you)\nDefinitely expensive, so maybe not your go-to sushi spot, but worth checking out!",
+                "datePublished": "2011-02-16"
+            },
+            {
+                "reviewId": "z7WnYHRfCyV03DKN2ZfH4w",
+                "author": "Brian B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A few months ago, I had the pleasure of dining at Nobu in London, and it was a sublime experience from start to finish.  The ambience is, of course, very elegant, and the dining area is perfectly laid out to keep conversations private while still giving you the chance to see and be seen.\nMy friends and I did the pre fixe tasting menus, and found that each option delivered a consistently excellent and balanced series of dishes, each crafted to deliver something different with each round.\nThe food was expertly plated, and despite European custom, the portions were actually quite large when added up.\nThe service was uncharacteristically friendly and attentive, though it seemed that each waiter was a little bit overworked.\nThe downstairs bar offers an interesting mix of ridiculously overpriced drinks, but there are some great features, like a mojito served with honey dripping from a honeycomb, and a nice selection of hard alcohol.  The lounge area is even louder and more crowded than the dining room, and if I had one complaint, it would be that they let too many people into the bar at any one time.\nAll in all, Nobu is a spendy evening, but given the quality of food, it's certainly not overpriced.  If you're thinking of going, plan ahead: Nobu is pretty much reservation-only and reservations open up 30 before the desired date.  Spots go fast.",
+                "datePublished": "2010-08-27"
+            },
+            {
+                "reviewId": "fXxpfSSxVLr86dZZVSvKfA",
+                "author": "Verity A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Perfect for a special occasion, every dish I've tried has been delicious.  There's something for everyone - the meat is as wonderful as the sushi and fish. And this isn't just about the food, the service is exceptional and it has a great atmosphere too.",
+                "datePublished": "2015-03-22"
+            },
+            {
+                "reviewId": "-_iH5STUQU45eNldrrYTaw",
+                "author": "Dan G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The velvet rope outside let me know what kind of a scene I would be in for. I'm pleased to say that this is the only velvet rope I've encountered and was taken right inside. Unfortunately, we were early and had to chill in the lounge. This place was a meat market. Dudes in shirts unbuttoned to their navels looking like Tom Jones and ladies with their bits spilling all over. Wow. \nDad, I think he's going he's going to pork her. \nHe's not going to pork her, Russ. \nI think he's gonna. \nHe may pork her. \nThankfully, we were taken upstairs and had a great table. The food is fantastic and that is what I love here. The sushi is great here and we had the spicy tuna and California rolls. Solid. Rock shrimp with ponzu sauce, grilled octopus, and spicy shrimp ishiyaki. We get the rock shrimp every visit and you should too, it's one of the best things on the menu. Our other new choices were hits as well. The Uozo pie with the oatmeal cookie and dulce de leche ice cream was a nice ending. Service was good. \nNobu is always a great meal. This scene was unlike anything I've seen and outdid the one in Vegas, if that gives you any idea. I love the food. But, could do without the club. This was also more expensive than Boxwood which is ridiculous.",
+                "datePublished": "2010-03-11"
+            },
+            {
+                "reviewId": "wi_RxomK_RELb5tBxV4BLg",
+                "author": "Anita G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "While my fav nobu is in Malibu, California (USA) because of the amazing view and for the fact that it's brand new...this Nobu in London is the coolest. Awesome lounge! The place to be, like they say in the UK; super posh! Food is always awesome anywhere you go in the world since it's pretty standard that all nobus are the same menu etc. but what sets this one apart from others is the awesome service and cool crowd at the bar :) most def worthy of a visit!",
+                "datePublished": "2014-03-22"
+            },
+            {
+                "reviewId": "lQK0iaWDKUN0Q-cFJwwxJg",
+                "author": "Melanie H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great place for a dinner or catch up. It was rather pricey but the food was amazing so I guess you get what you pay for! The Miso Cod and Tuna were my favourites, so I would recommend these! The bar downstairs was nice to relax in till our table was ready and the cocktails are delicious! I wouldn't hesitate to come here again, but only for a special occasion.",
+                "datePublished": "2015-03-11"
+            },
+            {
+                "reviewId": "XKviveSCk3jHQ1JAO4Sjnw",
+                "author": "Jay C.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Had dinner here last Tuesday (Dec 2,2014)and what a disappointment it was. First off, the bill for the two of us was $203.00. I don't drink and my partner had one glass of wine.Waiter was inattentive and bordered on being rude.Decor is tired.Food was just so-so.Certainly get  better here in Northern New Jersey. Just another tourist trap.Mad at ourselves for ever going there.",
+                "datePublished": "2014-12-07"
+            },
+            {
+                "reviewId": "ChXh7h2z3tGGD57Vw_m7xg",
+                "author": "John T.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Horrible atmosphere. Extremely loud. Stupid and unthoughtful opening times. Definetely not worth the money but food is good.",
+                "datePublished": "2016-02-28"
+            },
+            {
+                "reviewId": "Q0k-OdXIlKECAOROmaL9Dw",
+                "author": "Pascal P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I LOVE Nobu, I have been to 4 different locations and this one is the best. \nThe highlights\nSeared Toro with Yuzo Miso & Jalapeno Salsa-amazing\nYellowtail Sashimi with Jalapeno- favourite\nRock Shrimp Tempura with Ponzu, Creamy Spicy or Jalapeno- good\nO-toro sushi- out of this world\nfresh salmon sushi- out of this world\nLobster tempura with Spicy Lemon Dressing- words cant not describe\nbest part of nobu... J.J. Prum reisling.",
+                "datePublished": "2011-11-26"
+            },
+            {
+                "reviewId": "597TT-3HFoz7XpXeIPmXhg",
+                "author": "Stella Y.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Horrible. This place disappoints big time. I've been to the Nobu in NYC and while it's not stellar there either, this place is 10x worse. Hard rice sushi, doesn't taste fresh, mini sashimi taco shells are completely stale and overwhelms the fish. You take one bite and everything falls apart and onto your plate. Sigh. Menu is a little boring and not the most inventive. I wanted to order uni/sea urchin, didn't have it that night. I wanted to order the watercress salad, didn't have that either. =/\nIf you're going to spend this much money on food and a sexy atmosphere, go to Hakkansan instead. I first went there when I was living in London years ago and I still prefer it over Nobu.",
+                "datePublished": "2012-02-10"
+            },
+            {
+                "reviewId": "dP3QiY4QeK9TjHRgYjLK6Q",
+                "author": "H K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food was good and the ambiance was decent, definitely a restaurant to see and been seen.  The sushi was good but I'm from the Seattle where the sushi is much better, fresher and more reasonably price (even at the high end sushi restaurants)\nThe service was decent, the waiter kept forgetting our order or giving it to the table next to us.  \nIf you're interested in hanging out with the young, rich and fabulous of London, I definitely recommend a visit.  If you're on a budget, I would pass.",
+                "datePublished": "2011-11-06"
+            },
+            {
+                "reviewId": "4AkFhoB3dLXHtVITdFDqsA",
+                "author": "Alice H.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Wow, so uppity and snobbish which might have been worth it IF I hadn't found a bone in my sea bass sashimi. In their defense, they did give me my dinner and a free dessert (ice cream filled mochi which were really inventive and good)! Still, been to sushi all around the world and have never experienced a bone before!! Overrated...",
+                "datePublished": "2015-11-12"
+            },
+            {
+                "reviewId": "P7SycSTpn_iByOuFaM0ewA",
+                "author": "David C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's predictable to give this restaurant five stars because of its perceived reputation, but it's taken me close to ten years to get around to eating here as I've always had the misconception that it's 'just a posh sushi restaurant that celebs and rich people eat at!' \nWell that may be true, but it does great vegetarian food (at lunch service  at least) - best Donburi I ever had with squash and other seasonal vegetables and the tempura...I've had my fair share of battered veggies - but this was in a league of its own. Just thank god I wasn't paying!\nHowever it's not a drop in a dine place. Book online in advance is recommended for dinner, and the must-have 8PM table booking seems to be nigh-on-impossible. If anyone has a tip on how to get one of those slots, do let me know!",
+                "datePublished": "2011-07-21"
+            },
+            {
+                "reviewId": "NbEjxP2WqI8qylMqmdpkxQ",
+                "author": "Ivy C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Been here many times and the one on Park Lane, prefer the the second location, this Berkeley location has become more of the show-off spot for wanna-bes.\nThe food is always great, they do rotate the menu, not very often or a large proportion of it but at least they try. pleasant atmosphere with waiters with great manners and experiences. Food is always fresh, the miso black cod is one of my favorites!\nIt's Nobu and it's located in mayfair obviously it's not on the cheap and cheerful side, but it's a great place for a fancy night out dinner.",
+                "datePublished": "2014-09-20"
+            },
+            {
+                "reviewId": "pmcUEPzE-tEUuCnDBdSCog",
+                "author": "Andrea R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nobu is one of my favorite restaurants to dine at in many cities around the world...and London is no exception.  My friend and I arrived for an early dinner at 6:30 PM ready for some good food/sushi, incredible service, and perhaps even some celebrity sightings. And we got 2 out of the 3...\nThe food/sushi:\nCrab Tacos- very small portion, but tasty\nTuna Tataki- melt in your mouth tuna\nHot chips & tuna- one of my favorite appetizers of the evening\nLobster Tempura Entrée- can't go wrong with fried lobster, but this was a bit overrated.  Not any better than any shrimp tempuras I've had and the lobster staring at us kind of freaked us out.\nSushi: yellowtail roll, shrimp tempura, and eel. The shrimp tempura roll was the best among the 3, but all were good. I was a bit disappointed that they didn't really have any specialty rolls.\nThe drinks were INCREDIBLE. My sherry cherry had egg white in it (LOVE that) and my friend oooh'd and aaah'd over her lynchee martini.\nService: Our waiter was beyond patient with us as we took FOREVER to decide on what to order and quizzed him about celebrities he's seen at Nobu. He was extremely attractive too so made for good eye candy, although unfortunately for my single friend we were pretty sure he batted for the other side. \nCelebrities: No celebrities (besides us of course!) on that Sunday evening we happened to be at Nobu, but hottie waiter informed us that Brittney had just canceled a private party there for that week. He's also seen Naomi Campbell and Cristina Aguilera recently. However, he told us we'd have better luck seeing celebrities at their other location in London because that's where they tend to go.",
+                "datePublished": "2009-01-08"
+            },
+            {
+                "reviewId": "XSR4Y7Sbh9aU9QNRaP54Zg",
+                "author": "Joanne L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here with my boyfriend because we were craving quality sushi at one point. The décor is exactly what you'd expect of a Mayfair venue: elaborate, dim-lit, and exotic in some way. I wore a dress and heels and still felt a bit under-dressed when I looked around and everyone looked done up to the extreme.\nWe had an assortment of sashimi but the most memorable part of the meal was the yellowtail sashimi with jalapeño appetizer, yum! The damage was just over £80 or so for both of us, decent for a Michelin star restaurant.\nAlso, it was a weekday and we got reservations for the day of, so if you're looking to go last-minute, it IS possible!",
+                "datePublished": "2011-02-07"
+            },
+            {
+                "reviewId": "PW8P7PihOCkJRTdrAHuuFg",
+                "author": "Lizzie S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Great drinks service at the bar, otherwise totally unimpressed service wise. Having been to Nobu in three other locations in the states and Matsuhisa on many occasions, with the reputation behind them and the prices on the menu I expect more. I've had better service at a pub eating bangers, beans & mash. The menu and quality of food was consistent with other Nobus (not my favorite Japanese but also didn't choose the restaurant). However, with the name Nobu, the address, the decor and the attitude I expect better service.",
+                "datePublished": "2011-07-15"
+            },
+            {
+                "reviewId": "wMgors6aCLP5Jb2ASWReVg",
+                "author": "Whitney N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've been here several times, and while the main event at Nobu may once have been the food... now it's all about \"the scene.\"  \nNot that the sushi isn't *some* of the best to be had in London... it is... it's just not the most memorable and astounding I've ever had.  Plus, instead of mere seaweed paper, the exterior of their maki rolls comes wrapped in this white, powdery, reminiscent-of-raw-won-ton-paper-like-stuff that I find just a smidge off-putting... I guess I'm a traditionalist in this particular sushi sense.\nThe cocktails, however, are *amazing.*  Don't come here without ordering one!  I'm especially partial to their version of mojitos... and I never even got into to that mojitos-are-all-the-rage craze.  Be warned though, *all* their fruity concoctions are deceptively strong... one mojito, two mojito... awww...why not a third?  And before you know it you are drunkety drunk drunk.\nI should note that I've never once been impressed by the service here... sometimes nice, sometimes snooty or indifferent... but *always* slooooowww.  And I find the music just a touch too loud for decent conversation.\nThe lowdown?  If you have the money... you've probably already been here.  If not, you're probably contemplating it for a special occasion.  My take?  Unless you're really just looking for an ostentatious brand name restaurant, I'd go elsewhere... a place that's a little less clubby and where the impeccable service and food truly justify the extravagant prices.",
+                "datePublished": "2008-11-29"
+            }
+        ]
+    },
+    "60": {
+        "id": "7_vnaHG6FhnlZvyc5Mt4Hw",
+        "name": "Nobu Berkeley St",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Mayfair",
+            "streetAddress": "15 Berkeley Street\nLondon W1J 8DY\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/V33WYEyQGbnLuP-6BvrzAg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7290 9222",
+        "review": [
+            {
+                "reviewId": "tmkcn3CWCwZXs27uPqxfuA",
+                "author": "Vikki C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was incredibly lucky to be taken here by a client last month. My, my, what a treat.\nI pretty much let my hosts order a selection of bits and pieces (since they'd been to Nobu all around the world - raving about ALL except Milan).\nWe tucked into edamame beans and a special beef dish, following by an array of the finest sushi I've ever had the pleasure of eating. In fact, the yellowtail tuna with jalepenos turned my taste to tuna. It was pickled in a kind of lime marinade with a spicy kick. Just thinking about it makes my mouth water! I'd go back there just for that. We also had beautiful prawn hand rolls and avocado ones that melted in the mouth.\nAdditionally, the salmon nigiri was fresh and clean, the sake dangerously drinkable and the chocolate bento box (flourless chocolate fondant with green tea ice cream) was heavenly.",
+                "datePublished": "2011-05-01"
+            },
+            {
+                "reviewId": "Ii6MwNGCHvRbfV2347p-QQ",
+                "author": "Olya S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Went here for a short dinner on my own. Was seated at the bar very promptly (on a Friday night without a reservation). Excellent sushi dinner, excellent raw fish from the ala carte as well. (I had grouper, which was surprisingly awesome, and another one that I can't recall the name of- not a common fish).\nVery upscale and dressy, dress to impress.\nFood is pricey, but the fish was top notch.",
+                "datePublished": "2011-07-08"
+            },
+            {
+                "reviewId": "vEuZD9TppgX4VvysSmhbPQ",
+                "author": "Denise J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Part of the Nobu chain in NYC, Vegas, etc. Good food, menu pretty expansive, but $$$. Service a bit spotty during parts of our dining experience.",
+                "datePublished": "2013-02-22"
+            },
+            {
+                "reviewId": "RHvap8q9xwdoDnpTRgppTA",
+                "author": "David S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I am fortunate enough to live in NYC where there is nothing you cannot find, food wise. I have been to many a great restaurant and many a bad one. I recently came to London on holiday and expected a similar experience n diversity. With that said, I wanted to go to dinner to a place that I \"knew\" would be good. I chose Nobu based on the reputation that their NY locations had, which is very good. \nI am sorry to say, I was severely disappointed, mostly by the service. I the food was very good, which is why I gave 2 stars and not one. The thing is that it is not hard to give good service OR good food but it is hard to give both. I expected both from Nobu. The guy barely spoke above a whisper. He didn't know his menu well. and had a very laxidasical about our satisfaction. In fact, he did not ask once how everything was. \nI have been to various levels of restaurants.  The thing that is always done is to check to make sure that everything came out as ordered and was satisfactory. This is at the crappy Applebee's all the way to the top restaurant that you can think of. For such a poor level of service to come from Nobu, especially at the $130 per person price point, is embarrassing for them.",
+                "datePublished": "2010-09-14"
+            },
+            {
+                "reviewId": "t1uWN55fe5vinWE-OgPF4A",
+                "author": "Li-mei H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm a little ashamed to say that I went here, just because of the mockery one gets because you went to a 'celeb' eatery. I am not a celeb spotter. I repeat, NOT a celeb spotter. I just came for the food.\nAnd it was good. Damn good. Granted we only went for lunch and a special lunch at that, but the sashimi was so soft, so fresh and melted just like butter, it was hard not to fall in love with the excellent food here. My friend has the Wagyu beef, which was soft and seared on the outside. I really like the way the ginger slices were laid on top of the rice with nori and sesame seeds.\nThe service was of course, impeccable. Getting a table was really easy as well, and their organisation was superb. The place has nice decor, however the ambiance is not as relaxed as I'd like, but then, I don't think I'm their usual client with the usual demands. The staff were lovely, although everytime we thanked them for pouring our drinks into our glasses, they smiled faintly and sort of backed away as if they were trying to blend into the background. I imagine that's the way most customers want them to behave. Still, top marks for the rice/ginger/sesame seeds combo and wonderful sashimi.",
+                "datePublished": "2010-02-23"
+            },
+            {
+                "reviewId": "abzlnlQA2d8JqiAUQ15k1g",
+                "author": "Qype User\n antiso…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I took my boyfriend here for his birthday last week for the first time after having a lovely experience for my own birthday a few months ago at the Old Park Lane branch and this one was just amazing - if not better.\n I would recommend the Berkeley Street Nobu for a romantic meal whereas Park Lane seemed better for a family or group meal as it was noisier and much more lively. Berkeley Street is absolutely gorgeous though and you really do get the Michelin Star experience from the red carpet at the entrance right down to the immaculate toilets!\n The service was a little slow but the food is so exquisite that it hardly even matters - the whole atmosphere of the restaurant is relaxed and casual and I think it's nice that the service gives you time to relax and chat in between courses rather than a stiff-backed silver service which often makes for tense dining.\n I tried a completely different selection of food this time and as much as I can recommend the same old favourites, (the black cod and the bento box most popularly) I thoroughly enjoyed my yellowtail sashimi with jalapenos, mixed oysters and ginger cheesecake.",
+                "datePublished": "2011-03-28"
+            },
+            {
+                "reviewId": "ShoB0nllk3AUolD2DJka1Q",
+                "author": "Kelsey P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Nobu is a must when in London - especially in Mayfair. Get a reservation, save your pennies and come enjoy this place. Of course, know what you're getting yourself into (I say this a lot): it's busy, loud, trendy and rather expensive... but it's fun and the food is delicious. I'm a fan - and definitely over the other Nobus in London.\nGet a drink at the bar first then sit down and order sushi, but also order some of the hot entrees. The black miso cod is a must, and the sea bass is a nice add-on. Ask the waiter about fresh specials - the fish is all very fresh but they usually have specials which shouldn't be missed!\nHave fun here - I miss it!",
+                "datePublished": "2011-02-27"
+            },
+            {
+                "reviewId": "JgSCMGuuMhh8gueOmFYFnQ",
+                "author": "Kristina S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Had better from Nobu, but was fine since we got in at the last minute.  There has got to be better sushi in London and this was only slightly better than Yo Sushi.  Really too bad as i have had fabulous sushi at Nobu in Atlantis.  The loud atmosphere made it almost impossible to talk with my friends, which helped make the experience mediocre.",
+                "datePublished": "2012-04-14"
+            },
+            {
+                "reviewId": "gXDL763_v39E5Z91tm-D5Q",
+                "author": "Smriti K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nobu is a place to be seen at - high heels, short dresses, expensive drinks and good sushi. Don't go in jeans and sneakers, you'll feel out of place. \nAs for the food, we tried some of the sushi (the yellowtail was fantastic) and the tempura (eggplant was ok, shitake mushroom, not so much). It was a fancy version of a tempura at other Japanese restaurants. We also tried the set dinners - my husband enjoyed his teriyaki salmon while I opted for the chicken in wasabi pepper sauce, which I was told was spicy. But instead, it was rather bland, for my liking, and left me wishing that I had ordered either more of the yellowtail sushi or the salmon like my husband. For dessert, we had the chocolate fondant with green tea ice-cream. The cake was good, but I would have preferred normal vanilla ice-cream instead. As we were celebrating my birthday, the chef did do a personalized \"happy birthday\" in icing around the plate...\nMost others were eating the set tasting menu and perhaps that's the way to go. But at £80-95 a person, it better be a super special dinner! \nAll in all, it was a fun experience and I'd probably go back for more of the sushi...",
+                "datePublished": "2012-04-21"
+            },
+            {
+                "reviewId": "KYvQNZIR4FuSIS0Uf3fPQQ",
+                "author": "Stan M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What can I write that hasn't already been said?  I've been to Nobu in NYC and LV and this one is as good as any. Impeccable service, wonderrful food and flavors, great atmosphere.  Yes it's spendy but in my view worth it. \nAfter I selected the wine, we put it the meal Into the hands of our server, and she did not disappoint. It's a good thing to do if you want to try some new dishes that you haven't tried before.  Very fun!\nHighly recommended.",
+                "datePublished": "2010-11-07"
+            },
+            {
+                "reviewId": "o3ZJBWz4O19ey6kKIRlbbw",
+                "author": "Monica S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great bar, great cocktails and great service.. \nWe didn't eat, but if you're looking to just cocktail.. then I highly recommend it!",
+                "datePublished": "2010-10-04"
+            },
+            {
+                "reviewId": "xA2PJ0wDfreaTyTrvoq60g",
+                "author": "Agi K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Of the two Nobu's in London I prefer this one for the bar and drinking experience. The bar area is pretty slick - I recommend the Vodka Mojito.\nFor some reason I prefer the food at the other Nobu - I have no idea why because really there is no reason for it being any different- but there you go. It is still awesome so don't get me wrong.\nAs with all Nobu's it is pricey... but it is worth it.",
+                "datePublished": "2010-02-28"
+            },
+            {
+                "reviewId": "v_qt33B2piDOqv8RU1zQxw",
+                "author": "Jeff B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Food was great, drinks were good, service, a bit slow and pretentious.  A co-worker and i just wanted to grab a bite at the bar and some drinks before we met some friends to go out for the night.  To be honest, the food was great (very fresh), and i would certainly go back for a full meal, but when we showed up it was a bit like trying to get in a club in vegas with 2 dudes...not going to work unless you have a 2:1 guy girl ratio.  \nAnyhow, we ended up sitting at the bar upstairs and had our sushi prepared right in front of us.  Food was great, but the drinks, just a vodka tonic w/ extra limes and splash of red bull, took nearly 15+ minutes.  I'm sure we didn't get the attention of our waiter because our bill was not going to be substantial, but come on, it could deter me from going back.  By the time i finished the first drink, we had to wait another 10 minutes to order again!  I mean I'm sure they are running a for-profit business, but it didn't feel like it.\nGiving 4-stars as the food was excellent, and the atmosphere was pretty cool.",
+                "datePublished": "2011-01-22"
+            },
+            {
+                "reviewId": "s4TqJu5JaI3eGlvb-PeOzg",
+                "author": "Catherine C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I wanted to try really good asian cuisine so when I was in London I had to go to Nobu!\nThe place is quite dark, it was packed and tables were very close, I could hear other couple conversation- not very intimate and we were told when making reservation that we will have 2 hours to eat- it doesnt sound very nice. Except that the service was great, very polite waiter. The food was great too, I had very tasty artichoke salad and sushi with st jacques. My boyfriend had chicken in teriyaki sauce with some really good mushrooms. For dessert we had chocolate bento box, lollipops and delicious ice cream mochi. Overall it was beautifully presented and delicious food.",
+                "datePublished": "2013-05-10"
+            },
+            {
+                "reviewId": "aetRxnVB0P5-GDCoSJwNbQ",
+                "author": "Tracey W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "What could be better than having a trendy and first class restaurant serving excellent Japanese cuisine? Well this is it!",
+                "datePublished": "2012-11-10"
+            },
+            {
+                "reviewId": "zKLbEezgVeBwTZWlNFwqaw",
+                "author": "Alexandra D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a great special occasion restaurant. We came here with a bunch of friends and enjoyed the way the staff shouted their greetings every time a new guest gets walked in.\nI was looking very forward to the sushi, but living in San Francisco I must have gotten spoiled. While the sushi was good, the other dishes were that much more interesting. My favorite was probably the mushroom dish with lots of butter, but the cod was really good too.\nAnd I remember dessert.... mmmmmmhhhh.....",
+                "datePublished": "2010-01-28"
+            },
+            {
+                "reviewId": "l0xmCcjpiWobXsGnq7NQLQ",
+                "author": "Eric H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yellowtail Sashimi with Jalapeno and OKUSETSU DAI-GINGO YK 40 pair well.",
+                "datePublished": "2012-01-14"
+            },
+            {
+                "reviewId": "VZVsrFI3nX8ZMhUDzdCBkQ",
+                "author": "Shelley V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yes, I am a NOBU whore.. I cannot help it.. It is my goal to hit every NOBU restaurant on earth and sample the wares.\nSilly? Yes, it is a bit silly since I always seem to order the SAME exact items, be it Nobu Tokyo, Nobu London, Nobu NY or Malibu.\nAnyways, we were extremely lucky that a friend who works for a somebody got \"nobodies\" like us a last minute coveted reservation on a Wednesday for a 9pm Saturday night meal. Whoo Hoo!\nWe walk to the Berkeley Square location, hearing it was the newer location and near our hotel. I was surprised to see a velvet rope outside and inside, a rave-like atmosphere. Apparently, this is the place to get dressed up and go for the bar scene and dinner!\nOur hostess literally seated us within 5 minutes of checking in to a lovely spot near the front window. Let the games begin!\nI ordered my usual Creamy Spicy Rock Shrimp Tempura, I cannot share nor eat enough of this dish. M had the always crowd pleasing Yellow Sashimi with Jalapenos.. \nWe tried a mushroom dish of several different varieties including truffles. It was a little expensive, maybe $20?? but DAMN, it was good.. so glad to have ordered it!\nWe skipped on the Black Cod Miso, which I love, and ordered a few rolls aside from the other dishes. \nEverything was wonderful, as always. The only thing that got me was the crowd scene and bumping, grinding rave music.. That, my friends, I could not stand behind. I guess we have that at KOI in LA, now that i think of it. \nAnyways, be it special occasion or if you are a foodie looking to indulge in some damn good fish, go to NOBU!!! Yay!!",
+                "datePublished": "2009-05-01"
+            },
+            {
+                "reviewId": "qQ-ovqqTNn-IzasYroU9Sw",
+                "author": "T E.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I had an Ex of mine take me here a few years after we broke up to make up for her dumping me. Does that make this Sympathy Dining? If so I want more, more, more! Any free meal is good but when it's at one of the most exclusive spots in town then it kind of makes up for all the heartbreak and stress... ok, now that I think about it, it doesn't at all. I should claim another free meal here.\nSo what can I say? I never would have seen myself dining here at this darling of the celebs, but she was paying and I wasn't saying no. I felt out of place in my H&M shirt and backpack from work, especially when she showed in a Chanel coat with a new 300 quid haircut. Fortunately though, the celebs on surrounding tables - some lady from ITV who wouldn't eat fish, the cute one from All Saints and the marvellous Goran Ivanisevic - all were dressed dowdy enough for me to fit in. Huzzah. I'm, a celeb... get me into here!\nThe food is wonderful, and for the price it's five-star outstanding when someone else is buying. We leant mostly on the Peru-side of Nobu's life, getting the crab tacos and the ceviche salad, but we did venture East to the Japanese connections. My ex was a regular at the Met's Nobu and knew what to get and how it compared to the best raw fish from her own home in the land the rising sun. The Wagyu beef with truffles and mushrooms was a dish I could eat every day. Sounds expensive doesn't it? You'd be surprised that it's not all that bad.\nMoving Mr. Nobu to one side, the culinary highlight came from the subcontinent of all places, when the Indian pastry chef (Kotesh Kumar Khandala) pulled out 2 of the most complicated and sublime desserts I've ever tasted, full of fantastic flavours like green tea and adzuki. If you go to Nobu for one thing and one thing only, forget the black cod... it's the pudding you want.\nThe only downside to a night at Nobu apart from having to consolidate your loans the next days, is that it is too much of a scene. The downstairs bar is choc-full of arrogant moneywinners in suits bleeding the country dry. It's a painful place to be and you kind of hope that they all order some mis-prepared Fugu. Invariably when people think of Nobu they think of ridiculous wealth and the world's best sushi - but don't - it's not all that exclusive and if anything the sushi is the weakest link, the other dishes are the real gems.",
+                "datePublished": "2009-01-19"
+            },
+            {
+                "reviewId": "0TQbfZZYxrHqihjcU4dO9w",
+                "author": "Jesse B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "the kind of place you take a Belgium girl, a couple living in Switzerland, or just a place to super show off to your friends.\nThe place is famous for its sushi but I liked it best for its restaurant. don't get me wrong, my chocolate box dessert was divine and all but the sinks are soooo cool. wow, I couldn't help but feel touristy at Nobu as classy as it is and all its kind of like the Barney's New York of Asian food.\nThe food is really good i'm not gonna go off the rails and try to deny that. I tried fish here I never would anywhere else because its just the type of place that makes you feel really adventurous to do that sort of jazz.",
+                "datePublished": "2009-01-29"
+            }
+        ]
+    },
+    "80": {
+        "id": "7_vnaHG6FhnlZvyc5Mt4Hw",
+        "name": "Nobu Berkeley St",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Mayfair",
+            "streetAddress": "15 Berkeley Street\nLondon W1J 8DY\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/V33WYEyQGbnLuP-6BvrzAg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7290 9222",
+        "review": [
+            {
+                "reviewId": "jHeXPU7_ppsoV-G34P3rig",
+                "author": "Supreme L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food, tons of posers if that's what you like...\nI prefer down the street from Claridges old school place who's name I can't remember as it is so small on the left side of the road after you take a right out of Claridges...by the way, I miss Claridges...\nSake No Hana is excellent, Nozomi is pretty sweet with lots o' hotties but too loud for me",
+                "datePublished": "2009-10-12"
+            },
+            {
+                "reviewId": "Ekpf0mE7xTbxci4tpHuZHQ",
+                "author": "Boaz S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "In all honesty Nobu's chic atmosphere and nouveaux riche clientele are not the kind of experiences I seek on a daily basis. However, for special occasions and to pamper yourself there are few better locations.\nMake no mistakes; the food is pricey but in exchange you receive a delicious and inventive menu, attention to detail and meticulous service.\nA simple pleasure to eat sushi that fresh.",
+                "datePublished": "2010-04-11"
+            },
+            {
+                "reviewId": "YkOJbVDm7nXZt6yexmr1PQ",
+                "author": "Lindsey C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Words can't describe this restaurant. Get the lobster salad, raw beef seared toro with yuzo miso & jalapeno salsa, chef's selection of sushi and sashimi (ask for additional yellowtail) and skip the dessert. Instead enjoy another cocktail. Yummy!",
+                "datePublished": "2012-04-24"
+            },
+            {
+                "reviewId": "MReD6p9jUXHa2-TomnVlGg",
+                "author": "David H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Having eaten at Nobu London and many others (Miami, Nobu Tribeca, Nobu 57, Nobu LA, Nobu Malibu, Nobu Tokyo, Nobu Hong Kong, Nobu San Diego, Nobu Las Vegas) I can always find quality Sushi at all locations. Nobu Berkeley is very good but the most expensive being in the UK. \nThe atmosphere here is very upscale with more formal service which you will not find in the USA locations. I do prefer this location over the London location. \nDuring the many time I have frequent this location I have been very satisfied with the food and service. \nIf you plan to go here; do plan to spend upwards of five hundred dollars person for the high quality Japanese fish flown in daily.",
+                "datePublished": "2009-06-12"
+            },
+            {
+                "reviewId": "cHMO_pUE091S4h8NWm9HAA",
+                "author": "GK O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place has one Michelin star whereas Nobu in Mayfair has three. I haven't been to the other one, but ambiance + food rock here. Prices are on the upper end of London standards, but you get what you pay for.",
+                "datePublished": "2014-05-23"
+            },
+            {
+                "reviewId": "pcpVkP8L60gIZF7_YS86hQ",
+                "author": "Cari S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was once taken on a date here,which was great because I got to eat and drink my way through the menu without worrying about the cost, which was turning into a similar amount to my rent for the month. \nNobu Berkeley Square is probably the best Nobu in London, in terms of atmosphere. Plus it has a kick-ass bar, which is every bit as sleek and sexy as you would imagine from a mega expensive restaurant in Mayfair. If you are heading here, don't even think about missing the bar, as it does some of the best cocktails in London. My favourite is the goji berry martini - a frothy creamy concoction of berry deliciousness. The Nobu mojito comes a near second. And look out for any cocktails which have sake in them, yummy.\nSo the food, well we all have heard the reviews . It really is as good as the hype suggests. I'm not quite sure how a menu which is styled as a mix of Japanese and Peruvian actually works, but it does. Probably the most famous dish is the Black Cod. It is slightly sweet, ever so soft, and one of the best dishes that you can have in London.\nThe food is expensive, but there are ways of keeping the cost down. Listen up - on the back page is a list of all-inclusive meals. For about £18.00 you can get a large bowl of chicken or prawn in teriyaki sauce with rice, and this comes with miso soup. The other thing to do is just order sushi. It is completely filling, and only about £6 or £7.00 for an hand cut roll. I could be completely happy here just sitting at the counter, sipping on a glass of wine, and having two or three plates of sushi. This would cost about £25.00, so it's not all bad news for us penniless types.",
+                "datePublished": "2008-11-13"
+            },
+            {
+                "reviewId": "-Ef97GyvE-NGPA0hYGpToQ",
+                "author": "Laura Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "You will often read in all the magazines about various celebrities 'coming out of Nobu' and that will give you a good idea as to the type of people who tend to go there. However, unlike some other celeb haunts, this is a genuinely fantastic sushi restaurant that you simply have to visit.\nI went with a couple of friends and of course, we did make an extra effort with our attire and you never feel so bad if others see you wolfing down sushi as its healthy right? Anyhow, the food was so good that you can't help but gobble it all down - if you're not a fan of sushi they also serve some alternative fish dishes such as blackened cod which is possibly the best piece of fish I have ever tasted (and also the favourite of Lemar apparently). I had heard notorious things about this dish before I went and am so pleased I finally sampled it.\nThe food is extremely well presented and I didn't find the staff at all pretentious. We were treated in exactly the same manner as every other customer and he whole experience was fantastic.\nHowever, you may need to hold back on your eating out for a couple of weeks so save the pennies for Nobu as it is on the more pricey side at around - my main course was around £32 so I decided against an appetiser! Well worth a visit though for something special.",
+                "datePublished": "2008-12-23"
+            },
+            {
+                "reviewId": "2ENJE0c-A9KTm40yZpNaCA",
+                "author": "Qype User\n streng…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The food here is astonishingly good. Service is average at best but who cares when the food is this good. We were here for lunch on Friday and had 5 pieces of Salmon sashimi with wasabi and soy sauce to start. It was great qualify fish. The main course dishes came at intervals after that, which worked quite well as if they had all arrived at the same time it would have been too hard to choose what to have first.\nI don't know exactly what we had as we let the clients choose, but first up was a mushroom based dish in a sauce, I couldn't say what else was in it but I've never enjoyed mushrooms on their own more. We also had lobster with asparagus, prawn with asparagus, pork belly and wagyu beef. All great but the pork belly was utter genius, melt in the mouth doesn't do it sufficient justice. I've had the black cod here before and that's the only other thing I remember coming close to the pork belly.\nFuji apple crumble came with peanut in the crumble mix and with hazelnut ice cream. It was very good but I think my taste buds had already been over-excited by that point",
+                "datePublished": "2011-10-23"
+            },
+            {
+                "reviewId": "XGNhuiFZMpL4OXgg4nNxpA",
+                "author": "Evelyn M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fortunately for my wallet, the only time that I have ever visited Nobu was on company expenses. This was also quite fortunate for my taste buds too as we were openly encouraged to order whatever we liked. This meant I was allowed to order their signature Black Cod, guilt free. It was phenomenal. Every flake fell away from the fish effortlessly and the taste was incredible.\nThe rest of my party thoroughly enjoyed their meals too and whilst it would be fair to say that there is a great emphasis on fish here, the meal lovers and vegetarians were also well catered for. Special mention has to be made of Nobu's skilled presentation. Every dish that you order arrives as a work of art in itself and it's clear that the kitchen are trying very hard to impress.\nThe downside of Nobu is the celebrity factor. A known haunt for famous faces, it often feels as though this restaurant is more concerned with status than food. While we ate it was hard not to notice a few celebrities being rushed through the dining room in to the private area at the back. If anything I felt this drew more attention to them than if they had just been walked through the restaurant like anyone else.\nFor most people a visit to Nobu will be a one off and for a special occasion it's definitely worth it. However, the prices here make it difficult for us non-celeb types to really get to know the place and its celebrity status can detract from the food.",
+                "datePublished": "2008-12-23"
+            },
+            {
+                "reviewId": "S-kSebb5R22J7RSMtMBFUQ",
+                "author": "Qype User\n kbyer…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I have been twice and will not go back.\n The first time the food was excellent but the service was shocking.\n Unfortunately, the service problems were not an anomaly and the second time was just as bad in terms of service.\n There are too many fabulous places in London to eat that also give you a wonderful experience. Don't waste your time or money here.",
+                "datePublished": "2010-05-23"
+            },
+            {
+                "reviewId": "Y-wFuAaA72CeZ6mm3qJGNw",
+                "author": "Gemma S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I don't go often (it's very expensive) but when I do I go all out and it's worth it.  Nobu is about quality over quantity.  I've never tasted better sashimi and the black cod is incredible.  Great service is the icing on the cake.",
+                "datePublished": "2011-03-21"
+            },
+            {
+                "reviewId": "KTyWLb8qWgAtw544poMcqw",
+                "author": "terrific h.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I am a non-believer of fusion food, but after trying London Nobu,  my view has been changed.  The Omasake set was just aweson, perfectly awesome, especially any sashimi served with fusion style, it's just so mouth watering.  The spirit was the western source enhancing the sashimi.  of course, the service was splendid.  I went twice in two weeks' time.\nbtw, the signature dish with Tuna, oh, the best ever!!!",
+                "datePublished": "2009-02-22"
+            },
+            {
+                "reviewId": "YXglqWZWAqgAwd68usYtww",
+                "author": "Michael V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Melanie and I where in London for the weekend and found Nobu two buildings down from the Holiday Inn we were staying at.  We decided to do the 5 course meal which ended up being very pricey but it gave us a range of their most popular dishes.  Yes the black cod was so tasty!  the service was great and they accepted American Express.  They kept shouting when new customers came so it got annoying after a few times.  The place is a bit dark and the sit you really close to the neighboring diners that you have to whisper if it's a private conversation.  I hear there are some Nobu chains in the US so i will have to try and compare.",
+                "datePublished": "2011-01-07"
+            },
+            {
+                "reviewId": "Q5eQulY5tZ5y9GIv5G1dqQ",
+                "author": "Anita S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Nobu is just about every poker player's go to spot for sushi so over the course of the past 20 times I've been I have a list of plates I usually order (plus a few new ones). There are two Nobu locations in London. The one on Berkeley St. is the newer trendy one. The other one is usually used for business meetings and is more family friendly.\nDrinks:\nKaffir Lime & Lychee Martini\nAppetizers:\nYellowtail Sashimi with Jalapeno\nnew style white fish (I think this was it) - not as good as the yellowtail, but if you want something different its a nice change\nMain Courses (Usually just eat everything family style):\nBlack Cod with Miso\nI don't know the name, but it was steak with mushrooms (was soooooo good, steak melted in my mouth)\nSushi:\nToro (O-toro is the best)\nDessert:\nChocolate bento box - like a chocolate lava cake and green tea ice cream\nMochi - ice cream wrapped in a gummy layer (made of rice I think)\nI honestly wouldn't try sushi anywhere else while in London. Nobu = nuts\nanitaeat.com",
+                "datePublished": "2010-12-05"
+            },
+            {
+                "reviewId": "D4TSmfceamVcVwzRJ9JuoQ",
+                "author": "Qype User\n duncan…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "From the get go I knew this would be an interesting experience. Not accustomed to dining out on this scale I dialled Nobu's reservation desk with some trepidation and held for 35 minutes, only to be told that the first available table for 8 was 6 weeks away. On a Wednesday evening. For the 6:30pm seating (not exactly peak time for celeb spotting). O well.\n After announcing our arrival at the hotel-style reception desk we were guided into the ground floor bar by our elegant, if ever so serious hostess. The dimly-lit bar is something to behold. It is beautifully designed and sitting at the small table I couldn't help but feel like I'd made it. Silly I know.\n Although the service was unremarkable, the food was incredible. I would highly recommend the Wagyu Beef skewers and the King Crab Tempura. Our group had done its research and a few people at the table informed me that it was widely known that the Black Cod was the way to go. What ever you do, don't miss it!",
+                "datePublished": "2008-06-27"
+            },
+            {
+                "reviewId": "6FQf8qf-9QJDf9DW1x-uqg",
+                "author": "Jen M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I've only had small plates and cocktails at the bar at this Nobo so perhaps it's an unfair comparison, but I like the food at the Park Lane Nobu better. I tried a few of the dishes and was most impressed by the asparagus (and we ordered a fair share of different sea food options). My 'martini' was more like lychee juice with a splash of vodka and I was thoroughly unimpressed by it. It's a good place for people watching but if you're trying to have a conversation, don't sit at one of the tables in the middle, the acoustics are weird and you won't be able to hear what the person a foot in front of you is saying.",
+                "datePublished": "2009-05-12"
+            },
+            {
+                "reviewId": "bzA3h1raBSFcxBr7v30P1Q",
+                "author": "John B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've only had drinks and snacks in the lounge but even from that experience I can say this is one very sexy and seductive dining/drinking environment. It's pricey [surprise!] but so what when time and space are shared with a sexy leggy local.",
+                "datePublished": "2009-03-11"
+            },
+            {
+                "reviewId": "qjg8NdX87RhsCL6VaU-GKQ",
+                "author": "Fazan K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "save your pennies and savour the delights that be fusion of japanese and south american cuisine.\ni will never forget the dessert i had like a sophisticated spring role with warm liquid chocolate that oozed from it.",
+                "datePublished": "2009-05-31"
+            },
+            {
+                "reviewId": "6LCqGjCXCiMzv-optIQwnQ",
+                "author": "Vaulte K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This is the trendier sibling to the Nobu at the Metropolitan. It's more clubby and chic at night, offering good people-watching opportunities in the evening. But I prefer Nobu at the Met. The food is comparable but the Met ambiance is just so much more relaxed and less poseur. And the real celebs know this, anyway, so you're going to find them at the Met branch and not the Berkeley one. Ironically, as I write this, I just had lunch there last week with Noami Campbell sitting at the next table. Which is even more bizarre, given that she was sitting at the table next to me a few nights prior to that when I was eating at China Tang... go figure.... not that she's a gourmet tastemaker but we do seem to like to eat the same things ;)",
+                "datePublished": "2010-03-02"
+            },
+            {
+                "reviewId": "BHFmDUmvD2YajwtFoykAmw",
+                "author": "Katharine B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Our dinner at Nobu Berkeley was one of the best meals I have ever eaten!  The lobster tempura is a must order.",
+                "datePublished": "2012-04-29"
+            }
+        ]
+    }
+}

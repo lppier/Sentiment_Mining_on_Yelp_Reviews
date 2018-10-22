@@ -1,0 +1,1962 @@
+{
+    "0": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "-VvoRGKALkocnhkuksieQw",
+                "author": "Josh K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came here after a visit to the British Museum and was able to sang a table. The service was excellent and prompt, and I opted for the two course menu. The house wine was also good for the price.\nThe scallops were perfectly cooked and paired well with the apples. The duck really shined - the skin was crispy and the meat was succulent and delicious. I also had the tarte tatin for desert, which was not overly sweet and paired with a very nice custard.\nThe atmosphere was cozy and warm, and the prices were reasonable for the location. Definitely worth checking out if you're in the area.",
+                "datePublished": "2018-09-28"
+            },
+            {
+                "reviewId": "NRbLx2sKfW4_zpPtYuicyQ",
+                "author": "Adam D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Poor service and bland food. I'm pretty easy to please but neither the food or service could make this a place I would recommend. \nThis is an overpriced tourist trap at the best. \nThe French onion soup was bland. How does a French restaurant serve bland French onion soup?\nOur fries were brought out 20 minutes after the rest of our food. \nSo many better places to eat than this and at much better prices.",
+                "datePublished": "2018-05-18"
+            },
+            {
+                "reviewId": "PSlMmxssPD0FAOc-bDW0rQ",
+                "author": "Mary B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came here with a large group for dinner. We all got the two courses set because we were hungry. Sets come with fresh bread with oil (yum!). We also ordered two bottles of wine. Service was slow but polite. The atmosphere was incredibly relaxing and it felt like one could stay at the table all night talking and unwinding. I got the braised lamb with stuffed mushrooms as a first course. The mushrooms were well seasoned and topped with a generous helping of herbs and goat cheese (double yum!). The lamb was cut into thick, juicy slices and resting on a bed of roast potatoes, steamed carrots and green beans, mashed potatoes, and ratatouille. Absolutely fabulous. Everything tasted amazing. The only incident was the small deep fried ball of meat that came on the side of my plate. I thought it looked like some sort of deep fried organ so I didn't eat it... I wonder if it landed on my plate by mistake during serving.",
+                "datePublished": "2018-10-05"
+            },
+            {
+                "reviewId": "HtflDigw8BnWOOBFukW0Ow",
+                "author": "Sean M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Fabulous little bistro we happened to find while getting away from the normal tourist trap establishments.  Owners were working hard as staff was either on holiday or out ill.  They did a terrific job and we loved our delicious meal and wine.  Everything was fresh and made to order.  Prices were extremely reasonable.",
+                "datePublished": "2018-09-27"
+            },
+            {
+                "reviewId": "NhUL4GXZAsEiusWJmedBpA",
+                "author": "Karishma P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We headed here after spending an afternoon at the museum. We were slightly early for our booking, but were seated immediately, while waiting for our friend to arrive.\nService was lovely. They only had 2 meal menus, but since we were hungry, they allowed us to order extra starters.\nThe food was excellent. From starters to desserts - pate, lamb kidneys, the sea bass, lamb and duck - each one perfectly cooked. And some of the best French fries that I've eaten in a very long time. \nThey had some excellent wines and the whisky cheesecake was outstanding!\nWish I had found this place before my mum and dad visited, would have loved to take them here on one of their many visits to the museum.",
+                "datePublished": "2017-12-13"
+            },
+            {
+                "reviewId": "Ndf68XdG5_NZJFoTFYoKhw",
+                "author": "Whitney M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was a delightful and cozy spot! We we thrilled to find it! We love French food and this place hit the nail on the head. \nThe food is incredibly reasonable especially considering how amazing it all tastes! \nThe staff was wonderful - they answered our questions happily and were very attentive. They even offered some suggestions of things to go on our trip to Paris. \nMy husband and I shared some wine, French of course, and were pleased! \nFor appetizers we had the goose rillete and  baked goat cheese - it was an amazing start to our meal. \nFor dinner my husband had roast duck, which was perfectly cooked, and I had seared sea bass which was delicious! The skin had a crispness to it without drying out the fish. \nWe ended the meal with cheesecake which honestly, was the best we've had! The texture was almost whipped it was so smooth and light.  \nWithout a doubt I would recommend this restaurant. There is nothing about the experience that I could give lower than 5 stars to. If you ever find yourself in London, on or near Bloomsbury way, stop in for a bite. You won't regret it!",
+                "datePublished": "2018-03-31"
+            },
+            {
+                "reviewId": "MzyRmVDkq6M1kt1wp2Pd7A",
+                "author": "Bob W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What a treat! We ducked in out of the rain and found a table - our good luck. The service, the food (bouillabaisse x 2, bread, salad, wine, coffees), and the setting were wonderful, it's a very charming place. \n   Other choices include a veg prix fixe menu and assorted food for carnivores. Good value, a great meal.",
+                "datePublished": "2018-07-13"
+            },
+            {
+                "reviewId": "0E1XwK5TpRLjfGWgiawj8w",
+                "author": "Alexandra D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I travel to London fairly often for work so I am usually out dining alone. The food was fantastic and the service was pretty good. I had two lovely ladies waiting on me, however, I asked the less experienced waitress for a wine recommendation and she had no idea what to say, so I ended up with a bottle of house wine, which was perfectly fine, but I would have loved a recommendation on a proper french wine as I'm always looking to broaden my palate and learn more about wine in general.\nStill, a wonderful experience overall, highly recommend it!",
+                "datePublished": "2018-02-20"
+            },
+            {
+                "reviewId": "NwR1TFrn7IbAvx9oaWyHag",
+                "author": "Katherine K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This tiny French cafe was a great choice during our stay in London. We were craving something fresh and yet still delicious. They have a pre-fix lunch menu with a salad and a meat option. The salad the day we visited was a roasted pear salad, it look so good but I wasn't hungry enough for multiple courses. I did end up with a salad though and so did another guest in my party. I ordered a butternut squash and goat cheese salad and it was perfectly dressed and a larger serving- I would recommend! The other salad ordered was a warm chicken and avocado salad- which was also very tasty and a large portion. We also had a steak and Brie sandwich on a fresh baguette- it was perfection. The bread was so fresh and soft yet the outside perfectly crispy. Everything we ordered was great and I would highly recommend this spot! The upstairs area is smaller and doesn't have air conditioning, which is fine normally but we were visiting on an 80 degree day- so just keep that in mind! The downstairs area is larger and cooler, but lacks the charm of the upstairs area, however this would be better for larger parties! Go here!",
+                "datePublished": "2018-04-23"
+            },
+            {
+                "reviewId": "W0VELDvoxKzPFlO6CSuS_A",
+                "author": "Amy L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Maybe I was just unlucky, ordering the wrong dish... I couldn't eat more than half - it tasted weird. The bread had little gnats flying on it too and was too hard, like it'd been cut up hours before. \nI like the ambience of the place though, and the waitress, though she seemed stressed. I hope she gets a vacation or something good soon.",
+                "datePublished": "2017-09-21"
+            },
+            {
+                "reviewId": "0DFiEeKXnajV8mHJSuppMA",
+                "author": "Aim M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We really enjoyed Savoir Faire.  Although our children are not fond of French food, the menu had enough options to please everyone.  The waitresses were very helpful and friendly. We found the food to be good, and the atmosphere pleasant.",
+                "datePublished": "2018-07-08"
+            },
+            {
+                "reviewId": "nyRf7juYXKL6NOPTHEIDLQ",
+                "author": "Connie L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My friend and I had a late lunch here around 2:30 pm on a beautiful Sunday afternoon. We came from the British Museum, which was just a short walk away. It was fairly empty at the time, so we had our pick of indoor and outdoor seating; we picked a small table inside, right by a window, and got a nice view of the street and nearby buildings. There was also plenty of seating, as well as toilets, downstairs, although no one was sitting downstairs because it was so sunny outside (the downstairs area was quite dark but would probably be cozy in the evenings). We were greeted promptly by our server.\nBoth of us ordered the butternut squash and goat cheese salad (my friend is a vegetarian). The food came out pretty quickly. I was pleased with how generous they were with the toppings; they had completely covered the greens with goat cheese, sliced nuts, and squash. The salad came with dressing on, but I'm sure you could ask for it on the side. It was really tasty; there might actually have been too much cheese, but as goat cheese is my favorite, I was pretty happy with it. The salads came with 1 basket of bread that we split; we wound up ordering more, since there wasn't that much in the 1st basket. The bread was accompanied by some seasoned olive oil, which also had sesame seeds in; it was pretty addicting for me as a bread lover. However, as it was a French restaurant, I was expecting the bread to be better; it was good, but I wasn't as blown away as I have been at some other French/Italian/Spanish restaurants.\nFor dessert we split (well, I had 75% of it) a pear tarte tatin (when asked, the server informed us the dessert special of the day was mango sorbet). The tarte was a good size and really tasty; it was served warm. If my friend had been hungrier, I would've wanted to order 2 desserts, as the tarte wasn't really big enough to split equally between 2 people (although I have a big appetite so your mileage may vary).\nThe restaurant had a great atmosphere and a nice view of the street. We were allowed to take our time and weren't bothered much by anyone throughout our leisurely meal. The facilities and tables were clean. The ceiling was decorated with some humorous sayings, so look up if you visit. Our meal came out to be about £15/person, including 1 glass of wine, 1 dessert, and an extra basket of bread. I really enjoyed my lunch here and would happily return if I'm ever in the area again.",
+                "datePublished": "2017-05-16"
+            },
+            {
+                "reviewId": "Rc9DfVCVobV-XtzqcTdeHg",
+                "author": "Sarah M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Lovely lunch where everyone left happy and satisfied with their meal.  Excellent service.",
+                "datePublished": "2018-06-16"
+            },
+            {
+                "reviewId": "YheYSzbP9PTPrtzawvuh5w",
+                "author": "Judi E.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great French food. Good value and price for London. I love when you can get your own carafe of wine. I had the fish special and my husband had the lamb. Both were delicious. Highly recommend.",
+                "datePublished": "2018-06-07"
+            },
+            {
+                "reviewId": "_KSiWyO6inoLF4x6Qbf5jw",
+                "author": "Liz S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A cute spot to grab good food and a drink or two.\nI enjoyed the Aperol spritz. It wasn't too bitter and it was refreshing. \nThe bread you get with dinner is nice and soft. It's served with oil for dipping.\nFor dinner I ordered a mixed greens salad and the vegetarian tagine. The mixed greens (smallish) included frilly greens, a few slices of tomato and a creamy dressing. It was alright. The tagine was pretty good though. It included cooked carrots and apricots in a flavorful sauce with mint over couscous. I just wish there were a few more different veggies in there. \nMy sister ordered the large vegetarian butternut squash and goat cheese green salad. It was super flavorful and the portion was generous. She also ordered the fries (chips), which were a little thinner than I normally like but not bad. I do like how there are several vegetarian options.\nOur waitress was pleasant and helpful. \nThe decor is fun and nice. I enjoyed the quotes written on the ceiling.\nIf I come back to London I would visit Savoir Faire again.",
+                "datePublished": "2017-06-03"
+            },
+            {
+                "reviewId": "qxaesyGKQ3HnOm6-qLdI1w",
+                "author": "Anastasia S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Loved it! Great food, reasonable prices, great service. Very small place and not a chain. Would definitely recommend!",
+                "datePublished": "2018-06-04"
+            },
+            {
+                "reviewId": "wKwe-yHxAU5pJhe3_xw3tw",
+                "author": "Kay J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "SO. GOOD. \nI've been for lunch a couple of times and simply cannot fault this place. \nThe service is exceptional and they are even accommodating when I have a baby with me. \nThe food can take a while to come out but when it's as good as it is here, I can't complain. \nThe lunch deal is a steal. \nThe staff are incredible. Thank you.",
+                "datePublished": "2017-02-24"
+            },
+            {
+                "reviewId": "5H0_MNyTXkQm2fXD84Y3gg",
+                "author": "mindi s.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had the vegetarian 2 course special. The goat cheese caprese was good. The Aubergine \"cannelloni\" were amazing. They were strips of eggplant rolled around a mixture of ricotta with olives drizzled with tahini, and surrounded by green beans, potatoes and roasted tomatoes. If someone would cook like that for me, I'd cheerfully become a vegetarian. One of the best things I've ever had. The service was friendly cheerful and the whole experience was great.",
+                "datePublished": "2018-08-08"
+            },
+            {
+                "reviewId": "Ra6n_FuwqJT23OXDpsw2_Q",
+                "author": "anne b.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "After a day at the British Museum we found this location via the other great reviews on Yelp, and it didn't  disappoint.",
+                "datePublished": "2018-04-12"
+            },
+            {
+                "reviewId": "rfBJu-iacluZwUFdH3NETQ",
+                "author": "Dana B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Visiting London for the first time, a friend and I tried this restaurant. It was in close walking distance to the London National Museum. The food was food and they have a two course special for early dinner. However, if you do not have a reservation you are not allowed to sit on the ground floor but are quickly whisked away to the basement to dine. The food came out quickly, however the waitress disappeared for a long time when we were dining and it took about 30 minutes longer to finally get our check.",
+                "datePublished": "2018-04-27"
+            }
+        ]
+    },
+    "20": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "3j2fcwbidHkOFkgs4GEl4Q",
+                "author": "Claire W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This quaint little French restaurant was one of my favorites that I had visited in London. The food is authentically mouthwatering, not to mention for a great price. The staff was exceptionally nice. The whole evening was elegant, unpretentious, and definitely something I'd like to repeat. Flawless!",
+                "datePublished": "2017-05-19"
+            },
+            {
+                "reviewId": "g4s3ZVeP56Aa6cCzdcJuOQ",
+                "author": "Pamela S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place is indeed an affordable French gourmet restaurant. They have a 24£ 3 course meal deal that is very good value for money! Usually when you choose a set menu you get very limited choices but this place has so much to chose from it was hard to pick just one! As a starter I had the chicken liver which was REALLY yummy. As a main I had the  beef bourguignon which was really tasty. We ended the meal with a chocolate mousse which was good. \nThe service was really good. Our waitress was very friendly and made great recommendations when asked. \nThe place is a bit tight and if you sit downstairs it is windowless. \nI would definitely go again and highly recommend this place!",
+                "datePublished": "2016-02-13"
+            },
+            {
+                "reviewId": "0NcsUnCrsNcJgaSzkmz7XQ",
+                "author": "Kaitlyn C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "STELLAR SERVICE. They were open Xmas day, didn't need a reservation, the food was delicious, the ambiance was \"quaint Parisian cafe,\" and the service was exceptional.",
+                "datePublished": "2017-12-26"
+            },
+            {
+                "reviewId": "-HTImANSP8P9I3-f2O2cXA",
+                "author": "Robert R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was the best meal my wife & I had in London.  We arrived just after lunch service had ended (after a long day of wandering around the British Museum) and were still able to order off the lunch menu.  We had the restaurant to ourselves for a little while and we felt welcome and very comfortable in the cozy and inviting dining room.\nMy wife had the steak and brie baguette with onions and horseradish mayonnaise and I had the steak frites. Both of our meals were simply amazing. I followed it off with some chocolate mousse which was the best mouse I have had since my last visit to Paris last year.\nThis restaurant should be a must stop for anyone in this part of London.",
+                "datePublished": "2016-10-23"
+            },
+            {
+                "reviewId": "ErmxZ63CKrakeVRkxYgZ2A",
+                "author": "Jiarui T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very clean (although small) tables, toilets, and nice service. Had lunch combo for £14+ it actually charges me £16+ maybe for the service fee. The combo comes with a starter+entrée or entrée+dessert, either way you like. I have the soup of the day for starter, which is chicken vegetables soup. It was really good. The soup is neither too salty nor greasy, with lentil, carrot, and some other veggies. I ordered fish soup for entrée and I think it would be better if they can squeeze more lemon juice in it. \nThe carafe and water glasses are not very clean though. But the bread is superb. My boyfriend ordered Lamb kidney for starter and Duck leg for entrée, he said it was flavorless but I think they are okay. \nThis cafe would be good for you if you are looking for some delicate food with light flavor, and also, if you have enough time since the waiting time is a little long than I have expected.",
+                "datePublished": "2017-03-24"
+            },
+            {
+                "reviewId": "ZFFvtfTH6-b7CL-7MhCKZA",
+                "author": "David J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is an amazingly affordable French restaurant with a set menu which include (joy!) a good selection of vegetarian options. The interior is cosy (but there is a downstairs eating area in the basement as well) and slightly 'shabby-chic' (which extends to the cutlery and glassware as well).\nThe main event is the food: the two course menu is £24, but there is a cheaper vegetarian menu as well. Desserts are £5.90. For the price, in this area of London, it represents fabulous value, as the quality is very good, mostly in the classic French style.\nOn two recent visits, service was very good - friendly but unobtrusive, and they made a real effort to seta us when they were busy one evening.\nI shall be back.",
+                "datePublished": "2016-06-28"
+            },
+            {
+                "reviewId": "y-AD-sSTnUJG-TtpOWAvZg",
+                "author": "Soomin R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We went without booking, but the waitress so kindly helped us get a table instead of just turning us away. Through the dinner, service was top notch, and I really appreciated it -- never take it for granted! \nFood was solid as well. I had pork belly, which was very flavourful and rich together with the purée. My bf ordered foie gras as starter, which was probably one of the best I ever had. \nAbsolutely adored the ambience -- very artsy and cozy at the same time. Great lighting and perfect for dates. \nWould love to go back soon!",
+                "datePublished": "2015-06-20"
+            },
+            {
+                "reviewId": "-KnBqKIX3gESsDheImbtCw",
+                "author": "Jordan S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "With a quiet and quaint atmosphere, this restaurant provided genuine French cuisine. The Christmas menu provided only a few dinner options and only 3-4 alcoholic drinks to choose from. Of the small amount of choices, the food was savory. The price was on the heavy side of what usually is attributed to this restaurant (due to the holiday limitations). The staff was friendly and made accommodations for canceling an order midway through our meal when one of our diners decided they weren't hungry (no charge).",
+                "datePublished": "2016-12-31"
+            },
+            {
+                "reviewId": "Ub812Zvh8b1EV2NOKcP-GA",
+                "author": "Steven J.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "This is the worst restaurant in London. We have the worst experienced, the receptionist lady is very rude and un accommodative, she showed us a table and prepare the table just wiping it with wet clothes and sat the utensils down on the wet table, so dirty We are very shocked by her action. The whole place looks really dirty and unhealthy",
+                "datePublished": "2017-08-23"
+            },
+            {
+                "reviewId": "E_iGuyO8t2J3Fx4Km5a-1Q",
+                "author": "Jason L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent food and very close to British museum. This place serves the best French food in London for the price. Two course meal for about 23, might sound like a lot but the quality is excellent. The goose appetizer and lamb were the meal for me and it was delicious. \nService can be very slow especially if you sit downstairs but the food compensated for it.",
+                "datePublished": "2016-11-13"
+            },
+            {
+                "reviewId": "DfRzBGaHkdb28Hm9YRIVJA",
+                "author": "Lucy R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This French gem is flawless. Food deserves a Michelin star for its high quality preparation and presentation. The service is also peerless. Staff is friendly and amicable. What else can be said---We've eaten here twice for dinner and once for lunch in just the last week. I can and would eat here daily if I could. If you enjoy a high standard like I do, this shiny little bauble is for you! Magnifique! London has so many great places to eat, but this place stands out for its quality sure, but the vibe is also great, no pretense, just fine food at great prices. Feels like a local Parisian bistro. Go!",
+                "datePublished": "2017-05-08"
+            },
+            {
+                "reviewId": "HiI0SsqMqKRJx5BH4TmCCA",
+                "author": "Alexandra P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This restaurant is a true gem! Loved the food and service. I highly recommend this place.\nThe steak was delicious as well as the bouillabaisse.  If you are in the area I would definitely try it out!!",
+                "datePublished": "2017-08-09"
+            },
+            {
+                "reviewId": "uoK6ZViBV0jlkLCwdxNF5w",
+                "author": "Neluta G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great French food and great prices. The server was very nice and knowledgeable about the food and the atmosphere was romantic. Perfect dinner for our last night in London. The foe grass was fabulous, cooked perfectly, every ingredient on the plate made sense. We had wild mushrooms with fresh goat cheese, pork belly, beef bourgeoning and bread pudding toffee, perfect way to end a perfect meal.\nI am definitely recommending this restaurant to anyone that visits or lives in London.",
+                "datePublished": "2014-09-17"
+            },
+            {
+                "reviewId": "a21-tt2dehgqi560jBjgiQ",
+                "author": "Mindi G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Hands down--Wow! My husband and I were in London on vacation for 10 days. We were staying in the Covent Garden area and went to Savoir Faire for dinner one evening. Easily the best meal we had in London (yet nowhere near the most expensive). We hit some big name restaurants and none of the cooking was as spot on as Savoir Faire. The preparations were beautiful and delicious. \nSavoir Faire is a small, unpretentious, neighborhood restaurant. It is casual and comfortable, but the food is the epitome of French style. We had a very affordable bottle of Chateaudeuf-du-pape. I have to admit that I have forgotten after a almost a month away from home what we had for a starter. We both ordered chicken for dinner. It was moist and delicious with a wonderful array of vegetables, perfectly prepared. We shared a dessert. Everything was perfect. \nThis is the restaurant I will be talking about and recommending to anyone I know heading to London. It is small, so make a reservation, but it is a must try.",
+                "datePublished": "2017-06-28"
+            },
+            {
+                "reviewId": "tR8KASK4vYxPcagBCQbfcg",
+                "author": "Rachael M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "So I have to admit...  I'm not really a fan of French food.  It's usually so rich and heavy and that's just not my thing.  When my coworkers and I were on a trip to London and the cuisine agreed upon by the group was French I was not super excited.  But this meal ended up being great!  \nThey have a two course set menu for around 23 pounds.  The various appetizers tried at our table were the grilled fig with goat cheese, the octopus, the mussels, and the fried halloumi - all were excellent and original.  I would give a recommendation, but really that's probably try them all.  The mussels may have been the most unexpected in serving and flavor - they came out of their shells in a special serving dish, and the sauce was incredibly garlicky and delicious.\nFor entrees, our table had the duck, beef bourguignon, lamb shank, and the vegetable plate.  Again, everyone loved theirs.  The sauces were delicious and balanced out the meat perfectly.\nAnd after our fantastic meals, we couldn't stop without dessert.  Our table shared creme brulee, chocolate mousse, and tarte tatin.  And again, everything was excellent.  The chocolate mousse was very rich without being too sweet.  The tarte tatin was very different from ones we have had in the US - the apple was a different texture but delicious.  The creme brulee was excellent as well.\nThe restaurant itself was small and very cute.  A great ambiance.  There were paintings all over the wall, which were definitely different than what we would see in the US, but it was a great little European find for us on our trip.",
+                "datePublished": "2015-10-23"
+            },
+            {
+                "reviewId": "SbXrcCYFu79AulJ3FQ8E_Q",
+                "author": "Miranda C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Food was not amazing. Just ok. We were looking for true French cuisine but this was pretty plain.",
+                "datePublished": "2017-07-27"
+            },
+            {
+                "reviewId": "RhOOLzme_09PO1OvLP66Gg",
+                "author": "Diarmuid R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Inaptly named. Nice food, poor service. In a restaurant w few people folks itching to get their bill. Food was tasty, especially chocolate mousse, and good price, just slow and hard to get attention w service",
+                "datePublished": "2016-09-20"
+            },
+            {
+                "reviewId": "V1qdX_zLd-EnCJ7Qu-n9jA",
+                "author": "Jay S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Food was excellent but the chef was clearly overtaxed on a Friday night, leading to delays in food arriving. To make matters worse the owner and his wife, gruff white haired elderly couple, arrived and were served their food immediately, bumping me and other customers back (my entree didn't arrive until an hour after ordering).  Owner then curtly refused to take anything off the bill though his own meals had preempted the paying customers.",
+                "datePublished": "2016-09-04"
+            },
+            {
+                "reviewId": "XQ1n107ionGTgkY-8eNxTg",
+                "author": "Beverly Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This was my very first dinner in London, and I was definitely satisfied. A few friends and I came here after seeing how it was so highly reviewed on Yelp, and when we got to the restaurant we were surprised (but I guess happy) at how empty yet small it was. There was probably only one other table occupied, and a total of 7 tables in the room we were seated.\nThe menu contained a lot of options, but I wanted something light so I ordered one of the vegetarian dishes. I can't remember what it's called, but it had mushrooms topped with mashed garbanzo beans/chickpeas and a side of broccoli and carrots. I'll admit that when the food first came out I was a bit skeptical since it's not the prettiest dish, but the first bite destroyed any doubt. The taste and texture of the mushroom paired with that of the garbanzo beans was amazing, and the broccoli/carrots were wonderfully cooked as well. I especially liked how the sauce was light and only used to enhance the taste (rather than drenching the food in sauce, which is kind of common nowadays in a lot of restaurants). After finishing I was well-satisfied and happy.\nOverall a great place to eat if you like authentic French food! I loved my experience here (food, service, and the super cute decor).",
+                "datePublished": "2015-07-21"
+            },
+            {
+                "reviewId": "2WGNQErr8m9K-O5L2bDhAg",
+                "author": "Tim D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I really like this restaurant,  the food is amazing and the service is friendly.  The prices are reasonable and the decor and atmosphere are both great. \nThe waiter when we were there personally recommended one of the wines, and it was lovely to see some of the diners chatting to each other at different tables,  like it's a place to be socialable and actually talk to other people - something which is very special when you see it in London. \nI couldn't give this restaurant a higher rating though because of its 2 star hygiene rating by Camden council,  I don't really understand why such an otherwise amazing restaurant would take such a lax attitude to food satety but it isn't a good sign. \nHopefully they'll take it on board and try to improve as it's otherwise a wonderful independent restaurant in central London, a welcome alternative to so many identikit chains.",
+                "datePublished": "2016-04-26"
+            }
+        ]
+    },
+    "40": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "6_XfsLeeydFXcS-BHIA8mA",
+                "author": "John W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Holy moly... Fantastic food!! So I guess I like French food? If THIS represents French then YES! I started with the baked goat cheese, moved onto the duck, and wow. The flavors are simply astonishing... Although the duck texture was average. Even still.. Epic dish! This is a return over and over places folks! \nOh and... Price? It will make you spin your head... The prices are that of a typical chain... Not too high. How? I dunno but I am coming back tomorrow.\nOk update (3 minutes after posting!) the texture of the duck is killing me... SO chewy! But... Still 5 star. Why? Flavor... Unique flavor in the whole dish... Everything on the plate is so enriched in unique and DELICIOUS flavor I don't care. Plus it's only a few pieces like that.\nSorry 4-star review people who always do 4 starts even when they say it's great! (Why oh why do people do that?)... This is 5 star at its best!\nOh... And I hate the French. But you get five stars for food!",
+                "datePublished": "2015-03-10"
+            },
+            {
+                "reviewId": "BALKxppEYaXvgRUX5nhXiw",
+                "author": "Rashmi V.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I was looking forward to this meal due to the strong reviews...However I was disappointed. To start, I ordered the grilled figs with blue cheese and mint. The figs were neither grilled nor was there mint. In fact the figs were raw and cold. For my main entree, I ordered their honey glazed duck with red wine jus. While the flavors were good, the duck was way over cooked by French standards. If you order the duck you must you must clarify that you want it medium rare.",
+                "datePublished": "2017-10-21"
+            },
+            {
+                "reviewId": "9epT8Wd9f9TUNyVVqh29qQ",
+                "author": "Jurgen D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Cest tres bon!!\nWell this was just a fantastic evening I have to say. The owners ever present in the dining room help to create a warm and welcoming atmosphere. Stepping off a busy London street you are immediately transported to a bistro that could be anywhere in France though I like to imagine myself being somewhere in Provence, wild fields of lavender filling the air with an aroma like to no other....anyway....back to the food!\nFor my starter I went for Goose Rillettes served with Spiced Plums, the rillettes had an excellent texture, neither too fatty or to smooth, there was still a nice consistency to it. I sometimes find rillettes made more like a pate, blitzed to hell and back. The goose with the sweet and spicy plums was a lovely match and very tasty.\nFor my main Herb-crusted Rump of Lamb with Celeriac Puree, Balsamic braised Beetroot and Herb and Tomato Jus. Im a sucker for lamb with a crust and this was done supremely well. Cooked with great attention in a pan then oven roasted to melt in the crust the lamb was still beautifully pink. Celeriac is one of my favourite vegetables and the puree was smooth and well seasoned. Delicious.\nWashed all of the lovely food down with a bottle of red, reasonably priced and delicious.\nFinished the night with a French coffee and toddled off into the night very content.",
+                "datePublished": "2015-12-10"
+            },
+            {
+                "reviewId": "CvdqNFYwXQiYM5SJrhGv5A",
+                "author": "N00b D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The reviews turned out to be spot on. This is some extremely fine french cooking for an affordable price. There are two menus, the lighter menu is 15 pounds and includes an entree and your choice of a dessert or appetizer and then there is the 23 pound dinner menu that includes an appetizer and entree. Both are available at dinner periods and both are delicious (I ordered off the pricier dinner menu while my partner ordered off the 15 pound menu and we were both beyond satisfied). I had a glass of house red (£4) and we both shared a dessert afterwards (£6.50) and the best dinner I've had in London came to a well-spent £50.\nService was prompt and friendly and they were even able to fit us in without a reservation, though we came very early. If you plan to eat here after 5:30 I would definitely make a reservation. Off of the cheaper menu I highly recommend the duck legs and off the more expensive menu the lamb shank is delectable.\nPROs:\n- Great french cooking\n- Not dirt cheap, but for what you get it feels like theft\n- Very close to the British Museum, 5 min from the main entrance. About 10 minutes walk from Holborn station.\nCONs:\n- It gets busy quickly, even on weekdays. Make a reservation unless you are willing to take a risk.",
+                "datePublished": "2016-09-07"
+            },
+            {
+                "reviewId": "e2-nHoqupjYzfXTmM9j-ng",
+                "author": "Fernando K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had lunch here 6 weeks ago after visiting the British Museum and loved it so much I came back today and brought my parents.\nThe fig with ham and goat cheese is absolutely amazing, as are the beef bourguignon and the lamb shanks. The bouillabaisse is amazing if you are looking for a lighter option.\nGet the house wine by the glass, it's great too.\nOverall amazing value for money.\nOnly con is food takes a little too much time but 100% worth it!",
+                "datePublished": "2015-10-27"
+            },
+            {
+                "reviewId": "2T3ScTNvIzwJGvtTrR63BQ",
+                "author": "Karen B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Strange decoration but excellent food. All ingredients are self made, including the sauces (hence the name). Good value too given the quality of the dishes. Try it.",
+                "datePublished": "2016-09-26"
+            },
+            {
+                "reviewId": "5KD5uXQfEKD67e-OnthpqA",
+                "author": "george k.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We ate here on our first night  in London. The bistro was a short walk from the hotel. We also had lunch here on our last day in London. \nAmbiance: small casual restaurant, dining on the street level and a dining room downstairs. Not very lavish but quaint. The location is great for people watching, located on a busy intersection. The narrow staircase and lighting on the way to the loo could use some work.\nService: two servers at dinner were very helpful, efficient and welcoming. The servers for lunch were not as pleasant, one hardly said a word but smiled a lot. The other server yelled at tired Japanese tourists who sat on the chairs outside. Not very hospitable.\nFood: we really enjoyed our dinner here. I ordered the baked mussels which came in an escargot dish and had the traditional butter, herb and garlic butter. Great for dipping the wonderful bread. My wife ordered the steak frites and I had the calf's liver. Both were very good. No dessert. \nLunch was not as flavorful. We ordered salad, Caesar and the house salad. Neither were exciting, lettuce was not crispy and the vinaigrettes were not very flavorful. Add the less than enthusiastic servers, I wish we went elsewhere for lunch.",
+                "datePublished": "2017-06-22"
+            },
+            {
+                "reviewId": "CEzqCWokMp_QO9A1HblhGQ",
+                "author": "Claire W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I came here with a friend for a bit of a nicer dinner out. We are both students and they advertise this place as an inexpensive gourmet French restaurant...perfect! \nThe service started off as very attentive and we ordered a bottle of house white wine. The waitress quickly brought us a bottle, poured it, and left. Before we knew it we realized she had poured us each a glass of red wine-not what we ordered. This issue would have also been prevented if they showed us the bottle of wine and permitted us an initial taste as every other restaurant does. After much confusion with another waitress who was on her first day and barely spoke English, she was able to help us to amend the issue and she then brought us our white wine. She filled the glasses to the brim-no exaggeration.\nThe starter and main meal was delicious. My friend got the mussels which I would highly recommend. The lentil moussaka was also delicious. Salads were pretty standard, nothing amazing. Overall I would recommend this restaurant.",
+                "datePublished": "2015-02-06"
+            },
+            {
+                "reviewId": "usBOVOIFw6hjhl-vUOMeDQ",
+                "author": "Aya T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's a casual French having only a course menu for dinner. It's reasonable but tasty and a big portion!! I liked the soup with smoked salmon and cheese and British traditional beef stew.....",
+                "datePublished": "2015-12-15"
+            },
+            {
+                "reviewId": "Cyt4LvHMOMUMnuArqcX4kw",
+                "author": "Mike N.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "3 Stars = \"A-OK\" and that's how I felt about this place. The food was good (4 stars), the atmosphere and decor makes it more of a homey places. Basically, the two didn't match well together. It almost seems like a great top chef lost his job at a Michelin Star restaurant and went to work at a \"normal\" restaurant.\nWhether or not this is a good or bad thing is up to you and your personality. I usually expect the two to match because of the company I'm with, but if you are just a casual dinner looking for great food, this is your place. The food and it's presentation is far beyond the way the restaurant looked and operated.",
+                "datePublished": "2014-10-14"
+            },
+            {
+                "reviewId": "T7fp8oXh2uQ7hLAGC-aKPg",
+                "author": "L L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a gem of a restaurant. We went before the theater and had wonderful food- the mussels were wonderful as well as lamb shank and duck. Very reasonably priced also.",
+                "datePublished": "2017-03-14"
+            },
+            {
+                "reviewId": "pr3qlmHyUia2HdZzR_q0PA",
+                "author": "Alison W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's rare for me to return to a restaurant on a second visit. But this restaurant is nothing short of divine.\nI still dream of the mussels cooked with garlic and Pernod and lemon essence. Everything else left me in a dreamy haze!\nRun, don't walk here!",
+                "datePublished": "2015-10-04"
+            },
+            {
+                "reviewId": "t0jN-ilIVONgcbb0xpK9-A",
+                "author": "Danni M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Beyond love, beyond adoration, I truly venerate this place. \nWhen in London, I stop for multiple meals here. That's me in the alcove to the right of the entrance and someday,   I'll probably just take up a fortnight's residence there.\nFrom kidneys, to foie gras, to whatever the special is, food has always been amazing and service attentive.  \nThe only sad thing, is I walked by this place for years before dining there. When I think of the  delightful meals that could have been, I could cry, but I'm making up for it now. Mea maxima culpa. \nEschew the high street chain and the mediocre and dine like royalty in a relaxing, unfussy bistro.  Last meal? Dine here! Who needs heaven when you've tasted the food of the Gods.",
+                "datePublished": "2015-07-14"
+            },
+            {
+                "reviewId": "IRdNRpUtzNYStBamN7fuIA",
+                "author": "Ningxi X.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I do not regret choosing Savoir Faire for my birthday dinner, even though it was a complete leap of faith as neither of my friends who accompanied me on the special occasion nor myself had been there before. The place is small and a little quaint, and quirky with the, interesting, wallpapers. It seems really underwhelming upon entrance, but the food we had was truly phenomenal especially considering the prices.\nThe two-course prix fixe menu was a great find in an otherwise such an expensive city. I had mackerel as an appetizer followed by sea bass. Both were cooked and seasoned really well. We also had a bottle of tempranillo and finished the meal with crème brûlée and lemon tart. It truly felt like fine dining on a shoestring, and we got the best of both worlds. My friends also raved about everything they ordered (caesar salad, lentil moussaka, etc). \nI believe we overheard the servers speak French, which only provided a reassuring sign since there's a better chance the chefs are French as well. The service might be a bit lacking at times - or am I just too used to the American standards - but it doesn't detract at all from the overall value of the restaurant.",
+                "datePublished": "2015-05-27"
+            },
+            {
+                "reviewId": "NcPYB7FnDxHHUrq1Cj5m4w",
+                "author": "Ron W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Still at table as I write this. Mussels with garlic sauce presented like escargots was perfectly garlicky. Fig appetizer was excellent. Chicken was lovely. Duck breast was spectacular!  Love this place. Oh and the music playing is perfect.",
+                "datePublished": "2015-10-25"
+            },
+            {
+                "reviewId": "wnlEdUgXBu0QOhMIAR2cKg",
+                "author": "Mike A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "There are pictures of naked ladies all around the restaurant, so I do not recommend bringing your adolescent son here for a meal with his school mates.\nThe menu is reasonably priced and the wines are, too. There are two levels and the bathroom is so small that it made me have panic attacks. Not really. I'm a man, I can handle that kind of stuff.\nBut seriously, the sink was so tiny if my hands had a nervous system, they would have panic attacks. Not really. They are a man's hands. Don't get it twisted.",
+                "datePublished": "2013-09-26"
+            },
+            {
+                "reviewId": "3iZC5stZ8pqjLJOvUI2pww",
+                "author": "Michał S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "At first it doesn't look like much, but very soon it surprises in a very positive way. The atmosphere is very nice, the staff is friendly and helpful and the food... The food is one of the most delicious I've had in a long time in a restaurant. The meals might not be cheap but they're not expensive either - and for that taste they're worth every penny!",
+                "datePublished": "2016-05-15"
+            },
+            {
+                "reviewId": "R-8Xcf9BRpcQYuCFSI9uWQ",
+                "author": "Jennifer C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Early dinner after the British Museum. Wow! In my 8 year old daughters words, \"They are so nice, and they make very good food.\" We had the fried mussels. Like escargot, with mussels, and excellent French bread. For entrees, we had the lamb shank, duck Magritte with chocolate ganache, and bouillabaisse. All were excellent! Dessert was necessary, so we had chocolate mousse and cheesecake, as well as cappuccino. I can heartily recommend everything.",
+                "datePublished": "2016-08-08"
+            },
+            {
+                "reviewId": "wCrCTBSUux3tuHenp73j1Q",
+                "author": "Nick H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Outstanding!  We both had steak and fries with salad and half a bottle of the house red, all of which was delicious.  The cheesecake and crème brulee for dessert were both excellent. the service was impeccable throughout and the whole meal was very good value for money indeed.  I can't rate it too highly.  We'll definitely be back!",
+                "datePublished": "2016-09-06"
+            },
+            {
+                "reviewId": "s0lvnvNMyVq2FxWXiperMw",
+                "author": "Nida K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A cozy restaurant with fresh ingredients with a homecooked touch. I actually felt as if I was sitting in a house being served by my friend's family. The food is good, but waiting almost an hour to have it put in front of you was tough. I had a group lunch and we were on a tight schedule so we promptly ordered at noon hoping to be done before 1PM since we had class. We all ordered different things around the table and were served our appetizers while we waited for main courses. As we were sitting there, I could tell we were getting antsy and constantly checking the time because we knew we were running out and we were going to be late. Not really sure why it took nearly an hour for the food to come out, but I think it's something they should work on for people on a time crunch during lunch time.\nWhen it comes down to the food, it was nice. Not exactly out of this world amazing, but it was definitely a nice light meal. The service was good since we were the only ones in the restaurant, but my only gripe is the long wait for the food to arrive at the table. Maybe I'll be back, but not when I'm in a hurry.",
+                "datePublished": "2013-04-13"
+            }
+        ]
+    },
+    "60": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "xk7hcsIeAPWd9Kt4XfZliw",
+                "author": "Edwin T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came across this very nice and cozy place. We made a reservation for dinner. It was sooooooo worth it.\nFirst- The service was very nice and helpful. The food came quick even though there were a lot of people. \nSecond- The most important part... the food!! It was excellent. Its French cousine. I got the ceasar salad. It didnt have the ceasar dressing but they had something better, balsamic vinegar dressing. It was delicious. My mom got the escargot. She said it was good. \n For the main course, i got the beef burger with a mini-salad and fries as a side dish. The patty was cooked to perfection and the fries were not greasy at all.\nWe also got the cheesecake, and it was good. \n Overall, I would come back.",
+                "datePublished": "2015-08-09"
+            },
+            {
+                "reviewId": "VdHofPPyvHpf0zvKloGfww",
+                "author": "Christine G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Heaven by way of mussels and lamb shanks. I just stumbled upon this place thanks to yelp. Cozy French casual restaurant in Bloomsbury. Good value for gourmet food and the staff 's really attentive and nice. I will come back!!",
+                "datePublished": "2015-07-31"
+            },
+            {
+                "reviewId": "bQjd-CQRihWPNZfcZxgJ4Q",
+                "author": "Justin S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food and drinks at a reasonable price. Service was a bit slow, but other than that would highly recommend!",
+                "datePublished": "2017-02-24"
+            },
+            {
+                "reviewId": "VY31QUNg0f6i3iOswgypmA",
+                "author": "Sam P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Went for dinner before a show. Surprisingly, there was plenty of availability on a Friday night. The staff was friendly, the 50's French music added to the ambiance, but the food was only slightly above average and the service took a bit too long given our theater time constraints. The best part, though, was the reasonably priced meal.",
+                "datePublished": "2016-07-09"
+            },
+            {
+                "reviewId": "_PJqLLNwtkidePcuG4Th8w",
+                "author": "Anya C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Really good Rillettes, Foie Gras, duck, rib eye, Creme brûlée",
+                "datePublished": "2013-07-15"
+            },
+            {
+                "reviewId": "NXNF89lgxlT2osnwxCDh_Q",
+                "author": "Adrian S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I thought i'd walked into the wrong restaurant.  Be warned this place is not classy or refined ...its rustic to put it nicely. Further perhaps because it was 5:30pm Tuesday, the place was empty except for 5 senior couples.  This part i didn't mind but a 6th old couple walked in and decided that from the 10 empty tables they wanted to sit next to us ...and then proceeded to stare and eavesdrop for the next 30mts whilst we rapidly finished our meal.\nAnyway to backtrack a little, when we sat down were were given 4 menus including the price fix menu, pre-theater menu, al la carte menu and drinks menu.   After consulting yelp and foursquare i decided on the goats cheese and the lambshank and the wife got the sea bass.  The food was excellent and made up for the above shortcomings.  The prices were very good given we were just outside convent garden tourist-ville.  We will definitely go back...but maybe after 7pm next time to try a different vibe!",
+                "datePublished": "2013-08-28"
+            },
+            {
+                "reviewId": "CsJrw1zoZaIjC8OfjbSpXw",
+                "author": "Kristen C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Bijoux is the best way to describe this gem serving hearty food in cozy, slightly eccentric decor. It almost seems a bit out of place on the bustling New Oxford Street, yet step inside and you are miles away from the the noise and chaos of the city. This Bloomsbury neighbourhood favourite is a bit a France in the heart of the city. \nThe traditional French bistro menu is simple food cooked very well. And at very reasonable prices! As the locals seem to know. Our mid week supper felt like a feast here.",
+                "datePublished": "2013-06-23"
+            },
+            {
+                "reviewId": "_JC_uL5sCBXDU0dqL_u0cQ",
+                "author": "Andrew K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "First things first: the food is glorious. It's also reasonably priced, especially considering the quality. \nI had my dinner outside, so I could watch the passersby and enjoy a cigar. The interaction was almost as good as the meal. I was asked for directions and change. Thank goodness the server was well versed in local geography and blessed with patience, as I was essentially useless for all queries, save those regarding my cigar. I was scolded by - I think - a Cuban expatriate for smoking Castro's cigars. Just for the record, it's Honduran. \nThe half-carafe of  house wine is better than passable, but not exceptional. The service, while relaxed and non-hurried is friendly and enjoyable. \nI don't post nearly enough recommendations here on Yelp, but here ya go: I recommend Savoir Faire. Oh, and the free wifi is nice. It is, in fact part of the reason you are reading these bon mots. Bon appetite!",
+                "datePublished": "2013-09-01"
+            },
+            {
+                "reviewId": "4Quk4ddS0Jf62sQeAjs24Q",
+                "author": "R G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food was good, but the service was really slow. \nThere were two reasons for this, it was only the second day of one of the servers, and we were one of the two couples that were downstairs, and I think it was a little of out of site, out of mind.",
+                "datePublished": "2015-03-18"
+            },
+            {
+                "reviewId": "CkT31pNvSCsF9jOyiALoTA",
+                "author": "Alan S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My mother and grandmother were visiting London and I was tasked with finding a place near them for a nice meal on a Friday evening. \nI am pleased to say that Savoir Faire ticked all the boxes we needed for this situation: we needed decent food but not too expensive, with a decent atmosphere but not too loud, walking distance from Russell square, and able to take booking at short notice. We tried a few Italian places near by, but they were not picking up the phone. Their loss, as Savoir Faire allowed us to book online with very little notice; and all four members of our party enjoyed ourselves.\nThe menus were printed on a couple of sheets of A4, in about as slapdash a fashion as you could muster, and then stapled together. But that didn't detract from the selection of great sounding French dishes. The selection was a little modest, but it did have a \"light menu\" of smaller plates and salads. Ideal for the varied crowd at our table.\nFrom the photos I expected quite small but beautifully executed gourmet French dishes, but in actuality it was more classic cooking at affordable prices. That is no bad thing: I cannot resist a beef bourguignon and this one did not disappoint. Flavoursome beef just melted in the mouth alongside creamy mash and rich sauce. Even the most basic of seasonal vegetables; carrots and broccoli, were lovely. Everyone else seemed very pleased with their lamb shank, chicken salad, and duck breast.\nThe service was great too; numerous waitresses were very attentive, swift with drinks, and then left us to chatter long after our last course was finished. The freedom to relax and finish drinks after a meal is a real plus on any venue, I absolutely detest being hurried out of the door or hassled for the bill.\nThe menu as I mentioned was a little on the small side from what I'd expect, but it was by no means bad, and everything we ordered food-wise was excellent. The only real complaint I could give was that the Irish coffee I had afterwards was pretty foul - but I'm not going to get on the back of French restaurant too much for this mistake.\nIf you like classic French dishes, a good atmosphere in a relatively small place, and a good bite to eat at short notice, you should definitely pop in here.",
+                "datePublished": "2014-05-12"
+            },
+            {
+                "reviewId": "rwLpD4batGV9tfkkImdBgw",
+                "author": "Martin N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I wouldn't go as far as calling it French, but a interesting menu none the less. \nThe menu is printed on a single piece of paper and therefore limited. This was my first time here, but I'm thinking they change it often. Regardless I like small menu's, because - as we proved again this evening - it normally means everything is freshly made\nEverything we ordered was fantastic and not to expensive either. You can get away with a 2 course meal for £20",
+                "datePublished": "2015-10-30"
+            },
+            {
+                "reviewId": "rEnQDBUYdXgJ5FjpTYn4_Q",
+                "author": "Gary R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We enjoyed our dinners between the Caesar salad and French onion soup.  Then we had salmon and beef bourginon that were excellent.   Service was excellent   They gave us time between courses.  We would highly recommend this restaurant.  We came without a reservation and they were very accommodating on a Saturday night",
+                "datePublished": "2016-04-02"
+            },
+            {
+                "reviewId": "ZBYEJrp7J1Knq6UyzGNeCA",
+                "author": "J N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Well when the kids like the foie gras you know you're off to a great start!  \nExcellent meal--we had the sea bass, steak, chicken and mussels and everyone thought it was yummy. \nOur server even helped avoid a meltdown from our youngest with a quick discussion about drink choices. Well done!\nI would highly recommend this place.",
+                "datePublished": "2014-08-28"
+            },
+            {
+                "reviewId": "p0zNLRKQflqfkvOxpnXD2g",
+                "author": "Sarah B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've just eaten a fantastic traditional beef bourguignon in this restaurant... It was server with vegetables and \"purée\". Reallly good! I'll come back here asap!",
+                "datePublished": "2014-09-01"
+            },
+            {
+                "reviewId": "ec7hRfFUbCk0ssQqNOe5dQ",
+                "author": "Tony J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing! The baked mussels were incredible, you may need extra bread to soak up all the goodness. The duck with cranberry was cooked perfectly.  The clementine compote was so flavorful and sticky toffee pudding with whiskey creme sauce was the perfect way to end the meal.",
+                "datePublished": "2015-12-27"
+            },
+            {
+                "reviewId": "OR_RJ9QXXN7GaQ8p8i9RSg",
+                "author": "Soigné L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is great! service is impeccable and the food is made with precision and care. ordered the liver and beef daube and it was excellent. perfectly cooked and presented. also order the creme brule and choclate mousse. All desserts are made fresh daily!",
+                "datePublished": "2014-11-21"
+            },
+            {
+                "reviewId": "07DdCd5tZVCbkaDBNvK2Fw",
+                "author": "Sarcaswit Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This review covers two different visits:\n1- After our exhausting British museum visit one afternoon, my friend and I stumbled upon this tiny restaurant and recalling that it had been packed the previous night we figured it would be a good place for a much needed dose of caffeine and sweets.  At the time we were the only customers there.  Turns out they have the best latte and Banoffee pie in town, and with a French name you'd expect nothing less- except when we got their business card we noticed that the owner is actually Persian!  Classic switcheroo!  Service was also good (by one of the owners I believe).  There we rested like weary travelers of the days of yore, connected to their free wi-fi, snapped a pic or two, and eventually headed out, highly satisfied with our experience.   4 stars\n2- We returned a few days later, in the evening this time- hoping that the delicious offering on our previous visit was a prelude to amazing things to come on the dinner front.  We made a reservation and when we showed up the place was packed, which we took as a good sign, but there was an eerie tension in the air - most customers either looked irritated or were actually complaining about something - it looked as if many had been waiting for a really long time for their food to arrive.  This time, our waitress had a bit of an attitude problem, which for a small family run restaurant was a little unusual, but luckily wine came to our rescue, there was no great delay with our food and when it did arrive, while not mind-blowing, was above average.  The place definitely has an 'intimate' setting, not necessarily in the romantic sense- well perhaps that too- but it definitely feels cramped when busy, so be prepared to get fairly up close and personal with your neighbour.  As a result, it doesn't score highly for me on the comfort front.  3 stars\np.s.  nowhere is this size inconvenience more... ummm... inconvenient, than the shockingly small bathroom - absolutely horrible- it's midget sized I tell ya!  Avoid a call of nature at all costs - or perhaps try it to fully appreciate my horror!  \nOverall 3.5 stars but since we can't do halves, I'll round it up to 4.",
+                "datePublished": "2014-01-18"
+            },
+            {
+                "reviewId": "s43vV8bGypdEElEmn5Po6A",
+                "author": "Peter S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Savoir Faire is a great value French restaurant that remains competitive, despite the emergence of superior alternatives elsewhere. I've been here three times now for my work's Christmas lunch over the years (including 2013) and have been happy each time. \nSavoir Faire's chief strength is its impressive value and quality for the prices charged. Sure, it's been overhauled by Le Mercury on Upper Street, but it's nevertheless much better than most restaurants in its price range. Meat is tender, vegetables well-cooked and desserts satisfying. Service is friendly and accommodating, to the point of allowing us to this year stay a little longer to indulge in some post-lunch quiz action.\nHere's to Christmas 2014!",
+                "datePublished": "2013-12-31"
+            },
+            {
+                "reviewId": "7ko0eUxD9tzG-y4bdfDAKA",
+                "author": "Laura Kate S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Completely unfancy in setting and presentation, but delicious and lush in taste! The menu is amusing in that it's 2 photocopied papers stapled back-to-back. Odd to say the least. The dishes are offered as a set menu or with a few a la carte offerings.\nThe food was just yummy. The rest of my group had hot dishes, but I went for the unique sounding chicken salad. It was the nicest salad I think I've ever had! So many fresh and well-prepared ingredients and beautifully char-grilled chicken to top. The creme brulee wasn't the best ever, but it was tasty (and I can rarely resist a creme brulee)!  My husband had the beef bourguignon and raved about it. \nA quirky little place, but one I would be more than happy to visit again!",
+                "datePublished": "2014-05-24"
+            },
+            {
+                "reviewId": "vhVLI8geGXlOREpFlYVHRw",
+                "author": "Stephanie F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Loved it.  Thought the food was completely reasonably priced for the quality of the meal!  Also, was nice to have a break from fried food or Italian.  \nIt was a comfortable place to eat, and was in high demand.  Make a reservation!!",
+                "datePublished": "2014-08-16"
+            }
+        ]
+    },
+    "80": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "b6__J-MqfA_Tgxkd_p7e_w",
+                "author": "Valentin G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "After reading all the great reviews about this restaurant we decided to give it a go recently. Overall an ok experience, but nothing really that stood out, hence we probably won't be going back.\nSo to the details... As we arrived we were seated downstairs and the whole area smells of a cellar or a damp basement, which isn't very pleasant but you quickly get used to it. One of the reviewers mentioned images of 'naked ladies' plastering the walls, which we've seen none of - a bit disappointing:)\nThe service was very friendly and attentive, but the food took forever to arrive, so make sure that you allocate plenty of time if you decide to visit. We ordered a french wine (unfortunately I don't remember the name of it), which was recommended as 'owners favourite' and it was in fact quite nice and affordable.\nThe dishes are quite big, so even the most demanding stomachs shouldn't be left disappointed, while those with smaller tummies make sure to NOT eat the bread that's brought in at the start, I know it's fresh, with a crunchy crust and tasty, but otherwise you won't be able to finish your dishes:) \nI had lamb following recommendations of numerous reviewers and my wife had duck. Both dishes were quite nice, but they were very much like home-cooked food I haven't felt anything exquisite about them.\nSo to sum up, the service is great, food takes a while to arrive, the dishes are more like home-cooked rather than French exquisite cuisine.",
+                "datePublished": "2014-04-21"
+            },
+            {
+                "reviewId": "UvqgcrbBJO9QSGOE65VEiA",
+                "author": "Cheryl C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wonderful lunch after a visit to the British Museum.  Reasonable prices and delicious. Very kind people and accommodating to my children. Eat here!",
+                "datePublished": "2016-08-04"
+            },
+            {
+                "reviewId": "o8WB5us9rDWUTGSk_MiG0g",
+                "author": "Steve C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Was looking for somewhere near the British Museum to get an early dinner, and came here because it had so many good reviews on Yelp. Thanks, Yelp.\nThe prices are very reasonable for central London and the food was great, with generous portions (I went for the mussels and then the steak, two courses for £21). Add what turned out to be a very nice bottle of wine for £20 and it was about £70 for the two of us. We ended up staying much longer than planned, and never got the feeling we were being chivvied out of the place. I'd definitely go back here if I was in town, and I'd recommend it to others too.",
+                "datePublished": "2013-03-15"
+            },
+            {
+                "reviewId": "e25ZzCCps0W0nWXFg_nzLA",
+                "author": "Joyce T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We were in London for  week and staying in a hotel near the British museum. There were not a lot of choices for dinner within walking distance so we searched YELP for help and found this one. It was just down the street from the museum so we called to book a table and they had one for us.. We strolled over and were promptly seated at a charming table by the window. It was a relaxing atmosphere and the owners were wonderful hosts making sure we were well taken care of. I had the pork belly for dinner and it was beautifully crisp on the outside and succulent on the inside. Yum! The best meal during our stay.",
+                "datePublished": "2015-01-29"
+            },
+            {
+                "reviewId": "0KtqRuO60g5B7btBM_VWHw",
+                "author": "L.S. M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We had lunch here after a visit to the British Museum.  We are foodies who have visited Paris, and the fare here is delicious.  We enjoyed the Roast Beef and Brie sandwich, the roasted Chicken with Avocado and Tarragon Aioli sandwich, and the Chicken Caesar Salad.  All three were delicious, as was our Crème Brulee and Mousse au Chocolat for dessert.  House white wine was quite good.  Prices were very reasonable for a London restaurant.  Highly recommended.",
+                "datePublished": "2016-07-26"
+            },
+            {
+                "reviewId": "2Fkus13sPnvE0NTnt2StTw",
+                "author": "Namita A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yelpers. you did not steer me wrong!! Honestly, I am so happy with this place and this is coming from someone who normally isnt a huge fan of french food.  \na) Service:  We came in on a Saturday night with no reservations and were greeted with a friendly smile by a lovely lady.  She sat us within 5 minutes and actually moved our seats around to make us more comfortable.\nb) Environment: This place is super cute without being pretentious with smaller tables, which I like so you can actually have a good private conversation. \nc) Food: Exceptional.  You can find as healthy or unhealthy food as you want, with lighter food options ranging from salads and bouillabaise (which incidentally I ordered), to proper  two and three course meals. I know it silly, but we actually  had warm crusty bread, which is one of my favorite things, and they DIDNT charge us -- SHOCKING!!  My husband had the baked goat cheese and tapenade and steak as a main.  My friend had the goose rillette with duck magret.  Everyone gobbled down their meals happily.  We had a carafe of the house red and followed by courvoisier and creme brulee, which I have to say delicious. \nd) Value:  All of the above was around 90 pounds. What a great deal for a VERY expensive city :)  \nI will absolutely be here again with a delicious gourmet meal with beautiful presentation without the price tag.",
+                "datePublished": "2013-01-28"
+            },
+            {
+                "reviewId": "3nizRXkok5pmlLM0DK4JPw",
+                "author": "Mike R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "OK, but I really didn't understand the 5 star reviews for this place. Oddly decorated, slow service and very English French food... Meh",
+                "datePublished": "2015-04-16"
+            },
+            {
+                "reviewId": "VHVk2yhK06DDBvtlJsCyhA",
+                "author": "Natasha B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Located in the heart of London's theatre district, Savoir Faire stands out for its warm and friendly atmosphere. A nice change from the abundance of large chains in London. The quirky decor is charming. I especially liked the ceiling. The food is delicious, and you can't complain about the portions. They are huge! The lamb shank was succulent with a delicious sauce, while my partner loved the rillette starter. I would recommend you go.",
+                "datePublished": "2014-12-10"
+            },
+            {
+                "reviewId": "jMq1ZJDu01TPsTneV8q__g",
+                "author": "Ada S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "French dining at its best.  The ambiance is casual and laid back, the food is fantastic and the service is great.  This is a must visit and easy to get to (especially after a visit to the British museum) I had one of the beef plates which was delicious. Their set menu is excellent value. The only thing is that it can feel a bit crowded and then around 9 ish the downstairs can get empty and you feel like it is midnight, so try to get a table upstairs.",
+                "datePublished": "2016-03-03"
+            },
+            {
+                "reviewId": "dBuMxFUEb1sOvGJ6ISPg4g",
+                "author": "Claudia M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The food tasted homemade and delishous. We sat by the window which was nice - you could watch the street and the people outside. For me the atmosphere was quite right - this place is 20 years old and has been in private hands - a good sign with so many chains and cooperations popping up in this neighbourhood. Service was very friendly and good. I can totally recommend this place and would go back - maybe even will on my next visit in London.",
+                "datePublished": "2014-11-25"
+            },
+            {
+                "reviewId": "v8gj4SnXItJgUFLZL5aKxw",
+                "author": "Kate S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Two thing I remember was their lamb and mussel served in escargot pan.\nThey were so good.\nThe service was good. \nFood was good and not pricy.\nService was fast.\nBread they served was yummy.\nOverall it was great experience and I am so glad I picked this place.\nIf I ever go back to London, yes I want to go back:)",
+                "datePublished": "2013-07-06"
+            },
+            {
+                "reviewId": "HYTJAJtOpZ1O1SOA6RpNZg",
+                "author": "Dirk H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very nice and cost atmosphere with very good service. Had the lamb and it was very good. A place I will go back.",
+                "datePublished": "2015-06-29"
+            },
+            {
+                "reviewId": "NUW9RU9Cx2GqcXJLMjtFcw",
+                "author": "Alan J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Service was welcoming, helpful and prompt. As they suggest on their website, their emphasis is on value and quality. This is honest cooking from honest ingredients and served well, and it is not a fancy place. I mean to compliment them by saying their food was like \"grandma's good Sunday cooking\". We each had goose rilletes, then Burgundian beef stew and lamb shank both with creamy mashed potatoes, carrots and broccoli. The wine we selected was adequate, and priced well. The ambience is humble but clean and quiet enough to converse. Overall very satisfied.",
+                "datePublished": "2016-05-28"
+            },
+            {
+                "reviewId": "0klMmoHBWzMhRe4UPY3daw",
+                "author": "Hilary H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came here for lunch after the day spent at the British Museum. The food is SPECTACULAR.  The service attentive without being hurried. The wait staff gladly made recommendations for wine that suited a variety of tastes.  The meal...from starter to coffee for dessert was spectacular!  I had the bouillabaisse and my daughter had the lamb shank.  We had goat cheese starter and split a bottle of the French pinot noir.  Will definitely try and return during our stay in London.",
+                "datePublished": "2014-11-19"
+            },
+            {
+                "reviewId": "JPNeVuWoL5zQ8NKth-oyHw",
+                "author": "Tom G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We just finished a dinner at Savoir Faire and had a great time! It's tiny,completely authentic and the food is well cooked. We had the beef bourguignon which was amazing. Rosted bell peper soup was interesting but wouldn't order it again. Small place and super cozy for a wintery evening.",
+                "datePublished": "2014-12-28"
+            },
+            {
+                "reviewId": "Qzr-q9uv8QEGpeyykMI4fw",
+                "author": "Qype User\n sal0r0…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you're looking\nfor a better restaurant with the same pricing but better customer service and\nfood come to Savoir Faire, hopefully you are fortunate and have a better\nexperience and itis all worth visiting. The\nambiance is nice and you should come if you like looking adifferent French\nplaces.The prices here are very reasonable and the food was great! The food is\nalways top of the lineand in affordable prices.",
+                "datePublished": "2013-07-19"
+            },
+            {
+                "reviewId": "1TpS1lk--htJDefynd8YQQ",
+                "author": "MaryAnn Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We ended up stopping in here compliments of the Yelp app, which seldom steers us wrong. I'm glad we listened. It was affordable and delicious and the atmosphere was adorable. We felt comfortable just hanging out for a long while and enjoying a leisurely Sunday meal with friends. \nI had high hopes for the fried goat's cheese. It was good, but I'd give it a pass next time. Also, two people at the table ordered ceasar salads and said they tasted oddly salty. Other than those complaints, everything at the table got rave reviews from starters to mains and desserts. And the wine! Delicious. \nFor location, good food, and price point, it's definitely a gem that we'd go back to anytime.",
+                "datePublished": "2012-07-02"
+            },
+            {
+                "reviewId": "CnNLVaQFW1PcHCU6bBkx8g",
+                "author": "Weide Z.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place sits on the corner of a narrow but busy London three-street intersection. If you possibly can, get a seat on the street level floor in front of the picture window that looks out on that intersection, which it seems like all of London crosses thru.. It's like sitting in front of a wall-high diorama, one that always changes, with big red double-deckers rumbling thru one second, then taxi-cabs in the opposite direction the next, then more vehicles coming at you from the street opposite your corner and curving away the next, and then these bicyclist commuters pumping fearlessly away alongside these guys in this very narrow space.. and then pedestrians scurrying past you on the sidewalk..\nHey Yelp.. you led us right! Based on Yelp reviews, we dropped in here after exhausting ourselves with an afternoon in the British Museum. Like what everyone else says, it was a treat.. the *best* meal we had during our vacation (but.. well.. not that much competition really.. people are not kidding when they complain about British cuisine), reasonable prices (because we dropped in early, around 6 they gave us a special, lower-priced \"Pre-show\" menu, I guess with smaller portions and one course options that suited us just fine). Enjoyed our meal and wine and just sitting in front of that damn fine window looking at the world come and go so much we ended up ordering dessert and coffee.. just to stay a little longer.",
+                "datePublished": "2009-07-13"
+            },
+            {
+                "reviewId": "jGRZ_I5HFkWfNTBCvEe87w",
+                "author": "Scott N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Felt like a bit of Paris dropped in the middle of London. We were looking for an authentic French meal and found it at Savoir Faire. The service was excellent, food selection to our liking. The prices were reasonable and we were able to get a reservation quickly.  The house wine went well with the meal. I will return to this restaurant during my next visit to London.",
+                "datePublished": "2014-09-18"
+            },
+            {
+                "reviewId": "zyoDl592QuYR8l5LiyEUwQ",
+                "author": "Carolyn P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We visited Savoir Faire recently, while staying in London and it was a wonderful experience. The prices are quite reasonable, whether you order from the pre-theatre or la carte menu. We started with salads and tomato soup, and continued with sirloin steak and salmon.  Everything was perfectly prepared, nicely presented. Dessert was chocolate mousse, and the lightest cheesecake I have ever tasted! Even the coffee was perfect. For us, it was a great way to cap off a vacation.",
+                "datePublished": "2015-11-26"
+            }
+        ]
+    },
+    "100": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "O2YjvPcg2vbo6RWq5EN4eg",
+                "author": "Richard G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Just outside the much more expensive theatre district, this family-run little eaterie is a delight. My wife and I come here quite frequently for special occasions. \nThe service is friendly but unobtrusive; the food is simply gorgeous (not too much and not too little--so you can just about squeeze in three courses); the house red (available in 4 carafe sizes) is eminently quaffable; and the proprietor, an ex-airline pilot, is friendly and attentive. It is the perfect place to sit and eat and talk as you watch the traffic go by on a rainy evening.\nThe mussels are always worth having; last time we tried something different though, and the asparagus starter was amazing. The steak entrecôte is great.",
+                "datePublished": "2014-12-31"
+            },
+            {
+                "reviewId": "olZgFhodIHgDcehsq0NrVw",
+                "author": "Elizabeth R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing food. Amazing service. I made a reservation for here for my birthday with several guests and they were incredibly accommodating to my unknown exact number of guests and need to pre-order so we could get in & out in 1 hr to make at 7:30 show. They also had great wine recommendations and delicious, interesting food.",
+                "datePublished": "2014-11-23"
+            },
+            {
+                "reviewId": "-bGbIclWBu9h0p0BM_imJg",
+                "author": "Rob H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Cute bistro on New Oxford Street with a great value dinner menu (just under £20 for two courses, £15.50 for an entrecote steak, frites and sald).  The interior is pretty quirky and it definitely exudes that family-run feeling that few places in London possess these days.\nI went for the entrecote option (rare) - I thought it was ok, although noticeably tough.  The flavour was decent though, and the chips were good.  However, whilst eating, I just couldn't help but think of Le Mercury in Angel which has a similar MO and is simply fantastic (and cheaper).  However, I will return here at some point and try some of the other dishes on the menu as I'm aware that the entrecote item may not be treated with the same respect as the other dishes.  Update forthcoming...",
+                "datePublished": "2012-05-01"
+            },
+            {
+                "reviewId": "1qYCe5oKrsVIjonTfIuafQ",
+                "author": "JM F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Euh, zis is simply my canteen when I am in London. As good as home. Ok nearly as good as home (in case my wife reads this), always better than if it's me cooking at home. You can't go wrong with the Boeuf Bourguignon or the Lamb Shank. Zey've added a fig appetiser which is worth trying. Every dish is tastefully executed and presented. Deserts not quite as good but if in addition zey had a patisserie chef zey'd have to raise ze price, so happy to keep it as it is. Done my best to make it clear zis review is coming from a Frenchman...",
+                "datePublished": "2015-09-29"
+            },
+            {
+                "reviewId": "rGEJ6UpZ6gd5zE7H6MoJwg",
+                "author": "Carisa W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We were at British museum and we were looking for a place to eat. We notice there was Pret A Manger everywhere but we wanted something unique in London. Luckily yelpers recommend this place La Bistro Savoir Faire because it turned out to be a hidden gem. The curb appeal definitely does not represent the food they serve. To be honest I probably wouldn't eat at this restaurant without the yelp reviews. Their menu is very simple. The guys had the delicious burger with fries which was huge and cooked just right. The girls had lasagna that came with the best seafood soup. If only I had the recipe! I was told London doesn't have good food but Savoir Faire was delicious.",
+                "datePublished": "2014-05-30"
+            },
+            {
+                "reviewId": "Y2OTjWtHHUlf025IS87Zww",
+                "author": "Emily P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Had dessert here twice while visiting London. Best lemon tart!",
+                "datePublished": "2015-10-15"
+            },
+            {
+                "reviewId": "zyMdsnaqCJyeag4ZHnnlvQ",
+                "author": "S R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Had a really nice dinner there.\nThe service was very friendly and attentive. My only gripe is that the French style of steak is thin and slightly tough compared with the meat in the US. But the sauce it was served with tasted great.",
+                "datePublished": "2011-08-18"
+            },
+            {
+                "reviewId": "zmBZc_h0iM6KeexOvhqEuA",
+                "author": "Rich R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "So we were at the British Museum and looked at Yelp for something close and this place had 4 stars with 90 reviews so we went and boy are we glad we did.  The foie gras was top notch and for dinner the beef borgunone (spell check does not work) was perfect with the fat rendered just right.  The duck was probably great for a non duck conniseure, but it is one of my favorite dishes so i judge harshly if not exactly right.  Overall the writing on the ceiling is entertaining and the atmosphere is laid back and comfortable, the staff were very polite and as you can see our experience is rated 5 stars.\nI definitely suggest trying this place, if we are in the area and in the mood for French we will be back, most likely the next time we are at the museum.",
+                "datePublished": "2014-04-26"
+            },
+            {
+                "reviewId": "05l_PKcnKqFo6_ODGAlN3A",
+                "author": "Jade C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Perhaps one of the worst things about Yelp is the expectations. I was expecting a lot out of this place from all the reviews, so I brought my sister here. I can't seem to remember what she ordered, but I had the escargot and a lamb dish. Both were decent, but were really not that great. The lamb was too chewy and the escargot was also lacking some hit-the-spot Frenchy goodness. \nNonetheless, it is nicely located in central London and has a nice restaurant setting. I guess you could give it a try if you're itchin' for French food within the area, but personally, I wouldn't itch to go back here again.\nI also might want to add how funny it was when my (also American) sister asked for a glass of iced tea. The response she received was a facial expression which read \"what the hell? ICED tea?!,\" which obviously came from the English waitress who couldn't understand why on earth one would want their tea ICE COLD. The lack of frigidity to my drinks was definitely something I had to get used to whilst living in London :)",
+                "datePublished": "2011-01-25"
+            },
+            {
+                "reviewId": "5MMEZE8DqNZ4RemlT9ZCag",
+                "author": "John C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We went there on the very strong recommendation from our hotel as \"the place to go\" before heading off to the theater. How right they were.\nFirst, the food. It was superbly prepared using obviously fresh ingrediants. Presentation was very nicely done. This is not some big chain establishment with a million things on the menu but a small, family run place that has a selection that is both authentic and just plain delicious. \nAs mentioned, the restaurant is not some huge chain so reservations are in order. We had a small table with a setting that my wife and I would call romantic. This is the kind of place you go if you want an authentic bistro experience. We might not have gone in had we not known about it from the hotel but there is a reason they have a steady stream of regulars.\nAs for the people, our service was top notch and very attentive. Max, the owner, spent time chatting with us. Leaving aside that he is fascinating in his own right, that he visited with us is and wanted to make sure they were meeting our expectations, which they far exceeded, is a reflection of how we found everyone there to be. Our server was especially helpful for our dinner selections and she was very attentive during the evening.\nI think it simple to sum up our experience. If you want a large chain menu and food, don't go here. If you want superb food with obviously hand picked fresh ingredients and expertly prepared dishes, don't go anywhere else. Max is terrific, the staff is terrific and our total experience was simply perfect. This unmistakably is a gem.",
+                "datePublished": "2014-08-29"
+            },
+            {
+                "reviewId": "6QUxfOzvSzZ2KoOUO83EPA",
+                "author": "Ryan L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wonderful!  This place is pretty ideal for a romantic dinner for two.  The food is always top-notch while the prices aren't crazy.  The service can be a bit smug occasion but if you feel like a nice long dinner with lots of wine then this is a great place to go.",
+                "datePublished": "2013-02-18"
+            },
+            {
+                "reviewId": "dNHAu8VgzvE92mplaWomfg",
+                "author": "Benson M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We ate a lovely meal here on a Sunday evening. The food was delicious and original. The service, contrary to some other reviews, was prompt. I suspect that we were served by one of the owners, who was charming. In London, at this price, a gem.",
+                "datePublished": "2014-07-07"
+            },
+            {
+                "reviewId": "5mNaBGqFMkAogYJSELrJ8g",
+                "author": "John S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Hmm, maybe I ordered the wrong thing. The chicken, Pimms, and the staff were fine, maybe I was a little too American or something. The upstairs was very pleasant, and the downstairs looked like a cool place to hang out if you had a large group. Had some Pernod because it felt like the right thing to do. Will def go back but not really in a hurry. Booking via the OpenTable widget above was lovely.",
+                "datePublished": "2013-10-29"
+            },
+            {
+                "reviewId": "sHzXtXfmwFpj2fmd9e0L1Q",
+                "author": "Bruce C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Savoir Fair is a good place to eat if you are near the British Museum.  The atmosphere is OK but dated with red plastic tablecloths and stark un-curtained windows.  The food is good and the prices are very reasonable for London.  A nice wine list but the house wine by the glass or carafe was very drinkable.  A choice of a two or three course meal was made easy for me.  Good starters, solid entree and some great desserts.  They had the best (strongest) coffee I had in \nLondon.at\n a restaurant.  I would go back again",
+                "datePublished": "2014-01-01"
+            },
+            {
+                "reviewId": "LU5nA8yWEw3hYqEBjjRCpg",
+                "author": "Chris T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "There's an honesty about this French restaurant that is instantly noticed upon entering the tightly packed dining space. You'll be warmly welcomed, but without the sickly sweet cloying of some restaurants. Service is matter of fact and polite by staff who are obviously comfortable within the relaxed atmosphere. I can only speak for one dish on the menu, a dish that shall not be forgotten any time soon, the beef bourguignon. Truely a comforting experience, Heartily recommended.",
+                "datePublished": "2012-10-16"
+            },
+            {
+                "reviewId": "3ImcudeV9oQtL1-cn3YU5A",
+                "author": "Liu Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Dessert is great, meals are cheaper in lunch time.",
+                "datePublished": "2013-11-24"
+            },
+            {
+                "reviewId": "mLYG6Br_lma0JYgHLnkEvA",
+                "author": "Flavia O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Unbelievably delicious appetizer and entree (I had duck as an entree), but the lime dessert pie was not good at all. Disregarding the dessert, the restaurant is lovely, service is amazing and multilingual, and food is delicious!",
+                "datePublished": "2013-03-10"
+            },
+            {
+                "reviewId": "Khgf5BWSr1uUdagBUfFfxw",
+                "author": "Richard B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Check your bill carefully, and count your change!   Came on at 17:30, had a nice meal, and obviously had to get going for a show, I had my cash out.  Gave us a bill that was 11£ to much, over charge was on a glass of wine.   Could have been a simple error but three servers were hunched over the area where my bill was being prepared.  There were only three tables of diners in the place.",
+                "datePublished": "2012-09-19"
+            },
+            {
+                "reviewId": "2vkCTeEJsBEkWRPq6hlJDw",
+                "author": "Cecilia Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A sweet little French bistro in the heart of London offering a la carte and 2-course dinners. The foie gras was great, the duck succulent, and for dessert, sticky toffee pudding (not so French, but that's the beauty of being in London). Everything was reasonably priced, especially the house wine. My only complaint is that the pudding was a little dry.",
+                "datePublished": "2012-03-26"
+            },
+            {
+                "reviewId": "rQPWt6kmtTl032wXkDXWOQ",
+                "author": "Hana V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you're looking for lovely gourmet French cuisine in a romantic little restaurant oozing with character, look no further than this surprisingly affordable central London gem.  I've been there three times now - it's a favourite romantic dinner date for my boyfriend and me - and will go there many more times, whenever I can come up with a good excuse!  One of the things I love the most is that even though the food is excellent and French, the atmosphere manages to be romantic without being pretentious.  The waiters keep an eye on you without making you feel like an uncultured heathen.  My biggest problem with it is there are always more things on the menu that I want than I can possibly consume!",
+                "datePublished": "2012-11-22"
+            }
+        ]
+    },
+    "120": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "0BSj57aW0_zFYi3dnorQ-A",
+                "author": "Michael O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Excellent as always. My 15 year old son ordered a hamburger. Even it was excellent.",
+                "datePublished": "2013-04-02"
+            },
+            {
+                "reviewId": "dVvCIAKkH8ayncRkXT__8A",
+                "author": "Wine L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food! Went there with family and we all enjoyed our food. Waitress was nice enough to give us the special even though time was up. It is quite refreshing to eat European portion size. It is a few blocks away from touristic area, so that is another plus.",
+                "datePublished": "2012-03-22"
+            },
+            {
+                "reviewId": "FZr_AKzrlcuOF1SnrhwcqQ",
+                "author": "Jeremy D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very good place with authentic French cuisine! Highly recommended *****",
+                "datePublished": "2015-04-01"
+            },
+            {
+                "reviewId": "kSt7l9EFZcTSqMNHqBah0w",
+                "author": "Rodrigo B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cozy French place with good service and tasty food.",
+                "datePublished": "2013-03-03"
+            },
+            {
+                "reviewId": "fGGXMSU6W1hqCypJ3iNJ9g",
+                "author": "Carol J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great food, nice service, small bistro and very reasonably priced. Not a fast place to eat, but have a glass of wine while you wait. The pan fried Foie Gras was yummy.",
+                "datePublished": "2013-06-05"
+            },
+            {
+                "reviewId": "ZKkvACgYemCIgMMH-BG7hA",
+                "author": "Jenn G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great value!  Offers a 2-course set menu for a little over £20 with lots of variety (starters and mains). I opted out on the starter this time, but the mains on their own are a good deal as well. Had the slow roasted pork belly which was perfectly crispy, meaty and fatty all at the same time, although perhaps a bit too saucy. For desert, split the banoffee pie with a friend - more banana than toffee, but the crust was crumbly and it was a nice way to top off the meal!",
+                "datePublished": "2012-10-09"
+            },
+            {
+                "reviewId": "JUFzZ9F2JbQ_Wd9IpNYKZQ",
+                "author": "Jason G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent little unassuming French place. Got the courgette and aubergine stuffed with small prawns... which was taste perfection. Then I got the pork belly, which was too much food and also the glaze was too sweet. The service was excellent. Good value as well.",
+                "datePublished": "2012-09-06"
+            },
+            {
+                "reviewId": "osRJ3ZixviMt67Uw3FYdTA",
+                "author": "Hussam B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We had the garlic mussels, goat cheese salad, broccoli soup as starters and they were all good especially the garlic mussels! We then had the lamb shank, fish of the day and sea bass and again they were all delicious. I recommend this place for a good and reasonably priced meal.",
+                "datePublished": "2013-08-16"
+            },
+            {
+                "reviewId": "in9nEs_cEkZWw1yydXr6yg",
+                "author": "Vicky L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "You know, sometimes where you really look forward to try a place, it really lets you down.  This is what happened with Savoir Faire.\nI am not sure whether it was the terrible weather or the fact I just came back from Paris, but I kinda expected bistro food at Parisienne prices and Parisienne quality.  That, unfortunately, Savoir Faire was not.  The price atmosphere and level of service was about right, but the food was a little off the mark.\nIt was also very slow, and who wants to wait ages for their food on what was perhaps the first real wintery evening of 2009?",
+                "datePublished": "2009-10-11"
+            },
+            {
+                "reviewId": "QUvcywLY6YqWPNRxbq5Sfg",
+                "author": "Nelle C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "What a happy coincidence we found this great place for lunch! Welcoming and warm, food was excellent, served quickly and attentively. Beef Daube and duck leg with lentils; expertly cooked and served very hot. Well done!",
+                "datePublished": "2014-10-26"
+            },
+            {
+                "reviewId": "SypSBKczDLpUHZdTtvTQ-Q",
+                "author": "Larissa R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "What with all the five-star reviews of Savoir Faire here on Yelp, I was expecting to be served up a loin of unicorn with a side of fairy-dusted mash.\nBut it was not to be.  The food I received was thoroughly average.  The wine was potent and flowing, though, and the amount of time between courses was incredibly drawn out (and filled with more wine drinking).  So I wasn't entirely upset by the mediocrity of the meal at the time.  My fig and cheese starter was nothing special, and my fish main was overseasoned but cooked well.  I was too intoxicated by the time my dessert arrived to remember much about it.\nIn the end, I left with the impression that the courses were actually quite small for the price coupled with the inattentive execution of the dishes.  And I was kind of hungry.",
+                "datePublished": "2009-10-22"
+            },
+            {
+                "reviewId": "7Tw59ZZQeOLBVmceRbMUFg",
+                "author": "Tim M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Not far from the hotel I was staying in.  I passed this place a number of times as I wandered around London.  It was not until these glowing reviews on Yelp! that I decided to give it a try.\nI had their 2 course special (a steal at ~17 pounds).  I started with their smoked salmon and asparagus starter.  It was beautifully presented and delicious.  I followed it with their rib-eye with Bearnaise.  It came with Potatoes au gratin (which I normally do not like but these were good) and some steamed veggies.\nI washed it down with a half liter of their house red wine (also delish).  All in all a very good meal.  One of the best I have had in London.",
+                "datePublished": "2010-10-25"
+            },
+            {
+                "reviewId": "Akwd5HgRepi2U92MQqjYZQ",
+                "author": "Damien F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It is a tad unfair to review a French restaurant after spending a week driving around the south of France in a convertible gorging oneself on French food and wine, but that's the situation I find myself in.  One must persevere in such conditions, although I suspect the juxtaposition of eating in the south of France with eating in the middle of the tourist district of London is why my star rating is lower than others'.\nSavoir Faire is reasonably priced by London standards; 2 entrees, 2 mains, 1 dessert, and a carafe of house red cost under 50 quid.  I was underwhelmed by the food, however.  I had the beef carpaccio and the lamb shanks, and while both were fine, they weren't exactly screaming with flavor.  My co-eater had a tarte tatin for desert which was the least genuine tarte tatin I have ever seen in my life:  it looked like someone had taken apple sauce and placed it on top of pastry, and then covered the whole lot in custard.  Maybe it was designed for 80 year olds who had lost their teeth and couldn't chew?\nThere are some pluses though.  The cafe has a nice family feel and it was packed when I went which is always a good thing.  Also the waitresses actually spoke French which meant I could flirt with them in the language of love.  Normally waitresses in London speak Polish which I don't speak and is also the language of sausages, not love.\nOverall not bad and if you were going to the theatre and needed a quick dinner beforehand you wouldn't be disappointed.  I don't think I'd take a date here.",
+                "datePublished": "2009-09-13"
+            },
+            {
+                "reviewId": "rWgPCqRltptEAoDEkfgcSg",
+                "author": "Robert H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent casual French restaurant!  I had the mussels for first course... out of this world!  Then moved to the sea bass entree... very good.  Service was friendly and more proactive than many places in London.  Atmosphere is intimate, yet the floor to ceiling windows around the entire front makes it feel like you are sitting on the street in this busy part of London.",
+                "datePublished": "2011-12-11"
+            },
+            {
+                "reviewId": "bSTF8lNRpMxAndoKUxRpIw",
+                "author": "Becky F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yelp, you are my new best friend.  This place is so unbelievably well-priced given its location and the quality of food they serve.  Actually, it's unbelievably well-priced even if it wasn't right in Central London.  There's really not much to say other than that Savoir Faire serves tasty, authentic French food without the fouf and the miserable service.\nMy husband and I each had a delicious starter and a main, and we were so pleased with our two-course dinner that we added dessert.  We asked our (very friendly) server for suggestions, and were thrilled with her recommendations: a delicious mango and basil sorbet, and the bannoffee pie, complete with a crumbly digestive biscuit crust.  Heaven on a plate.\nWe will be back.  We will be bringing our friends back.  But please, don't tell too many other people about Savoir Faire, because I want to be able to get a table next time I am craving their lamb shank.",
+                "datePublished": "2009-06-12"
+            },
+            {
+                "reviewId": "J-Jr3wr_6oZC2XmWk50a7A",
+                "author": "Chris G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Well Savoir Faire...you were a bit of a letdown. Not in a \"Oh my gosh, I am going to see that Blair Witch Project film, it looks great!\" way. More like \"The last Family Guy season wasn't as funny as the others, was it?\" \nThe food was pretty good, but not up to what I had heard it could be. Although tasty enough, steaks were stringy and fatty. That lost a star from the review right there! I also felt that starters were lacking in portion size. Overall though, I did really enjoy myself, but that was probably due to the stellar company I was in! \nThe ambience was pretty good in the restaurant, but décor was a little rough in places. Service was pretty slow and inattentive, but to be fair, this was possibly because we were tucked out of the way in the basement, like a pack of grouchy live-in mother-in-laws. \nAll in all, I had a wonderful night, but that standard of Savoir Faire is more comparable to some of the 'Red Café' establishments around town, as opposed to being a newly discovered gem for me.",
+                "datePublished": "2009-10-14"
+            },
+            {
+                "reviewId": "2NsLmxWp8MVihljxgFZQhQ",
+                "author": "Oriana P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The food was DELICIOUS!!!! really really tasty.\nbetween the three of us we had the fried goatcheese with stewed apples, the pumpkin soup (which was spicy and just perfect for the cool weather), the gnochi with sundried tomatoes and melted cheese, and a pumpkin/goat cheese salad where there were very hefty helpings of goat cheese. The ceasar salad was a staple and the stewed beef with mashed potatoes was perfectly savory. i LOVED!!!\nwe got one bottle of wine for about 17 quid, and entire dinner cost about 65 quid (tip included) so really affordable and delivers great taste for the cash.\nThe lowdown\n- there are two floors for dining: ground level and lower level. the restaurant is situated on a corner, so on the ground level you can do good people watching and have access to the bar. Lower level is cozy, dare I say romantic and the walls are adorned with oil murals of tasteful nudity and big mirrors here and there. \n- the bathrooms are cavernous and are truly tiny, but cute. To enter the women's restrooms there are literally 3 different doors. The only time i felt claustrophobic was in there.\n- there is NO music in the background. I didn't like that, and that is part of the reason why i took the 5th star out .\n- the crowd is diverse in terms of age, so don't expect to go there and find collegiates in mini skirts, but rather groups of people wanting to have a laid back conversation and a good time without having any use for background encouragement. \n- I suggest you go with your partner for a quiet night out, or with parents. not the place to go for loud fun.\nFOOD delicious!!! i will go back : ))",
+                "datePublished": "2009-10-18"
+            },
+            {
+                "reviewId": "LNcMhhn95VrA9BWXdDel7A",
+                "author": "Amanda L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Where do I even begin to describe this fantastic meal? \nMaybe it was the fact that we had a 2 course meal for only £16.90? \nMaybe it was the fact that they had a half carafe of the house wine for £8.00?\nMaybe it was because the food was so god damn tasty!?!!!?\nThis place is adorable, it seems small at first, but there is a whole other floor in the basement. It's the type of place where you could sit with a glass of wine outside with a good book, and just stay there all day. Or it's a place where you can enjoy a fabulously good meal.\nJoe and I opted for the 2 course meal. I went with a goat cheese appetizer that was absolutely fantastic! For my meal I went with the pork belly plate and holy crap, it was some of the best stuff I have ever had in my life. With some mashed potatoes and apple sauce compote, my mouth is watering just thinking about that fantastic meal. Sopped it up with some soft french bread, this meal was definitely a highlight of the whole trip.\nFor dessert Joe and I shared the lemon tart. Again, just awesome. Perfect mesh of sour and sweet, with a little bit of crunch from the crust.\nThis meal was an absolute STEAL, with the amount of food we got and the overall tastiness, when I'm back in London I'm coming back here, and so should you.",
+                "datePublished": "2009-06-02"
+            },
+            {
+                "reviewId": "xkE55TBYkdnwezl5tCOVgA",
+                "author": "Katie C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Beautiful.\nIt's difficult to go back to eating regular, everyday food after dining here. Perhaps my meal was laced with crack and I need another hit. Seriously, I could develop a habit off their mussel starter, and I don't even like seafood that much, but it was so perfectly flavored. Dip the bread into the remaining pesto from the mussels and I guarantee there's nothing better. Ambiance was lovely as well, I enjoyed the quotes written on the ceiling; they could be great conversation starters on a first date.",
+                "datePublished": "2009-05-08"
+            },
+            {
+                "reviewId": "RC-9LY5Be5hawc2h7ZwiWQ",
+                "author": "Simon C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I love Yelp. And I love it even more for directing me to the wonderful and divine Savoir Faire. This restaurant is like a breath of fresh country-air in the centre of a busy, bustling and let's be honest, slightly dirty city. Family owned and family run, this is a great slice of rustic French cuisine. \nI went here with a group of nine on a Friday night. Our table was ready, our waitress was superb and we were made to feel really welcome. The wine list was a hit with my partner (the aspiring amateur sommelier) and we kicked off the evening with a lovely Riesling from Alsace, called Rifile. This was so good (not too sweet, and perfectly balanced), and I even went to my parents local wine cavern Byrne's of Clitheroe, to find some more bottles of the stuff. Fab. \nI went for the foie gras - wonderfully rich and perfectly matched with the apple and brioche. For my main I went for the Sea Bass which was again, exquisitely cooked and the tomato and pepper sauce delicate and flavoursome. Between nine of us we hit most of the items on the 2 courses for £16 deal. Bargain. Other highlights included the salmon gateaux and the rich duck dish. Yum. We were so relaxed we even took in some desserts and coffee. My friend even venturing to try some grappa!!!\nI did also venture into the small private dining area as I was intrigued by the murals. Now, I thought from previous reviews that the murals were hand painted BY Lautrec, now I'm no Art Historian, but they looked pretty new to be around 100 years old. So, I think they're probably a copy and homage at best. Still pretty though!\nQuite simply, Savoir Faire is great, fab and brilliant all at the same time. A perfect place to chill with friends whilst sampling some top notch French food. This isn't haute cuisine, but all portions are generous, tasty and definitely value for money. I'll be back in a flash, as soon as I persuade some more friends to go, judging by their emails the next day about how fab the food was, I don't think it will be long.",
+                "datePublished": "2009-05-19"
+            }
+        ]
+    },
+    "140": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "vwxsw0Pzlr8DUlb3J7Ejwg",
+                "author": "Leon C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is a special place to take your loved one for a romantic meal. The restaurant is a family run business and you can tell by the care that is put into both service and food. The decor is also lovely with an ambiance that makes me feel within the renaissance era. The food is fantastic and quite authentically French. What is surprising is the price. For what is one of the better dining experiences in London, this restaurant is very affordable. At under £20 for a main meal this is excellent value.\nI hear there are secret tunnels within the restaurant that you can dine in for a really exclusive feel. I will be back again to try this out.",
+                "datePublished": "2009-06-15"
+            },
+            {
+                "reviewId": "IMAAPXTjA-ecr3jhLQQ18A",
+                "author": "Suz J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I adore this place. I've been several times, and have never been disappointed.\nMy first time there was with a group of 6 on a Friday night--we had no reservations and the entire lower ground floor was reserved for a party of 40. Rather than shoo us out, the friendly (understandably flustered) wait staff seated us in a cavern-like room behind the curtain, under the stairs. (My friends and I affectionately refer to this room as the lair.)   Because it was such a busy night, the kitchen was a bit slow, but we were kept happy with the well-priced (not so bad) carafes of house red (their old-fashioned pimms is also mixed quite well). \nThe food was (later I found out, always is) amazing--the lamb dishes and goat cheese appetizers are my favorites, and the desserts were wonderful (and good for sharing).   After we were finished, the waitresses (probably exhausted), let us sit for as long as we wanted to finish our wine. \nI would recommend this place to anyone--for a group, a date, or even by yourself because it's that freaking good.",
+                "datePublished": "2009-07-22"
+            },
+            {
+                "reviewId": "KGPKDlFJYZDIETlfXMgZ0w",
+                "author": "Lizzie S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Whoa there - 5 stars, are you sure?\nFantastic setting - check\nGreat service - check\nMouth watering food - check\nReasonably priced - check\nLeft venue with a high alcohol blood level - check\nSeriously tasty food, all French themed and beautifully cooked. A little too central for my liking but that's only because I want it in my hood. Bum!",
+                "datePublished": "2009-05-08"
+            },
+            {
+                "reviewId": "6sDQSJPg1bIl9dG2WgkMXw",
+                "author": "Tirthankar D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This place evoked so many feelings in me, some contradictory.\nApprehension. One of the first places where i decided to go solely based on yelp reviews (and i had 3 vegetarian friends with me)\nElation. The food was so good ... so tasty. I loved the foie gras ... and the steak ... yumm :)\nWonder. I am used to French food in London being pretty expensive. It came to be 21 quids per head ... very very reasonable.\nDisappointment. This is a very veg-unfriendly place. There was only one vegetarian option among the main course ... gnocchi. My friends didn't like it and they ended up having a horrible dinner, made worse by the fact that i enjoyed my share of the food. So i ended up having to pay for all of them :(\nSo this turns out to be one of those restaurants where i would like to come often but i won't be able to since i can't bring my friends along. But maybe someday when i am all alone ...",
+                "datePublished": "2009-10-14"
+            },
+            {
+                "reviewId": "ILHXtD4xqB5r-BMnti5-tA",
+                "author": "Malloy S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Exceptional value, and great food.  The Goose Rillettes entree was particularly delicious, but all dishes were prepared thoughtfully and of high quality.  It's a small place so reservations are a must.",
+                "datePublished": "2014-11-30"
+            },
+            {
+                "reviewId": "mkpNhza262zJnyzKPenAmA",
+                "author": "Laura N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Sacrebleu! Savoir Faire is more French than a baguette french kissing a croissant over a bottle of Bordeaux.\nAnd I'm not talking Walt Disne-fied French. (Let's just say that the singing candelabras named Lumiere and the les poissons loving chefs were absent from the experience.)\nHumble and unpretentious, Savoir Faire has been one of my favourite London dining experiences to date. Not because of fancy views or exquisite menus, but because these folks are living their dream and doing it authentically -- and that is beyond admirable. \nSavoir Faire is not a chain nor a franchise, but rather a 10-year old family run restaurant.  It was so family run that when I called for a reservation, I had to spell out the words \"E-i-g-h-t P-M\" so the French speaking host could decipher my American accent. \nEach table gets a basket of freshly baked bread, every menu item is made 100% in house, and they source only the best-wines-for the-money. In fact, the entire experience was quite affordable -- a two course meal for £16 seemed like stealing.\nOn that note, I stole the grilled mushroom with melted mozzarella and roasted pepper AND the Nile perch with roasted garlic and lime beurre blanc. Others indulged in grilled mussels, pan fried foie gras, lacquered duck magret, treacle-glazed pork belly, wild boar and mushroom terrine ... it's agonizing typing this out because it makes me want to turn around and go right back. \nReally, the experience was perfect. Quaint, unpretentious, delicious, affordable -- and to give credit where credit is due: all thanks to Tom E's talk thread suggestion!  ;) God, I love Yelp! Especially when it allows me to find hidden gems like Savoir Faire.",
+                "datePublished": "2009-03-12"
+            },
+            {
+                "reviewId": "g4DEyoRKHYMNvmiX7uJZHQ",
+                "author": "David M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food, and the set menu prices were really decent. The waitress even helped us find the cheapest combination for everyone to get what they wanted.",
+                "datePublished": "2012-10-21"
+            },
+            {
+                "reviewId": "_SaR01yr02Gmc3mhohDClQ",
+                "author": "Evelyn M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm sad to say that my romance with Yelp has been on the rocks recently. Don't get me wrong, she treats me right- it's me that has been the lazy one not putting the effort into our relationship. She give, give ,gives, telling me where all the best restaurants are and tracking my favourite reviewers. Like an ever faithful lover, she's always there when I walk in through the door at the end of the day, tired and emotional with no energy to type. And what do I do in return? Skim the cream of the crop for reviews before sneaking off to...watch TV! \nWell I'm a changed woman now. Savoir Faire has made me see the error of my ways. A restaurant this good needs to be Yelped with tender love and respect. Finding places like this is what made me fall for Yelp so hard in the first place and, it made me realise, I know we're meant to be together, through the good times and the bad...\nSo anyway, to the restaurant. Where to start? With the food? The incredible sweet cinnamon glazed duck breast with an oh so tiny cube of dauphinoise? Or the phenomenal (and pungent) mussels floating in garlic butter?\nOr maybe you'll get a better sense of Savoir Faire if I tell you about the wine. Our fruity Rioja was the hussy of vinos. She went with all of us, snogging us hard before leaving us desperate for more. For the second time in this review- I was in love (so I wear my heart on my sleeve!).\nIf I've left you in any doubt, Savoir Faire is an amazing restaurant. Everything about the place is as French as you could imagine, from the staff to the decor. Stunning Lautrec murals are painted across the walls in the back room and baskets of home made bread arrive at the tables with the minimum of fuss. The prices here are incredible too. Two courses of tasty, tasty French fare cost only £16 and I am in no doubt that it was worth every penny. \nAfter this rambling review all that's left for me to say is Yelp, I'm sorry. I'll never take you for granted again.",
+                "datePublished": "2009-03-14"
+            },
+            {
+                "reviewId": "SukWoB9GJO3PlbBfhzDGlg",
+                "author": "Amary N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Savoir Faire, C'est magnifique!  This cafe deserves high marks. Well-priced, food is anything but typical.  Great wines, unsnobby\natmosphere, lovely private dining with murals of Henri de Toulouse- Lauterac. \nI love family run business. Which gives you the special feeling of being part of their family. And to sharing their piece of love to you. \nEntrecote steaks, is known as rib steak. My favorite steak is their\nbest Australian rump steak.  Everything is the menu is worth trying. Be adventurous!! \nReservations is recommended for large groups.",
+                "datePublished": "2009-03-13"
+            },
+            {
+                "reviewId": "QMoqV2EkM-ADyxICdnGs2Q",
+                "author": "T E.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "After telling as many of my friends as possible about Savoir Faire, I still don't know why most people have never heard if it.\nIt's a small ground floor French restaurant with a dungeon-like cellar perfect for groups. The cellar consists of the entrances to several former smuggling tunnels dug to take moonshine and stuff into Soho from outside the old city limits. These tunnels are mostly blocked now but the entrances make for wondereful private dining alcoves and each has been fitted with a large table and candlelight. If you are thinking of somewhere good to dine with a big group, then think no more - a private tunnel table at Savoir Faire is ideal.\nDid I mention yet that the walls of some of the alcoves are painted with murals by Toulouse Lautrec?\nOr how about that George Orwell used to come here to write his weekly Observer column?\nOn top of that location and history stuff, it's also an enjoyable meal. French food in London can run so ridiculously expensive for tiny portions with an astronomical wine list and snotty waiters - not here. The food is well-priced French classics, hearty yet elegant, the wine is carafe-served and affordable and the staff seem to be a decent bunch. It's like they want to break every stereotype for french restaurants.\nThe final bonus of this great find is that it's right close to The End and is a great place to start a big night out with friends.",
+                "datePublished": "2009-01-12"
+            },
+            {
+                "reviewId": "a1i6nuD24nO0ECLhtksB1w",
+                "author": "Linda B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Found on Yelp and were not disappointed.  So close to British Museum that this makes the perfect stop for a lovely and not touristy dinner.  We had made reservations on line that were honored and service was great. We were able to enjoy good wine have a delicious French dinner and make our play on time!  Very reasonable for London.  You will love this charming spot!",
+                "datePublished": "2013-06-06"
+            },
+            {
+                "reviewId": "8m1FTkJJxOrVIR6fOkUuuA",
+                "author": "Chieh T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "3.8 maybe?\nThought I'd go here for my last meal before departing London, considering all the amazing reviews.  Came with a group of 7, they seated us in a very tiny and adorable underground cove area that was secluded from the rest of the restaurant.\nHere's the breakdown:\nAtmosphere: 5\nThe place is adorable, service is great, and when you're there, it almost feels as if you're not in London anymore, but a quaint restaurant off an alley somewhere in a French town.\nValue: 5\nThe prix-fixed 2-course menu for 16.50 is amazing in terms of the variety that they provide for you for both courses -- appetizers ranging from asparagus salad to gazpacho to steak carpaccio to mussels and goat cheese; mains from braised lamb to duck with red wine sauce/chocolate to beef bourguinon to perch (our party ordered all of these, btw).\nFood: 3.5\nFor what you pay for, this place is definitely worth it. In terms of the food alone, however, I wasn't all that impressed. The menu sounded promising, but I was actually disappointed with how the food turned out -- not that it was bad, it was just average to good at best -- not quite up there with the consistent 5-star reviews. My steak carpaccio was seared far too much; the sauces for the duck and the lamb tasted the same to me, the duck had too much fat and not enough crisp. Everything else was fine, but not spectacular.\nBottom line -- I like it, and it's definitely worth checking out, but doesn't quite go up there with my favorite places to eat in London.",
+                "datePublished": "2009-08-16"
+            },
+            {
+                "reviewId": "r1H6AlGscZy0-AwdQLvr5Q",
+                "author": "Paul L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "When I'm in London, I spend a lot of time at the British Museum and I'm voraciously hungry on the conclusion of my visits.  I avoid any other eating establishment on the perimeter of the museum grounds and eagerly make the short walk to Savoir Faire because their delicious fresh food, in an environment that is very cozy and soothing, revives the stomach and the soul.",
+                "datePublished": "2009-01-10"
+            },
+            {
+                "reviewId": "TD-Ohkj0BD--6NUAvqHVmw",
+                "author": "Jim B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "On a Sunday afternoon when many french restaurants are getting thin Savoir Faire shined. I found and went here based on a couple very favorable Yelp! reviews and was not disappointed. Wonderful, unpretentious ambiance and a delightful original menu. I had a smoked fish chowder full of flavor to start and a butternut squash risotto that was wonderful. An off the menu tarte tartin closed. R. had soup and then then a very nicely done sea bass. Kids were delighted with omelette du fromage and burger & frites.  The wine menu did present a bit more of a challenge than I would have expected with too many single grape new world wines but we were happy with our french bordeaux, young but a nice light taste that fit our fish and risotto. This could well turn into a sunday afternoon fav, especially at the price.",
+                "datePublished": "2010-12-05"
+            },
+            {
+                "reviewId": "RSzErFX8PGzWiqLONNWA_w",
+                "author": "Elizabeth E.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We enjoyed our meal here at 6 pm on a Monday night.  My husband ordered from the pre-theatre/lunch menu and i went for the regular dinner prix fixe. The menu had some interesting and unusual items that would not be found at a chain restaurant.  Our starters were lamb kidneys in mustard sauce and mussels prepared like snails.   I didn't really like the latter more than the usual types of mussel dishes but enjoyed the novel approach.  My husband was happy with his bouillabaisse.  My lamb shanks were very tender.  The tarte tartin was less tasty than others I have had, with a rather soggy bottom crust.  Overall it was a good experience with attentive service and reasonable prices.  I would give it a 3.5 ratting if I could. Maybe it even deserves 4 stars, not sure.",
+                "datePublished": "2014-06-07"
+            },
+            {
+                "reviewId": "zzXuP4iY7VuNYsh91GYIKw",
+                "author": "peter w.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "My wife and I went to Savoir Faire on the basis of the 4.5 star Yelp rating. Thinking we were in a cosmopolitan city like London, the rating meant a lot to us in selecting the restaurant.  We were very disappointed.\nWe started with the mussels which were grilled and then served with a pernod butter garlic sauce.  The mussels were the best of the dinner and we rated them a 7 on a 10 point scale.  Things went down hill quickly from there.\nThe second course was the warm goat cheese and fig salad on arugula (\"rocket\") bed.  It was mediocre, despite our high expectations.  It could have had more arugula which would have added to the experience, and fresher  rather than wilted.\nThe third (main course) was the Entrocote Steak Frites.  We ordered it medium rare.  It was cooked to the right temperature, but the steak was as tough as shoe leather, despite the chef pounding it for a long time before cooking it.  The french fries were okay.\nFor dessert, we had Vanoffee which was a pie with toffee and banana and whipped cream on a graham cracker shell.  It was good but not spectacular.\nThe service was pretty good and we had no complaints about the serve staff.  \nFinally, the ambiance was just fair.  No table cloths, paper napkins, etc.\nIn summary, Savoir Faire does not deserve more than a 2 star rating.  It is inexpensive, but very average.",
+                "datePublished": "2011-10-02"
+            },
+            {
+                "reviewId": "PIgYD1oo2VpRukCFFS_bCA",
+                "author": "Melissa H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Tasty French food at a reasonable price. It was a busy Saturday night, but service was still good.  Was a great find for dinner.",
+                "datePublished": "2012-01-17"
+            },
+            {
+                "reviewId": "6kC5KPJg4JcwYLBYoBtlCA",
+                "author": "Amrita M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Cutest little french bistro in central London. Two of us were there for dinner on a Sunday night and it gets really busy so try and make a reservation ahead of time. Dinner comprised of a set menu of two courses with a range of options for the starter and mains. We had the grilled mussels and pan fried foie gras as our appetizers and they were both excellent. For our mains, we had the fillet of sea bass and the braised lamb shank. Although the lamb was good, the sea bass was definitely better - so good! Tried the creme brulee for dessert but I thought it was pretty average. There is also an extensive wine list to choose from. There can be a little bit of a wait for the food to arrive when the restaurant is really busy, but it's not excessively slow by any means. The food is excellent, the atmosphere is cozy, the decor is quirky and fun (there's writing on the ceiling!) and the service is friendly and efficient - definitely worth a visit.",
+                "datePublished": "2012-05-09"
+            },
+            {
+                "reviewId": "T4J_D9zH7HeUPlMmMXcZUw",
+                "author": "Mital P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good food, good service and reasonably priced. Savoir Faire is a lot more friendly than most French restaurants in London, and feels better for it.",
+                "datePublished": "2011-02-16"
+            },
+            {
+                "reviewId": "7Idv2uOkXSr8F5a2TK_NwQ",
+                "author": "Jon S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A block from Tottenham Court station. Their slogan is \"Affordable gourmet food,\" and it's true. I had a carafe of tempranillo, fig and goat cheese starter, authentic beef bourgignon, espresso and chocolate mousse. £33 isn't cheap, but for that meal is affordable, because it all *was* gourmet. The decor is fun and colorful, the waitresses friendly and authentically French. It's possible to spend less there, for less dinner: the tempranillo was £11 of my total. But the mousse was especially good. :)",
+                "datePublished": "2011-02-28"
+            }
+        ]
+    },
+    "160": {
+        "id": "d2j_fGSz-bWvPHgXOB0HXg",
+        "name": "Savoir Faire",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Bloomsbury",
+            "streetAddress": "42 New Oxford Street\nLondon WC1A 1EP\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/tYL-w6bsTOK5vQ-O4n-l-A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7436 0707",
+        "review": [
+            {
+                "reviewId": "tscQwsq8UlmCdN-ekJrOjg",
+                "author": "Tara F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yum! I had the Figs and Blue Cheese with Prosciutto for my app and the Gnocchi with sun-dried tomatoes for my main entree with a tasty little creme brulee for dessert. I must say over all, delicious. \nMy 4 star rating comes from the service. We sat downstairs and as another review stated, we felt a little forgotten about. We were there to have a nice relaxing dinner, but by the time we were ready for the check we waited almost 30 minutes and then started to hunt for our server upstairs!",
+                "datePublished": "2009-11-05"
+            },
+            {
+                "reviewId": "okJBflbOEkjLioX6_Ypzng",
+                "author": "Keith U.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We ate here before the theater. This is a nice but simple  place with good food and good service.  I would certainly return.",
+                "datePublished": "2013-06-24"
+            },
+            {
+                "reviewId": "OQnTo5w5HRuUb67kyiMbNA",
+                "author": "CS F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "No disappointments here, as always, absolutely remarkable cuisine and ambiance. The staff bend over backwards to make sure your meals are most satisfactory and they don't skimp on portions either.\nA wonderful place to take guests or just to enjoy a bottle of wine and escargot!",
+                "datePublished": "2011-06-16"
+            },
+            {
+                "reviewId": "EA03Dg6b8Lh7-iexaDJzeA",
+                "author": "J S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing food, huge portions, dirt cheap prices. My new London fav.",
+                "datePublished": "2012-03-13"
+            },
+            {
+                "reviewId": "byJKOtjDM6gVC5_fa9l9Sw",
+                "author": "Daniel L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I have eaten at Savoir Faire on and off for many years and when I am in London this is always worth a stop. Visitors I have brought here have never been disappointed. I favor the baked escargot, duck and the house red wine. Enjoy!",
+                "datePublished": "2012-01-12"
+            },
+            {
+                "reviewId": "-qAzODk2lfUEdc_CDdHXkw",
+                "author": "Caren H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I struggle to give this place a five, but it is solid and one of the few places in London where you get a lot for your money.  We were seated at the front of the restaurant, and every time someone walked through the door, you would hear a dinging noise go off.  A bit annoying.  The atmosphere is great and the waitresses were very nice and always smiling--what a treat.  The food was good , but nothing mind-blowing or spectacular.  It was an enjoyable meal, but nothing I am rushing to go back for.",
+                "datePublished": "2009-08-17"
+            },
+            {
+                "reviewId": "XjGX5j_N5T_f_8YoSfcBJQ",
+                "author": "Tiff P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "very nice little place. I had the rib eye steak which was delicious. My friend's lamb shank was nice too. We shared a goose rillette (nice as well) and a coffee brûlée which was amazing.",
+                "datePublished": "2011-12-27"
+            },
+            {
+                "reviewId": "dm75rVyty2JH0QA2-0NDRA",
+                "author": "Daniel J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Interesting place. It's a great deal, particularly considering the location. The food's average-to-good, but definitely nothing to write home about - classic bistro cooking, the flaws being e.g. too tough beef bourguignon, lack of flavour in a couple of the dishes. However, a few things let it down. First, the service, while friendly, is slow and inattentive (whenever we needed one of the waiting staff, there was no-one to be seen and I spent more time than I liked trying to catch their eye). Second, the decor is basic but a few things need some touching up, and e.g. the cutlery/glassware look very much like they belong in a school canteen. Third, the wine selection is very ordinary, which is shame for a French restaurant - we had one of the more expensive bottles and, while inoffensive, it wasnt very interesting. I'll definitely bear it in mind for the future, but you won't find me going out of my way to come back, and especially not with a date or someone I'm trying to impress. There are much better restaurants in this kind of category (Comptoir Gascon instantly springs to mind, as does Le Mercury).",
+                "datePublished": "2013-06-10"
+            },
+            {
+                "reviewId": "JyOotnwBlSKGdcLez8nrpQ",
+                "author": "Qype User\n kei…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Whenever I'm in London this is always my first choice place to go to eat. It used to be a Pierre-Victiore and has kept the cheap bistro fixed price menu ethos. At two courses for £10 the menu provides great value and often contains some exciting ingrdients such as duck breast or sucking pig. The staff are casual but attentive and friendly. It is often busy has a vibrant atmosphere.\nAnother plus point of the restaurant is the way that they respond to a problem. We had an awful meal there (on one of our 30 odd visits) and they could not do enough to put it right. \nWithout wanting to sound too sentimental this restaurante has been part of some great memories for me and everyone should give it a go. Some of the best value food in London.",
+                "datePublished": "2008-11-27"
+            },
+            {
+                "reviewId": "_KHe3hkj_xLP2rgL3O9d7g",
+                "author": "Revital D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Just came back from dinner at Savior Faire, and I am still thinking about the food we enjoyed so much. For starter, I had fried goat cheese with caramelized pears. My main entree was duck with caramelized oranges, carrots, and zucchini, and potato gratin. The food melt in my mouth. The flavor was scrumptious!! I would recommend that place to anyone who visits London. Our experience at that restaurant was very positive.",
+                "datePublished": "2012-06-28"
+            },
+            {
+                "reviewId": "ErMnE7VGaiW6VOhFXwQp1w",
+                "author": "Steve P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Loved the authentic French cuisine and the price was reasonable too.  Can't beat that!",
+                "datePublished": "2009-06-01"
+            },
+            {
+                "reviewId": "AURk8f5J1aqzVK5DQsexYg",
+                "author": "Caitlin L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Well, it was our last night in London and we were looking for a suitable restaurant.  Being the Yelper that I am, I set about with researching.  We have some picky eaters in our group, so that added another element of difficulty.  As a bunch of Francophiles, I thought a French restaurant would be a good choice.  Based on the preceeding Yelp reviews, we finally settled on Savoir Faire.  I was intrigued by the basement grotto, so when I made the reservation on Open Table, I requested that we be seated down there.  This was good because we got a bit raucous and silly as the meal progressed.  \nWell, we were not disappointed by Savoir Faire in the least. We all ordered the two course, prix fixe menu.  I began with the roasted figs accompanied by stilton and prosciutto.  They were just lovely!  Then I tucked into the magret de carnard, but I felt that the duck was a bit over-cooked (Erin agreed).  I also had a nibble of Maeve's beef bourguignon.  Delicious!  The gnocchi that Courtney had was a bit odd looking, but she said it was good.  Chris and Miguel both had the Creole chicken and they cleaned their plates.  We also had about 5 bottles of some white wine (Chardonnay, I believe).  For desert we ordered a couple creme-brulees, the banoffee pie (my favorite!), and a very sad chocolate mousse (more like a pudding cup).  The wait-staff was nice, but we often felt a bit neglected at times. I guess that's what you get for hiding away in a cave.  The murals on the walls also provided some amusement for our group and some of them were pretty risque! Overall, a tres bon experience!",
+                "datePublished": "2009-09-21"
+            },
+            {
+                "reviewId": "mPX-liOAXzl2B3dcDSeCbQ",
+                "author": "Qype User\n Daveym…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I stumbled across this place about 10 years ago and have been regularly returning. Very well prepared French dishes at remarkably reasonable prices. My favorite has always been the Duck Magret with on sauteedd Leeks and Potato with Orange and Balsamic Sauce. Always nicely done. If you're heading to Shaftsbury theatres they have wonderful pre-theatre specials and will see to it that you are out in time for the show.",
+                "datePublished": "2010-09-05"
+            },
+            {
+                "reviewId": "fXpr7SEbgbr2K3V8w54eXQ",
+                "author": "SJ F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What can I say that hasn't been said?  This place is absolutely charming.  It manages a balance between a cozy cafe and a more sophisticated feel.  The painted murals on the walls make the small room seem larger and friendly.  We came in for a very late lunch and the owner (we presume) greeted us immediately, made a very good wine suggestion and defeated every stereotype of snooty French right away.  Our waitress was a bit cold, to be honest, and seemed irritated with us when she brought us the wrong wine...but really she wasn't RUDE, just not the smiley sort that another Yelper had mentioned.  We had steak with chips and salad...simple food that didn't seem entirely French in my mind, but was prepared so beautifully that I can't wait to go back.  Excellent value for money!",
+                "datePublished": "2009-09-16"
+            },
+            {
+                "reviewId": "U8Hs9sidmE_AeutOXkT0tA",
+                "author": "Michael W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent French food, friendly and efficient service, nice atmosphere without being large or noisy, great all-around experience",
+                "datePublished": "2009-12-09"
+            },
+            {
+                "reviewId": "dNVyDFUtiCQ8omEMQvXToA",
+                "author": "Cue T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Good meat, nicely sized portions, sauvignon blanc priced well and tasted better than vinegar.  Made a reservation on open table and they treated me very well",
+                "datePublished": "2011-05-08"
+            },
+            {
+                "reviewId": "QWcW2fCnsHmwfSndCVo9cw",
+                "author": "Qype User\n ruthie…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A traditional French bistro which does an excellent set pre or post theatre dinner. Try and get a seat downstairs if you can. Excellent set menu which represents good value for money and choices change on a regular basis. The staff are attentive and its always pretty full which is always a recommendation. This is the sort of place to take your mum when she comes to visit or a date for a low key dinner. The desserts are a definite highlight especially the banoffee pie.",
+                "datePublished": "2008-04-02"
+            },
+            {
+                "reviewId": "MpVO_TiumyPSZwPUfGuuSA",
+                "author": "Tom B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wonderful, wonderful French food and a wonderful atmosphere. Great place for a leisurely romantic dinner. Highly recommended!",
+                "datePublished": "2010-10-09"
+            }
+        ]
+    }
+}

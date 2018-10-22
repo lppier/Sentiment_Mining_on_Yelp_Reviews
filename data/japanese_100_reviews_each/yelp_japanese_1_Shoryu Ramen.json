@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "id": "HrBB8jbsJF2xt9WwX1Skrw",
+        "name": "Shoryu Ramen",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "St James's",
+            "streetAddress": "9 Regent Street\nLondon SW1Y 4LR\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/cEgzT-n3ehZPiJ_Us23rKg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "",
+        "review": [
+            {
+                "reviewId": "I2z74ofQ8H8nv5c56Ak83g",
+                "author": "Michelle A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The best ramen I've ever had!\nThe cleanest Ramen restaurant I've yet seen\nThe friendliest staff you can imagine\nThe (1 of) best finds we stumbled upon in Soho London\nWe both had the special tonkatzu broth with marinated ground pork. And the pork belly bun.. Both Soooo good!!\nHighly recommend this place from this girl that's been to many many ramen places from the west to the east.. and some places in between.",
+                "datePublished": "2018-10-17"
+            },
+            {
+                "reviewId": "QnRAggOwYhF19Xi4T_64tg",
+                "author": "Danielle T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "There wasn't many ramen restaurants in the area when we were visiting but we gave this one a shot and it did not disappoint! The staff was friendly and the space was pretty standard. \nThe ramen was super tasty and had a perfect broth. I loved how you can order the tenderness of your noodle!\nSushi apps were pretty good too!",
+                "datePublished": "2018-09-20"
+            },
+            {
+                "reviewId": "L147EUBlEugo7g42BRyLUg",
+                "author": "Ryan M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Good food, terrible service.\nA week ago we went to another Shoryu location (Carnaby street) and after a short wait in line we were promptly seated and served impressively quickly.\nAt the New Oxford location today, we arrived and were seated without a wait but then we waited over 25 minutes to have a server show up and take even our drink order. This was despite asking various servers multiple times to place an order and always being deferred. The place was almost full but not really busy so the poor service was pretty inexcusable.\nAfter eating (tasty food), our bill had major issues twice (once it was just unrelated; the second time it had a number of extra items). Finally, a manager had to help correct the bill. We had to ask twice for the service charge to be removed.",
+                "datePublished": "2018-09-14"
+            },
+            {
+                "reviewId": "nPHENnwWj3MNftHHe0-tqQ",
+                "author": "Luke T.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Heatwave in London. Warmest summer ever and what better than a super hot face melting bowl of Ramen!  Gambate! Itadakimaaaas!\nI peeked over the door noren and I see this place is packed already. I guess I wasn't the only one mad in the brain to eat hot ramen on a hot day. Anyhoo.. I held up 4 fingers and the hostess seemed to know I meant .. table for 4.  So she led me to the tiniest of tables, crammed next to 2 of the tiniest of tables, and with a quick Hai Dozo.. I was left there.  But,... but.... I cannot possible traverse the tiny space between the tables to get my seat on the inside.  I mean.. people were already eating , and their bowls of ramen was perched on their tables, and I would most def, either knock their table over... or even worst.. go past the tables sideways and put my butt right over their table.. So I gave the hostess a helpless look.. ehh...sumimasen... but she looks away.  Fine.. be like that.. so I proceed to wedge myself between table and takes seat.. So uncool. Tho my wife rolled her eyes at me.  \nI needed ramen, I needed something to restore my center.  The walking and sightseeing and meal decisions while visiting London has been exhausting.  I needed ramen to get back to basic.  We got us, Dracula Ramen, Regular Tonkotsu, I think there was Spicy Miso too.  tldr;- None was spectacular. It wasn't bad.  But it lacked an identity.  The noodles was text book, the broth standard, the chashu pedestrian, the toppings bleh.  In a sea of ramen.. Shoryu ramen did not stand out one bit.  \nService was so-so.  I don't expect it at a Ramen-ya anyway.  So I was fine with bare minimum.  \nI don't know if there is better Ramen in London.  This isn't bad, but I would search harder the next time for something better.",
+                "datePublished": "2018-08-15"
+            },
+            {
+                "reviewId": "wtrTpFD9rN8A01z_7y4Clg",
+                "author": "Susan C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Tasty ramen with the beautiful chew to the freshly made ramen.  Stumbled upon this place since we couldn't find the place we were looking for but, we love finding new gems.  Food was really good, broth was very tasty.  The calpico mojito was very refreshing since it was blistering hot in London.  The chicken karage bun was good but I loved the tonkotsu ramen.  I would have had another bowl of just the broth.  Love the find and will be back the next time I'm in town.",
+                "datePublished": "2018-07-28"
+            },
+            {
+                "reviewId": "bPVEldRLq-IpnPt86qEr-Q",
+                "author": "Dan K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "After a cold day walking around London, the idea of a hot bowl of noodles sounded great. There was a bit of a line to get in so that was a good sign. Turns out this is a chain. To some, that's off putting or inauthentic. But when done in a respectful way - and tasty way, who cares? When you finally get called for saying they hit a drum and yell something that's supposed to be in Japanese. Cute and sets the Japanese motif. \nI like that you are able to request noodle doneness for the ramen. In general, I found the ramen (we tried two different ones) to be a little bland but otherwise really good. It had the nice soft boiled egg (but with a slightly reddish yolk). The BBQ pork bao was pretty delicious with a substantial piece of meat. The Soho platter was a pretty posh sampler of food including sashimi, tempura, and Kara age chicken for two. They even had a near-frozen Asahi beer that really hit the spot against the fatty broth of the ramen. We skipped the cocktails but they looked really delicious.\nWe skipped dessert but overall, it was a pretty good meal and surprisingly inexpensive vs. expectations. Would definitely recommend this place for ramen cravings!",
+                "datePublished": "2018-04-15"
+            },
+            {
+                "reviewId": "qSoi8aHCIuVuzMO0EwwXSQ",
+                "author": "Patrick B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Who would have thought that there would have been such an awesome ramen place in London? Shoryu Ramen definitely surpassed my expectations.\nThe broth was flavorful, and the noodles cooked to perfection. Service was great for us, as we came before the rush, as they quickly took our orders and brought out the food in a timely manner. The restaurant is a bit small, but it is nice and cozy. I would try to get here before or after it gets really busy.",
+                "datePublished": "2018-07-09"
+            },
+            {
+                "reviewId": "Zs-EQLa7mKx0ftoDziCPVg",
+                "author": "Helen H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It was our last night in London....and knowing that we had a long night ahead of reluctantly packing to head back in Atlanta....Hubby and I opted to stop by here for a simple warm dinner, and romantic walk under the Christmas lights on Regent street. \nShoryu came highly recommended by friends and yelpers. It was a cold night so a warm bowl of ramen seemed like a perfect option. We hopped in a uber and arrived with no reservations made prior. Luckily, it was not too busy despite being a Friday night. We were able to find cozy two seats at the front right corner so we could people watch (very fun on a Friday night). \nI love the detail of purse hooks under the table. \nThey offer specials such as seasonal set menu, Bun Monday, and Happy Sake hour. \nShoryu Ramen started in Nov. 2012 and recommend in the Michelin Guide since 2014 (you still see the sticker at the entrance). They specialize in Hakata Tonkotsu ramen (aka, rich-thick- white pork broth with straight ramen noodles). Ricky and I both ordered the same Shoryu tonkatsu ramen ....and the broth was amazing! You can tell it has been cooking for many hours with great quality ingredients. And do not forget about the noodles made from fresh Shoryu flour! Fresh, bouncy, and chewy. You can request different textures to your liking. The ramen comes with the traditional toppings of a soft boiled egg, pork, and veggies,and nori. All the toppings were excellent as well.....but I am a BIG soup and noodles person so those are the items that grabbed by attention the most. \nThe gyoza is supposed to be really good here but unfortunately no one told me -_-. I didn't find this out till after I left the restaurant. The uber driver asked me if I got the dumplings on the ride back to the hotel. We got the takoyaki instead which was so-so. \nAnother popular item is the HIrata Bun. Hubby got the wagyu beef filled bun. They names it the Shoryu bun to bring prosperity to you when you eat it :) Very cute. \nThis location also has quiet an extensive alcohol selection. Def check this out. There was a reason everyone inside was drinking lol. \nHighly recommend. Great place for ramen.",
+                "datePublished": "2018-01-08"
+            },
+            {
+                "reviewId": "CihlMdwCsIZFW6X9q2tixw",
+                "author": "Douglas C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Went for early dinner,  and got four bowls of ramen. All were good. The Curry Ramen was very spicy. My son, who can handle almost anything, could not eat the whole bowl. Mine was good, too, but needed a little soy sauce to heighten the flavor. Drinks were a little high.",
+                "datePublished": "2018-06-23"
+            },
+            {
+                "reviewId": "kVAXxgpk7BQs_d_5PX9YVg",
+                "author": "Marsha R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Loved this place so much my first time in London I made my group come back on my next visit. The ramen is tasty and authentic and leaves me satisfied every time.\nWe came in Monday which turned out to be Bun Monday (buy one get one free)! We came in around 2 pm and we're seated right away. Keep in mind the later it gets the more crowded because my first time was a 45 minute wait in the evening.",
+                "datePublished": "2018-02-13"
+            },
+            {
+                "reviewId": "y0fjZ5cUBd0Q_6oxfaQ41A",
+                "author": "Madeline G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've never had ramen before but boy was I missing out. This place was absolutely delicious, very flavourful and surprisingly affordable. Service was amazing and you could tell the staff was really passionate about their food. Will definitely come back again",
+                "datePublished": "2018-10-07"
+            },
+            {
+                "reviewId": "xMKjWHi8-4UYVW6pn3jXqw",
+                "author": "Kevin M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "oVery busy and famous ramen restaurant, still have to wait after 10:00 in the night.. ordered the signature ramen and soft shell crab, it was not bad, but little bit disappointed because the taste not as good as o thought",
+                "datePublished": "2018-10-06"
+            },
+            {
+                "reviewId": "VptIJx-gm2gvNQugugKvtw",
+                "author": "Chantee F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I had such horrible service here which is why I am only giving it 3 stars although the food was a strong 4. \nService: Took several minutes to get our order taken. Then when we were ready to pay, there was a staff member talking to another staff member on her break at the table next to us. Completely ignored us although we tried getting her attention. Finally got the attention of our waitress (the only one serving the whole place), to ask a question about a discount we had. She gave us an explanation then walked away for another several minutes when we had to flag her down for the bill. Again, staff seated to our left acted oblivious. I don't know how they run a business here.\nFood: Very tasty, full of flavour and good portion size. I enjoyed my Dracula tonkatsu ramen. It was hearty and delicious. \nVerdict: I would return to another place gladly, given this poor service doesn't extend to all their locations. Clearly they have good food, they just need to work on hiring good people.",
+                "datePublished": "2018-02-18"
+            },
+            {
+                "reviewId": "6jqNWqGnPNM21-5Qzxtpxw",
+                "author": "Erich D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "There were two main reasons for dining here: it had been recommended by the Michelin guide and, if you're a fellow Street Fighter fan, then you'll understand the other reason why.\n \nAlong with our respective bowls of ramen (one Kotteri Hakata Tonkotsu, one Dracula Tonkotsu), we also ordered a couple of the Shoryu buns.\nPersonally I wasn't a huge fan of the buns as they actually had quite a bit of mayo on them. They were still tasty but I would probably pass on them on any subsequent visit.\nThe ramen was quite good and you have the choice of how you would like your noodles prepared. The broth of the Hakata Tonkotsu was flavorful, savory, and rich. The double nitamago egg was eggsellent. The Dracula Tonkotsu is filled with tasty garlic bits and flavour but may require an after-meal mint. \n3.5 stars overall.",
+                "datePublished": "2017-08-04"
+            },
+            {
+                "reviewId": "VT0CDZRrt6VrF0SB0GfO4A",
+                "author": "Patty L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Was visiting London with my fiance, and after a long day of walking, we were craving a carb-heavy meal like ramen. We stopped by shoryu, which was decently busy on a weekday late afternoon. We were asked to wait outside for a few minutes as they were cleaning the tables. \nI got the dracula tonkotsu and my fiance ordered the tonkotsu with the more intense/ thicker broth. We both enjoyed our meal - you can order the noodles cooked to your preferred doneness (standard, firm, etc.) and the egg that came with the noodles was cooked perfectly. My soup base was a little too garlicky for my tastes, but that was my fault since the description clearly detailed that it was for garlic lovers. My fiance said this was probably one of the better ramen places he's eaten at (and we've been to plenty in Chicago and NY)\nThe meal was a little pricey for what it was, but we were in the heart of London so I expect part of it was due to location so can't really complain there.",
+                "datePublished": "2018-03-16"
+            },
+            {
+                "reviewId": "W55NQ0SbCVX3cGD7XutIzQ",
+                "author": "Rudy S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Hey man this joint got no flavor. I wish I can ask the chef for a refund. I should've stopped by tesco express to add some spices and real ingredients. Please save your money and go elsewhere.",
+                "datePublished": "2018-09-07"
+            },
+            {
+                "reviewId": "5bMDE2UhO2o0klUIzCJWfQ",
+                "author": "Lisa C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best Ramen ever!!\nCuriously, when taken apart the individual ingredients are really good, but not my favorite.  I prefer thicker noodles, the perfect egg and more Kimchee.  However, it is this combination that adds to perfection.\nI had the Spicy Seafood Tonkotsu.  I am delighted by these scallops that have a firm texture and full-flavor (being used to farm-raised ones).  The Ramen is not spicy and you can add chili oil and grind fresh sesame seed to taste.\nMy companions have the pork version that they love.  With a bit extra, you can have a Shoryu bun and a boozy cocktail with your meal.\nGreat if you love Ramen!",
+                "datePublished": "2017-07-22"
+            },
+            {
+                "reviewId": "UuSqfH-yclEOY0Qg2o9nfQ",
+                "author": "Heather B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Super rich broth...very tasty. I have actually never had someone ask me how I like my noodles cooked...that was a nice touch. I've had really good ramen and this place is up there in the ranks of the best. The service was good, attentive, friendly. Skip the frozen beer slushy...it just makes it take longer to get to your actual beer. Definitely a must taste if you're in the area and hungry or jetlagged or hung over. It's a comforting bowl of brothy meat love to cradle your heart!",
+                "datePublished": "2018-05-12"
+            },
+            {
+                "reviewId": "S9aoESSIWqO_JyTEkwKJgQ",
+                "author": "Carolyn Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Stopped here for lunch because I was craving a bowl of ramen. \nI ordered the Origin Tonkotsu (£10). I had my noodles cooked normally and the ramen came topped with pork belly, mushroom and green onion. That was actually perfect because I wouldn't eat the egg anyway. The noodles here are the thinner kind, not the chewy thick ones (I prefer the thicker noodles). The bowl was kind of small. Normally, when I eat ramen, I get a bigger bowl with more soup. \nThe soup was good, but nothing mind-blowing, especially when they advertised their soup to be 12 hour soup.\nThe service was quick and efficient. I really liked how if you asked for tap water, they gave you a whole bottle, even though I was only 1 person.  \nOverall, the ramen was good. I don't have a lot of experience eating ramen in London, but I do have a ton of experience eating ramen in SF and this was ok compared to the kinds I've had in SF.",
+                "datePublished": "2017-12-10"
+            },
+            {
+                "reviewId": "m1nW5TGe69VYtNjP0di3HA",
+                "author": "Clarissa Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went to London on holiday came here, and now I'm depressed that I'm back home in Cardiff instead of being able to eat here every day.\nHonestly - if I lived in London and could afford to do so, I would eat here EVERY DAY. NO. JOKE. I'm STILL thinking about those perfectly seasoned eggs. No wonder they're on the Michelin recommended list two years in a row!\n~ Atmosphere:\nCute atmosphere - nothing fancy. The wall has a great description of the parts of ramen, if you're new to this amazing dish you can read up on it! Even though I'm a ramen fanatic, I still learners a bit about the ramen styles of different regions in Japan.\n~ Customer Service:\nReally lovely. The waitress who served us was very sweet and friendly, and our food came out at a decent time (not alarmingly quick like they do in Japan, but still at a relatively decent time). They also provide fresh garlic you can crush right into your ramen if you're a garlic fanatic like me.\n~ Food:\nThis where the 5 stars comes from. Everything else could be literally GARBAGE and I would still give this place 5 stars. We ordered Pork Belly Buns to start off with and they were fantastic. I'll be honest - I've had better baos elsewhere so next time I come I'll probably skip on the baos and go straight to the ramen just to get a better taste value for money.\nI ordered the Dracula Ramen (garlic tonkotsu ramen) and it was out of this world. You can order extra toppings so I opted for an extra seasoned egg. After I finished my first plate of eggs I wish I had no shame and order an extra plate. You're also allowed to ask for extra noodles or meat - all at a price of course but I'm definitely glad they had that option available.\nChoose the firmness of your noodles and you're ready to go - the result? The most AMAZING ramen. The depth of flavour of my ramen was immense and you can definitely bet that I slurped up all the remaining broth after I was done. If you're a ramen snob and here to compare Shoryu to the other ramen powerhouses of the world, I would say that the broth is what sets this place apart. The char siu was forgettable, but the broth and eggs were UNFORGETTABLE. I'll be thinking about this ramen for years to come.\n---\nDo yourself a favour and get to Shoryu Ramen. Probably the best in London.",
+                "datePublished": "2017-04-17"
+            }
+        ]
+    },
+    "20": {
+        "id": "HrBB8jbsJF2xt9WwX1Skrw",
+        "name": "Shoryu Ramen",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "St James's",
+            "streetAddress": "9 Regent Street\nLondon SW1Y 4LR\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/cEgzT-n3ehZPiJ_Us23rKg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "",
+        "review": [
+            {
+                "reviewId": "F3DPrAoTtTeE1YPcG_p_fQ",
+                "author": "Aaron Ariel C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Service is pretty poor.\nWent with a few of my colleagues and we all ordered the Ramen and some drinks.  It actually took about 15-20 minutes for us to get any type of drinks and we had to remind the waiter about our drinks.  After we had the sake and it helped a little bit more.\nRamen:\nNo taste, no flavor.  BLAND.  Noodles were good.  That's it.",
+                "datePublished": "2018-07-01"
+            },
+            {
+                "reviewId": "Yx9WhYsFpMI53YdGWVE-WQ",
+                "author": "Kelvin Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Clean contemporary restaurant.  They announce each groups arrival with a beat of a mini Taiko drum.  \nI ordered the Tonkotsu Ramen made with a 12 hour Pork Bone stock.  The bowl of Ramen was served with Nitamago - soft boiled egg well executed, Kikurage - wood eared fungus adding a good crunch, Nori - seaweed - adding crunch and umami flavor, generous amount of fried Shallots, a bit of spring Onions, a dollop of red ginger with a sprinkling of Sesame Seeds.\nThe Pork Bone Broth had the requisite umami flavor, without being too salty.  The Ramen Noodle were excellent- the Noodles were al dente and the Noodles captured the flavor of the broth well.\nThe best part of the bowl was the BBQ Pork, thin sliced, delicious Perhaps a more generous portion would make the experience more enjoyable\nBottom line - This is a Ramen I could eat several times a week.  It was delicious, not overly salty, has a sophisticated home made quality to it.",
+                "datePublished": "2017-09-26"
+            },
+            {
+                "reviewId": "U_Clq0wkH9HYj3ECluPqxQ",
+                "author": "Shane S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is one of the best places I've ever eaten! Too much to write, I had the soy based ramen, hard noodles. It was absolutely delicious. Go there you will love the food and atmosphere. In the heart of Carnaby Street. This place is really special.",
+                "datePublished": "2018-07-06"
+            },
+            {
+                "reviewId": "yL2fAYqElcwJlC3Sz87cBA",
+                "author": "V P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was not only so flavourful but coupled with great service! The noodles were perfectly cooked and the broth was so packed with flavour. I had the Shoryu Ganso Tonkotsu, the signature ramen and definitely promises. This was paired well with their saki flight. The place was packed and yet we still didnt have to wait long for our orders. Our server was able to make sure we enjoyed our meal!",
+                "datePublished": "2018-09-15"
+            },
+            {
+                "reviewId": "uIYV2zgadIVUPIuM2fGXsQ",
+                "author": "Alessandra L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I really enjoyed the ramen here! I came here a broken & hungover person and emerged a new flower. I had the signature shoryu ganso tonkotsu and the person I was with had the kotteri hakata tonkotsu and both were really really good... just nothing *mindblowing*. We did also get the two most plain ramen bowls though. The service was also outstanding (we wanted to get in, eat, get out and they were super fast/accommodating).\nOverall I will definitely return here and try their other menu items!",
+                "datePublished": "2017-09-24"
+            },
+            {
+                "reviewId": "NinLVOgRGTw5i5JqReHafQ",
+                "author": "Nicky L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Such tasty food! Was in the mood for ramen and hoped they'd have a vegetarian option. I don't always love tofu in ramen but the way they made it was superb - not too soft or bland. Also loved the broccoli inclusion. Servers were very responsive while not overbearing. Would definitely recommend it!",
+                "datePublished": "2018-05-10"
+            },
+            {
+                "reviewId": "a9s1waMl3SfBxrMMybxzHw",
+                "author": "Zachary A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nice ramen joint in London. They offer the typical tonkatsu as well as some interesting varieties like seafood kimchi, white vegetarian and curry. I went for the double tonkatsu broth and had a side of the black sesame tofu as a starter. The tofu was inter sting and a very instagrammable dish but not a must order. Tasted like a black sesame jello as it needed a little more sauce/wetness to it. The ramen itself was very solid. Large portion and tons of noodles. Noodles are hard and perhaps the best I've ever had. The fact that you can pick your thickness is awesome to me and really gives each ramen dish it's own rather than churned out in a factory. Chasu was thick but I wouldn't necessarily call it pork belly as mine had virtually no fat. Broth was thick and meaty, but lacked spice. Even with the piri piri side sauce I was still hoping for more. The ramen did not disappoint and it's no surprise they've expanded throughout the city. Biggest complaint was that they charged for still water when all I want d was tap. An upsell like that hurts and seems very seedy. But food wise, one of the better ramens I've had.",
+                "datePublished": "2018-07-09"
+            },
+            {
+                "reviewId": "1ZskS0AjU-e4Wto7y4Y04w",
+                "author": "Scott O.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Inaccurate advertising. No gluten free options whatsoever. Not sure why that's posted or why this keeps coming up as the number one spot for gluten free Noodles. Will keep on looking....",
+                "datePublished": "2018-08-04"
+            },
+            {
+                "reviewId": "5wL7E6NCO_v0_DjC8M-dqg",
+                "author": "ken k.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "From the States and thought this place compares. Could use more salt for my taste. Had the Kottari and enjoyed. The Tempura Shrimp was good but bland. Again, needing a bit of salt.",
+                "datePublished": "2018-07-28"
+            },
+            {
+                "reviewId": "X0Elfz4-KH3OVc2OkM7IJA",
+                "author": "Mcky C.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Service is horrible!!! \nYelp said they close at midnight but when we walked in at 10:45 they said they close in 15 minutes and we can only order off the ramen menu but no sides... they seated 4 other parties besides us and gave everyone else a menu but my boyfriend and I literally had to wave down a server to get a menu. \nThe ramen came out fast which is good and it was delicious.\nHowever when the check came they had the audacity to add service charge to the check without my consent. Coming from America I know to tip!! The service charge was a huge turn off not to forget to mention illegal!!!!",
+                "datePublished": "2018-04-27"
+            },
+            {
+                "reviewId": "51l6kVnJAmBHoRtB15pD0w",
+                "author": "Grace C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We had spent four hours at Houses of Parliament already, so by the time we were done at 2:30 pm, we were hangry. We found Shoryu Ramen via Yelp and immediately looked for the closest red double decker bus to take us there. Even though ramen is not the first thing you think of in terms of British cuisine, we were happily surprised to find the food worthy in the name of Japanese ramen. BF found it better than some of the ramen places in Los Angeles, and that's saying something! \nWe ordered two bowls of the tonkotsu ramen (which includes char siu barbecue pork belly, nitamago egg, mushrooms, spring onion, sesame, ginger, and nori seaweed) and the recommended shoryu buns (2 for £7.50). We loved the ramen more than the buns and a bowl of ramen will do more than enough to keep you full. Sit by the window for people watching!",
+                "datePublished": "2017-05-16"
+            },
+            {
+                "reviewId": "-0H6ipr1wWoQjC2VEB5JLg",
+                "author": "Matt H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very good.  After a long day of touring and a long week of pub food, Shoryu was a great relief.  Funny enough i never had ramen before coming to the UK and it made me a fan.\nService was good, it was a busy day for them and they still knocked it out of the park with us.  Next time in London i'll be back!",
+                "datePublished": "2018-02-22"
+            },
+            {
+                "reviewId": "9N3Zwvkv8_ciYS3CxOwO5w",
+                "author": "Jennifer L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "2nd time ar Shoryu but 1st time at the Regent Street branch and its still in my top 3 ramen place in London!!!!\nThis time I had the Kotteri Hakata Tonkotsu and still an amazing broth really meatier as advertised \nPlus the happy hour on all cocktail is worth it had the new seasonal wake me up in Tokyo",
+                "datePublished": "2016-11-22"
+            },
+            {
+                "reviewId": "ii_tHn_rzuATCCoOD1z7kA",
+                "author": "Lu Z.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Ramen is not bad but side dishes are bad! Chicken karaage is made of white meat, very dry. Why not try red meat? Seaweed salad has a whole bunch of other things in it. Can you just serve a simple seaweed salad? And no wasabi in it please.",
+                "datePublished": "2017-12-08"
+            },
+            {
+                "reviewId": "vO6YdLWpNxJKW7bM2L4JRQ",
+                "author": "Ching T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of my favorite ramen in London.\nDelicious ramen with good service\nTheir salad is great!\nFair priced",
+                "datePublished": "2018-03-10"
+            },
+            {
+                "reviewId": "Z4dia2izmNEoyjXO9yfAAw",
+                "author": "Thierry T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "1. Service - our waiter was awesome. Funny guy, and deserves a tip! He recommended what beer to get, and gave us a little run through of what to eat as well. There, you wait to be seated, order at the table, and pay at your table.\n2. Price - Prices may vary depending on what you order. But regarding on Ramen dishes only, it can be from 11 to 15 pounds. \n3. Ambiance - Awesome decoration. Looks fitting and petit.\n4. Food - My wife and I both had the Shoryu Ganso Tonkotsu. This is their signature ramen noodle soup. We thought it was flavorful and very filling. It is prepared in Pork broth, Char Siu BBQ Pork, Nitamago Egg, Kikurage Mushrooms, Spring Onion, Sesame, Ginger, Nori Seaweed, and fried shallots. \n5. Cleanliness - Food and tables were clean, but toilet didn't flush so nicely that night I was there.",
+                "datePublished": "2016-09-18"
+            },
+            {
+                "reviewId": "1DXco0R8lPxkXqpA8gvfrA",
+                "author": "Nelle L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Got our fill of ramen. The tonkatsu was flavorful and the ramen itself firm yet springy as i like my ramen. \nOrder the miso with karage chicken ramen and slurp every drop of the soup. The chicken crispy yet moist.. very yummy. \nDisappointed we didn't try the signature bun.. another trip for sure. \nSeating was fast and easy for lunch.. will be back",
+                "datePublished": "2017-12-29"
+            },
+            {
+                "reviewId": "X_Ae1D--bkSMJvsmQQhLmw",
+                "author": "Amanda N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Really really good ramen place in the heart of London. It apparently was nominated for a Michelin star?! I've been to ramen everywhere in the States, and I have to tell you, this was some of the best I've ever had. We ordered the karaage and spicy mentaiko appetizers as well, which were wonderful. The karaage had the perfect amount of crunch and the mentaiko was delicious without being overbearing (p.s. add some soy sauce to this if you'd like!). The ramen noodles had good texture and the broth was perfect without being too salty or heavy. I honestly ended up drinking the entire bowl. The prices are very reasonable (€8 or so for a bowl) and honestly I'm sad we don't have one in the States. A must-stop place for ramen lovers.",
+                "datePublished": "2017-05-15"
+            },
+            {
+                "reviewId": "PR8vVZHdjRxtuiKIi_aF9A",
+                "author": "Tanmay A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Travelling from out of the country and needed to try some local ramen. I ordered the Piri Lori Tonkotsu - extra heat, jalapeños, and a secret spicy sauce. Overall I enjoyed the meal. The broth is definitely near the top of my list for the ramen I've tried, and spiciness was a slight kick without being overbearing. The pork was average, and could have used more flavoring and tenderness in my opinion. Variety of noodle selections as well with choices of varying chewiness.\nThe location itself was nice, with a tendency for couples or intimate dinners, but options for mid-sized and individual stool seating as well. All the staff were very friendly.\nUnfortunately they were out of the frozen Kirin when I went, but would definitely be interested in trying if I get the chance to return.",
+                "datePublished": "2017-05-10"
+            },
+            {
+                "reviewId": "pQruaYTyX_GXnd7Cw_do6g",
+                "author": "Nathan G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Ramen is one of my favourite foods to go out to eat, especially back in my hometown of Vancouver where there is certainly no shortage of ramen shops! \nSince moving to London, I've tried both Ippudo and Shoryu a few times, trying to figure out which one I liked more, and I've come to the conclusion that the broth at Shoryu is definitely tastier. The Kotteri Hakata Tonkotsu is fantastic here (the broth, the noodles, and the charsiu all taste great). Sprinkle on some sesame seeds and garlic, and your bowl will taste even better! Service here has also been consistently good, even when the restaurant is busy. \nMy only minor complaint is that their ramen eggs aren't as good as what I've had elsewhere (strangely they seem less flavourful?), but still not bad. Certainly not a big enough complaint to detract from the rest of the dish.\nI really don't have much else to say that the other 200+ reviews here haven't already said. Shoryu is probably my favourite ramen shop in London, and I will definitely return!",
+                "datePublished": "2017-03-15"
+            }
+        ]
+    },
+    "40": {
+        "id": "HrBB8jbsJF2xt9WwX1Skrw",
+        "name": "Shoryu Ramen",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "St James's",
+            "streetAddress": "9 Regent Street\nLondon SW1Y 4LR\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/cEgzT-n3ehZPiJ_Us23rKg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "",
+        "review": [
+            {
+                "reviewId": "kGNwEXgmSaW1jtloo_Pz_A",
+                "author": "Jackie L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Are you serious? Ridiculously good ramen and we've had great ramen! There's a reason this place is 3x Michelin recommended. This takes the great ramen we have had and bumps it into gourmet. Even what seemed like a boring choice, the origin tonkatsu, was surprisingly amazing, full of flavor. My 8 & 10 yo kids left nothing behind. (And they know their ramen.) I had the tan tan ramen as I always order at ramen houses and the egg is organic as evidence by the super orange yolk. The broth had depth and complexity. They use bones and you can tell. \nWe were here on Monday so we got the 2for1 bun deal. The prawn buns were the real deal prawn size! The buns were large too, big enough to hold the prawns. The only complaint is that the buns took a long time to come out.",
+                "datePublished": "2017-04-03"
+            },
+            {
+                "reviewId": "WcqVokD3UIZgBK-ULOfjdQ",
+                "author": "Emma E.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Having lived in NYC and LA, I've had some pretty bomb-ass ramen and unfortunately this just didn't match up. I had the most popular tonkotsu ramen  with supposedly extra rich broth. However, I had to add a little more chili oil and soy sauce than I would have liked in order to make it more flavorful. It wasn't terrible but it also wasn't the best and I'm not sure that I'd return. On the positive side, the guy who brought us our water was really nice and friendly :)",
+                "datePublished": "2018-05-21"
+            },
+            {
+                "reviewId": "z8kF-CfHUJQwJuRRWqCVqg",
+                "author": "Melissa C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious! \nServer wasn't the most knowledgeable or confident but the ramen more than made up for it.",
+                "datePublished": "2017-11-21"
+            },
+            {
+                "reviewId": "2xNZOuKJstqWZBJDkobZIg",
+                "author": "Torterry C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It seems like Shoryu Ramen is quite a big name in London, they got the restaurant in couple places. I hadn't heard that yet till when I was in London with my hubby. We were hungry for Asian cuisine, the Shoryu Ramen was one of the few which close to us. Since we both like Ramen, so we decided to head to this one. The restaurant was quite close to Piccadilly Circus and located right on the main street, so quite easy for us to find it. Inside the place was also really nice, It gave me a really nice feeling, the place is clean and modern but also got a Japanese culture in it. Although the restaurant wasn't big, we just like it here. \nWhen we were here, it was quite busy. It is always a good sign for a good restaurant. And luckily they were still managed a table for two for us, that was nice. After we sat down, we got a look of the menu, wow, lots of nice food in there, I would like to order. Well, I just wanted to try out the Ramen here first. And I forgot that outside of Germany, it is quite common that restaurant will gave free water on the table. We ordered extra drinks, well, got more options anyway. \nI really like the Ramen here, it tasted really good. But again still something was missing compared those I had tried back in Asia, I couldn't really tell what. But again it tasted still really great. I got the idea why this place was well-known here. The price was alright, quite reasonable. I did remember that will recommend to give tips 18%, that was quite a bit much, I think. There was also WIFI in the restaurant, quite convenient for people who need it.",
+                "datePublished": "2016-07-26"
+            },
+            {
+                "reviewId": "KPervC-CQ5rFA6TnKfmkyQ",
+                "author": "Ryan A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "One of the better ramen places I've been to in the world, I stumbled upon it accidentally while returning some keys to a friend - proof that there's a silver lining in everything.\nThe first thing you should know is that this place gets very busy, so you might need to wait a bit. The second thing is that the waiters are going to explain the entire menu to you if you say you've never been there before, down to every last detail. It's kind of patronizing.\nI love spicy ramen and will almost always pick it over the others. Their menu lists a traditional tonkatsu, but then it also lists a Kotteri Hakata Tonkatsu ramen that has a richer and thicker sauce. There was an unnecessary amount of confusion when I asked if the spicy Piri Piri Tonkatsu was made with the traditional tonkatsu, or the Kotteri - the waitress explained to me what tonkatsu was three times in a row. So I just ordered it.\nIf you like spicy ramen, the Piri Piri is the way to go. The broth was smooth and silky and had just enough heat to make your forehead sweat a little, but not enough to burn your tastebuds into oblivion. The noodles were perfect, smooth and not overdone. I didn't like that they added raw jalapeno and ginger though. The ginger kind of threw off the rest of the flavor and I avoided the jalapeno because I didn't want my mouth to catch on fire.\nIf you're in London and have a ramen craving then this is your place. Just be prepared to wait and/or be spoken to as if you were a child.",
+                "datePublished": "2017-03-04"
+            },
+            {
+                "reviewId": "nEC7CEZ3JW7131PvCMRZ5Q",
+                "author": "Brenda L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Pretty good ramen - not on par with Ippudo but overall pretty good.\nSpace is super small (cozy) - you'll be sitting shoulder to shoulder with other customers. There wasn't a wait when I went but since the place is small - I wouldn't be surprised if there was one. \nThe pork belly buns were just ok - they put way too much mayo in the buns which took away from the pork belly itself. I'd suggest omitting the mayo all together.\nThe cucumber dish was alright - just a small cucumber with some sesame oil and hot flakes on top - super bland. It would have been so much better with a little vinegar.\nThe ramen itself was good - decent portions - toppings were limited and expensive for extras. The noodles were cooked well as was the poached egg. Soup was flavorful and came with good slices of pork. \nService was nice and friendly. There is free wifi which is always a plus!\nDecent place to get your ramen fix - prices are ok for the city - about £40 for a meal for 2",
+                "datePublished": "2016-03-02"
+            },
+            {
+                "reviewId": "t64xAcrLBrGvvOCeV7arWw",
+                "author": "James C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I got the special saki flight and the tonkoysu bowl. Perfect flavours. The saki flight at 12 pound was worth the price, it was basically three double shot glasses full of the best saki brand you can buy.",
+                "datePublished": "2018-03-20"
+            },
+            {
+                "reviewId": "7le9wXw4CFi5bUQCieyflA",
+                "author": "D D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We were able to get a table right away. The waitress was helpful explaining to us their menu as it was our first time there. All the food that we ordered were good. We ordered Halloumi & Avocado bun, Shoryu Chicken bun, Kotteri Hakata Tonkotsu Ramen, White Natural Ramen.",
+                "datePublished": "2018-07-30"
+            },
+            {
+                "reviewId": "teo68ckEsTs22K0G1RjcuA",
+                "author": "Temmie D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The ramen had lots of flavor and was a very big portion.  The pork buns were a little small but the pork was delicious. The scallions and red ginger give the ramen a fresh taste while adding heat. There is white pepper. A sesame seed grinder. Hot oil and  sauce to add to your ramen. They only thing that was annoying is they had a gong that was very loud and they banged it every time someone came in.",
+                "datePublished": "2018-04-17"
+            },
+            {
+                "reviewId": "DDBiqLJRTQ9B7_XgTdyVSg",
+                "author": "Emma B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great ramen place. We came late on a Thursday night and the place was still busy with a nice atmosphere. We started off with a chicken bun each first -- they were great. A thick pancake with cucumber and hoisin sauce with a nice big piece of fried chicken in it. Next we both had a ramen dish, I had the recommended Kotteri Hakata Tonkotsu -- which was a nice filling dish. We also had the Karaka Tan Tan Tonkotsu, which was similar to my dish but spicy -- it was really good. If you like spicy food I'd chose this dish over the other one. A nice meal out, about £12 for a bowl of ramen. Not to bad of prices, seen though it's right down the street from Piccadilly Circus. Easy walk to and from the tube.",
+                "datePublished": "2017-01-15"
+            },
+            {
+                "reviewId": "kGC9zIA5FAFaOlQ51_-m2Q",
+                "author": "Jennifer B.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Um, no again.\nThis place was just as bad as Kanada-Ya but for different reasons. The tonkotsu ramen was so bad we couldn't finish it. The pork buns were smothered in sauce we couldn't finish those either.",
+                "datePublished": "2016-11-26"
+            },
+            {
+                "reviewId": "Xvtg1CJndmnPcBNL7RZQLA",
+                "author": "Dustin H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wish I could give this place a 3.5\n+ Kotteri Hakata Tonkotsu was pretty tasty. Broth was thick and rich. Slightly too salty for my taste but overall well done. The noodles were fantastic and with firmness cooked to order. Pork pieces were nothing special, but the egg was better than most. Minor gripe - the ginger mixed in instead of on the side.\n- Gyoza wasn't anything special and overpriced.",
+                "datePublished": "2017-01-09"
+            },
+            {
+                "reviewId": "LZiTBBJiOFFLNbQoE-pdug",
+                "author": "Lance W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'm only giving it 4 stars because I don't know sh*te from shinola when comes to Raman BUT this place was really good.  It was 2 for the price of 1 bun Monday when my son and I stopped in - Bun-tastic was the phase used, bonus points for that.!!!\nMy son ordered the Gyoza - He loved 'em.  I ordered the raman with pork as well as the pork bun with the chicken bun; all of the above was fantastic.",
+                "datePublished": "2017-06-26"
+            },
+            {
+                "reviewId": "S3ZtkQPgVYXyDBlPa6sW_g",
+                "author": "Martina C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I love this place!!!! Great value for money, staff is very nice, quick service and ramen are just delicious here! My fav is white natural with super hard noodles! A must try is the black sesame tofu!",
+                "datePublished": "2017-06-19"
+            },
+            {
+                "reviewId": "aTTCPhfN9Asdkrer3SaWww",
+                "author": "Julie L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Incredible ramen!! Kids loved the gyoza (potstickers) and chicken Kaarage (like nuggets)!",
+                "datePublished": "2018-03-29"
+            },
+            {
+                "reviewId": "XPtSjmQAqAJxDS8N7iTHDg",
+                "author": "Terry C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Not the biggest fan of the soup that they use but the noodles are good. Their curry dishes are pretty good and for Japanese food the price is decent. However the service at this place is pretty bad. Very slow to respond so be prepared to wait 15-20min for them to even get some drinks.",
+                "datePublished": "2018-07-19"
+            },
+            {
+                "reviewId": "YlwxFe4QKVLtCOxql4Kurw",
+                "author": "Jackson F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Shoryu was a solid place to get ramen. Everything was flavorful, but it did leave a bit to be desired. The buns were great, and the sake was authentic. The soup I got was good, and I liked the spicy sauce available on the table, but something was a bit off. Although the pork belly was good, it was obvious that it was not very fresh. It was seasoned well, but it shared a similar flavor with the turkey that you'd have a few days after thanksgiving. That being said, I had a good experience here and would definitely recommend going here.",
+                "datePublished": "2018-02-26"
+            },
+            {
+                "reviewId": "BRFTJzlaCL4gXBQE4fKCeg",
+                "author": "Brian R.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Damn fine ramen of the creamy tonkotsu variety which would merit 4 stars but for the terrible service.  Waiters and the manager seemed to ignore our eye contact and repeated polite hand signals, so I had to get up from the table to ask for a menu.  After another several hand signals we were able to order, and received our food after yet another delay.  Unless you're desperate for ramen (no shame in that), I'd recommend avoiding it.",
+                "datePublished": "2017-06-18"
+            },
+            {
+                "reviewId": "6rxiNDysDWYArU8kIf0GFA",
+                "author": "Paul V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Having been spoiled silly this year with highly anticipated trips to both Ippudo (\nyelp.com/biz/ippudo-ny-n…\n) and Momofuku (\nyelp.com/biz/momofuku-no…\n) over in New York city, I was thrilled to see what the city of London had to offer in terms of pork buns and ramen. Behold: Shoryu. The verdict? Better than Momofuku Noodle Bar, but just shy of Ippudo.\nStar 1: How were the service and atmosphere?\nOne thing I will say regarding the atmosphere is that Shoryu does an excellent job of walking the fine line between authentic and fusion. Many of the staff are clearly japanese, but the atmosphere is such that you'll be comfortable even if you're a local or a non-Japanese tourist. Seating is both varied and abundant, so you'll be good whether you're a larger party of just an individual like I was. While the ramen can take a bit of time to come out, know that's because it's made to order, and in the meantime you can dig into a pork bun, which you absolutely should. Star Granted. \nStar 2: How were the portions relative to the cost?\nPrices here at Shoryu are comparable to what you'll find elsewhere, with everything inflated just a bit to adjust for currency. Ramen? Twelve pounds. A pork bun? Just shy of a fiver. Considering that these portions are sizable, these are fair prices across the board. Star Granted. \nStars 3 and 4: How was the food?\nI went with a mix of traditional and contemporary here at Shoryu, and the result was a classic pork bun and a more modern 'Peri Peri' spicy ramen. I ended up with a bit of a mixed bag, with top notch ramen and a pork bun that was good but not what I would call elite. \nFirst? The pork bun. Good? Again, yes, this was a good pork bun, but I was a bit surprised at the simplicity of the auxiliary ingredients. The lettuce was standard iceberg, and while the pork was good, the entire thing was drowned in a chipotle mayo of some source that cleaned out a lot of the flavor. Good, but not the best I've had (that's you Ippudo). \nNow, the ramen I will say was easily top tier. I have a pretty exceptionally high tolerance for spicy food, so when I was warned that the peri peri ramen was spicy I more or less brushed it off. Wow. A word to the wise? This is some spicy ramen, and when it came down to drinking the broth I had to stop shy of finishing off the whole thing on account of my throat burning with jalapeno seeds. Having said that, the chicken and seaweed and egg and noodles were phenomenal, and this was pretty close to being on par with the best ramen I've had over at Ippudo.  Excellent. Single Star Granted. \nStar 5: Would you eat here every day if you could?\nWhile it's not the best ramen and pork bun combo I've ever had, for now Shoryu is the best I've found in the city, and that warrants a fourth star overall. Star Granted.",
+                "datePublished": "2015-09-14"
+            },
+            {
+                "reviewId": "qAVfsyIHlcB9aSbRcCjvmQ",
+                "author": "Yi H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "At first I thought it's a good place to bring friends there, showing them Japanese food style, but the problem is I only ordered one set but the restaurant charged me extra one , that's 22pounds! And no one remind me there is something wrong with that!",
+                "datePublished": "2018-02-28"
+            }
+        ]
+    },
+    "60": {
+        "id": "HrBB8jbsJF2xt9WwX1Skrw",
+        "name": "Shoryu Ramen",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "St James's",
+            "streetAddress": "9 Regent Street\nLondon SW1Y 4LR\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/cEgzT-n3ehZPiJ_Us23rKg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "",
+        "review": [
+            {
+                "reviewId": "Muij7caZs5-PlwSKRBr7Rg",
+                "author": "Hande O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'm gonna give this place a 3 unfortunately as they kept messing up our bun order (it arrived 3 times!). Also, I asked for some spicy sauce and they chargd me £1 for it. If it wasn't free (which it should be in a ramen place) then at least give a heads-up to the customer so they can decide.",
+                "datePublished": "2018-01-08"
+            },
+            {
+                "reviewId": "2vFb9xInH7ZyttKbrBKSwg",
+                "author": "Monique N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Must try!! The service was great and the food was excellent! My new favorite ramen place in London! \nShoutout to Georgia our waitress for being awesome! :)",
+                "datePublished": "2017-07-21"
+            },
+            {
+                "reviewId": "pTtCu4nAUS7MNp064GkQBg",
+                "author": "Michael S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Came here via Yelp late at night 23:00 and it did not disappoint. Service was friendly and the food was great. Ordered Salt and Pepper chicken which was hot and crispy, Waygu Beef Bun and BBQ Bun and they were delicious- especially the Waygu. Also had the Curry ramen and it was tasty (not as spicy as I would like but very good anyway). The only \"negative\" thing was the drum - they hit it twice for every party that came in or left. But not annoying enough to not rate this tasty place a five star.",
+                "datePublished": "2018-06-23"
+            },
+            {
+                "reviewId": "2EXZ4YmRjCqGLJlpO6_Big",
+                "author": "Heekyung Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "After watching a certain Youtuber rave about this place, I decided to go check it out. Unfortunately, the taste was not as spectacular as the way the Youtuber sold it-- or maybe we just have different taste buds. \nThe spicy ramen was not that spicy. It didn't have a particular \"kick\" to it. It was too bland. The vegan option was interesting because the broth was made of soy. I got the original. It was good but it wasn't something that stood out to me. The meat, tho, blew me away. It just melted into my mouth when I took the first bite. \nOverall, the service was great and the food wasn't bad! It's just that I've had better in my day.",
+                "datePublished": "2017-05-19"
+            },
+            {
+                "reviewId": "TJTCCW7vGFMqx_7x7tZ2Pg",
+                "author": "Dannie W.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I'm kind of disappointed at this restaurant. First, I waited 45 minutes to eat ramen at around 9pm on Saturday night. They say they are recommended by Michelin in different years but I don't seem to find them on the Michelin website. I tried the recommended Kotteri Hakata Tonkotsu ramen. I'm so disappointed. The soup is not think, the meat is bland, the egg is bland. They say they marinate the pork and egg for a long time but they don't taste like that. The takoyaki is different from the ordinary ones as they are deep fried. So it's crispy outside. It's £6.9 for 5 pieces but in each one, there's only a tiny piece of octopus. The rest is just dough. It doesn't worth the price. It doesn't worth the wait.",
+                "datePublished": "2018-01-28"
+            },
+            {
+                "reviewId": "icwz8nR8KkbMBgnEDI5BhA",
+                "author": "Rossana D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "First time and the ramen is delicious and the service is good.  The drinks are superb.  Very happy customer!",
+                "datePublished": "2017-07-29"
+            },
+            {
+                "reviewId": "lPMWHXhdDXGlUkjO4vGYog",
+                "author": "Caleb H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The wait was long and they left us in the cold outside!\nThe staff gave us the wrong information about the Valentine's menu and forgot my order!\nThe worst was the supervisor who ignore our calls and pretended we didn't exist. Only saving grace was the ramen which was nice.\nWill not recommend becoz of terrible service. The Japanese way has been totally ruined by the supervisor.",
+                "datePublished": "2018-02-12"
+            },
+            {
+                "reviewId": "VQPGDuG4vQt-i8BWrL_tdQ",
+                "author": "Sally C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I love ramen on chilly nights and that's where we headed after church on a Sunday evening. We got seated fairly quickly, although by the door. We found out how odd that was after we went to washroom and found the entire back of the house empty. Oh well. \nThe food was delicious, hearty and warming to the belly. I got the spicy ramen and it was a little spicier than I anticipated but yummy nonetheless. The only thing I'd say I don't like is that the portions are smaller than any other ramen restaurant I've been to and the prices are a tiny bit higher, so the value isn't quite there. Usually, I have difficulty finishing my portion but I probably could've eaten a few more bites after I was done this time. Maybe don't come if you're starving but it's a good small meal if you're not terribly famished.",
+                "datePublished": "2015-08-09"
+            },
+            {
+                "reviewId": "u-Yvlg7bHHCQrYlo1WH0yw",
+                "author": "Hanna R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A lovely place with a good and fast service.\nIt was fully booked when we we there, but we got a fast service.\nWe took two ramen, one of them was vegetarian. And two buns to taste with cheese was perfect and with shrimps was less tasty. But overall I'll recommend this place.",
+                "datePublished": "2017-08-01"
+            },
+            {
+                "reviewId": "uTukDgAy852jJVZf7YOmTg",
+                "author": "Valex D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The best ramen I had in London so far! This place is amazing if you want to try the original ramen and feel the taste of the rich broth they made. \nI've ordered the Kotteri Hakata Tonkotsu and was amazing! from the broth to the pork and the noodles were just perfect. You can also choose how you want the noodles to be cooked (from standard to soft to hard). Portion was big enough, staff is nice and friendly, place is not too loud so you can enjoy a chat before and after. This place is also located in a nice spot: not far from Piccadilly circus but not in the heart oh Soho = no queue! That made our Thursday dinner perfect!\nIf I want to be super picky  (as I am,unfortunately) the only cons is: only one toilet for the entire restaurant!You will see people queuing  in front of it which is not great as it is close to the tables so if you are not lucky enough to be close to the bathroom you could end up with people behind you queuing for the loo. \nApart from that, great experience and great food!Will definitely come back soon.",
+                "datePublished": "2016-10-01"
+            },
+            {
+                "reviewId": "b2wWArQy9ow9lE0vFoT2xw",
+                "author": "Seo Young M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've been to Kanadaya, Bone Daddies, and other ramen places but this is my favorite! Had the thicker broth version of tonkotsu ramen, and the soup was thick and flavorful. The noodles are went perfectly with the broth ! (Which wasn't the case for some other ramen restaurants) The waiters and waitresses are also very welcoming and nice :)",
+                "datePublished": "2016-11-02"
+            },
+            {
+                "reviewId": "pW5aFaO9PIEhJHWjoj8MSg",
+                "author": "Des P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of the best tonkotsu ramen in town. Highly recommended! They beer range is also very good. Polite and informative staff, decent prices and nice atmosphere. \nI like the fact that this chain keeps expanding in London!",
+                "datePublished": "2018-02-05"
+            },
+            {
+                "reviewId": "TtWV3gf_jdYo60nBZWnLWw",
+                "author": "Cece L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Michelin Guide \"recommended\" my ass. Six hours after eating I woke up all nauseous in the middle of the night. Proceeded to rush into the bathroom with mud butt diarrhea and then vomit. \nAside from the bout of foodborne illness I'm currently experiencing, the food was less than mediocre at best. This was my first time here and I ordered the Shoryu Ganso Tonkotsu. The tonkotsu broth is nothing to write home about (incredibly bland for boasting that it takes 12 hours to cook), the chashu was flavorless, and the noodles were... well, comparatively similar to everything else that's supposedly good about their ramen. When the ramen was brought out, the broth and egg were cold but the noodles were hot. At the end, I couldn't bring myself to finish the bowl and that's rare as I normally devour ramen instantly.\nOverall, 10/10 would AVOID this place like the bubonic plague.",
+                "datePublished": "2017-03-25"
+            },
+            {
+                "reviewId": "ZpJqpOtdYN9SjRY7y3dGMg",
+                "author": "Quincy P.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I've been coming to Shoryu for years so this recent visit was extremely disappointing because I am familiar with their usual level of service and quality of food. \nWhen I was seated I sat there for maybe ten minutes before I had to ask someone for a menu, while other parties were sat after me and given menus right away. These same parties were also given the opportunity to order before I was. I made eye contact with several waiters, signaling that I was ready to order and they ignored me, continuing to chat to each other behind the counter. It wasn't until another ten minutes that I was given the opportunity to order. \nI ordered my usual prawn tempura shoryu bun and a piri piri tonkotsu. When the shoryu bun comes out, there is usually a wrapped wet wipe so that you can clean your hands before you pick up the bun but they didn't give me anything and I had difficulty getting anyone's attention again so I just gave up and ate the bun which tasted great, as usual. When my tonkotsu came out, the nitamago was really overdone to where there was no runny yolk quality, and about 90% of the yolk was a crumbling yellow rather than a silky orange. When I asked for another egg, the waitress asked what was wrong with it and I told her it was overdone and how it's supposed to be soft boiled (I had to explain to her what a proper nitamago looks like while I'm sitting in front of a chalkboard with the definitions of the different elements that make up a ramen, one of which is a definition of a nitamago). She came back with another egg that was still over cooked but better than the my initial egg claiming \"this is the best we've got\".  Other than the egg, the ramen was delicious. \nFinally, when I asked for my check they brought me the bill right away and I sat with my credit card in my hand for maybe 15 minutes before I had to again ask if I could pay. A new waitress came and asked if I wanted to pay by card, and I asked her if the 12.5% service charge could be taken off because out of all the years I've been here I've never experienced such awful service. She just sulked away and came back with an adjusted bill, not once making an attempt to ask why I felt that way or inquire as to what they could do to improve. She merely processed my transaction in complete silence and then walked away. \nI would also like to add that I was not the only one experiencing poor customer service. There was a six-top of Australian diners behind me who asked for water from at least three different waiters and also said they were ready to order, to which the waitress who processed my bill replied in a really harsh and rude tone \"it's coming! I've already asked!\" And another waiter turned up and told them \"you're just going to have to wait!\"\nI usually go to the carnaby branch so maybe it's my mistake for going to a different location but I've been to this location in the past too. I don't think I will return to this branch but look forward to going to another branch soon",
+                "datePublished": "2017-07-22"
+            },
+            {
+                "reviewId": "y3RGzlBQzeG7IAJtUVA6kw",
+                "author": "Sandra I.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I was actually at the location at Carnaby St. and when I went to go check this place out on yelp, I didn't realize that Shoryu was a small franchise and that there were several locations around London. The place on Carnaby St was small, but cozy and pretty lively on a Sunday night. I was seated at the booth and started to chat up with the bartenders. It was my first time, so they explained that they specialize in tonkotsu ramen and went through the pretty large menu with a lot of different ramen options and side dishes. I decided on the Kimchi Seafood tonkotsu because I love spice. I was also able to customize the texture of my ramen (standard, hard, super hard) which I thought was interesting as I have never had that option given to me before. I also got gyoza (because obviously you should get that with every ramen dish) as well as a steamed pork belly bun to start. Also, if you like lychee, definitely try the pink lychee jasmine tea, you won't regret it! \nThe steamed bun came on the mini wooden steamer which I thought was super cute and the pork belly was super flavourful and the bun was also very soft and delicious. The gyoza I absolutely loved!! The crispy layer on the dumping as well as the filling were SO good and not overly salty. I definitely wish I ordered more. The ramen itself was definitely good, but I found the broth to be standard and definitely not as spicy as I wished it to be. It was very mild. I loved that they were very generous on the seafood and I had a lot of it in my ramen. Great sized portion and reasonably priced! \nWhile it wasn't busy, I found the service to be a little slow. Overall, I was pretty happy with the place and I probably would return if I could!",
+                "datePublished": "2016-09-14"
+            },
+            {
+                "reviewId": "T4aloLuELOPHu0_AK030iw",
+                "author": "Ling Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We went to a Japanese restaurant in soho and found it shut earlier this evening. It may been closed due to the bank holiday plus gumball 3000 was on in regent street. \nWe ended up walking round and found this place! I went in to ask for a table for three and was told it was bout 15 min wait, and the queue was outside, as no room inside to stand! \nThey do have a heater outside so it's not too bad. \nWhen we got our table, they explained how the menu worked with the different styles of noodle and the bun offer where you can get 2 for 1 if you order ramen noodles.\nWe decided to try the buns, and ordered one pork one and a chicken one. We each had noodles and two of us ordered an extra half boiled egg each. You can have the noodles al dente, standard or soft. The original ramen dish was nice, I really liked the egg, it was soft boiled.\nI had a mocktail strawberry kusu mojito which was very refreshing. \nThe place is small, but looks great, the staff are nice though we found our waitress a little hard to understand and had to go back and ask her what she meant.\nMy friend did order more buns to take home to her husband as they were nice.",
+                "datePublished": "2016-05-02"
+            },
+            {
+                "reviewId": "IgyeMx0cxq-tK1N1a0iQAQ",
+                "author": "Bethany W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wow! It was a toss up between here and Bone Daddies and we settled on this beauty. Being relatively new to Ramen I was excited to try another place and another type.\nWe arrived and had to wait 10 minutes for a table. Be warned: You do have to wait outside for tables so maybe not the best option if freezing or raining but we were happy to wait as it was a mild night and it smelt so god damn good!\nWe were seated on a long bench by the wall, at first we were a bit disappointed not to have a proper table but in the end we quite enjoyed it.\nWe ordered the gyoza and pork and prawn buns to share. Then I ordered the curry ramen in the others section.\nThe sides came first which I was glad about being staring. The gyoza was freshly cooked and mouth-wateringly good. The pieces of meat inside were chunky and they just went down a treat!\nNow, to the buns, it was the first time I'd ever had a 'bun' and I absolutely LOVED them. Whatever that weird type foldy bread is, it's amazing and the toppings were superb. I particularly liked the belly pork! NOW.\nNext, the ramen. Gosh it was good - garlic, curried soupy goodness with bites sized pieces of friend chicken breast, veg, seaweed and egg floating within. Just perfection. The curry had an almost katsu taste to it which I enjoyed and with the extra clove of garlic, I was in a ramen dream. It was slightly salty but I am a fan of salt so no complaints here! \nService was fantastic and the overall ambience of the restaurant is relaxed and warming. We left full, satisfied and saying we'd definitely be back again.\nHappy Saturday!",
+                "datePublished": "2016-03-12"
+            },
+            {
+                "reviewId": "2AtWoY6AIZQsMnn074iLVg",
+                "author": "Marco E.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Typical Tonkotsu place.  Nothing special, frankly, it's really over-hyped.  Ramen could have been out of preserved or dried packages, Kimchi was not especially tasty (probably made more palatable for unsophisticated western's taste) and the shrimps on the seafood's Tonkotsu seemed straight out of the refrigerator, they were cold inside the warm soup which was an unpleasant contrast.\nI finished ordering a Macha ice cream which didn't certainly taste artisanal.\nIf you want to get real Japanese ramen in Europe I'll suggest trying in Düsseldorf.",
+                "datePublished": "2016-06-09"
+            },
+            {
+                "reviewId": "W9C6Hg1LAyjE1lU4UTOiEw",
+                "author": "Sunny K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Pretty disappointed by this place. It looks very sexy with decor etc, but service was really poor - and I was there for dinner at 5.30pm before a show.  I finally got a menu and realised there wasn't much veggie choice (which I guess is to be expected, so that's not a biggie) but I opted for a pancake which sounded intriguing. \nWell, we waited 40 mins for food, and only after enquiring were brought an undercooked and frankly bizarrely chewy dish, minus the advertised salad. I would normally have sent something like this back, but by this point we were in a rush and there seemed to be no point, so I just graciously ate, then tried and failed to pay using Apple Pay. I think this is just not for me, and won't return,,,",
+                "datePublished": "2016-12-29"
+            },
+            {
+                "reviewId": "xfSIaqu7wiLdXe9_-pKkqw",
+                "author": "Amber S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place is nice and comfortable inside. We only waited about 15 minutes to be seated.\nI ordered the pork belly bun and the spicy tonkatsu ramen. The pork belly bun had a great flavor profile that was different from most that I have had. It had a sweet, smoky, and light spice to it.\nMy ramen was quite good except for the pickled ginger. I was not a fan. I ordered my ramen standard, but will opt for the firmer option for chewy purposes.\nIf you are in the mood for ramen then you can't go wrong here.",
+                "datePublished": "2017-04-07"
+            }
+        ]
+    },
+    "80": {
+        "id": "HrBB8jbsJF2xt9WwX1Skrw",
+        "name": "Shoryu Ramen",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "St James's",
+            "streetAddress": "9 Regent Street\nLondon SW1Y 4LR\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/cEgzT-n3ehZPiJ_Us23rKg/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "",
+        "review": [
+            {
+                "reviewId": "EvR1nKYwodT50wtkejHsPQ",
+                "author": "MaraLee L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This was my first authentic ramen experience. Beside top ramen and the local noodle bar, I had a very limited taste palette. As soon as you walk in you get this awesome sense of surrounding. The space is beautifully decorated. Very chic. We sat by the front to get a view of the street and the life outside. Our started was some pot stickers. They came out still sizzling. Very crispy and full. Great way to start. For my main I got the Origin Tonkostu. And wow. Ike nothing I ever tasted. And it was huge! There was no way I could finish it.....but I tried! By the time we left, our bellies were full and swishing. Extremely satisfied with our meals. If you like unique and authentic ramen, this is your place.",
+                "datePublished": "2017-12-16"
+            },
+            {
+                "reviewId": "kP4hyCAtoGqtAenvFyyNGA",
+                "author": "G S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Just what I needed when touring the Trafalgar Square area. I enjoyed their signature ramen (pork, egg, mushrooms over noodles) and others had the sashimi which was fresh and filling. Excellent service too. Would definitely recommend.",
+                "datePublished": "2017-08-08"
+            },
+            {
+                "reviewId": "sRKnhd5YePU3VijI2xp0Rw",
+                "author": "Linh L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We were around Regent/Piccadilly Circus after watching a musical in this area so we stopped by this place to eat Ramen. Their selection of dishes on their menu is wide, so you will find something you like. If you are not familiar with Japanese food, they also have a glossary on their menu in case you have trouble with finding out what you want and need a closer explanation. \nWe ordered a Shoryu Ganso Tonkotsu, their signature dish with extra meat, and also some fried gyoza. We finished our ramen and also our beer, and waited long for the gyoza. So we had to ask, and it seems they had forgotten about this order. They apologized and made the food right away when we pointed that out, so it was not the end of the world. But normally the gyoza should have come before the ramen as gyoza is considered more as an appertizer. \nSo in short this a good place to eat Ramen with good service, but it is not the best Ramen place around this area as they have a lot of competition here.",
+                "datePublished": "2016-03-17"
+            },
+            {
+                "reviewId": "fkCs7_PqLEVc7GKLJ-NFcg",
+                "author": "Elle W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We got there by sunday lunchtime on a cold day and there was already a couple of people queueing. it didn't take too long though (luckily it wasn't raining) and we were shown to our table. the place is rather small and these were two tables joined together, with table 2 already occupied. i don't know why they couldn't have separated the tables before we took our seats but that's fine, we did it ourselves.\nI had a steamed pork bun as a started and the price was quite steep for what is essentially a mini sandwich. The meat was somewhat flavoursome, but a bit dry and sat awkwardly inside the bun, trying to escape as I bit into it. I don't know, presentation wasn't great and I felt there was little value for money. \nI had the traditional ramen with two lovely half eggs and bits of pork that were ok, but not mind blowingly good as the ones I had in Tokyo. The broth was substantial and nicely flavoured, but I must be honest and said I've had better here in London. The price is honest for what you get, though, and I've heard you can get a second portion of noodles free if you still have lots of broth left. For drinks I've ordered a frozen kirin but it came mildy warm and without the foam cap it was supposed to have. I was disappointed to say the least.\nOverall the food ain't bad, it's just not awesome enough to make me queue or even go for another visit. And I believe you could have better elsewhere.",
+                "datePublished": "2017-03-06"
+            },
+            {
+                "reviewId": "nOR-0Mzo5pVe83YiNeFSsQ",
+                "author": "Stephanie O.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "GLUTEN FREE RAMEN!!! And also gluten free sides including chicken karaage (Japanese fried chicken) and steamed buns! \nI didn't go full GF as I got the Shoryu ganso tonkotsu but with rice noodles instead of egg noodles. For full GF you have the choice of two soy milk and white miso ramen. My ramen was so deeeelicious and the egg was just perfect. Really good pork too. All in all amazing. \nMy husband had the Dracula ramen...woah, he stunk so bad afterwards and we were going to the theatre, hahaha! And yep, it was even worse the morning after. Prepare yourself for the most garlicy dish ever. It was delicious though. \nWe also had the traditional Japanese chicken wings on ice for starter, just because it sounded cool. The wings were nice though I'm not sure why they are served on ice...\nMy husband also got the winter sake flight, 3 types of sake (35ml each I think) for £6.50 with an explanation of what each one was. A great idea to educate people about sake!\nThere were so many other interesting things here, the sides, the drinks. What a great meal! Will definitely be coming back...is tomorrow too soon?!",
+                "datePublished": "2016-01-27"
+            },
+            {
+                "reviewId": "3OI8Nk5nfFhbT_MgHx4tyw",
+                "author": "Kan C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Perfect, no-nonsense ramen. The soup is not insanely thick like some other competitors'. I like it. Also, their octopus appetizer is fantastic.",
+                "datePublished": "2018-04-01"
+            },
+            {
+                "reviewId": "Nm1W4oCvBPcWjV1LLQmEDA",
+                "author": "Nicole J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A nice broth, good taste to the pork, fun staff who rings a gong and meets you with a happy greeting upon entering, and a delicious matcha latte.  I honestly prefer Kanada-Ya, but I may go back here to give it another try (and this time, I will specify my noodle preference because they were much too soft for my taste).",
+                "datePublished": "2017-09-28"
+            },
+            {
+                "reviewId": "w9z5UZii8HkhyAU7uJEndA",
+                "author": "Cecilia J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Was starving and indecisive so when I turned the corner and saw a large line of people waiting outside of Shoryu, I knew it must be 1.) a new favorite yelp spot or 2.) super good...either way that made up my mind and I joined the line. I ordered their classic Shoryu Ganso Tonkotsu and it was just delicious. Aghh buttery and rich and flavorful....aghh im salivating thinking of it all over again. It was about 11 GBP (around $16 USD) for a bowl which is a little more expensive then the $12 bowls I am used to in DC (I guess both are kind of expensive for a bowl of soup when you think about it), then again this is London and everything is expensive here. ANYWAY back to the food. It was delicious and I would definitely give it my recommendation!",
+                "datePublished": "2016-01-30"
+            },
+            {
+                "reviewId": "wd8dAE4kQeDKZF-1mf_FZA",
+                "author": "Karen L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I don't live in London. I was only visiting for a week. Stumbled upon this little gem. Loved it so much that I haaaad to dine here twice. No shame. Had the pleasure of trying their Tantan, Spicy Miso, Piri piri and Curry. Piri piri was my favorite, but it's definitely spicy. Prepare yourselves! The jalapenos give it an extra kick! Tan Tan would be my second fave. The boiled egg is perfectly made every time too! \nDeco is trendy and modern. Service is hospitable and quick. Lucky for us, when we went both times, there wasn't really a wait. Shoryu is right next to Piccadilly, so perfect for a stroll before or after you wine and dine!",
+                "datePublished": "2014-12-29"
+            },
+            {
+                "reviewId": "zVtl3uh7xD2aNV8VOC7dDQ",
+                "author": "Irene R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "London's best ramen restaurant. I like their food. \nBut I don't understand why they make people queue even if they have enough tables. That's unfair. That's why I can't give them 5stars.",
+                "datePublished": "2017-04-03"
+            },
+            {
+                "reviewId": "RQ00SYjbam4ds_sO5cHbng",
+                "author": "Tony S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Small ramen shop in Piccadilly. We were lucky to have a short wait since they don't take reservations.\nAttentive and polite staff await you in this busy restaurant. I had the kotteri ramen, which was well prepared, flavourful and rich. I decided to go with the extra hard noodles and they were a good choice! The shoyu pork bun did underwhelm a bit; the strength of the sauce and mayo (?) didn't allow you to enjoy the pork. Not worth it in my opinion, but the ramen is worth going back for!",
+                "datePublished": "2015-12-31"
+            },
+            {
+                "reviewId": "5Ft-Cs2xRFlQ0tM2CA4GFA",
+                "author": "Foodie E.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The Shiitake & Konbu Gluten Free Soy Broth, Tofu, Kikurage, Seasoned Beansprouts, Sweet Corn, Spring Onion, Sesame, Spinach And Menma Bamboo was some of the best ramen I have ever had. Bursting with so much flavor. It was perfection. I am vegetarian and it is hard and quite rare to encounter ramen that is this yummy. I highly recommend this ramen spot for anyone looking for some quality food with a nice fun atmosphere. \nFor dessert I had the green tea cheesecake and the texture and flavor was on point. If I had more room in my stomach, I would have also got the yuzu cheesecake. That will have to be for my next visit to London. \nAmazing food with quality, friendly inviting staff, fun atmosphere",
+                "datePublished": "2016-04-22"
+            },
+            {
+                "reviewId": "t3KfUqAbmyjezYvQshGEcw",
+                "author": "Timber l.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great broth, noodles, and overall excellent variation on this Japanese dish. Loved the piri piri and fresh jalapeños for heat. Definitely would come again.",
+                "datePublished": "2016-12-18"
+            },
+            {
+                "reviewId": "IooQrznvbf7SFaCVmAwo5w",
+                "author": "Sam O.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I just tried Ippudo in NYC few days ago where Hirata Buns and Ramen are PERFECT. So basically when you come to Shoryu Ramen in London, the deception is normal.\nThe Waguy Beef Hirata is BAD, very fatty, the bun doesn't hold and it is drenched in mayonnaise !! (£7.5)\nThe fried chichen Ramen, is a large portion with several big pieces of Fried chicken (bland) that lost their crispness because of the broth.\nThe broth is flavourful but nothing compared to Ippudo.\nThe 1 star is for the location.\nThe minus 4 stars are basically more for the lack of service i got from the staff.  They are not motivated and not welcoming. I really was about to leave cause i felt i disturbed them. They were several empty seats/table but they offered the one very mext to the main door (bear in mind it is freezing outside and the clients are entering and flgoing out from this door)\nWhen i insisted to get the seat inside that i knew was free they told me no. I was abot to give up but eventually they gave me that seat after mumbling about me.\nThat is how my experience started at shoryu and believe me l, i was still expecting the food to be good despite the attitude of some staff.\nIt is very expensive for nothing and no need to say that i won't recommend it.",
+                "datePublished": "2015-03-03"
+            },
+            {
+                "reviewId": "TgAMB8Xj61GLjTJnYVVW2w",
+                "author": "Steve S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I bloody love Shoryu! I haven't eaten a lot of ramen but from what I know this is really good stuff! The portions are huge and for the price totally worth it! I had the Kotteri Hakata Tonkotsu and it was amazing! Delicious thick broth, succulent pork and perfect soft boiled eggs.\nSure this ramen thing is a bit of a London fad at the moment but who cares?! It tastes great and it fills the hole!\nOh, and they also do FROZEN BEER!!",
+                "datePublished": "2015-11-03"
+            },
+            {
+                "reviewId": "0jtJZvixIgNsizbeFClUHQ",
+                "author": "J D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Believe the hype. It's REAL. \nJust a few steps from touristy Piccadilly Circus, this gem is legit. Complex flavor, amazing service, solid recommendations. \nDo yourself a favor and make it here. It'll be worth every slurp of your soup.",
+                "datePublished": "2016-04-20"
+            },
+            {
+                "reviewId": "jObp7TfzgDF-tCNEOodP0Q",
+                "author": "Andrew W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was walking and on my way to a different restaurant when I passed by this place. The place had this warm and inviting vibe to it. Or maybe it was the rain that made me want to just grab a bowl of ramen.  So I decided to forgo the steak I was about to go enjoy and walked into this place. The staff was friendly and attentive and seated me right away.  Took a look at the menu and decided on the Kimchi seafood ramen along with the pork and prawn tempura buns along with a sake flight.\nLong story short everything was amazing. The buns were perfect and amazing. I wanted more but I had a whole bowl of ramen I needed to eat. So I start the ramen and the broth is just die to for. Perfect amount of heat along with perfectly cooked seafood. The noodles were not overcooked and had the right amount of chewiness. So good that I am promising myself that I will go back on every trip I make to London.",
+                "datePublished": "2016-06-11"
+            },
+            {
+                "reviewId": "kZYArZv3bvmUGILFo8Xmzw",
+                "author": "Angelica C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A-OK..... that sums it up.\nI had the Karaka Tan Tan Tonkotsu for 11.90gbp/18usd, 3pc gyoza for 4gbp/6usd, and a drink.\nMy bowl was small, so small I finished it even though my mouth was on fire because it was SPICY.  I'm not complaining about its spiciness, but its size...\ngyoza. ehh.\nUS$33.75 for eating alone and leaving a little hungry... no thanks",
+                "datePublished": "2015-01-03"
+            },
+            {
+                "reviewId": "u4GLKTBdpCYmhpR98A9L5g",
+                "author": "Josh V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing ramen noodles I ever have, tried Piri Piri tonkotsu was delicious and their buns are just so good. Definitely would come back and recommend it to everyone",
+                "datePublished": "2017-08-19"
+            },
+            {
+                "reviewId": "TIkO7rAOUqocLw457WxMKg",
+                "author": "Aaron K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Having my fair share of tasty ramen from California, this place is solid. Broth is very authentic and flavorful, noodles are perfect. If you are in the area and in the mood for some ramen, this is the place to go. Keep up and improve further and some day you'll earn that Michelin Star.",
+                "datePublished": "2017-01-05"
+            }
+        ]
+    }
+}

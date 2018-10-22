@@ -1,0 +1,1302 @@
+{
+    "0": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "Z9b4Xf-Ks6fIkQJpQ4N6bQ",
+                "author": "Kah-Sin F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A bit pricy but best sushi and 'sticks' you will ever have! Also friendly staff and nice atmosphere. \nYou should definitely give it a try if you like sushi.",
+                "datePublished": "2018-09-15"
+            },
+            {
+                "reviewId": "MWeFBZeBU1SxYkJvc3e5rw",
+                "author": "Kevin R.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "some of the items were special and the waiter was very kind during the meal. They use a lot of cooked items in the offerings and bad scallops by the way. I guess people like pretending they are eating raw fish. Then if you are from another country they add gratuity instead of letting you decide, I am sure this works on a lot of people who don't ask . Then when you question it they say no it's an option but they already added to the check they present. We would have tipped tonight because the server was very helpful, but in the end we did not and left feeling hustled what a shame",
+                "datePublished": "2018-09-27"
+            },
+            {
+                "reviewId": "4ciTIt3diQOwK26LvIdpsw",
+                "author": "Xavier M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Was in London for 2 weeks back in July and went to this place 3 times. Just loved everything about this place. Me and my girlfriend are vegan and there was tons of options. The drinks were great as well. Make sure to make a reservation though, it will be worth it.",
+                "datePublished": "2018-08-11"
+            },
+            {
+                "reviewId": "oa91iKBzIliQIq-lG6cdkA",
+                "author": "JF B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Sushi lovers... look no further !\nCreative, tasty, good service, a bit pricy though... but one of my favorite when traveling to London !",
+                "datePublished": "2018-08-19"
+            },
+            {
+                "reviewId": "uEBDG4yNJTp0xQ-d7943dQ",
+                "author": "Kobi A.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Decoration nice. Fish not so good. Sushi too salty. We took the menu for 2. Around 40 pounds. Generous plat however not so good quality of fish.",
+                "datePublished": "2018-09-25"
+            },
+            {
+                "reviewId": "icNqfDxkreVLqAdhRRHTfw",
+                "author": "Dan O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Had lunch here- walked in an asked for a table. Got seated outside.. while there were open tables indoors- (80% empty) - was told they have big groups reserved for the day. Not a big deal- but was surprise that two guys could not get squeezed in, it blessing in disguise- the one out door table was not bad. (for the record when we left - restaurant was still half empty. We also got the rookie server) \nThe food was okay- it didn't do justice to their pictorial menu. (If you're going to glamor shot your menu and present it to guest- I suggest you make sure the kitchen executes) - that menu is one if the best I have seen- so might be a little unfair to kitchen to set that expectation. \nWe ordered the Gala menu and a chirashi bowl- I enjoyed the bowls. Sushi was so-so and \"sticks\" were only okay. I\nOverall - it's a good spot for showy first dates and client dinners. But the service we received felt perfunctory and I think we got dismissed as riff raff by the staff.",
+                "datePublished": "2017-07-30"
+            },
+            {
+                "reviewId": "lGrq7EZCziXrXOC7QMf7fQ",
+                "author": "C G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Decided to go here for a quick dinner on a Saturday evening. Didn't realize the wait would be so long (about 45 min), will definitely make reservations next time. \nThis was my first visit to sticks n sushi & they do have an extensive menu! Took sometime to decide our order\nAbout the food:\nEbi bites- was ok. Didn't have much of a flavor of anything\nMamma Mia & Ebi Panko maki - loved the rolls. Can't wait to go back and try more of the maki\nWill definitely be visiting again to try the sashimi, sticks & the bowls",
+                "datePublished": "2018-03-23"
+            },
+            {
+                "reviewId": "B6IP1YWYf2HWhDCsP-hT3A",
+                "author": "Dianna O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A colleague of mine I was visiting in London took us here for dinner. I am a visitor from San Francisco. \nI am no expert on sushi, but I thought it was good. However, my sushi had a little too much rice than what I am used to. Presentation wise, the sushi and bowls were just like the pictures on the menu which was great. In all honesty, I wish I got a bowl myself you'll definitely get your money's worth. Customer service was great and we were seated right away on a Friday evening.\nLondon itself is expensive! I'm a tourist with a budget so I just wish it was a bit less pricey.",
+                "datePublished": "2017-12-29"
+            },
+            {
+                "reviewId": "DgMwaj_UxJX6plTtpBGiMQ",
+                "author": "Dave S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place got tons of awesome reviews, so we decided to check it out. First off, from our experience and what we were told, the Covent Garden location is packed, all the time. We came during the week and it was mayhem. So just know this before planning - we snuck some bar seats after a while.\nOn to the food - the menu is huge! We grabbed a variety of stuff.\nGrilled avocado - delicious starter\nSeaweed salad - overpriced, I'd skip it.\nSpicy edamame - awesome, done perfectly\nSpicy miso soup - with salmon and shiitake! Wow!\nWe then ordered the \"perfect day\" menu combo for two, and it was amazing! Also, they put all sauces on the side since I hate mayonnaise. Here are the highlights -\nCrab croquettes were crazy good. Super crispy and not too gooey.\nSpicy tuna maki - perfect amount of spicy, and not too much rice.\nSeared salmon tataki was good, not that memorable\nAll nigiri was fresh and delicious (tuna especially)\nThe yakitori was good, not amazing. The chicken meatballs were by far the best.\nAn awesome spot! Very good service and lots to choose from.",
+                "datePublished": "2017-12-26"
+            },
+            {
+                "reviewId": "6W-vbqAGmCwWeaXF3T1zFw",
+                "author": "Rachel T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is my favorite sushi place in London. There are a variety of choices and they all taste legit! Our favorite is the black cod stick.",
+                "datePublished": "2018-05-22"
+            },
+            {
+                "reviewId": "ZGeO-xn86749RGqRAKZ8mA",
+                "author": "Mike L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great sushi with some delicious variations on your typical sushi dishes.  Sampled a few of their 'sticks'.  Great flavors and unusual dishes for a sushi restaurant.  The asparagus with bacon was fantastic.  Veal.....meh.  Had to send first one back due to the grizzly texture that made it inedible.  Server quickly replaced it, but was duly unimpressed even with the more tender version.  Amazing place over all and worth a visit.",
+                "datePublished": "2018-07-18"
+            },
+            {
+                "reviewId": "dJFvucpUygrMHWH2uvCVkA",
+                "author": "Lulu F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yum. Did not disappoint. Love the tuna tartar, salmon carpaccio, and the skewers and vegetables. The broccoli was so delicious!!!",
+                "datePublished": "2018-07-21"
+            },
+            {
+                "reviewId": "jDCcmfO9MtshAwl1DwUVEw",
+                "author": "Dave C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Try the Green Grass Salad!!!  It's incredible and the name doesn't do it justice. We started with that, had great sushi, and then finished with another Green Grass Salad because we loved it so much. We sat in the basement and found it rather warm.",
+                "datePublished": "2018-07-29"
+            },
+            {
+                "reviewId": "ZrtwP_HwW_mEyw4ijmLzFA",
+                "author": "Evelyn A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I was strolling around Covent Garden with my best buddy and a sleeping baby and we realized this was the perfect window to grab lunch somewhere a little nicer. I was pubbed out, and sushi sounded perfect.\nSticks'n'Sushi is a seriously swanky lunch place.  In Toronto, where I hail from, there is a spectrum of types of sushi restaurants. In lovely Londontown, but it appears there are only cheap sushi places or fancy shmancy ones.\nDue to the shmance, I was a bit sheepish about bringing a baby, but after cuddling up in a corner with some sake I was soon over it. She woke up, she watched an ipad and ate lots of rice and soya. No one seemed to care. Everything was fresh, beautifully presented, and yes, very pricy.",
+                "datePublished": "2017-06-15"
+            },
+            {
+                "reviewId": "SFfNFulTT-z6khvijk5Ghg",
+                "author": "Jg P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious food  and the service was excellent. Also Price  was reasonable. The ambience and the servers were attentive as the environment was very clean.",
+                "datePublished": "2018-07-05"
+            },
+            {
+                "reviewId": "6hxVVbDouXCgj4VB6LJOWg",
+                "author": "Falk L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The sushi restaurant was quickly booked via the website. We could easily take our table. The atmosphere is relaxed. Maybe a little dark to study the menu. The waitress is very nice. The selection large. All in all, the sushi tasted great. However, I could enjoy much better sushi's. Overall, however, a good impression.",
+                "datePublished": "2018-03-04"
+            },
+            {
+                "reviewId": "uCK-Su13azKALsqP5COplQ",
+                "author": "Will R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Group of 16. We split the 9 kids in a separate table across the restaurant. 5 stars for that alone! Menu is huge! Saki is fantastic. They have creative sushi choices they were yummy. What they don't have is Unagi (eel). Apparently endangered and not allowed in London. That is not the case in Paris or the States. Seemed odd but whatever. Didn't take away from the ambiance and the great food. The adults sat in the very front by the door and had no issues with being cold or traffic. Even our people with dairy and gluten allergies found food they loved.",
+                "datePublished": "2018-01-08"
+            },
+            {
+                "reviewId": "8J_dZsiIMxNMroMOWVn6gw",
+                "author": "Kat J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The day we had a reservation here we got an email that their grill broke and they couldn't make the sticks. We decided to come anyway. It turns out they use their grill to make a lot of other things besides the sticks and the menu was basically cut in half.  That really put a damper on things. We just ordered a few rolls and an appetizer and some drinks. The cauliflower was good, the rolls were good, the drinks were good. Nothing great or memorable. Oh well!",
+                "datePublished": "2018-01-14"
+            },
+            {
+                "reviewId": "56HAAuTjA7kKSklxFdeRhw",
+                "author": "Angelika C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Love it!  yummy food, reasonably priced.\nNothing fancy but good value for the money. You can order from the menu, or just pick up food from the conveyor belt. I would come here again. Also, I would advise to call ahead of time and check if they are open.",
+                "datePublished": "2018-02-03"
+            },
+            {
+                "reviewId": "SlMgfMcbhwmm5hpUo-Zpkw",
+                "author": "Gautier G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you're looking for great Japanese cuisine near Covent Garden, Sticks'n'Sushi is the place for you.\nWe were 7 guests and we were welcomed by a very friendly waiter who tried to speak French to us, which was as cute as funny. We were given oshiboris to freshen up our hands moments after we arrived.  \nThe menu features detailed pictures of every dish, so it is very easily understandable, even for non-English speakers. \nThe yakitoris were perfectly cooked, the sushis, nigiris and makis were succulent and the fish dishes were so fresh that we even found a scale chip on a slice of salmon. \nI definitely recommend this place to anyone willing to have an unforgettable Japanese experience in the heart of London.",
+                "datePublished": "2017-08-27"
+            }
+        ]
+    },
+    "20": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "E3g1k7IvnVDgTtMdTS3EYA",
+                "author": "Nicola J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I can echo Alex's review. However what I loved about this sushi menu is that you can be strategic. I went on my own for a little treat before the theatre. I was able to order two rolls and an app and not break the bank. \nThe daikon roll is cheap and flavorful. I loved the fried shrimp starter too.\nThe staff was really friendly with explaining their menu, which is more like a photo album. \nWill go back to try more things!",
+                "datePublished": "2017-06-06"
+            },
+            {
+                "reviewId": "bqjl12XHWLvaiHVQn7wlXg",
+                "author": "Jarrod B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was my first visit to Sticks'n'Sushi and it certainly won't be my last. Upon arriving at Sticks n Sushi, the first impression is of a modern environment. All of the streamlined furniture amidst the rustic backdrop of brick walls and wooden floors give the entire restaurant a homey feeling. Not only that, but I was greeted by a friendly staff that was happy to show me to my seat and advise menu items based on my preferences. They were always prompt with their service and everyone was very personable.\nWhen I first looked at the menu, I saw several options that I wanted to try. With the staff's recommendation, I started off with ebi bites. The ebi bites were brilliantly mouth watering. Featuring shrimp with several spices to bring out their flavor, the ebi bites were a an excellent start an excellent meal. My friends and I chose the Four Meal Drive Big (6 types of nigiri and 6 of maki)  to share, we began with the nigiri selection. I sampled each of the 6 nigiri - the salmon and seared seabass being my favourites. Among the maki selection preferred the spicy tuna and salmon ceviche. On to the dessert we couldn't help but choose the taster, which consisted of 12 different kinds of sweet delights! The mochi ice cream, yuzu sorbet and creme brulee were definitely the standouts for me. \nThe entire night was full of great service, excellent food and certainly left a wonderful impression. A must-visit for anyone in the area who loves sushi.",
+                "datePublished": "2016-09-13"
+            },
+            {
+                "reviewId": "Yz5XpFknTUAsGdXl1GOVKg",
+                "author": "Anna W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great, fresh, flavorful food. The cooked meats were suuuuper good too! Awesome ambience, good crowd of tourists and locals.",
+                "datePublished": "2017-03-17"
+            },
+            {
+                "reviewId": "_Tql3kQ-etw_-yG-hkjFLg",
+                "author": "Temmie D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "This restaurant is ok and mediocre at best. They brought out the \"bites\" (starters) with the main meal. I ordered the mackerel but ended up with salmon. It had no flavor and was challenging to break apart. The average and the rib eye with herb butter was well seasoned but very small. The spicy miso soup was not spicy yet had good flavor. Overall overpriced and not worth it.",
+                "datePublished": "2018-04-16"
+            },
+            {
+                "reviewId": "c2YSMBwjeTV7bz0vUWE86Q",
+                "author": "Nishat K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Really amazing food experience here. Get some of their set menu pieces because everything they bring out is delightful. Staff is somewhat aloof but when they actually attend to you - they're pretty helpful.",
+                "datePublished": "2017-08-27"
+            },
+            {
+                "reviewId": "obpPW4jgQ9CUT-1dOD_2Bg",
+                "author": "Suomi H.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The hype brought me in, It was Packed!, we almost didn't get a table (make a reservation ahead) I love that they offer a unique sushi/menu selection, What we tried was good overall. The lack of stars is for our server, She was extremely rude and condescending, I wish I remembered her name, she was super short and had a dark tan with black/maybe black and ombré hair. She totally ignored my guest like they weren't even there and had a super snippy/sheisty tone the whole night ( bad attitude overall and skipping on refilling my guest while making sure my drink was filled the whole time, She almost entirely ruined our experience here.",
+                "datePublished": "2017-08-08"
+            },
+            {
+                "reviewId": "cAeFjKsbUaTH-QkOrwqKEA",
+                "author": "H Z.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Friendly staff. The place felt very hip and trendy. However the food is only mediocre. I ordered 5 sticks (pork belly, wagyu beef, oyster mushroom, blackened cod, and scallops wrapped in bacon). In general, my sticks were not even hot, just luck warm. The cod was a bit disappointing - I definitely had it better at other Japanese restaurants. The pork belly and the oyster mushroom were good. The scallops and the wagyu beef were ok, but nothing special. I would recommend the place for its \"trendiness\" and it's location, but not for its food.",
+                "datePublished": "2018-06-17"
+            },
+            {
+                "reviewId": "kz_RKGY8GSYLJnTFb8FFPA",
+                "author": "Rebecca K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wow! Best sushi I ever had and for a reasonable London price! \nThis place was recommended by a local to me and I am so happy to have been here. I tried many different veggie makis and inside-outs as well as the cauliflower in truffle. Wow! \nFriendliest service, food came quick. Busy place suiting everybody. Will be back for sure! \nPaid ~100£ in total for 3 people including drinks.",
+                "datePublished": "2017-08-20"
+            },
+            {
+                "reviewId": "jtIsA3QUabdzAEei3iotGQ",
+                "author": "Faisal L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I have been to three Sticks N Sushi locations, including Wimbledon, Cambridge and this one. And all three have the same consistency, albeit different ambience. \nAll sushi at Sticks n Sushi is amazing. However, there are other items that really stand out. For instance, their Ebi Bites are incredible (Shrimp tempura with chilli and coriander). The Hotate Kataifi (scallops) melt in your mouth delicious. The Black Cod and Wagyu Yaki are divine. \nIf you like to drink, they have an amazingly fragrant sake a la prosecco which I quite like, but just a fair warning, it goes down very easy, much like everything else at this restaurant. \nHappy sushing!",
+                "datePublished": "2016-10-31"
+            },
+            {
+                "reviewId": "qiewEK3hY_YBsMeSIO2EKA",
+                "author": "Greg S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We wanted good sushi while in London for Christmas holiday and read about this popular spot.  I was little skeptical being multi-location.  There was a good vibe here.  As far the food, we ordered a wide assortment of sushi, sashimi and sticks (skewers).   I enjoyed the sashimi platter, sister of sushi, with tasting fish but the pieces were a bit small.   My family liked the Hell's Kitchen and NYC roll both variation of the shrimp tempura roll.  We tried different sticks and liked the wagyu and chicken meatballs best.  The menu is a bit overwhelming and waitress did not offer much help.  Overall, the food was solid but not outstanding.",
+                "datePublished": "2017-12-30"
+            },
+            {
+                "reviewId": "KdNcSy7vg31gFF2KLtvBzA",
+                "author": "Yael A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Sticks n sushi is one of the best sushi I had. We ordered the tuna tartar and miso soup and edamame for starters. And a big plate of sushi maki and cucumber skin roll and sashimi. It was very good!! Great service. Our waiter was very nice. A little bit pricey but the place food and service worth it!!",
+                "datePublished": "2017-08-11"
+            },
+            {
+                "reviewId": "lL17TrySQ_BLNY7Jl6s3Ug",
+                "author": "Elizabeth D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yummy food and so much space for seating. The food comes out so quick, literally 5 mins after we ordered. And the menu is so extensive and has pictures of everything. Ended up ordering a few smaller plates then adding more. All fresh ingredients, great sushi and other side dishes.",
+                "datePublished": "2017-05-14"
+            },
+            {
+                "reviewId": "_UrNQdSGsCwW6OaMLNtz1g",
+                "author": "Alex R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious modern Japanese restaurant!\nGreat sashimi  platters with a fresh and modern twist\nDelicious sushi  selections with impressively creative options including duck, caviar and waggyu beef ! \nThe setting is beautiful and the ambience really chill and relaxed, cool music  \nTotally recommend",
+                "datePublished": "2017-06-20"
+            },
+            {
+                "reviewId": "QuEZwnuSeo2uW159FIequw",
+                "author": "Leigh S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Happened into this place, and they happened to have space at the bar. One of the best menus I've ever seen. Both salads we had were amazing. Tried two of the edamames and several of the sticks. Will have to come back for sushi!",
+                "datePublished": "2017-04-11"
+            },
+            {
+                "reviewId": "qlNtWoFNfsHmU5UySl01Ag",
+                "author": "Ada C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Danish sushi chain, why not?  The food is decidedly Japanese but with a strong dose of Western bravado. If you're looking for the normal subtleties of Japanese cuisine, you're barking up the wrong Scandinavian tree. But don't let that deter you. Sushi N Sticks is loud on cool wood design and big flavours. \nA copious meal for two with drinks came to £99. The menu is a beautifully photographed but slightly ridiculous (and overwhelming long) menu of sushi, yakitori and other bits and bobs of Japanese food items. There is a shorter book of preset menus to help those who can't muster the energy to work through the main menu. \nWe had:\nGrilled and green salad:  there must be something ridiculous like 20 ingredients in the salad. It's pretty to look at and topped with a bold salad dressing. I enjoyed this but my eating partner found it too strong. \nSpare ribs:  delicious! Fall off the bone meat coated in a super tasty sauce\nAn assortment of sushi rolls:    \n- crab coal sushi roll was with black coal rice which was a cool contrast to the normal white. I didn't really like this as much as my friend. I thought there were too many things trying to happen at the same time.\n- Hells Kitchen Roll:  I was slightly apprehensive about the BBQ sauce but I liked this roll. Pretty to look at, tasty to eat\n- crispy ebi roll:  this was my favourite. I thought the shrimp and the crunch came through really well to contrast with the rice\nWe also had two smaller rolls which were good but not necessarily outstanding (ebi and chilli and salmon and scallion). \nOur waiter was awesome. He was a bearded Asian guy with a fab smile and friendly demeanour. Why can't all service in London be like this?",
+                "datePublished": "2015-07-02"
+            },
+            {
+                "reviewId": "DV9y8A9n4VUorODBabRi3Q",
+                "author": "Emily J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I think the concept of this place is genius; it's a true crowd pleaser and a fun dining experience. I went here on a Sunday night and the place was bumping - which I liked. Service was great and the food was good. We got a sampling of pretty much everything and I liked it all except the fried bacon wrapped cheese - this was just a bit.... gross to me. But thankfully there were many more \"fresher\" options for me to choose from. Although the sushi was not the best I have ever had, it was good and the roll combos are creative and fun. A good place for a fun night out and a great place for groups as there is truly something of everyone.",
+                "datePublished": "2017-01-22"
+            },
+            {
+                "reviewId": "qZgYWoNussewsS6kl8tg_g",
+                "author": "Austin R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Probably the best sushi I have ever had! It was great to eat here after having sushi from Yo! Sushi the previous week. The inside of the restaurant is modern and comfortable. Servers are friendly and very helpful. \nMy fiend and I ordered a large plate that we shared. A little pricy but very worth it. The shared plate of a variety of sushi was plenty for both of us. Served on a layer of ice, you could smell the freshness. \nThe sushi tasted extremely fresh and we could tell that it was just made, maybe even just caught from the water! The fish was extremely fresh and did not taste too fishy or old. I'm not a big raw fish eater, but this restaurant was a great place for lunch. If you want some great sushi, go here.",
+                "datePublished": "2017-06-01"
+            },
+            {
+                "reviewId": "fDeKyVfpTFGHlvnIv-5_EQ",
+                "author": "Michael L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place was delicious! It's pricey so I don't know if I'd be able to come here again unless it was a special occasion, but I was visiting London for a few days and I decided that I wanted to try some good Japanese food. First about the ambience: it's a very modern, sleek, and clean design. I think that if you're a fan of minimalistic design and you like the dim lights, it's perfect for you (I tend to like that kind of design as well). Oh, also, they have beautiful pictures displaying their menu items so it really gets you excited for the food.\nMy friend and I wound up getting three dishes: the rice paper (it's a unique roll with duck), the salmon sashimi, and a dish called man food. My friend got the rice paper and couldn't stop raving about it. It didn't fill her up, but she had already eaten and said that the flavors were delicious. The salmon sashimi was actually my first time eating sashimi and it was pretty good, though I have no reference points so I can't say much about this. My main dish was the man food dish which provided me with a ton of different meat on sticks (duck, beef, chicken) as well as some ribs. All of this meat was fantastic and even though it cost quite a bit, it was delicious and filled my craving for meat. It also came with edamame and rice which was a nice touch (I love edamame). Overall, this place was wonderful and it gets a solid 4 stars and would be 5 if their prices weren't so freaking high.",
+                "datePublished": "2016-10-03"
+            },
+            {
+                "reviewId": "iyY9fK0ynimAGo5bPnMrjg",
+                "author": "Matthew G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I had high expectations from this place as I saw some great photos from here so I knew I needed to come try it out! I went for 3 sushi rolls (16 pieces!), including Rainbow Roll, Crispy Ebi Roll and just a normal salmon and cucumber roll. Also had some cooked duck breast with Apple sauce. Of course I had some sticks too, pork belly and sweet potato. \nThe food was tasty, but not that authentic Japanese food (nothing compared to the food I ate in Japan). The restaurant was very busy and very loud! The waiter I had was lovely! \nI probably won't be going back unless my dining partners want to... However I would recommend everyone to go visit this restaurant at least once! \nOverall, I give this restaurant a 7/10. Paid £75 for 2 people. \nMore reviews on my instagram: mattzard",
+                "datePublished": "2016-06-02"
+            },
+            {
+                "reviewId": "MHknR_Ch2iRHI40YrHVF5A",
+                "author": "Matthew S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Definitely a must try for London sushi. Went to Nobu the next night and honestly thought this was better. The vibes were great with fun decor and architecture. \nI liked how it was more Asian fusion than just sushi but don't worry, the sushi was still top notch. Will definitely be back.",
+                "datePublished": "2017-01-21"
+            }
+        ]
+    },
+    "40": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "lSFf4w-MDxY28MnIqyHDZA",
+                "author": "Priya K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Ever since my friend told me about this amazing sushi place I had to pay a visit! I finally managed to get some time and off I ventured out for lunch. \nBeen scoping the menu online so I knew what to expect when I got there and could just order my food. The interior is beautiful, high ceilings, they have two entrances making life a lot easier, beaming with light, nice black tables with comfy seating, and eyes staring at you from the walls. The menu once presented immaculate, the waiters and waitresses are a joy, they give you the best advice and what to choose. The food is presented really well too. \nNothing is amissed. The spicy edamame is the best I have had!! It's so modish, juicy packed with an abundance of flavour. For drink I opted for the rhubarb fizz as it was only 12 noon when I had arrives. \nFor sushi I think I played it a bit safe, I didn't want to overeat and have food left, I don't like leftovers. So I opted for the hand rolls, veggie and crunchy. I'm not usually a fan because of the seaweed but wow these ones are beautiful, the seaweed is not even noticed, packed with loads of flavour and sauce inside till the end. Matched with the Wasabi, soya and pickled ginger I could eat that all day. Only little hitch is that it does make your mouth dry, the seaweed I mean once it gets caught on your lips. But that is so minor!!\nThen I opted for sticks, a variety of mixed yasai yakitori, chicken wing, tsukune and grilled oyster mushroom. I loved them all apart from the wing, even though the skin was nice and crispy, the whole thing lacked flavour. It was just a wing, nothing special which was a let down. However the tsukune (chicken meatball) was delicious, cooked to perfection and could taste all the spices and less of the chicken which is what you want. The vegetables accompanied the meat very well and the sauces of yakitori and teriyaki was perfect and the extra lemon slice goes a long way. \nService was very attentive, always making sure I was ok and the food was up to scratch. I wish I had stayed for dessert but will definitely go back again and be more adventurous and perhaps take a date so can share a lot of dishes. \nPrice is not too bad either, it's a beautiful place. Highly recommend it. \nMake sure you book in advance though, I was lucky to get a table during lunchtime, they were pretty packed! Even for a Thursday!!",
+                "datePublished": "2016-03-04"
+            },
+            {
+                "reviewId": "3SZblFqeOrjpVQ90FNbaAw",
+                "author": "Sara A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great sushi!! They also have meat skewers of all kinds. Really good/ quick service. In a fun area of London, right next to Trafalgar Square. Try to make reservations ahead of time! We had to sit at bar but still worth it",
+                "datePublished": "2017-07-05"
+            },
+            {
+                "reviewId": "iPYG67CMyyXysUtId6sQoQ",
+                "author": "Vicky B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Sticks and Sushi was highly recommended to me by my friend I was staying with in London this weekend. I live in San Diego CA and my friends from home told me I should check out Sushi Samba but he said that was very touristy, hard to get a reservation and the food at S&S was much better.  Now I eat a lot of sushi and sashimi and I am beyond impressed with the food I had at S&S.\nFirst of all we had a very nice server by the name of Sebastian who was from Denmark, my friend let him know it was my Birthday and he wished me a happy birthday.  He walked us through both menus, took our drink orders and gave us some time to look through the menu.  I could have ordered everything, it all sounded delicious and their menus are mini booklets with a photograph of each option next to the bite and description.  I've never seen a menu like that before, it's a great idea as it makes everything look and sound more appetizing.  We picked out several things we wanted and out of that Sebastian gave us his recommendations and I'm glad we listened.\nWe started with edamame, you can never go wrong with that, we had the plain but they offer a spicy option.  Next we had the tuna tartare which was my favorite bite out of everything we had on this day, it had pine nuts, avocado, was full of flavor and truly was to die for.  Next we went for rolls, I chose the salmon rice paper roll which was a very neat concept and something I've never had before.  It was more of a wrap, it had lettuce, carrots, cucumber and shrimp tempura (light on the batter side) all wrapped up in rice paper and then sliced into 6 pieces.  I personally avoid to many rolls with rice so this was a perfect option for me.  We also had the gipsy big roll which was very good then we had one of the small tuna chilli rolls.\nI wanted more and if I come back I really would like to try their mini sides of vegtables.  From looking at the pictures the oyster mushrooms looked good along with the cauliflower, broccoli and mini corn on the cobs.\nWe didn't have cocktails as we had a busy day ahead but they have a variety of cocktails, beers and non-alcoholic beverages. \nI highly recommend Sticks and sushi for their service, atmosphere, food and my favorite part...looking through their cool menu booklet with the pictures!",
+                "datePublished": "2015-01-18"
+            },
+            {
+                "reviewId": "0ZTDUq9c2kUY5oU1WCca1A",
+                "author": "Wendy L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "For me it's one of the best sushi chains in London and it didn't even open up its first restaurant in London but Denmark. \nEven during the busy Christmas season for our annual Christmas lunch, high quality of food and service delivers. \nWe started with some soy cured salmon with minced shiitake mushrooms. The salmon was beautiful and rich in flavour. The texture was smooth and the minced mushroom was a lovely companion adding more depth and silkiness. An excellent start. \nNext was the Japanese potato salad, a lovely simple potato mash contrasted nicely with the crunchy vegetables of carrots, cucumber and onions. Tasty light and healthy.\nThe salmon and avocado maki were perfect. The rice cooked well and held perfectly when you held it. The flavour of the silky rich salmon shone straight through the roll. Quality right there.\nThe only dish that didn't tickle my tastebuds was the green salad. It was too dry for my liking, too crunchy with the softer quinoa being lost in there. More softer leaves would have been preferred for a more equal texture so the avocado could be enjoyed and played its role.\nAmongst us all we also ordered a  sharing platter from the set menu. We chose the Upgrade platter that came with a variety of rolls and meat on sticks. Beautiful glistening sushi, all so incredibly fresh and the rolls were paired so well with the ingredients it came with too, all perfectly balanced in texture and flavour. So much creativity. \nThe sticks consisted of fresh tender flakey pieces of tuna, flavoursome, herby chicken meatballs and succulent juicy lamb chops. All delightful.\nLast to arrive in the savouries were the scallops in a light kataifi pastry. The texture was amazing. A light crispy pastry incasing a fresh and bouncy scallop with burst of saltiness from the trout roe for that little extra bit of joy!\nDessert could have been the steal of the show itself. All presented beautifully and made with such creative flavours, fusing Japanese and Western flavours together. We had the coconut cake, creme brûlée, dark chocolate fondant, dark chocolate and sesame balls and vanilla icecream. All delicious and was the perfect ending to dinner.\nI cannot recommend Sticks n Sushi enough. The atmosphere is fantastic, romantic and sleek as well as being child friendly. Bar seating downstairs for those who want to watch the chefs at work or large group tables for families and celebration. They have everyone covered. Of course the food is fantastic, of the highest quality and staff are trained to be knowledgable and as friendly as could be.",
+                "datePublished": "2016-01-20"
+            },
+            {
+                "reviewId": "J2FbhxyPKl7_TJ6bupO8vg",
+                "author": "Audrey G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm very picky when it comes to sushi, and I'm always careful when traveling. I came across this place while being in the neighbourhood and the good reviews lead me to give it a try. I'm glad I did! Everything was SO fresh and so good! The restaurant is beautiful, their menu is endless and literally everything is worth the price!",
+                "datePublished": "2017-05-07"
+            },
+            {
+                "reviewId": "O5VuS7XxUfTiCzFrPFOV4Q",
+                "author": "Tim O.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A great dining experience. We were first seated at the bar directly in front of the grill which was hot as hell but once we were moved a couple seats down things became more comfortable. The waitstaff was helpful and the menu itself somehow achieved that rare balance between being visually appealing and informative. It's anomalous to say the least. \nThe wait for the sashimi combo was more than 45 minutes but since I was able to drown my sorrows in champagne it didn't matter too much. The only reason I had to knock a star off was that we were told it would be right out something like 15 minutes in, but ended up still having a lengthy wait. Aside from that minor incident, presentation, freshness, and level of service were all exemplary. From apps to drinks to sushi to sashimi to dessert and whatever else came our way, I was impressed. I wish we had tried the sticks.",
+                "datePublished": "2016-03-16"
+            },
+            {
+                "reviewId": "uzTjwwwEF6ZzThCRbaXXHQ",
+                "author": "Alex P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I needed 24 hours to think prior to rating Sticks n Sushi's food.  Overall, for the prices they charge, three stars represent a very generous rating.  Here we go:\n- Sushi - I had Hells Kitchen roll (maki).  The tuna it was topped with was anemic and laked the intense color of a good sushi grade tuna.  The tempura shrimp that is in the roll has more tempura than shrimp and was overcooked.  2.5 stars.\n- Yakitori - overall rating 3 stars. Individually, some sticks were better than others but none exceeded the above rating.  ALL skewers were overcooked!  I had two different steak sticks and on both steak was well done (overcooked). Same was the case with pork w/basil, chicken w/chili and bacon wrapped swiss cheese.\nThe service was very friendly and efficient which is the main reason the rating score is not lower.",
+                "datePublished": "2016-03-29"
+            },
+            {
+                "reviewId": "5ZEyct-R9SGMZpUn1R6Kaw",
+                "author": "Yijin Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I like this restaurant, salmon are very fresh and tasty. I will go to next time, but really need reservation especially at the weekend, even the lunch.",
+                "datePublished": "2017-02-18"
+            },
+            {
+                "reviewId": "-TVKM7MGumVEfi5dwjqL0A",
+                "author": "Adam T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Sushi restaurants are popping up all over the place at the moment, which is great. The problem is lots pop up that are not so great...Stick n Sushi is not one of them! Considering it's in the middle of Covent Garden it is also one of the best value Sushi Restaurants around!\nIt's a great modern setting, with great service which is always important. But as usual it's all about the food for me! \nSticks n Sushi has a great menu...delicious sushi, along with some great meat sticks which is what makes these guys a bit different.\nMake sure you share as there is so much to choose from, and you don't want to miss out. Some of my favourites include...\nSashimi Mix\nEbi bites\nYakiniku steak\nSushi Rolls-Mix it up, we love Duck and Crab the best\nSpare Ribs\nEmmental in Bacon sticks\nBlack Cod sticks\nScallop in Bacon sticks\nThat will give you a great mix, but go for what you like..it's all good!\nThe sticks are really good, but don't go overboard as the usual suspects on the menu are great. \nSticks n Sushi also has a great cocktail menu, so try and wok your way through them as well!\nGo with at least 3 other people, and give yourself a couple of hours to enjoy the place!",
+                "datePublished": "2016-01-24"
+            },
+            {
+                "reviewId": "L4O3_lGYyBlHKP0j6Go_ww",
+                "author": "Amal S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "60 pounds for a meal with no dessert and tap water  \nPros\n- very fresh sushi, good variety, big menu\n- good value for money\n- big place, very cosy \n- enjoyed the salmon ceviche and hotate sushi\nCons\n- Sake in their soya sauce - watch out non alcoholics \n- uncomfortable chairs downstairs; not good for chubby and fat people \n-waitress kept touching my sushi when explaining",
+                "datePublished": "2016-05-02"
+            },
+            {
+                "reviewId": "557loerTvT3GwbWYo99tfw",
+                "author": "Mark S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I was pretty impressed with Stick N Sushi. We ended up ordering a combo plate for two so we could try both sticks and sushi. They brought out the cold (sushi) part first, which involved a couple rolls and the four common nigiri you'd expect: salmon, tuna, shrimp, and sea bass (I think sea bass is common - the others definitely are!). Anyway, everything was fresh and tasty. \nNext came the skewers, and I have to admit, although I was more excited for the sushi, the skewers were really good! Chicken teriyaki, pork belly, and chicken meatballs were all excellent, and it was all the right amount of food in the end. I was full, but not overly stuffed. \nThe food came quickly, but it took a little while to actually order - it was incredibly busy, and we didn't have a reservation, so I wasn't too disappointed by that, and the food and drinks more than made up for it. I'd go back, which is the main thing I look for in a restaurant!",
+                "datePublished": "2016-05-15"
+            },
+            {
+                "reviewId": "8fFCfLEEFLjBjyxWIvb9eQ",
+                "author": "Steve W.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The restaurant is beautifully designed and the shape and use of the shared tables are brilliant.  You are certainly impressed when walking in, and equally so (if a bit overwhelmed) by the massive but beautifully photographed menu.  So my disdain for the crass name of the restaurant quickly disappeared... yes for that 1 second I was being a complete restaurant snob. \nAnyway as I reminded myself that I am sometimes partial to a McDonald's cheeseburger we proceeded on our way through a few snacks and a few platters.  The sushi was not bad nor was the teriyaki.  However the more and more I continued through the meal there was this absolute feeling that we were being fed \"Japanese\" inspired food by people who didn't really get Japanese food.  The constant yelling of Irasshaimase in a very un-Japanese restaurant grated on me even more as I put another mouthful of soulless food in my mouth. \nI get that it's Japanese with a Danish touch, and the food isn't bad - neither the sushi nor the teriyaki were bad, a notch above Yo Sushi or Wasabi.  But I'm not going to be conned by the great decor here.  \nFish quality was distinctly average and seasoning was all over the place, often meat would not be seasoned enough and batter would be over-seasoned.  But it's ok the distinctly average fish and seafood would be smothered in a spicy mayo so any semblance of natural sweet ocean freshness was gone, scallops tasted like shrimp etc. etc. Perhaps the most underrated part of sushi is the rice.  I'm sorry but if the rice is not fluffy and bouncy or even seasoned correctly then you shouldn't be charging these prices. \nAnd this is my biggest grief with Sticks and Sushi.  I feel like I've been conned with the beautiful decor and menu.  The food is a notch above your average London high street sushi place (and the quality of sushi in London is not great in general), yes a single notch.  We paid £120 for 2 at lunch (with 2 beers and 2 cocktails) for very average soulless food.  Staggering!  It saddens me to think that restaurants like this who focus on image and looks more than the food itself can become popular.  And don't get me started on that melted cheese wrapped with ham on a stick.",
+                "datePublished": "2016-09-03"
+            },
+            {
+                "reviewId": "pnYevkP1Uge2f-yAfwSMpA",
+                "author": "Yang D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Sushi was lovely, sashimi and tepenyaki were all undeniably good. But I was extremely disappointed by the arrogant attitude of the waiting team, the tricks playing around the waiting system, and the way they manage customer makes me felling like idiot. It is one of those tricky restaurant that I am feeling being fooled. \nWe walked in, didn't book. The host by door told us will take us to the bar and having few drinks till the table is available. I certainly respect that and have no problem to wait. As soon as we were led to the bar, the waiter told us will be dinning at bar. To be honest I have no problem to eat on bar, but I hate the way they lie, this waiter was right standing at the door with the host. I wish to point out that there were plenty seats at that time, and I respect that reservation goes first so that I nicely asked if we could wait in case there are free tables. Anyway that never happened. \nWe felt exhausted and hated the service.",
+                "datePublished": "2015-08-07"
+            },
+            {
+                "reviewId": "9SneB-DrVgHgnz6RJSn25w",
+                "author": "Fabio Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wide offer of nigiri, sushi, sashimi, salads, etc. It is a great place for knowledgeable eater of Japanese food as well as those looking for traditional menus. I highly recommend.",
+                "datePublished": "2015-08-23"
+            },
+            {
+                "reviewId": "5VZbyDKFf8plESkMelVKmw",
+                "author": "Clara G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great place, really beautiful, and delicious food! Portion sizes are quite small though!",
+                "datePublished": "2017-05-30"
+            },
+            {
+                "reviewId": "bsnNgkAAjOFZ86vjMKfzUg",
+                "author": "Shalisha S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best sushi I ever had in my entire life lol. First time having raw fish also and it was  amazing!",
+                "datePublished": "2017-02-21"
+            },
+            {
+                "reviewId": "L2679Ket865DNpxFJQYVZA",
+                "author": "Jack J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Again, I'm taking seriously good Japanese food with great creativity!\nIt's a place MUST GO! You and you friends will for sure have already time there.\nFood was so nicely done and you can tell the chef really cared about the style and flavour of the each plate brought out.\nDon't go for the big plates of sushi/sashimi for share, try the small plates such as grills, tempura, caviar and those creativity dishes. They WILL BLOW YOU MIND!\nIn addition, their cocktails are amazing as well!\nBook early m, otherwise you really work on your luck and charms...",
+                "datePublished": "2016-05-14"
+            },
+            {
+                "reviewId": "VE1UJ6SynU9Cu9XoXqnO7g",
+                "author": "Robbie B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good restaurant all round from service to food to decor.The chicken wings skewers were fantastic and the sake also tasted pretty good. I think this venue is probably better for a smaller group or even just for two people so you can sit side by side at the sushi bar area downstairs.",
+                "datePublished": "2016-03-09"
+            },
+            {
+                "reviewId": "wE9IzbA8wOvPotDbQ2DHfQ",
+                "author": "Andrea F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Brilliant, efficient and enthusiastic service. Why couldn't everything meet the same standard? I love that one of our waiters took the time to explain to us which fish are currently sustainable, the ethical element really added to the experience. \nSadly there were some issues, and for the price, I'd expect a little better. Firstly, our drinks: the glasses were all wet, and had been garnished with an old lime peel. It really should have been freshly cut. The menus were also dirty, which is a shame because they're so nicely designed! It's just poor attention to detail.\nThe positioning of the tables isn't good. There is not a clear route through the ground level of the restaurant, which lead other customers to squeeze between tables. We really had to keep an eye on our water glasses, in case of rouge butts and elbows! \nSo as for the main event : the food, they have a huge selection, so it felt a bit like ordering from a canteen. The dishes we tried included the scallops, Jerusalem artichoke, sashimi selection and avocado nigiri. The artichoke and crab balls were a bit too salty and the nigiri did not hold together well. The quality of the fish overall, was not great.\nSushi in London is often disappointing, and I think that this place falls in to that category. But I will say that it is  better than many others.",
+                "datePublished": "2016-05-09"
+            },
+            {
+                "reviewId": "VacrQU1sLmkb13-sjTKkZg",
+                "author": "Gabi G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great sushi, fresh and well cooked. Very hard to get a table,have to book in advance . Nice seating at the bar in case you don't manage to book or find a table available. Nice desserts. Quite pricy but worh  eating there from time to time",
+                "datePublished": "2016-02-28"
+            }
+        ]
+    },
+    "60": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "09sZzYlxJ-VViaA_pQI_ww",
+                "author": "Jane S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I know lots of people complain, but I really like Sticks'N'Sushi. Excellent menu with a good variety, fast service with a smile, fresh food. Modern decor. All good for me.",
+                "datePublished": "2016-11-19"
+            },
+            {
+                "reviewId": "h1E7WZQRE7XkLyjLAugSuw",
+                "author": "Soomin R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Popped by for a brief dinner, and the food was great but the service was very disorganised. \nWe had time for only small dishes. I went for an 8pcs plate of rainbow rolls. The ingredients were very fresh which I appreciated. However, perhaps it was too fresh -- the rolls disintegrated very easily and I would have expected better, neater rolls than that from a restaurant of this price range.\nService, once again, was very disorganised. They messed up my friend's plate, and it took them some prodding to finally bring it out. \nAmbience was quite nice. A bit noisy, but posh enough for dates. \nI'd go back to try out some of the other dishes -- the menu looked good. I do hope their service will have improved by then.",
+                "datePublished": "2015-04-02"
+            },
+            {
+                "reviewId": "51KKjCjmmeHQO9vlWa6d1w",
+                "author": "Sandiesh D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I am an avid lover of SUSHI! \nI was recommended Sticks and Sushi by a friend, again very chic and modern (slightly pretentious). \nCocktails are lovely, mostly made with Japanese influenced alcohol, including sake. \nThere is a lot of varieties on the menu from ramen to raw fish sushi and steak fillet sushi. \nFor starters I had the scallops placed in a light batter with a mustard base sauce. Very pleasing for the pallet.\nThe food is beautiful presented, for mains we ordered a variety of sushi fish based mains. I'd personally pick out a dish on every page of the menu to give yourself variety and a choice of flavours. Throughly enjoyed my experience and the food was definitely vibrant and flavoursome. \nHIGHLY recommend sushi lovers to visit, the only downside to the restaurant is that is very pricey.\nDon't be afraid to add a pinch of wasabi to your sushi!",
+                "datePublished": "2015-06-02"
+            },
+            {
+                "reviewId": "IwNPWrrVBjFzyij5Elxdug",
+                "author": "Erica U.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Love the food hate the menu. \nIts a great place to eat and enjoy yourself. Staff is great and helpful but very busy pretty much most of the day. The only problem was the menu, little description and a lot of pictures. Great for eye candy, but not for ordering.",
+                "datePublished": "2015-03-23"
+            },
+            {
+                "reviewId": "M5C7kwNzZHnKHz1Eqrvfcw",
+                "author": "Edwin K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "You need to experience this. I am a pessimist but it's hard to find a single flaw in this establishment. Flavour is at an all time highs within these walls. If your gonna have sushi in London go to Stick N Sushi.",
+                "datePublished": "2017-03-07"
+            },
+            {
+                "reviewId": "EBZ8zFHMwJ-0CQNGDsV3nQ",
+                "author": "Muji L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I don't understand the hype.\nThe food was average. The famous skewers were nothing special and there was some weird flavours. Desserts was OK but I'm not a sweet tooth so not gonna comment too much.\nThe bill was very expensive as well. Too overpriced for what was offered.\nStaff were very friendly and helpful though even though it was very busy.\nThe place was OK, but I'm not desperate to come back here any time soon.",
+                "datePublished": "2014-08-29"
+            },
+            {
+                "reviewId": "zPhw2Q-bkysqtNHcAT4pWw",
+                "author": "Daniel F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great great great great sticks. Yakitori style hot food on sticks. But posher in fact. With its Denmark meets Japanese influence the best bit about this place it the sticks. Sushi is quite good but the hot food stands it in my opinion.",
+                "datePublished": "2016-03-04"
+            },
+            {
+                "reviewId": "rGbYwRiq0buJagfyvhy2zA",
+                "author": "Robert O.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I actually can't review the food since we were never served before giving up and leaving.\nAfter 15 minutes, I was going to bother the bartender for drinks but realized the couple sitting at the bar hadn't been served either and they were sitting right there trying to get his attention.",
+                "datePublished": "2015-12-29"
+            },
+            {
+                "reviewId": "PaihGEIoS2Vk9nfFXBOd8Q",
+                "author": "Belle L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place didn't have the best sushis and I felt that it wasn't authentically Japanese, the food and the atmosphere were both quite westernized,(still nice tho) but somehow I liked this place. Anyways I think it's worth a go.",
+                "datePublished": "2015-10-12"
+            },
+            {
+                "reviewId": "el4ZDdVBjjBDnqmlJolKWw",
+                "author": "Brittany B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This was a solid 3 star experience. \nThings they did well: The service. We were seated promptly. Someone took our coats. Our waitress walked us through the extensive menu, made some suggestions, and continued to check back in on us throughout the meal. Can't say anything bad about the staff or the service. \nThings that were just \"okay\": The food. My boyfriend and I split the tuna tartare, which didn't taste like a whole heck of a lot. In fact, it sort of tasted like it has been sitting in a refrigerator for a while. The tuna as well wasn't a great cut, it was hard to pull it into bit size pieces. \nMy boyfriend ordered one of the sushi platters. He said it was \"pretty good\". It wasn't great, but it wasn't bad. \nI ordered a few of the \"sticks\" - oysters wrapped in bacon, grilled vegetables, and salmon. The oysters came without the bacon, and instead of a \"miso butter\" were smothered in teryaki sauce. So was the rest of it. I was hoping for that smoky Japanese grill taste but it was really just speared meat and vegetables slathered in really sweet teryaki. I was kinda bummed. \nAll in all, it was affordable and the service was prompt, but the food was just average. Beats the other chains in the tourist swarmed Covent Garden area but I wasn't mega",
+                "datePublished": "2014-11-09"
+            },
+            {
+                "reviewId": "0Bp261A-mtoWoDCaeYX-Lw",
+                "author": "Fos G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "So much yes for SticksNSushi! \nI have mad love for any place who can sit two overdressed and under-dated ladies on a Saturday night sans reservations, so... props guys! \nThe lowdown as follows: had a crapton of sashimi, because carbs before marbs are the death of my social life, and it was sensational. \nAlso had a few \"sticks\" and non sushi items, including this cauliflower thing with truffle that was excellent, and a lamb with miso and butter stick (very good) a beef with garlic stick (good, tad chewy), an emmenthal and bacon (oh mother) and some rolls, including the Shake Daikon (good) and a hell's kitchen roll. \nNow I'm reading all of this, and what the actual fuck did I write that whole thing about carbs if I was going to order an entire wagon of food? Who knows anymore. \nAnyway, the place is LOVELY and their menu is easily the most visually stunning I've seen in mah laaaaaf. Seriously. Great place, shall return upon becoming thin again.",
+                "datePublished": "2015-08-10"
+            },
+            {
+                "reviewId": "svZHxRc4DkOOXu1z8v93Xg",
+                "author": "Tamara C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "If you want proper Japanese food you've likely come to the wrong place. It's not a bad thing though!! It's just that the portions are relatively small compared to some other Japanese places that I've been to that were priced the same. THAT BEING SAID, their food is really good and they have such a wide variety of things to choose from! I also love their popped rice dessert and the sesame chocolate truffle thing. I think it's ideal for group dinners cause then you can order a selection platter - which is probably more cost effective - and share all sorts without having to order a bunch of small portions.",
+                "datePublished": "2015-10-17"
+            },
+            {
+                "reviewId": "Cclo9bqegatlyK2gSjROxg",
+                "author": "Simi W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very fresh and very good! We had sushi and sashimi and it was delicious. This place has a cool yet elegant vibe. The service is impeccable.",
+                "datePublished": "2017-06-02"
+            },
+            {
+                "reviewId": "NzHSSeaGS0wAz60yClJX6A",
+                "author": "Pen L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Having read the reviews and heard good things about the Copenhagen branch I had high expectations for sticksnsushi.  This place turned out to be overrated serving mediocre fusion sushi, the scallop starter although visually pleasing tasted bland.\nThe highlight of the meal was the keroppi cocktail!",
+                "datePublished": "2014-04-28"
+            },
+            {
+                "reviewId": "P3FdUcyntNJELUixpiJydg",
+                "author": "Jörg D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A great place and very innovative way of presenting sushi. Would have received a 5 star, if they wouldn't have sent us away the 1st of January at 10:20, after we reassured the same afternoon, that we would be served until 11:00 PM.\nSo don't come to late, the kitchen doesn't forgive any minute.\nOtherwise very high recommended.",
+                "datePublished": "2014-01-05"
+            },
+            {
+                "reviewId": "ORNP0a9QIvPV9nSxAkNxtg",
+                "author": "Dave S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Copenhagen's finest Japanese cuisine is now available in...Covent Garden? Come again? The Danes are known for many things: great design, Lego-blocks, and even the little mermaid....but sushi....isn't Copenhagen a bit far from Tokyo? The thought of going to a Danish Japanese restaurant in Central London shows how truly global we've become.\nNevertheless the concept of this hip Nordic chain of Japanese fusion restaurants works rather well. This location (apparently the first London location was Wimbledon, yes, Wimbledon really) that oozes Scandi-cool---think clean lines, high ceilings, stark colours, lots of exposed wood, and unusually shaped communal tables. \nOnce you navigate through the complicated menu (it's almost comical how complicated it is...way too many choices of set menus and individual items on offer, all slightly oddly named...it took a bit of explaining from the waitress on how it all worked), you're in for a treat as the food does impress. \nThe main premise here is quality sushi combined with an assortment of grilled \"sticks\" which are skewers of meats and fish. I shared the \"upgrade\" set menu with a friend. For about £60 you got an assortment of rolls, several delicious slices of salmon carpaccio, and skewers of shrimp, chicken and tuna. The salmon in particular with its fusion-y sauce was a highlight as were the rice paper wrapped duck rolls. The skewers were ok but not super memorable; I expected more from the chicken wing skewers. Surprisingly the side of broccoli was amazing, some of the best broccoli I've ever had. I definitely need to figure out how to make it at home. While £60 sounds steep (£30/person), it actually is a lot of food, no room for dessert!\nThere is also a nice selection of fusion cocktails and Japanese whiskeys on offer though they're on the pricey side (Yamazaki 18, a great whisky to try for sure, but at £35 a go is excessively steep).\n4 stars overall, worth the trip even if just to try their Danish take on Japanese cuisine.",
+                "datePublished": "2013-11-21"
+            },
+            {
+                "reviewId": "H61Vr_BMdZZfCP0F8HEaMg",
+                "author": "John W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Well worth the wait for the sashimi. Excellent taste and strong wasabi made it one of the best I've ever eaten. Would definitely recommend! The sushi rice, in particular, were amazing.",
+                "datePublished": "2017-06-10"
+            },
+            {
+                "reviewId": "H1A94c6-6HiL-07ctup-og",
+                "author": "Kat E.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I ended up at this place on a whim when I was wondering Covent Garden looking fit some grub, and may have gotten a bit over excited when I saw sushi! I wasn't disappointed though, and could quickly see why it was such a popular restaurant. There wasn't any space for us to sit at the main restaurant, so we went for the bar menu. To be honest, it was more than enough! We went for one of the sharing plates for two, which had an array of sushi rolls. A little on the pricey side, but there was plenty of food and we ended up having to take the left overs home as we couldn't finish it between the two of us. The staff were a little slow (I think it was a busy night), but very polite. Definitely a place to go if you want to treat yourself (or someone else).",
+                "datePublished": "2016-10-18"
+            },
+            {
+                "reviewId": "vS0HH2Vmmz2Vw7cs9uVrTw",
+                "author": "Charles S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It's crowded for a reason. Excellent but basic sushi selection and very good yakitori. Nice selection of cold sake and very good helpful staff. I was in London for five nights and ate here two of them. I will definitely be back when I am in town.",
+                "datePublished": "2017-04-08"
+            },
+            {
+                "reviewId": "GMrkGCxDD90RxWBnfGmWiA",
+                "author": "Paula N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I went in to the restaurant to order take away. I was seated by a table while deciding what to order. The service was absolutely fabulous! The waitress checked in with me several times during my visit to ensure I hadn't changed my mind about beverage and updating me on remaining wait time. Ordered a couple of different Uramaki roles, incredibly delicious. \nDefinitely the best sushi place in London!",
+                "datePublished": "2016-01-14"
+            }
+        ]
+    },
+    "80": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "xMeN2K3-eysHSyMcdyDDOQ",
+                "author": "Louisa F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I absolutely loved the place. I believe service and the setting are almost as important as food and it counts in my notation of a place as I find it hard to enjoy good food in a discouraging environment. Well, Stick n Sushi got that admirably. \nWhen coming in you can't fail to notice the interior design. Subdued light, wooden furniture in sometimes funny shapes, dark dark dark (I like dark). It's big on the ground floor and there is even more sitting downstairs. The wooden chairs are comfortable\nYou're welcomed at the entrance by a waitress/waiter. We had the chance to find a table for 4 within minutes but they recommend you make a reservation for they are packed even with so many tables available. It's a hot spot and it's in the heart of Covent Garden. \nOur waiter came to introduce himself. He was jovial, kind and very energetic, we had a good time with him. He even summoned all the remaining french he could find within him to chat with my parents. He was very thoughtful without over doing it. He helped and advised us on the huge menu.\nSpeaking of the menu.\nYou'll find anything and everything from roasted cauliflower, edamame (nicely roasted in a spicy sticky sauce and tasty) and broccoli to teriyaki (meat sticks), nigiri sushis, makis, meat and salads. \nWe tried a bit of everything.\nI had the kimchi, the black cod dragon roll, the shake daikon and the panko breaded duck. I found the kimchi too salty and too full of flavour, but I had wanted to try it for a while. It's fermented vegetables so obviously, it would taste strong. The black cod dragon roll was my favourite and it's worth its £12. Flavours are well put together and it's melting in your mouth. The shake daikon is an interesting concept. It's a maki roll but they replaced the rice and the seaweed with a sort of radish (the daikon). It tastes good without the rice taking the podium on the flavours and it's perfect for those on a low carb diet. Finally, the duck stick was a good surprise as I didn't know what to expect. I have eaten duck in many forms and this one was a novelty. The meat was very well cooked and melting in the mouth, the bread coat was crusty and didn't taste too oily and the wasabi sauce it's served with, perfect. \nI heard same praises from my family as they enjoyed their dishes. \nFor the dessert, we had an assortment of chocolate fondant, crèmes brûlées, chocolates and the coconut cake which is the only thing none of us appreciated at all. \nMy brother tried the Japanese soda, which is basically sprite in a Japanese bottle (which does make it funnier), and a french Chardonnay to our taste. Note that they offer a sufficient range of wines from different origins and for a wide pricing range (from £20 to over £50 a bottle).\nIt was a no mistake for Sticks n Sushi. I would recommend it to anyone on the lookout for a very good yet not too expensive Japanese restaurant in London. I mean, it is pricey, but not as unreasonable as we expected. If that make any sense.",
+                "datePublished": "2016-03-04"
+            },
+            {
+                "reviewId": "U4CErEwELL8T6KE7kKA-zA",
+                "author": "Veronique W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I came here with a group of 5 girls on a rainy weekday evening after work for some sushi & sake combo (well it was gin actually but you get the jist) and this place was perfect for this purpose. Firstly the place is huge but still oddly cosy which is great when you want to talk freely without eves droppers. The atmosphere is a mix of professionals and creatives which makes you feel hip and the service seemed busy but the right level of attentive. The food was AWESOME! Sushi can be hard to great right but I loved the slight twist on standard dishes (grilled edamame - why hasn't it happened before?!) with the platters a great selection for when you're so hungry you can't choose. The price point was right with it costing £50 for 3 courses, a cocktail each & some wine. I plan to bring the hubby here for one of our date nights, he definitely won't leave hungry!",
+                "datePublished": "2015-11-11"
+            },
+            {
+                "reviewId": "9Qqy0IayK-bTj4yskIsN1w",
+                "author": "Midi N.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "As a Japanese food lover, who has almost tasted all Japanese restaurants that I can find in London. I got to say that this is the worst Restaurant for Japanese food, but the best restaurant for English food!\nI will not recommend this restaurant to anyone! If you are really fancy Japanese food you won't be happy for the food in there. However I have to say that the presentation of each dish was absolutely gorgeous, but the taste was just ....!!! \nDon't worry you may like the food here if you like English's fish and chips! \nThe following is my rating (5 is the highest)\nThe price: 4 stars\nThe taste: -100 stars\nThe presentation: 5 stars\nThe atmosphere: 4 stars\nThe service: 5 stars",
+                "datePublished": "2016-05-07"
+            },
+            {
+                "reviewId": "biTdwSoSjLVkb6iHEv6k9g",
+                "author": "Juju J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've been here twice. The first time was awesome the second time only okay. Get the yellow tail sashimi; it's amazing. Also, their salmon carpaccio dishes were quite good. Seabass was a little off (served too cold), and I really enjoyed some of their salads and roasted broccoli, weird to get at sushi place but it was delish! You don't need a reservation often if you don't mind sitting at the sushi bar.\nOne big downfall is the menu layout...it's just annoying (you'll know what I mean when you read it)...it has nothing to do with the food.",
+                "datePublished": "2015-03-25"
+            },
+            {
+                "reviewId": "VQC5oKBqMzO2pwxzJWGg3Q",
+                "author": "Teo A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Fantastic food, great aesthetics, superb service. Overall, truly exceptional experience. Definitely returning!everything is good and fresh",
+                "datePublished": "2015-12-09"
+            },
+            {
+                "reviewId": "B9q0kTUBrPXdU4uwzSKgmg",
+                "author": "Adam D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Second visit in three months, I probably won't return.\nGreat people, nice space, quite average food. \nThe sushi rice was overly moist and slightly too heavy and definitely hadn't been prepared to any decent standard. The sashimi was served extremely cold so the taste of the fish was very muted. \nThe Yakitori was good, particularly the tsukne (chicken meatball) which was very good. They didn't bring out part of my order but it wasnt on my cheque so no harm no foul. \nService was a little disjointed but the people there are really wonderful. There must be better sushi in London than this, as for Yakitori it's good but my search for a Yakitori restaurant to replace the outstanding (and now closed) Bincho must continue.",
+                "datePublished": "2015-04-11"
+            },
+            {
+                "reviewId": "ysHDJk2v3eY6ljuigKYPYg",
+                "author": "Safia M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great food,great ambience and exceptional service! Been here twice now and can't wait to go back, the sparkling lemonade is a must try!!!!",
+                "datePublished": "2016-10-30"
+            },
+            {
+                "reviewId": "3ZnW8Ock5q3eY67FIAbCwQ",
+                "author": "Georgi K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious sushi, great service, nice atmosphere. We got a place at the bar even without reservation, the sushi was just great and the service more than friendly. No wonder they are always booked out!",
+                "datePublished": "2015-09-26"
+            },
+            {
+                "reviewId": "Gko1y-o72mjX9tQic43yBg",
+                "author": "Ela T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I am so sorry I didn't review you earlier Sticks N Sushi, I really wanted to keep you my little dirty secret so that next time I come along you will not be stuffed full with other guests and leaving no place for me in your heart.\nIt would seem that I am wrong. You have already reached the hearts of more people than I would ever want, with my mentioning your name to my friends and them already knowing about you and they say they will join you soon....\nThe first time I savoured your food I thought I had died and gone to heaven. Literally I was about to cry because the sushi was so fresh, the service was so amazing, from the warm napkins handed to me at the start, to the free water given to me without prompts, to the great explanations of which cocktail to choose when I said I wanted something sweet.\nIf you too would like to join me in my love quest to Sticks N Sushi, I would recommend you order the Ultimate (enough for two), make sure you go on a weekday night (for fresh fish, do not go at weekends), and seriously, enjoy everything from the service to the food.\nIf you order matcha, they do the tea ceremony in front of you. How can romance not blossom in this fabulous establishment from Copenhagen?\nI'm in love. I might just marry this restaurant for the food.",
+                "datePublished": "2014-03-14"
+            },
+            {
+                "reviewId": "27IH0cRREpOlkcUlRb9obg",
+                "author": "Cecilia L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Quick glance:\n+ beautiful menu\n+ beautiful sushi\n+ patient and attentive staff\n+ good decor and atmosphere\n- Soho prices\nFull review:\nA friend invited me to lunch at Sticks N Sushi after she missed visiting the original concept in Denmark. So there you have it, it's a Danish import and hence why you'll find quite a few Danish beer on the menu. \nThe restaurant has a hipster feel to it, in a positive way, giving it a good ambiance. The menu is beautiful - every item has a picture and laid out like a guidebook rather than a normal menu one would scan from top to bottom, left to right. It was distracting at time as my eyes dart from picture to picture, but I enjoyed the novel experience. \nThe food that arrived at our table looked as beautiful as the ones pictured in the menu. The flavour of the sushi wasn't mind-blowing, but they tasted good and looked even better. On the other hand, the beef we had came with a wonderful sauce, and the dessert I had (black sesame ice cream) was packed with flavour. \nThe staff was very attentive to allergies requirements and double checked with the kitchen to make sure we don't ingest anything we shouldn't. The only downside is the Soho prices, roughly £30 each for lunch (a plate of beef, two plates of sushi, two desserts and one tea), but it is worth a treat. Overall, a great place to catch up with friends over some visually enticing food.",
+                "datePublished": "2015-01-14"
+            },
+            {
+                "reviewId": "oevTqyvQCbIjWdvcuIvi5Q",
+                "author": "Maggie W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wandering around Covent Garden, hungry but not sure what for, we stumbled upon Sticks n Sushi. After a quick glance at the menu outside we decided it was worth a shot.\nA chain serving sushi and yakitori platters, Sticks n Sushi started in Denmark and this is their second London branch. It's lovely inside - dim, music isn't too loud and tables aren't crammed too close together. The staff were very friendly too - we were made very comfortable and welcome (and one waitress even stopped to compliment my homemade flower brooch!).\nNow the food. We decided to order the 'Table for 2' sticks n sushi platter which is a selection of sushi rolls and yakitori sticks served with all the appropriate embellishments and dips. It took a little while for our food to arrive, but it was all fresh and delicious when it did. We were told the providence of all of the seafood in our sushi. Believe me when I say everything was DELICIOUS! This type of food is deceptive - because everything is served to you in little bites you don't realise how much you've eaten until you are rolling out of the restaurant, fit to burst. This worked out about £30 each for the platter, drinks and tip.\nDefinitely one I'll make a return visit to.",
+                "datePublished": "2013-12-22"
+            },
+            {
+                "reviewId": "RIomAMrFfyLcBXjxCTk4aQ",
+                "author": "Alejandra G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Hands down the best sushi place I have been to thus far in London.  I was incredibly surprised at how packed it was, yet the service was great. We ordered a different selection of the sashimi, rolls, and sticks, all of which were delicious.  My favorite was the assortment of beef sticks with chili and garlic as well as the duck sticks.  Even the duck heart was delicious, which I had never tried before.  The sashimi was incredibly fresh to the taste and light as well.  I definitely have this place on my list to return to when I get the chance.  \nReservations are a must because it gets packed on the weekends!",
+                "datePublished": "2015-02-16"
+            },
+            {
+                "reviewId": "EaKY5zmhz6gEfhfRDxJwNw",
+                "author": "Mohammad A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing don't miss it if you are in London. It exceeded our expectations and is also great with kids since they have a menu for them. Cod sticks, Salmon ceviche roll and coral crab were amazing.",
+                "datePublished": "2015-08-11"
+            },
+            {
+                "reviewId": "UQd3jmCj6_0AAgNMZC6TRA",
+                "author": "Leo U.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Summary: \n+ Fresh sushi and Japanese skewer grills\n+ Tasteful interior and excellent food presentation \nSticks N Sushi is a restaurant chain from Denmark that serves quality Japanese food in a stylish space that is characterised by its chic minimalist interiors. As the name suggests, they specialise in sushi and sticks (skewers). The dishes are served with elegant presentation.  \nThe restaurant in Covent Garden was pretty busy when we arrived for a little late lunch (2-ish) on a weekend. Since we had reserved a table beforehand, we were shown to our group table without a hassle. \nWe ordered one shared board each from sushi and sticks sections and a few small dishes. \nMy miso soup came in a china bowl with an old-school wooden top. (See photo) The sticks (skewers) board, which consisted of chicken, pork and salmon with veggie sticks as side. The sweetened miso-based dip sauce which accompanied the sticks board was very tasty. The sushi board consisted of salmon carpaccio, cucumber and crab meat roll, duck roll, as well as the usual nigiri sushi. This board was served with a slightly spicy mayo-based dip sauce. \nOverall, the food was delicious and presented beautifully. I particularly liked the elegant but functional approach to presentation with no gimmicks. \nThis place is not cheap but definitely worth a visit when you want to treat yourself with fresh Japanese food in style.",
+                "datePublished": "2014-12-05"
+            },
+            {
+                "reviewId": "TPAxbkF5CaJqHbCc2Qm2Dg",
+                "author": "Jigmet Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Amazing place for sushi lovers, a bit on the expensive side but definitely worth trying. The service was quick and the food was great. I had not booked the table but luckily there was space at the bar so I didn't have to wait. Highly recommend to book in advance as they are usually quite packed.",
+                "datePublished": "2016-05-28"
+            },
+            {
+                "reviewId": "pkppJwW9HznsVrAQtyEviQ",
+                "author": "Anna A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Sticks 'n sushi is exceptional. The staff is absolutely attentive and so helpful. The menu is quite large and the servers do a great job of making suggestions. The ambiance is very chic yet comfortable. I would highly recommend the salmon sashimi inspired by gravlax. The Danish/Japanese fusion is unexpected and oh-so-tasty.",
+                "datePublished": "2016-04-25"
+            },
+            {
+                "reviewId": "SK_PnVvQH7nIx1HmsWaZbQ",
+                "author": "Maria D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "the food was okay as i was rushing to the theatre.  Service at he bar was poor.  Apparently 'George' when asked to recommend an roll couldn't and so the bartender did instead.  After which the service fell further and the waiter didn't bother to come round to ask how my food was or if I wanted another drink. The bartender gave the best service and outside of that, keep walking on.",
+                "datePublished": "2017-01-10"
+            },
+            {
+                "reviewId": "5PEh3cA0HIWPM4LdOcWAyQ",
+                "author": "Ramnik S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Always love going to sticks n sushi. Love the man food plate with cold beer and Ginjo sake",
+                "datePublished": "2016-02-21"
+            },
+            {
+                "reviewId": "-WFADTDSUFZlu-U1SVWowQ",
+                "author": "August M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best sushi I've had outside of Tokyo. Solid 9.5/10.I haven't had anything on the menu which 'isn't great'. Can't wait to revisit next time I'm in LDN.",
+                "datePublished": "2015-12-13"
+            },
+            {
+                "reviewId": "n9iqvH_SbGXYQvNWbDUoHw",
+                "author": "Chris S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We went here as we were staying at a friend's flat in Convent Garden.  \nFirst, the menu is oddly laid out and takes about 5 minutes digest the first time you are there.  Second, our initial server seemed to be a bit overwhelmed to the number of tables she was serving.  The staff also seemed to be going through the first set of cuts so the server rotation got a bit messed up.  Once we got our server, I'm blanking on his name, he was legitimately the best server I have ever had at any restaurant.  I was extremely impressed.   \nSecond, the food was good.  It was also a welcomed break from the starchy British food I had been consuming.  I decided to order from the set menu as it came with a nice mixture of both sushi, nigiri and a few yakitoris.  Again, food was solid but it seemed over priced and this was with a favorable USD to GBP conversion.\nIf I lived near there I would probably grab takeaway if I was in a pinch but would definitely venture out elsewhere before I made this a staple in my restaurant rotation.",
+                "datePublished": "2014-11-25"
+            }
+        ]
+    },
+    "100": {
+        "id": "-lEj_deBzWFE563GKJ8yUg",
+        "name": "Sticks’n’Sushi",
+        "category": "japanese",
+        "servesCuisine": "Japanese",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Strand, Covent Garden",
+            "streetAddress": "11 Henrietta Street\nCovent Garden WC2E 8PS\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/P8UXo5g2FBFsEu4SozX6jA/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 3141 8810",
+        "review": [
+            {
+                "reviewId": "opwo3Pluq8fPyfgzPsFCOQ",
+                "author": "James P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The waitress was an absolute dream - charming, funny, appropriately flirtatious, and very attentive without being overbearing. She deserved five stars. I felt sorry that she (and everyone else) seemed to have to shout something unintelligible in Danish to signal our arrival - this seemed to be a little artificial and unnecessary. Perhaps I missed the cultural context. Anyway, I digress.\nThe sashimi was marvellous, and not too pricey - I could have ordered double the amount. However, I felt that the rest of the food was a little hit and miss - the hits were absolutely brilliant - like the Ebi Panko maki roll, the spare ribs, and the oddly named 'Hell's Kitchen' roll. On the other hand, the salmon ceviche roll tasted a bit like fairy liquid, and the teriyaki sauce on the marinated salmon was a tad sickly.\nThe atmosphere, layout etc are all very good, and, strange as it sounds, their soy sauce was really delicious! Overall, I would recommend trying this place, and would probably come back again; though perhaps next time I'll be better off asking the delightful waitress for recommendations, instead of her phone number...",
+                "datePublished": "2015-03-24"
+            },
+            {
+                "reviewId": "wpe5PfU-D2wgeJ3MgsJVww",
+                "author": "London Food Babes ..",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing sushi and great atmosphere! Make sure to try the black cod roll - our favorite!!",
+                "datePublished": "2016-02-24"
+            },
+            {
+                "reviewId": "hFid6VmmVUEbYsZ3Q3dheQ",
+                "author": "Michelle C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Highly recommended sushi restaurant.  Great location, just off the main square at Covent garden.  We had a 30 piece sushi platter and spring rolls, the chilli edamame are particularly delicious.  Service is really friendly and attentive.  I took a friend for birthday lunch on a Saturday afternoon and they gave us a birthday dessert and sang to us for free, so cute!",
+                "datePublished": "2014-03-23"
+            },
+            {
+                "reviewId": "8ZauuhPBy3zKgU-1WIeFYQ",
+                "author": "Paul H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Fantastic.  I miss good sushi having spent the last 8 years on the Pacific Coast.  Iwona and the rest of the crew provided incredibly comfortable and attentive service, all-round a must repeat night.",
+                "datePublished": "2015-09-30"
+            },
+            {
+                "reviewId": "lVDGGRJApOZA2k7t6dGfZg",
+                "author": "John D M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The menu here is pretty confusing and it's quite hard to choose what to order.  Its also quite likely that if you're not willing to spend at least £25 a head then you are going to leave kind of hungry.  The prawn tempura was fab, as was the salmon/trout roe platter.  The beef carpaccio was far smaller than the picture indicated.  The waiter seemed overwhelmed and quite rudely called a lady I was with a \"very impatient woman\" - not in a jocular way - not good enough.  The waiter was also very keen on topping up my Meantime IPA so that it had a ridiculous head of foam.  If you are going to try and make people drink faster at least don't mess up up their beer!",
+                "datePublished": "2015-06-07"
+            },
+            {
+                "reviewId": "slihqD-XZPfg-YmeMTJz1Q",
+                "author": "Makenzie B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was one of the best dinners I've had. I ate with five colleagues. We called ahead by about 20 minutes, and they had a table ready for us when we arrived despite being busy. Our server was delightful - knowledgable and funny. The drinks were excellent. I had the Kumahi (or something like that) and a great gin martini.\nThe food. Oh, the food. My friends and I are still talking about it, and my somewhat uppity friend even said this was top 5 restaurants he's been to. That's a rave review.\nWe shared the big sushi platter. It was perfect between six. The bacon wrapped scallops made me want to cry; they were so good. The salmon sashimi (and the rest!) was extremely fresh. I loved everything I ate. Perfect for sharing.\nOverall, an excellent place that I'll be back to. It's a beautiful atmosphere with awesome staff and delicious food. Don't need anything else!",
+                "datePublished": "2014-04-10"
+            },
+            {
+                "reviewId": "6uEylGsxSLa3syN2AF5m4A",
+                "author": "Alex C.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Summary: bad quality, bad service and bad value, I will not return.\nReview: I'm usually one to give a bad restaurant experience the benefit of the doubt and try a second time but my experience today at Sticks N Sushi was undeniably bad.\nI chose to go here because it was a nearby and good quality (according to its Yelp rating) sushi restaurant. First impressions were good - a comprehensive menu with a balance of traditional and fusion in addition to great decor and welcoming staff.\nI sat at a high table in the bar area and after sitting for ten minutes figured it was traditional London, requiring me to order at the bar. I ordered a drink and a few minutes later a waitress arrived to take my drink order; turns out there was just a 15 minute wait from first sitting down and seeing a waitress.\nBy that time I had ordered food. I wasn't very hungry so ordered a light meal and the waitress seemed insulted that I was not ordering something more substantial-- I got two small sushi rolls and some nigiri.\nThe food took about 45 minutes to arrive, after needing to ask about the status of the meal from another server. When the food came my server was lightly apologetic.\nThe food was not good. It was bland, the fish was low quality, and the sushi rice was poorly made. The serving sizes matched the pictures on the menu, however, so I was not surprised by the size.\nAfter finishing and waiting several minutes to ask for the cheque, I gave up and paid at the bar.\nAll in all for a light snack, I was at the restaurant for about 90 minutes.\nI will not return to Sticks N Sushi. The food was not good, the service was remarkably bad and the prices were not at all good value. There are many other nearby London sushi restaurants which beat Sticks N Sushi in all of the price, quality, and service categories.",
+                "datePublished": "2015-08-11"
+            },
+            {
+                "reviewId": "0q7q_PdSN3DdXo7ZigwSgA",
+                "author": "Sophack S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nice spot near the Covent Garden market. Large menu with lots of selections. Pretty solid food and service.\nRather large dining area with a ground floor and lower ground for seating that is dimly lit and pretty good for an intimate dinner. Several friends and I came here for a weekday dinner. \nThe name of the restaurant is aptly named as they serve sushi and yakitori. So we grabbed one of the platters for the table which included various maki sushi and skewered meats (mainly chicken). Quality of the sushi was rather good. The yakitori was well made as well. These platters are huge, so be warned and bring enough people. No way could 3 of us finish a single platter alone.\nDrinks are so-so when it comes to the cocktails, so stick with standbys of sake and beer. Don't get their take on an old fashion.. overly sweet and comes with chocolate chips... a bit weird for me.",
+                "datePublished": "2014-02-03"
+            },
+            {
+                "reviewId": "ViXyiEsno-af3_ZmObPvMg",
+                "author": "Chanya P.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I heard good things about Sticks N Sushi but it was such an episode of endless disappointment. The services was very good and friendly and the restaurant atmosphere was very nice. Everything was nice apart from the FOOD. Sushi rice was so dry and dense as if they have to really push it together for the rice grains to stick. I asked for recommendation and turned out that the dish recommended was the worst. We had 'Coal Crab' the coal black rice inside was especially bad. The price is relatively expensive for what you get. It was not worth it. I guess if you are not asian then it would have been an amazing experience.",
+                "datePublished": "2015-02-20"
+            },
+            {
+                "reviewId": "zCDQnuqSPhY2aDrBWXD9Ag",
+                "author": "Matteo F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of the best Sushi I have ever had. Price is worth it, and the place is wonderful!",
+                "datePublished": "2014-08-02"
+            },
+            {
+                "reviewId": "10vqHNW1H3uz_Bt6xn4hlQ",
+                "author": "Maria Vittoria V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I went several times and it has never been disappointing. The sticks are good and matches perfectly with the tasty sauces on the side. they're just a bit expensive. I always ordered different type of rolls to share and they all have an amazing taste. From traditional Japanese to fusion. I'll definitely recommend it.",
+                "datePublished": "2014-11-15"
+            },
+            {
+                "reviewId": "hBZ7MsZLtYlNBBhMQ6BlOg",
+                "author": "Tanika M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had heard good things about Sticks N Sushi and was so glad when a fellow sushi addict wanted to meet up for lunch. From the outside, it looked shut as it was dark and there was no sign of life. However, after trying the door we walked into an open spacious room with the sunlight streaming through the glass roof as we were welcomed by a member of staff and shown to our table. We made no reservation as it was a weekday and relatively quiet.\nWe had a lovely waiter who talked us through the menu and offered suggestions. The menu itself is quite impressive with images of each dish. With many, many options it took us a while to decide. We even ordered seconds. The best sushi I have ever had and the most fresh.\nAs addicted as I am to sushi, the highlight was the fresh green juice! Not being much of a juice drinker I decided to give it a go and I am so glad I did. I've already made plans to visit again..can't wait.",
+                "datePublished": "2015-01-25"
+            },
+            {
+                "reviewId": "e5Ej0CR6Is8-XKnYBED2pw",
+                "author": "London Foodie Mam A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Stylish chic venue to take a date or a girls night out, however during the day, becomes casual and you can un-embarrassingly take a baby. Mouthwatering dishes although the sushi and small plates are better than the sticks.  com",
+                "datePublished": "2015-02-09"
+            },
+            {
+                "reviewId": "QfrpuWySFghQhiF5qdcyhw",
+                "author": "Niclas J.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Terrible place. Was told that the wait would be 30-45 mins and shown to the bar. After more than an hour, entirely neglected and watching guests who arrived long after us get their tables, still no sign of getting ours. I'm never ever going back. This is apparently what happens when a place gets too popular for its own good.",
+                "datePublished": "2014-03-22"
+            },
+            {
+                "reviewId": "ppY--tk6os5CVWMi6a8OzA",
+                "author": "Jeremy D.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Girlfriend had sushi which she really liked.\nI had a few sticks (steak and chicken) which were fairly bland and tough.  \nPrices were pretty high for what you get.  Definitely could go somewhere else and get better food and bigger portions for a better value.  \nService was not very good, but I guess for London standards was decent.",
+                "datePublished": "2014-12-02"
+            },
+            {
+                "reviewId": "B7A8MaZy8ILzF7unGcGEww",
+                "author": "Sharon B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This was the best meal we had in London.  We stumbled on it and were attracted by its look.  We were impressed by the number of service people they had, and they were all  very attentive.  We also liked the great graphics and photo of the menus, which made they food look very appetizing and helped us make a decision about what to order.  The food was very good.  This is definitely on our list to go back to next time we are in the city.",
+                "datePublished": "2014-05-11"
+            },
+            {
+                "reviewId": "a_3hTH47A0RGmN17lMz0eQ",
+                "author": "Naila M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good location in front of Covent Garden, fabulous service. However, unimaginative sushi (salmon, cooked prawn, maguro), beef ribs with no meat on them, bland miso soup from a packet, overall boring menu despite being visually appealing with lots of photos. The yakitori sticks were nicely charcoaled and there was at least variety in the meat offered.  A fusion Japanese-Danish experience, not an authentic Japanese restaurant.",
+                "datePublished": "2014-02-26"
+            },
+            {
+                "reviewId": "xkSSZ-537CCG4cKW9_FChQ",
+                "author": "Adam B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best Sushi I have ever had.  Service was fantastic.  Atmosphere was hip.  Love it!  Definitely going back!",
+                "datePublished": "2015-06-15"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1542 @@
+{
+    "0": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "NP9qpL1mj_SkQEfM6zUUTQ",
+                "author": "Tim B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Having eaten at L'Atelier I'm Las Vegas several times with excellent service from their Sommelier Rafael Garcia I jumped at the chance we he found out I was headed to London and offered to make a reservation at L'Atelier London. \nThe kitchen was much smaller than Las Vegas but after watching the food prep for a little but the synchronized choreography and all the kitchen staff became evident. My order took a minute to sink in with the waiter, \"I want you to pick my meal for me and pair a wine for each course. \nAs the food and wine came out each course was delightful prepared and the wines paired perfectly. Nothing disappointed but the ravioli was mouthwatering. \nRafael, you're going to have to work next time I'm in Las Vegas to deliver me an equal experience!",
+                "datePublished": "2018-07-30"
+            },
+            {
+                "reviewId": "FlNbNAqoXgYYjla-DV3_6A",
+                "author": "Lilian K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "As a first Michelin experience, I was pretty overwhelmed by the environment and attentiveness of the staff, but I really enjoyed the experience of having so much care taken into your meal.\nMy friends and I got the three course lunch: I got the beetroot tartare, the caramelised quail stuffed with foie gras, and rum baba. \nThey served steaming hot bread first with butter. Then they offered us sparkling/still water, and then later red/white wine. Later upon refill, the water accidentally poured more still into the sparkling glasses and vice versus for my friends still water. A slight mess up but it was nothing really.\nThe chefs beginning foie gras with red wine reduction was very rich, I couldn't finish but it was delicious.\nThe waiter gave me the carrot starter and I told him I ordered the beetroot but was happy to take the carrots. Another worker told me that he'd give me the beetroot and that we could share the carrot dish! It was delicious too, the beetroot was refreshing.\nThe quail is one of the best things I've ever had, honey is the perfect flavor to treat your meats. The side of \"famous\" mashed potatoes was also amazingly buttery. \nThe rum baba might not be for those who don't like rum or sponge cake, but the vanilla cream is so light and sweet.\nThe petit four was also a nice bite at the end.",
+                "datePublished": "2018-08-04"
+            },
+            {
+                "reviewId": "PNC5b8KxWOWa0DPlMu8Pqg",
+                "author": "Anthony T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What a special evening. We were able to secure seats at the counter and watch our meal transform before our eyes. We did not opt for the tasting menu; instead we chose a few items from throughout the menu. Our overall favorite was L'oeuf Caviar, Oscietra caviar served atop a crispy poached egg and cauliflower cream. We also spoiled ourselves with the freshly shaved jamon iberico served along pan con tomate. The only dish that did not wow us was the sea bass. Otherwise, an amazing meal.",
+                "datePublished": "2018-06-23"
+            },
+            {
+                "reviewId": "_pywI6ReJk7PylulezeitA",
+                "author": "Niki N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing beautiful restaurant. Probably one of my favorite dining experiences! \nService was amazing and our waiter was the sweetest thing ever. She recommended the chefs dining experience where the chef picks out each course for you so we tried it! It was amazing!\nEach course wasn't too big and was gorgeous. You don't leave feeling heavy or full at all.\nThey are known for their \"world famous\" mashed potatoes and they are to die for!! \nI can't wait to come back and have a wonderful experience again.",
+                "datePublished": "2017-09-30"
+            },
+            {
+                "reviewId": "fhA3NJe1UsftodhF8TmZAg",
+                "author": "Isaiah F.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Not the best customer service \nLong wait times for food \nAfter the waiter brought the wrong food not our order we asked to get the food we ordered and gladly pay for it but the manger refused and said he didn't have enough time. The waiter however did realize his mistake later and offered a dessert instead but by that time we all were over the horrible service we had received. We asked for the check and he asked us to get desserts again we said no please just bring the check so we can go elsewhere",
+                "datePublished": "2018-09-06"
+            },
+            {
+                "reviewId": "D58ISG4HOrqNWZ1A0F9jdw",
+                "author": "Christina G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Enjoyable evening with our Son on Holiday! Service, well attended to. Amazing amuse bouche, 7 course tasting was lovely!",
+                "datePublished": "2018-06-09"
+            },
+            {
+                "reviewId": "X4F0aCygUJxnZxQCs7hmuw",
+                "author": "Cynthia M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I really enjoyed this restaurant. Not a 5 Star because the feel, ambiance of restaurant seemed very causal, maybe it was the black and white checkers that reminded you of a steak and shake. I personally enjoyed the food, small portions and creative plates but my partner whom is more of a wine snob than a foodie liked his experience at La Petite Maison which the total bill there was double the cost mainly because of you be Wine. I would still recommend that go here to experience the food. May favorite starter is the Fois grad  hamburgers. Fois is something I never would have gotten in the past (bad experience) but I discovered it's all how the chef prepares it.",
+                "datePublished": "2017-11-30"
+            },
+            {
+                "reviewId": "-1-VzOY2th7LXJ-Qc15ERg",
+                "author": "Hue T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Although I am not in London anymore; I must give this place the review. This is the first Michelin Star I have ever been in and it was amazing. The place has a romantic setting and the chef and his workers cook in the kitchen thats right in front of you. The unison of the staff is great! The full course meal is amazing. I had their steak the first time. It was so amazing I had to go there a second time. They start you off with a selection of bread and butter. Their water was 6 pounds which makes sense for the restaurant to charge that much. Afterwards, they bring you 3 small complimentary appetizers. Their molecular gastronomy techniques are excellent. Hard for me to describe the taste so I will leave photos of them after the review. Next was the 20 oz steak with jalapeno peppers and finely cut potatoes. They wrap a small bundle of rosemary to enhance the flavor of the steak. This steak was and still is, the best steak I have ever had. On the side is their famous smashed potatoes and it definitely has an exquisite taste. Lastly they gave me complimentary desert that was a great palate clenser. All for only 55 pounds. If this was a 1 Michelin Star restaurant, I can't imagine what a 3 star will taste like. I can still imagine the soft firm taste like it was yesterday. Until one day, I will come back to this place",
+                "datePublished": "2017-11-06"
+            },
+            {
+                "reviewId": "de-Hxnb8uF3Jmbw9GX2b8w",
+                "author": "Douglas A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is a delightful spot for a special dinner whether you are trying to impress your partner or you have a business contact you want to woo.  If you dine here you need to surrender yourself to the whims of the chef or your server.  If you do, you will not be sorry.  The service is good but the menu selection is superb.  I had the chef's menu and was blown away by the presentation and the flavors.  For me, the highlight was the dessert which consisted of \"chocolate wonderfulness\" that defies an adequate description!  This is an expensive spot but its innovative menu and remarkable ambiance is well worth it.  My only issue was our server had a very thick accent which made it difficult to understand her.  I am not trying to be picky but this put me off a bit.  Our entire group had the same problem and we had a group that included both native German and French speakers.  The acoustics didn't help.  The menu, presentation, and food gets five stars.  Service, sadly was a little confused with plates arriving at different intervals.  Not a huge issue but caused the overall rating to slip from five to four stars.  If you want a special meal in London, L'Atelier should not be overlooked!",
+                "datePublished": "2018-05-13"
+            },
+            {
+                "reviewId": "0GDGCOEHcCzggcCXf_Wvcg",
+                "author": "Monique S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We were excited to see that there were reservations available on a Saturday night.  We booked a 10:30 PM slot. When we arrived, our table was not ready.  We were sent up to a lounge where we were given menus for cocktails. No one ever came by to take our order while others were being seated and helped. Finally, after 30 minutes, someone came by. He was extremely apologetic and provided us with a complimentary glass of sparkling wine.  About ten minutes after that, and fort minutes after our reservation time, we were seated.\nSomeone promptly came to give us menus and bread.  There were no bread plates, so after several minutes we had to ask.  My friend ordered a diet coke.  The waiter took our order and then a few minutes later someone else came to take our order.\nWe ordered the eight course tasting menu.  My friend's diet coke never came, so after a few courses, we had to re-order. I ordered a cocktail, the Secreta Negrita around the first course. It came around around the seventh course. That was ridiculous. I didn't get it until I threatened to cancel the drink order.\nOur dessert took forever, at least 25-30 minutes after we finished the last course, which was strange because the other courses came out at a nice pace. By this time, people were banging pots and cleaning without seeing if we needed anything. I kept having to flag down people for water.\nWe had the eight course tasting menu.  \nCourse 1: Tempura - This is not your Japanese style tempura. These were fresh vegetables wrapped in a light tempura batter.  Simple and delicious with a light cucumber and mint cream.\nCourse 2: Caviar - The caviar was served over crab with potatoes vichyssoise. This was beautifully plated on a plate with palms painted on it and a bowl of ice underneath the dish.  Very beautiful.  The caviar was on top, and then the potatoes vichyssoise, and underneath was the delicious crab. The combination was superb. \nCourse 3: Seared Scallop - This was beautifully presented on a half shell on top of potatoes mousseline. The scallop was seared perfectly. The texture and flavors were supreme.\nCourse 4: Gyoza - This was a chicken and leek gyoza in a hibiscus broth. The broth was slightly sweet and acidic. It was so good that I didn't leave a drop in the bowl.  The gyoza was my least favorite.  It didn't taste any better than the dollar dumplings in NYC, aside from the soft (vs dollar dumplings' rubbery) texture!\nCourse 5: Foie Gras with a similar hibiscus broth/juice from the previous course. This was my favorite!  It was a generous portion, and it really melted in my mouth, truly a wonderful experience.\nCourse 6: John Dory with a tandoori-lime emulsion. This was my second least favorite course. It was good, but the texture was a bit rough. I never had John Dory before, so maybe that's how it's supposed to be. I really liked the broth, and it came with baby clams.\nCourse 7: I had the lamb cutlets. My friend had the quail stuffed with foie gras. Both came with a mashed potato that was to die for. It was the thickest and creamiest mashed potato I ever had. I had my lamp medium well. It was tender and savory. \nThis was around the time I got my drink, La Secreta Negrita.  It's truly a dessert in itself, a creamy mezcal drink with a chocolate treat inside.  \nAt this point someone put a bowl of the mashed potatoes in front of us and didn't say anything.  Several minutes passed by with it sitting there, so we asked about it. And the waiter said he ordered it by mistake. We gratefully indulged!\nCourse 8: Herb sorbet and kiwi puree with a light Sorbet AND Chocolate Mousse with Oreo cookies.  This was worth the wait. \nOverall, a beautiful venue with fresh vegetables serving as decor and strong red colors that make the ambiance.  The food is divine.  If they can get their service in order, this would be the perfect experience!",
+                "datePublished": "2016-10-01"
+            },
+            {
+                "reviewId": "PZsjVj3_Whnv53D9xVSOhg",
+                "author": "Hannah M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Cheer up and for the hell of it, asking siri where the nearest michelin star restaurant was, and walking in, booking free in work clothes, and being sat at the bar. \nCocktails to start, gorgeous combination of spirits, decorated with fruit and flowers. \nLittle palette cleansers in between, that were fresh and flavoursome.\nI had the duck, duck bon bons and cherries, it was cooked perfectly, and tasted divine. It was only then that we realised we were sat facing the open plan kitchen, they were working so quietly, efficiently and cleanly they didn't disturb anyone.\nBefore desert, we were given little petit fours of truffles and gorgeous raspberry marshmallows. \nWe ordered pots of tea, with super attentive service I wasn't allowed to pour my own. \nMy friend's desert in particular was amazing, with a beret of leopard print painted chocolate, my desert was also perfect, but not quite as pretty.\nI would definitely come here again, really did love it.",
+                "datePublished": "2016-07-24"
+            },
+            {
+                "reviewId": "zIvqYfJvr0vPyGsurMbfNA",
+                "author": "Tiffany C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Massive expectation gap!\nMy friend and I were very excited about this lunch. Turns out it did not live up to the Michelin star expectation. #disappointed\nWe were sat at the bar area elbow touching elbow with the customers next to us. I could literally read who the customer next to me was whatsapping. There was a couple sitting next to my friend, talking about her mum #wedidntwanttoknowherstoriesok(!). Cosy was not what I was expecting. \nThe bread came without the butter. We waited for a few minutes thinking the butter was on its way. Sadly it did not show up and we had to request it. I felt that the waiting staff should be more attentive. \nThe starters, mains and desserts were decent. However, it just felt that we were having fine dining at a cosy ramen bar. \nThe last disappointment hit when the coffee came without the chocolates/sweets. The waitress did inform us that the sweets were on their way. Though they never show up and we ended up asking for them. \nAll in all, a huge let down.",
+                "datePublished": "2017-06-30"
+            },
+            {
+                "reviewId": "ifWwHwSLKEDYnTPDRW6PKw",
+                "author": "Earl R.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "My review plain and simple. We had a reservation for a family celebration and they did not have a table when we got there. Which is not a acceptable situation for any restaurant. Even the local chain restraints can accomplish something that simple.",
+                "datePublished": "2017-07-10"
+            },
+            {
+                "reviewId": "G3LvXaP3U7Xb-V2TQPIrTA",
+                "author": "Ardo I.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Big disappointment for a Michelin starred restaurant. The meal left me quite sick well into the night and next day. I started feeling sick after the third course and was was sick until the night. Husband had the regular tasting menu and I had the vegetarian. He liked his; I did not like mine at all. The two stars is for husband liking his meal. However, The vegetarian courses were quite heavy and complex, but in a way I found overwhelming and \"tried too hard.\" The beetroot and poached quail egg dishes were nice.  \nAside from the somewhat disappointing food courses, the service was very patchy. We asked to see the sommelier a few times before she appeared, a promised dessert wine never came, and courses took a while to come out even when we were the last people there and they were cleaning to close. \nThe worst part was that we saw at least one mouse running about the restaurant. One if the waiters stomped his feet to scurry away the mouse. When that mouse or another one reappeared, another waiter blamed it on the door being left open. The hostess said, \" don't worry madam-- it's a mini one.\"  That statement did not work in their favor. The door was not open and seemed unlikely that the mouse had run in from the outside as this was pretty far into the end of the restaurant and there are two separate doors by the entrance. That's not acceptable for any restaurant, much less a Michelin started one. It completely ruined my appetite for the last dessert course that took too long to come.",
+                "datePublished": "2018-03-24"
+            },
+            {
+                "reviewId": "Qxu2JJnhz1mLCeJCB-Di8A",
+                "author": "Eusden S.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Your review helps others learn about great local businesses.\nPlease don't review this business if you received a freebie for writing this review, or if you're connected in any way to the owner or employees.We dined at Joel Robuchon in London for Christmas dinner last winter.  We've been a fan of L'Atelier de Joel Robuchon restaurants in many cities, but our experience on Christmas day at your restaurant fell far short of our expectations.\nThe food was decent, as consistent as other Robuchon restaurants we've been to.  It didn't wow us as much, possibly as our bar is always moving higher.  The service, however, made us feel unwelcome.  We were about 10 minutes late to our reservation due to traffic, which we apologized profusely for.  However, I don't think the service thereafter was justifiable.\nThroughout the night we were consistently ignored.  We weren't sure if there was a dedicated server for us, as no one had introduced themselves as we were seated, and several folks rotated on our needs.  It took roughly 5 minutes after we were seated to get a menu.  It took another 10 minutes for someone to take our order (we got the tasting menu).  The older couple next to us had a blast talking with many of the staff, which is great for them, but my wife and I were paid no attention to for drinks or feedback on the food.  At the end of our meal, it again took a long time for the bill to arrive after we had asked, and no one bothered to take away our dishes after bringing us the bill.\nAt some point we wondered if we were ignored because we looked younger or because of our ethnicity (we saw other tables also ignored according to a pattern), I'd rather not assume discrimination so we'll chalk it up to just bad service.  Given that it's Christmas night, this made it all the more frustrating experience.\nAll in all, I would not visit Joel Robuchon London again, nor recommend to anyone.  You can get better food in many places, and better service in all places.",
+                "datePublished": "2017-06-12"
+            },
+            {
+                "reviewId": "3tTkAafcCXfcWE-8AQWUAw",
+                "author": "Michael O.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Cleanliness: 4/4\nService: 3/4\nHonesty: 3/4\n+1 bonus star for good flavors, freshness, and presentation\nThe cleanliness was good. But then again, it was so dark i couldn't see much. You feel like you're entering a Chinese torture room with antechamber and all. The service was awkward. They sit everyone at the bar looking into the kitchen so the service is impersonal. Also, every time the chef said something, the minions would say, \"oui, chef\" and it got very annoying after the 70th time. Also, i ordered a Sazerac and it took over 30 minutes!!! I have no idea what happened. Someone dropped the ball? After 30 minutes i told them to just forget it but eventually they ended up bringing it anyway as a freebie. Regarding the honesty, i dont know. I didnt like the exorbitant pricing for a lackluster experience. Two hamburger sliders for example was £21 (almost USD$30). If they had made the whole experience more personalized, intimate, and awesome i wouldnt mind the price. I also felt they were more interested in making money than providing an experience.  After asking for the check, it was very awkward. They kept opening and closing the pocketbook with the check and whispering amongst themselves. At one point i got annoyed and asked, \"is that mine? Is there a problem?\" Even after setting it down, Two seemingly managers came to open the pocketbook again and look at the check. ::rolls eyes:: oh, lastly, the maitre'd seemed annoyed when we arrived.",
+                "datePublished": "2017-07-06"
+            },
+            {
+                "reviewId": "xhUBeg66plC1MZt5i-Eaqg",
+                "author": "Brian P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Came here with my wife while on a quick visit to London.  Coming here is a five star dining experience complete with over attentive staff, unique tasty dishes, and high prices.\nMy wife had a five course tasting menu while I secreted a few things a la carte. \nA few standouts-\nLamb chops- maybe the best lamb I've ever eaten. Perfect. \nBlacken Cod- pretty good. But not the best I've ever eaten. \nFoie gras stuffed quail- very good especially the quail. \nIn the downside the deserts didn't wow us. My Oreo cookie chocolate entree was just so so.  My wife had a mango sorbet / homemade candy concoction which was also just ok. \nService was good and friendly- which it should be for the prices you pay and the mandatory service charge. \nHad this restaurant been 20% cheaper it would be an easy 4 or even 5*.",
+                "datePublished": "2016-01-01"
+            },
+            {
+                "reviewId": "hrYpivTcy6h9tqEzwq_33Q",
+                "author": "Janine R.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "We've eaten st this restaurant many times and requested a table when making reservations for a graduation celebration. They said we will have that ready for you; however when we went to check in they said they would be seating us at the bar. We explained this was not acceptable and they said, \"it's lovely. It's the whole experience of Robuchon to sit at the bar. We've sat st the bar. The only experience is that you are not able to talk to your companions. It's loud in the restaurant anyway. They said they sat a table right before we came in because its first come first served despite us having a reservation. Not accommodating at all. They really push the bar area every time you go because no one really wants to sit at the bar. If everyone enjoyed the bar so much, all of the tables  would not have been filled. Will not be going back even though the food is usually wonderful. Left a bad taste in our mouths.",
+                "datePublished": "2017-07-10"
+            },
+            {
+                "reviewId": "UUz-P__GJ0jLKsdWWiB1Zw",
+                "author": "Danielle F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We had the most wonderful evening!  It was our 23rd wedding anniversary and we could not have picked a better place to celebrate.  Honestly,  the whole experience was special from begining to end.  We actually asked to speak to the manager to commend him on his knowlegeble and attentive staff.  The food was incredible and we loved watching the magic as each dish was created in the kitchen.  Thank you for a very special evening!",
+                "datePublished": "2017-08-17"
+            },
+            {
+                "reviewId": "XwcEgZwAm7j-931_z5R0sw",
+                "author": "Lucy S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I actually prefer this location to the one in Paris.\nDon't get me wrong, the one in Paris is nice. But this location is truly special. The service is top notch, the menu creation is inspiring, and the food is superb.\nMy first experience here was during restaurant week a few years ago, it was a steal of a deal! Since then I come back fairly frequently (as often as my budget will allow) and it always seems to get better every time I go. \nIt is quite pricey, but I do think it's worth the money.",
+                "datePublished": "2016-04-29"
+            }
+        ]
+    },
+    "20": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "GQ-ec_SHlve73X8Jauk82Q",
+                "author": "Daniela L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Do not go for New Year's! They double the price and  the dishes are boring in comparison to their regular menu. We were extremely disappointed and hope others don't make the same mistake.",
+                "datePublished": "2017-12-28"
+            },
+            {
+                "reviewId": "JJfzdM5J0o5Ji-znqbKD_Q",
+                "author": "Clinton M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Roasted Bone marrow was out of this world. \nFree range quail was unbelievable. \nLangostine ans truffle ravioli with Savoy cabbage was amazing as well. Lost my self in that one. \nBeing able to watch the kitchen so close, seeing the passion in the kitchen, so much attention to detail, was the most rewarding experience. \nThe service was also notable in their efforts to make us feel so welcome and well looked after.",
+                "datePublished": "2016-12-31"
+            },
+            {
+                "reviewId": "5qCSuAiG7MDXNAdchKkGQA",
+                "author": "Jaime V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is one of my favorite spots in London, go for the fixed menu. Great drinks, make reservations it is very busy specially on weekends.",
+                "datePublished": "2017-09-14"
+            },
+            {
+                "reviewId": "AN8jRVqPajfMQQE7MC09uA",
+                "author": "Steve A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We've dined here both upstairs and down, and at the sister restaurants in Las Vegas and (now closed) New York. Of all of them, this is our favorite, because of the intimate size of the downstairs area. It offers arguably the best tasting menu in London, with wine pairings that superbly match each course. \nThe artistry of the food arrangement is really unsurpassed, and it's great fun to watch it being assembled before you, so be sure to ask for a seat at the counter. This makes it easy to chat with the servers and sommelier, making it a friendly, energizing experience. For parties of more than two a few tables are available downstairs, which I recommend over the less intimate upstairs dining room.",
+                "datePublished": "2014-10-01"
+            },
+            {
+                "reviewId": "5IHhGxF0EbKGQceKWVOMYQ",
+                "author": "Bradley M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Let's start off with the service- WORST service I've encountered in London. Arrived with reservations and no one at hostess stand- we stand waiting for someone to show up for 15 mins.  \nThe remainder of our service should've taken place at a fast food establishment-\nWe had the tasting course- the food was absolutely lovely and the presentation perfect. It's unfortunate the service and management is poorly performed.\nI've eaten at several Joel Robuchon establishments around the world and thus by far the worst service I've received.",
+                "datePublished": "2016-06-06"
+            },
+            {
+                "reviewId": "KvVVh_gVaPE3TueGD_F6og",
+                "author": "Ada G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Being in England, I'm trying to accrue as many fine dining experiences as possible. This was so worth it!!\nAbsolutely delicious. From the beginning to the end, it was definitely a two Michelin star experience. It was actually fairly empty when me and my friend went, so we had 3 people serving out table. They recommended the Riesling from Germany which was lovely. Nice, sweet and refreshing. It suited my tastes perfectly.\nI ordered the lobster salad, which has fresh lobster (really good, comparable to Newfoundland!), avocado, fried courgette and large mozzarella cheese balls. It also has a green creamy sauce which I would hazard is avocado. \nThis came after a basket of fresh bread, which of course also tastes great when you're hungry. This was followed by an aperitif which was quite interesting. \nThey brought out a free bowl of mashed potatoes which somehow was also really good, rich and creamy. \nWe finished the night with dessert. I ordered the chocolate mousse but I just couldn't finish it. So good but so rich! Definitely get desserts to share! It had this white whipped cream around it which was nice and a little bit lighter to complement the rich dark chocolate mousse and it had a hard chocolate top.\nGood value for fine dining. Plus, you get a free dessert voucher after your first meal there!",
+                "datePublished": "2014-07-25"
+            },
+            {
+                "reviewId": "HRFsu2f4LWUIL8152I_Wlg",
+                "author": "Tamara K.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "In all of my years of travel for personal and work, this has to be THE ABSOLUTE WORST place I have ever been in terms of treatment of customers, attitude and overall behavior. It is so bad, I asked the hotel to never book a guest here ever.  \nI arrived for my reservation on time for 8:30. I sat upstairs for 50 minutes waiting for my table. We were told that there was no ETA on when we could be seated. At this point, we were waiting over an hour to be seated. At 9:30, I was told by a manager that I could sit at the bar on level 1. There were three people in my party. There were empty tables that could accommodate us. How would that work with three people eating dinner at a noisy bar? When I spoke to a very nice manager, he finally seated us at a table.  Once at the table, it took 20 minutes for someone to come take our order. We ordered basic steaks close to 10pm at night. As time went on, no food was delivered to us. We kept having a manager tell us the food would be here shortly.- \"a few more minutes\". We waited 70 minutes after we ordered but STILL NO FOOD. At this point we had been in the restaurant for close to 3 hours with no food but bread and water. We had ordered coke to drink for the table. That never arrived. We spoke to a very rude and condescending manager who told us to \"be patient\".  At that point we got up and left. It was 11:30pm.\nAnother manager, told us the food was coming and to go back to the table. He kept saying the kitchen was backed up but the food would be there soon. \nWhile we were getting our coats, the hostess was laughing about the situation.  She then said to my friend \"have a good night, thank you\"\nWe walked out of the restaurant at 11:40pm followed by the manager who basically told us to not come back. \nI told my hotel, who booked the reservation, to never book there. They will not. \nInteresting to see that others had similar experiences as well- dating back to 2016.",
+                "datePublished": "2018-01-20"
+            },
+            {
+                "reviewId": "-IJsjm3ShIPlyzrIwZQ7gQ",
+                "author": "Greg G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Truly spectacular in every way. The food, the hospitality, the service, the ambiance, they all hit the right notes in an evening that was more like a symphony than a meal. We ate on the ground floor in the bar area, a concept begun in 2003 at his left bank St. Germain location in Paris. I highly recommend this as it allows you to watch the precision of the kitchen,  which you're in full view of, and you can engage more easily with the staff and your neighbors if you so choose. \nEither before or after dinner make sure you head to the 3rd floor for drinks as an aperitif or post dessert coffee or tea. Beautiful lounge like bar with an outdoor patio area on warm nights. \nThe staff is so great you could have a bad meal and walk out smiling. Of course, having a bad meal here has got to be impossible. We opted for choosing 3 courses each from the starter list/tapas style and portion part of the menu. See my attached pics for mouthwatering crab, langoustine, scallop, girolles (chanterelles), black cod, quail, chocolate soufflé and pineapple dishes. Epic meal!",
+                "datePublished": "2016-02-11"
+            },
+            {
+                "reviewId": "qfXLo_gUIch38Km3MY5WTg",
+                "author": "Paula M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Been to the restaurant once but more frequently to the bar upstairs which is a place you need to know about as not evident from the outside or, as you step into to the restaurant.\nThe bar is a cosy place with soft furnishing to relax into.   There is an outside area for the summer time.  During the winter there is a large fire to keep you warm.  Cosy little seating areas which are great for a catch up treat. \nThis is a treat as the price of the drinks are rather on the higher end of the scale.  Waiter service is attentive without being hassled and drinks served with a decorative little rose petal placed beside it.  \nCocktails are wonderful (but reflected in the price).  Challenge here is not to drink too much that you forget (or stop caring) about the cost as it can be a pricey visit!\nHowever, love it here!",
+                "datePublished": "2013-03-29"
+            },
+            {
+                "reviewId": "RmJoTlS24-zVeNL1XIUo-g",
+                "author": "Noel H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We had a very good lunch time deal with top end quality food, from very well poached egg, to pig trotter terrine, foie gras & blackcurrant coulis teaser and deliciously baked bread.",
+                "datePublished": "2015-12-06"
+            },
+            {
+                "reviewId": "_ddQ8nf3aoMyrSOjT0JX0w",
+                "author": "Menaal M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "There are few things I wouldn't do for the mash potatoes. They are legendary, to the point that it's sinful! No words for how amazing this place is.",
+                "datePublished": "2017-02-22"
+            },
+            {
+                "reviewId": "4QeWhOyuQWSdUdwOVY3nLg",
+                "author": "Terence L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It's a five star place, no getting around it.  L'Atelier serves super high quality food in a casual environment.  The location is in the heart of tourist London, but L'Atelier is hidden in a smaller street so it's not crowded.  \nAll the foie gras dishes there are really good and perfectly cooked.  I especially liked the lobster dumplings with foie gras sauce, since the lobster was really sweet, the foie gras sauce gave it just the right amount of bitterness it needed.\nI also really enjoyed the veal steak.  It was also cooked to perfection and was tender as fuck mate.  They have a sommelier there if you dont know your wine shit, but make sure you are specific when you tell them what you want otherwise they just gonna suggest the most expensive shit.\nWould probably come here every time i go to London because french food is bomb AF",
+                "datePublished": "2015-11-05"
+            },
+            {
+                "reviewId": "JzNMpspPsknZGwhuZ14lFg",
+                "author": "Christina T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Utterly incredible. Beautiful food, lovely attentive service. My dessert was a masterpiece.",
+                "datePublished": "2015-10-10"
+            },
+            {
+                "reviewId": "RRYRo0xz4CY7qOyox-P4Ig",
+                "author": "Rick o.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Kind of overrated and extremely over priced! The only thing amazing here is there lamb chops and there mash potatoes everything else is extremely overrated borderline awful",
+                "datePublished": "2016-10-13"
+            },
+            {
+                "reviewId": "7o3IFzKOKdgE3x-KsZXjaw",
+                "author": "Dee G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We were somewhat disappointed in our experience here. The food was good, don't get me wrong. However, the food wasn't great, and for the money that we paid to eat here, we expected and should have received great. \nWe ordered a range of things from the menu including the foie gras, scallops, miso cod, and lamb. The foie gras was done excellent and so was the lamb. Surprisingly, the best part about the lamb was the mashed potatoes that came with it. Unfortunately, the miso cod was very average and we have had much better. However, the biggest letdown were the scallops. The presentation was beautiful (as it was in every dish), but they smelled and tasted fishy, to the point where we couldn't even finish them. They were also in a very harsh flavored sauce that did not go well with them at all and couldn't even cover up the fishy taste enough to swallow them. \nI am happy we tried L'Atelier after hearing so much about it, but I highly doubt we would go back after the mediocre experience we had there.",
+                "datePublished": "2014-07-25"
+            },
+            {
+                "reviewId": "b1BryZCrb_m_2QuoN3CAxA",
+                "author": "Jonathan D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This might be my new favorite restaurant.  We had the tasting menu last month while sitting at the counter and it was fabulous.  First of all the service is impeccable.  The staff is attentive, helpful and friendly.  \nThe tasting menu was amazing and the sommelier arranged a wine pairing alongside it for us.  We started with crunchy spring vegetables in tempura that was a perfect light first course.  The second course was a crab royal with vichyssoise and caviar.  It was basically parfait of vichyssoise with delicious crab at the bottom and topped with caviar.  It was excellent.  The third course was a seared scallop and was lovely but suffered by comparison to our crab.  The fourth course was a chicken and leek gyoza that was excellent in a tasty broth.  The foie gras course came next and was excellent with fresh cherries.  We then moved onto the black cod that was good but set the stage for our main, the lamb.  The lamb was excellent and flavorful.  For dessert we had mango with a passionata sorbet followed by a herb sorbet with chartreuse cream.  \nAll in all, a wonderful meal and even if you dont eat some of the things on the tasting menu, I would suggest you go for it.  I rarely eat crab or caviar but that might have been the highlight of the meal.  Everything is so well done, you cannot go wrong!",
+                "datePublished": "2016-08-17"
+            },
+            {
+                "reviewId": "bqB8vm3xpl7xdy2ibKba3g",
+                "author": "Nida K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier de Joel Robuchon had flawless execution from start to finish. I am 110% satisfied with the experience I had here. Right when you walk through the door, you're greeted by a friendly host who gladly checks your winter coat. I came here for lunch yesterday with a friend and we both had an amazing time. The atmosphere is dark, dim, and especially trendy. I loved the back where the wall is covered with tree leaves. We were seated at the bar, which was lovely because you can see everything the chefs are doing. Every dish is carefully crafted and none reach the table unless it looks absolutely perfect. And yes, it tastes as good as it looks.\nIt was lunchtime and a prix-fixe menu is available with a few options at different price points. We opted for the one-starter or dessert and main entree for £28. We both went with starters and a main entree.\nStarters\nL'ŒUF DE POULE - Poached egg in a crispy rice batter served with black truffle &Iberian ham; This was incredibly delicious. My friend said it reminded her of hash browns & breakfast, which isn't a bad thing at all.\nLE CŒUR DE SUCRINE - Heart of lettuce with chicken breast, crispy bacon & parmesan shaving; Very light, but still very tasty. All the elements of a caesar salad, not the most unique dish but still very good nonetheless.\nMains\nLE CABILLAUD - Cod fillet served with flat parsley ravioli and vegetable broth; Very light and flaky but very tasty. The vegetable broth was amazingly flavorful, the fish was steamed cooked to perfects, and the ravioli cover gave it a nice touch.\nSPECIAL OF THE DAY, PORK FLANK - This isn't on the menu, but it was most definitely the best dish we ordered. The pork was tender and juicy and packed full of flavor. It was one of those dishes that with every bite you take, you roll your eyes back and savor each bite. Yes, it was that AMAZING.\nNot only did we have an incredible lunch, but to add to the already amazing experience, the service was just as good. I guess I shouldn't be surprised given this restaurant has 2 Michelin stars, but the waitstaff kept bringing us little sides throughout the entire time. Compliments of the chef, we received an amuse bouche to give our tastebuds a teaser, fennel & mashed potatoes as sides for our entree, and a little dessert to end our meal. We spent a good two hours in here and we were never rushed out even though we sat and stewed for a while after our meal was over. \nI'm a big fan of this restaurant and I'll gladly say that this was one of the best experiences that I've had at a restaurant in London. If you're short on dough and want to experience a culinary experience here, try to come during lunch time when the prix-fixe menus are available.",
+                "datePublished": "2013-02-26"
+            },
+            {
+                "reviewId": "N-mTsgskzOCB_I8Xm_Nlkw",
+                "author": "G K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Excellent service, nice decor and ambiance. Was there for the Holidays, the menu was different but still very original.\nDid the wine pairing, they were all excellent choices, so much that we asked if we could have a copy of the wine list so we could order them later.",
+                "datePublished": "2015-06-20"
+            },
+            {
+                "reviewId": "F1bXA-5vr0jZpBStjX_N5A",
+                "author": "Ray C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The upstairs cocktail bar is where it's at!\nI haven't eaten her, but would say that this amongst one of my favourite cocktail bars in London.\nYou wouldn't be mistaken entering this building through the bouncer guarded door into the mute black tones of this venues reception that this place requires a suit. But don't be scared, as long as you're not wearing trainers, ripped clothing and paint splotched jeans, the chances are they won't turn you away and leaving your excess luggage in the clock room and you'll be escorted to the top floor cocktail bar!\nIn the same black muted tones, you'll find plush red seating laden with cushions. For those who like the outdoors there is also a outdoor patio that allows you the fresh air that you so seldom find in venues located so centrally.\nAt around £12 a pop for a cocktail, some may find this on the more expensive side, however it's still a reasonably priced night out if you don't expect to binge drink and are happy to nurse your beverage.\nHowever beverage really isn't the right word to describe these cocktails, each is made extremely well with great care, have a fantastic balance of flavours and you'll find amongst some good old favourites, some really great modern twists.\nI would highly recommend the Aviation No.3 which is pure nectar. Whilst the Fleur de Framboise is surprisingly delectable, without the normal sharp tones your expect for a dink that features Prosecco.\nThe atmosphere, the attention to detail and the fantastic drinks, definitely makes the salon bar a firm favourite of mine!",
+                "datePublished": "2013-05-23"
+            },
+            {
+                "reviewId": "_LzdFIhpvk1qO4I4VlCxyA",
+                "author": "K C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I really enjoyed a lovely dinner with friends.  Had the 8 course with regular (non-French wine parings).  The 8 gets you an extra dessert and a few other goodies.  We sat downstairs; the stools feel a little uncomfortable for an 8 course meal.  The quail and caramel desert were very memorable.  The french vibe was also very cool.\nAfter dinner they seated you upstairs for coffee and dessert, which was great, too.  There is a pre-theater special that I would have tried if I knew about it.",
+                "datePublished": "2014-11-10"
+            }
+        ]
+    },
+    "40": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "r0jbV5mnzyqHPrKK2SMfAQ",
+                "author": "Y L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Four course tasting menu with the option to upgrade dishes.  The final tab was £70 for lunch, and I wouldn't have changed anything about it.\nJoel Robouchon does not disappoint no matter which location you go to.  I can't wait to head over to his Vegas location.",
+                "datePublished": "2014-05-20"
+            },
+            {
+                "reviewId": "VwWO9fu041CzqafoGsVoQw",
+                "author": "Dorota K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Had a spontaneous dinner at the restaurant last night and must say the service was impeccable, the atmosphere was great and the food divine... Highly recommended",
+                "datePublished": "2016-04-03"
+            },
+            {
+                "reviewId": "xKX6PdCCtm9Zl31cjSwTnA",
+                "author": "Simon S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place was a highlight of our recent trip to London. The food was exquisite and the staff was warm and friendly, it was truly a dining experience!!!!\nI look forward to returning! Should have another Michelin star!",
+                "datePublished": "2014-10-28"
+            },
+            {
+                "reviewId": "L2ePaPBo1xmIo7EvIXPZcA",
+                "author": "Aaron R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "What can you say but this place is epic!   The environment is modern and creative and really makes you feel like you are in a movie, without being intimidating.   I sat at the bar once and got a table with a date another time and both were great, though very different experiences.   If you want to impress someone, you can't go wrong here.  Yes, the prices are high but you don't leave feeling like you got ripped off.   You leave completely satisfied and happy.",
+                "datePublished": "2014-02-13"
+            },
+            {
+                "reviewId": "e5rEDHTnuGV4WzCm8oH_LQ",
+                "author": "Snuffles B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "New Years Eve in London - It had to be French - San Francisco banned foie gras so getting my hands on some was 100% necessary. \nAtmosphere: \nNearly identical to L'Atelier in Tokyo - dim, chill, trendy, centered around their bustling open kitchen\nService:\nRelaxed, friendly, a bit scattered at times\nFood:\nThe tasting menu for the day didn't appeal to us so we went a la carte, which meant double the foie =) Overall - the black cod and mini-burgers with foie were excellent, but everything else was tasty but very forgettable.\nDamage: ~£200 for 2 (including some champagne)\nOverall - A notch down from the Tokyo branch and  the weakest 2-star Michelin I've been to, I think closer to a medium quality 1-star. Doesn't matter though, cuz I got my foie =)",
+                "datePublished": "2013-01-27"
+            },
+            {
+                "reviewId": "rTtgJev8mE-R-BtMReiuIQ",
+                "author": "Vince V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious, inventive cuisine. Professional and attentive service without being pretentious. Elizabetha and Sarah were outstanding!  Unique ambiance. Super cool vibe. Out favorite meal in London!",
+                "datePublished": "2015-09-24"
+            },
+            {
+                "reviewId": "CdlZwyEti4f7_F9C_mm_JA",
+                "author": "Chris G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I just came here for drinks... but after the experience that I had, I will definitely return for dinner.\nUpon entering the lobby, you are greeted with a chic, tasteful decor and a typically friendly hostess. The other thing that you are greeted with is a beautifully cloying food aroma. And this is one of the very reasons that I know I will return here!\nAfter being escorted to the lift, you will head to either at the restaurant or the cocktail bar. In my case, the latter. The chic, gloss black and red decor continues through here and I always appreciate a bar with dim lighting. I never understand why in London, bars insist on flood light-strength illumination!\nThe table staff tried very hard to accommodate our large group and did so with good grace. When my cocktail arrived, it was presented in a beautiful manner along with a single petal - I know that they have great attention to detail here and I very much appreciate this.\nWith the amazing ambiance, great service and that oh-so-wonderful food aroma... I can't wait to return!",
+                "datePublished": "2013-10-24"
+            },
+            {
+                "reviewId": "YdvG8CRS2SNh9fc1v9tDQA",
+                "author": "Sheeva G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "After having been to a few other L'Atelier locations, I feel that the food at this L'Atelier was the best. I did the big tasting menu and everything was so amazing. The cocktails were delicious (could have been a little stronger), and the presentation of each dish was phenomenal. It was a little bit dark and slightly tight in there, but it didn't really matter since I sat at the counter. I highly suggest sitting up there, especially if you eat alone a lot like I do. I can't wait to come back next time I'm in London!",
+                "datePublished": "2014-10-13"
+            },
+            {
+                "reviewId": "PDanoxSQdZXmHUh1XgNyPA",
+                "author": "Sherene J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Regular Tuesday evening at work and a senior colleague declared that we would be doing a 'spontaneous' team dinner after work. I volunteered to organize. Knowing the nature of the people at dinner, I knew I needed to look at the top end of the range - Hakkasan, Galvin Bistrot, sketch, L'Atelier de JR. Amazingly, sketch and this place had seats available - the bosses preferred good food over funky atmosphere, so we settled on L'Atelier. \nFree team dinner at Michelin restaurant - yes, please! But oh no, I have some medical restrictions for a few months on alcohol, raw food and delicacies like caviar and foie gras - oh so sad (What a strictly upper middle class first world problem :P)\nWe were seated upstairs in a dark gallery with dimmed lighting, stylish decor and a view of the kitchen. We provided plenty of logistical challenges to the restaurant between my dietary constraints and one of the party arriving 45mins late, which upset some of the rhythm of the multi-course menu.\nAfter some confusion, we finally placed our orders. The tasting menu comes in 5-/8-courses with two different types of wine pairings (Sommelier's choice vs. French pairings) - we decided to brave the 5-course menu with Sommelier's choice(not for me!)...but as I started reading through the details of the menu, I realised I could have almost none of the courses without replacements, so despite the \"strict\" rules about the entire table ordering the menu, I was allowed by the chef to order off the 'small tasting dishes' menu. The other alternative was to order off the vegetarian tasting menu but frankly, what's the point? \nAfter running into foie gras in the most unlikely places, I finally picked 4 small dishes (with dessert to follow!) to keep pace with my colleagues' 5-course menu. A nice balance of veggie, pasta, fish and meat with non-alcoholic drinks.\nVerdict:\n1) Spiced Carrot Juice - excellent. Light, gingery, quenches thirst perfectly without overwhelming the palate or weighing me down.\n2) The amuse bouche with port reduction, egg etc- hmm, oh yes, readied the palate very nicely for a grand meal afterwards\n3) Slightly smoked aubergine caviar with vegetables and spicy tomato coulis - Tangy and sour from the tomato coulis, just the way I like it, the aubergine was of a smooth texture with crunchy veggies to balance out the creaminess. I like.\n4) Capellini with tomatoes and a méli-mélo of crunchy Spring vegetables - a cold dish of stringy pasta in tomato sauce presented pleasingly with a range of veggies. This was certainly the most underwhelming dish of the evening for me. It made me wish I had gone for the lamb, cod or crabmeat instead.\n5) The Apple Mint Soda took a while to materialise, some chasing was required - I liked the first few sips but soon, it was ghastly in its sweetness and it overpowered my palate and appetite so much that I had to drink water to wash out its flavour before eating\n6) John Dory fillet on a tomato reduction with avocado vierge sauce - I hadn't had a dory in a long time, so I enjoyed the dish. It was a bit more-ish which is perfectly fine as I was starting to get a bit full. I would venture to say that a tomato reduction is a fairly strong flavour, not always ideal with fish, but this worked. In the future, I'll keep in mind not to order two dishes (aubergine caviar and this) in the same range of flavours - both dominated by the sourness of tomato\n7) Gyoza of braised veal shank with spinach and harissa - This definitely felt like a 'main'. For one, there are 4 substantially sized gyozas where one might expect 2 or 3. Also, the meat is bursting with flavour and tender, so you can't just inhale it without noticing the quantity. The gyoza was made perfectly, crispy on the outside and moist on the inside. \n8) The bread basket was fabulous!\nAha, dessert. While the rest had to go with their menu-dictated choice (something boring with raspberry), I could pick from a wide range, and I decided to go for the Warm Guanaja chocolate soufflé and Sicilian pistachio ice cream, despite their warnings that it could take 15-20mins. It didn't take that long and oh my gosh, definitely the highlight of the meal! The souffle was the BEST I have had in life. It was light as air, the chocolate was dark and intense, the texture was flawless...I almost didn't notice the pistachio icecream because I couldn't get over the souffle, ooh la la.\nI noticed my colleagues enjoyed a wide range of wines from various regions, including an unusual Riesling from Luxembourg. \nSo. Why the 4 stars, and not 5? Well, when my dinner costs a small fortune (over 700quid for 4 of us, and I wasn't even drinking), I would like to not feel like I'm inconveniencing the chef through my dietary constraints. If foie gras is merely a garnish in a dash, can they not exclude it? Even chain restaurants are happy to customize so this was unexpected. Service was friendly but a bit confused. Even so, excellent place and quite an experience!",
+                "datePublished": "2014-08-21"
+            },
+            {
+                "reviewId": "7yNvtE0TZWgRZ4rTlbLdJQ",
+                "author": "Carol K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It must be me. Or maybe they were just having an off night.  I have eaten at amazing restaurants all around the world and people talked about L'Atelier like it was the second coming or something. I thought it was just OK. \nFirst of all- there is a ton of pretense. I can be as pretentious as the next person but there was attitude abounding in this place. First the reservation. We called a month in advance and still could only get a 9:30 seating. We got there early and were seated in the upstairs lounge drinking very pricey cocktails until our table was ready around 9:45. \nA quick note on the lounge as it was quite lovely.  There is an outdoor area with the walls covered in ivy.  Inside are several grouped seating areas- one around a large fireplace with leather sofas and chairs.  We grabbed a corner table relaxing in the club chairs that surrounded it.  Another nice touch?  They put down black napkins for your drinks and adorn them with a red rose petal.  Very classy.\nOnce our reservation was called, because there were 4 of us- we were not seated around the kitchen which is the norm (allows patrons to interact with the chefs)- but got one of the very few tables in the place. This place is small. It gives the illusion of being bigger than it is with mirrors on every wall but I think there may have only been 4 or 5 tables in the whole place. Most of the seating is at the counter where you can see the food being prepared sort of Japanese style. \nService was SLOW- slow even by European standards (I get that everyone thinks we Americans are always in a rush but we were hungry!) And our server kept commenting on our choices as if we should be ordering something else. \nThe menu is broken down into two areas- smal tastings on the left facing page and entree sized portions on the right. But don't think you can share the tastings.. These are little tastes. If you want to share- you need to order more than one- and at these prices . . .it adds up fast. \nWe ordered a variety of the tastes: soup, john dory, squid, mini burgers, the salmon (which never came) and the egg cocette. We also ordered the beef tartar from the entree side of the page. While most were good (forget the egg cocette if you want my opinion and order more of the john dory- now that was good!) this was not food I was going to rave to people about. Nor would you be full. Four people split the above and if not for the bread- we would have walked out hungry. \nBut since one in our party had been there before- we had a special treat for dessert. Picture a ball of chocolate (About the size of a softball) filled with fruit and ice cream. At your table- they then pour hot liquid chocolate over it which causes the shell to break apart and reveal what is inside. This was the highlight of my entire dining experience and truly unique. \nI would have a hard time recommending this place to friends as I think for the money there are better places to eat in London. Those that know me, know that I am not on a budget when I eat out. But I also like to think that the place that I am spending my money wants me as a customer. I didn't get that feeling here at all. And for that . . I doubt I'll be back.",
+                "datePublished": "2009-07-13"
+            },
+            {
+                "reviewId": "kwz8PDvcsV5pOKmibw2Vig",
+                "author": "James N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This place is very classy and expensive.  We took Mum here when she came over from NZ on holiday, it was good for a special occasion like this.  The dishes were very well presented.  The servings were small, but the food was rich and you didn't feel like you would want the servings to be any bigger.\nEvery dish was luxurious and delicious.  We shared our dishes with each other, so we could experience all of the tastes.\nThe staff were very helpful.  We were looking for a side salad and there wasn't one on the menu, but it was no issue for our waiter to get the kitchen to make one for us.\nOf course, this was an expensive dinner, but this is a place that you would go to for a special treat.  I would recommend this restaurant in that context.",
+                "datePublished": "2012-04-08"
+            },
+            {
+                "reviewId": "V771NJcDPKnvl3UG-4eKlg",
+                "author": "C G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The food is not only delicious but an amazing experience and work of art. Thank you !",
+                "datePublished": "2015-12-11"
+            },
+            {
+                "reviewId": "k0-NEkwUbYGzV0nWf-cWVg",
+                "author": "Food S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Had a memorable meal here during one of my trips to London. My favorite was the sterling caviar w/lobster jelly. Simple yet complex, a nice contrast of umami from lobster & nuttiness of caviar. \nAlso fun was having an open kitchen where you can see the chef at work.",
+                "datePublished": "2014-04-07"
+            },
+            {
+                "reviewId": "Cpe-RNWTzXrzgPZND27X6g",
+                "author": "Ian B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm late in writing this as I went earlier in the year but at the moment my meal here ranked as the best dining experience I've ever had so I needed to write this.\nWent for a date night, sat upstairs and ordered the tasting menu paired with wine.  It was a lengthy experience and I loved it.  The details were right, the range of flavors wide and expertly done matched by attentive service and a very clever sommelier.\nI remember one course was spaghetti and red sauce.  I thought they must be  joking...this place!?  But it fit in perfectly wasn't a huge portion hiding behind some oddity, just a very well done dish.  The deserts and chocolates were tops and they even prepared my wife's to-go since she had run out of room.",
+                "datePublished": "2013-08-17"
+            },
+            {
+                "reviewId": "bp63qiwPTdYcyXbvIJc0hw",
+                "author": "R T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Wonderful food beautifully presented. Attentive wait staff.\nHowever, we were seated upstairs which is lacking\nin the atmosphere department. After our dinner, one of\nthe waitress showed us their roof top bar which can\nbe a great place to have a drink or small party.",
+                "datePublished": "2014-07-17"
+            },
+            {
+                "reviewId": "cQ-mBgW1n2wZC1pqZ7lDAQ",
+                "author": "Anna L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I had lovely time at this restaurant last night and food was really delicious- something you won't find in many restaurants in town \nthe service was impeccable \nsetting is pretty unusual (didn't like the short back on chairs- find uncomfortable) \nthe one thing I didn't like there was food portion is so little so I found myself grabbing a sandwich when I got home \nhighly recommend it although highly priced- around £100 per person",
+                "datePublished": "2011-04-05"
+            },
+            {
+                "reviewId": "pjz0-V3BBw5HRr28MNftFw",
+                "author": "Olga B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "New Year in London? \nWant something unforgettable? \nPerfect service? \nDelicious food? \nDim and trendy atmosphere over there? \nJoel Robuchon!\nWe ordered L'oeuf De Poule and after that dish I felt in love with that restaurant. I haven't been to France, but it's the best French restaurant that I've been to! \nThe starter was an egg in a crispy rice with black truffle and ham - freaking good...\nThe main dish was Le Cabillaud which is a cod fillet with ravioli and vegetables which gives it a special taste... Vegetables were perfectly cooked. \nBoth dishes were amazing!\nAlthough, portions were not super-sized as many people got used to, it's worth money. By visiting that restaurant, you'll get an unusual experience and try the best dishes of French kitchen :)",
+                "datePublished": "2013-03-21"
+            },
+            {
+                "reviewId": "JUTJ6Ucex9NCZBQSHIOH0g",
+                "author": "Carole S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of the best restaurants I've ever eaten in. Each course was a delightful blend of carefully composed tastes.  The mashed potatoes was a velvet symphony of decadence.  The dessert was a delicious, beautiful painting. The sommelier picked out perfect complex wines for our meal. The staff was attentive and informative. They deserve 5 stars!",
+                "datePublished": "2016-07-09"
+            },
+            {
+                "reviewId": "yDzKImI0MyXCFeDkb07ArA",
+                "author": "Sam Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Ordered: Lobster amongst other things\nPrice: £200 for two people\nReview: A truly impressive restaurant - however, I would not rate it as highly as some may rate it. If you want a truly impressive meal, I think I would look elsewhere. The flavours are mouth watering to say the least and the service is immaculate, however something lacks the true fine dining experience I felt. Toptable and others do a good set meal in here so I would go to those for sure, or for the London Restaurant week for sure. Taking someone on a date here, for a loved one, family - this will not fail to impress for sure!",
+                "datePublished": "2013-07-27"
+            },
+            {
+                "reviewId": "v5WoljMKSl3mv3CbZgIskQ",
+                "author": "Sisi C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Really delicious food!!! A really lovely and humorous staff. Though it is a little bit expensive, anyway I'll go there again.",
+                "datePublished": "2014-03-03"
+            }
+        ]
+    },
+    "60": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "_E6KAIBfB5a6km1R6gPnig",
+                "author": "M C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The bar on the 3rd floor is a trendy but chill place to start the experience.  Everyone who works there is friendly.\nAs for dinner, you have two options. Traditional dining area on the 2nd floor and a more lively experience at raised tables on the ground floor.  We chose the ground floor and had a great experience.\nThe food is very expensive but worth the price. I had Dover sole and two dumpling appetizers. Delicious.",
+                "datePublished": "2015-04-11"
+            },
+            {
+                "reviewId": "jCyGB9iwl7RzPA2inPCNJQ",
+                "author": "Jeff S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is one of the 3 Joel Rubuchon's I've eaten at, and it's definitely a very good place to try. Actually, it's probably my favorite restaurant in London! However, I should point out that compared to the locations in Paris and New York, I found this branch to be slightly behind, quality wise.\nFor my meal, I had the the beef carpaccio, the langoustine ravoili, and the beef and foie gras burger with caramelized onions. \nThe carpaccio was scrumptious, lovely cuts of meat simply complimented with gorgeously flavored olive oil, garlic and chives. The langoustine ravioli was very good, but it didn't blow me away. I could barely taste the langoustine and the portion was so tiny I didn't get much of a second chance to try and search for more flavor! Finally, the burger was good, but a bit of a disappointment. The flavor of the the foir gras was outstanding, but the beef was a bit non-descript, and overall, as a concept, it just didn't work for me. They also gave me an \"order\" of fries, that had about 4 fries in it. I realize you go to a Joel Robuchon for the taste not portion size, but c'mon! Four f****** fries?\nFinally, I just want to note that our waiter (or whatever you call the guys within the Atelier) was a bit obnoxious when talking to us, quite a contrast to the other Joel Robuchon's we dined at where they exude professionalism. I wish I got his name, but since I didn't Ill just say that the guy was coarse and made a few inappropriate jokes which I felt had no place in this type of environment.\nOverall, definitely four stars, but surprisingly, not five due to slightly disappointing food and an oaf of a waiter. Still worth a visit!",
+                "datePublished": "2010-09-20"
+            },
+            {
+                "reviewId": "5TBkUD4f02NLtif8jAcXPw",
+                "author": "Chimeren P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Oh goodness... simply amazing...what can I say!  You get to sit at a bar where you watch the chefs make everything in front of you. Holy molecular gastronomy, these guys know every trick. I loved every dish of the tasting menu, which was more dishes than I can count. I'm usually pretty picky and not a seafood fan but I tried and loved them all. The dessert was insane, melting right in front of you as liquid nitrogen gets poured over chocolate to reveal the surprise inside.. I won't ruin it for you but do try it for yourself. I know I'll be back soon!",
+                "datePublished": "2014-07-03"
+            },
+            {
+                "reviewId": "wgkZeG-xAYPDiTP-nt_Now",
+                "author": "Megan V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Despite 3 fruitful years in high school French and numerous attempts by my 18-year-old-self to trick people into believing I was French, I didn't have an effing clue what \"L'Atelier\" meant. Even upon entering the interior of the sleek restaurant with Asian-inspired decor, I still had no clue. Let's face it, I googled it just before I began this review. According to the free dictionary (yes, had to use the free one because it turns out places with apostrophes in the name are as expensive as they sound), L'atelier means \"A workshop or studio, especially for an artist or designer.\" It all fell into place when I read that... \nWords to describe our experience and the food at L'Atelier: Superb, fabulous, wonderful, delicious, beautiful, surprising, gorgeous, yes-I'll-have-a-dessert-even-though-I'm-full-and-will-be-late-to-my-west-end-show-licious. First off, the service was wonderful. Not stuffy or overly formal, but friendly and extremely professional. I do think the Frenchman delivering our food may have amped up his accent just a bit to play the part of the French waiter, or it could be that in contrast to my ridiculously English boyfriend, it stood out. Disclaimer: The sommelier was also helpful and accommodating with regard to the price range we felt comfortable with. \nThe food...scratch that. The Food (yes, it has to be considered a proper noun - it's that good) was spectacular. We began with a rich amuse bouche and a basket of 3 types of wonderful bread - traditional baguette, savoury olive bread and a sweet fig bread. If I could have bought a loaf of each to take home, I would have. We opted for 4 courses. I went a little egg crazy and got a cheese soufflé, followed by a crispy poached egg served atop parmesan mousse. A CRISPY poached egg! How does that even happen? I was sitting there while they made it in the open kitchen and I still have no idea what frankenstein science was used! All I know is that I want it to happen over and over again. I had duck for the main and it was every bit as delicious as I could have hoped. This is where my only criticism comes though - the orange sauce that came with the duck was far too sweet for my taste and reminded me of a melted down hard candy. I just ate around it and enjoyed the duck in a slightly purer form. I was, however, reminded of the time when my dad was making a \"new recipe\" which was \"orange chicken\" and when we didn't have real orange juice, he used Sunny Delight instead. We ended up eating pizza that night. \nMy boyfriend was equally as happy with his dishes - a lobster salad with a very generous portion of lobster, a shitake chicken broth and a 'spit roast of the day,' which happened to be lamb and (surprise) happened to be delicious! We were also given a complimentary pot of the smoothest, creamiest mashed potatoes either of us had ever had. Despite running short of time, we decided to squeeze in dessert because, well, we are greedy, disgusting gluttons but it somehow seems more acceptable when it's not burgers and nachos... We had the same - chocolate fondant with a mint sorbet. No points for creativity here, but from the first bite it was obvious this had been perfected and shouldn't be messed with. \nThe really outstanding thing about this restaurant is that they so artfully prepared ingredients, we each enjoyed things we otherwise wouldn't have touched with a 10 foot pole. Case in point: My boyfriend hates eggs so much that I had to get a hysterectomy (ok, not that much but you know...). He ate and ENJOYED the savoury crème brûlée amuse bouche. (*sorry Ed, you ate eggs. I didn't want you to spit your food up at this civilised establishment so didn't tell you).  I hate sea creatures and am actually scared of them. This probably all goes back to when I got sea lice as a kid but that's another story for another time. I ate a piece of lobster and didn't even flinch! Neither of us particularly like olives, we pounded all the olive bread like it was the last bread on the planet. \nL'Atelier is one of the best restaurants I've ever had the pleasure of dining in. It's clear that there is a real passion for food, art and creativity here. It's front of house is well managed and they even walked us down the street to get us going the right direction to the show we were attending. It's not cheap and it's not everyday fare, but it's worth every penny and great for a special occasion or a good ol' fashioned splurge. I'll be saving up my burger and nacho money from now on and putting it in the L'Atelier fund!",
+                "datePublished": "2014-04-01"
+            },
+            {
+                "reviewId": "Ye6_I3sEzmOPoSICUZt_AQ",
+                "author": "Steven H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious food in an elegant setting.  The service was terrific.  My only regret is that I couldn't eat more...",
+                "datePublished": "2015-05-10"
+            },
+            {
+                "reviewId": "pUAD2IJybUw_yBT1bLfS2g",
+                "author": "Thomas G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Went there with my girlfriend. I was expecting delicious food and a good atmosphere as the owner is one of the most reputed Michelin-Famed chefs. \nThe food was excellent and I don't regret the fact I chose to go there to eat something delicious. Even if a bit pricy for what it was.\nUnfortunately, the service was not what I was expecting for.\nThey have \"bar\" tables in front of the open kitchen and room tables, they didn't ask about our preference but just \"your seats are here\". If some people enjoy to see guys cooking food, I definitely don't recommend it as it quickly becomes really hot and all what you want to do is to leave the restaurant.\nYou can hear \"Service, s'il vous plait\" a large amount of time during your dinner, each time a plate has to be served. I don't know if it's to add something to the \"show\", but that's a way too much, and the french food doesn't require it.\nOther than that, you can expect to have good time there. Again, the food was amazing :)",
+                "datePublished": "2013-12-01"
+            },
+            {
+                "reviewId": "6vb6FmsNZhdysegHcWUC3w",
+                "author": "Renee G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I decided to treat myself to a 'nice' dinner. This was far beyond my expectations- everything was perfectly prepared and presented. The staff was knowledgeable about the food and appropriate wines to accompany the food. \nIt's a fantastic space focused on the kitchen. I sat at the bar, which I never do, ans wan amply entertained and intrigued by the mastery that was happening in there. It was like watching performance art. I highly recommend it, and will no doubt be going back in the near future!",
+                "datePublished": "2012-09-25"
+            },
+            {
+                "reviewId": "V7xn3WIkWLD7uyih84Dirg",
+                "author": "Danielle M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wow! This was an amazing dining experience with a rock star chef. My date got the egg with caviar apertizer that was a true work of art and tasted even better. I got the scalops with pumkin risoto that was so awesome! The deserts were equally impressive...we got the soufle and the chocolate dome. I hope to be able to go back again while im in london!",
+                "datePublished": "2013-03-07"
+            },
+            {
+                "reviewId": "SND56wLxtGc8_5qbhSyNww",
+                "author": "Michael S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "What a great experience, both at the bar and later the restaurant.  Cocktails were excellent and I highly recommend starting your night in the bar; I actually wish we had more time there before our table was ready.  The menu is extremely flexible.  They offer two tasting menus (either 5 or 8 courses), both available with or without wine pairings.  They also offer items a la carte, including both small plates and entrees.  Like most places, they expect all members of your party to do either the tasting menu or a la carte but not a mixture.  We ended up ordering a la carte and asked the sommelier to pair wines with each dish.  The sommelier totally nailed the pairings.   Some of the dish highlights include the seared scallop, the lobster \"ravioli', the hot foie gras, and the filet.  Easily earns its Michelin star.  Expensive for sure but you get what you pay for here.",
+                "datePublished": "2016-03-14"
+            },
+            {
+                "reviewId": "YR8Lb6Oaj3nYJKVulbbb1A",
+                "author": "Qype User\n Hampst…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Visited the new bar upstairs for some post work drinks. Very delicious. It's small and intimate and they're just opening up an outdoor terrace. Will be nice if the weather actually gets better.\nAlso had a few bits from the bar tasting menu.\nThe bar upstairs is perfect for a couple or a few friends. Not a place for a big group but wonderful place for catching up with a friend or two. Highly recommend the spicy martini!",
+                "datePublished": "2013-04-20"
+            },
+            {
+                "reviewId": "pXZsLp8kPyRJFQCIPAvvCg",
+                "author": "Blair M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing evening! The food is beautifully made, delicate and amazing flavors, pricey but worth every penny!",
+                "datePublished": "2016-02-14"
+            },
+            {
+                "reviewId": "dzd6aWRsH_F_wYWLaPCj8g",
+                "author": "Qype User\n tra464…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This restaurant suggest a variety of French classics in a\nreasonably price. Our family visited this place to spend our dinner. And I can't go wrong, I always remember this\nplace, for they servedone of my favourite foods.They also had a friendly and attentive\nstaff and it is the key for aneffective restaurant! The food was flavourful and\nvery affordable priced, the service was excellent, and the atmosphere was\nlovely. Verygraceful, but in a simple way! All that you want was almost there, surprising\nand delicious foods, reasonablecharges, and a good environment. So what are you\nwaiting for, it is a highly suggested place for everyone.",
+                "datePublished": "2013-07-31"
+            },
+            {
+                "reviewId": "4n-Nn2uPcGy-HpTI4vbb9Q",
+                "author": "Henry S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We went to La Cuisine de Joel Robuchon, which is on the first floor, on a Friday evening.  The food was creative and just great .  The service was attentive and friendly, despite the French wait staff.  The decor was interesting, like sitting in a kitchen.  The first floor restaurant was less busy, and we were told to have the same menu and food as the downstairs - L'Atelier de Joel Robuchon.  \nThe 2 of us had 8 dishes to share, and created our own tasting menu.  The bill including 3 cocktails, which were also very tasty, came to GBP138, which I thought was reasonable given the great food and the Michelin 2-star status.\nThe night before we went to the Gordon Ramsey Maze, and the price was about the same, and the food was terrible in comparison to the food here.\nDefinitely worth a visit.",
+                "datePublished": "2012-04-21"
+            },
+            {
+                "reviewId": "6lUE9Y3q-OzCAbUrEkHt1Q",
+                "author": "Qype User\n cleois…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I had my Graduation meal there last night with my parents and my partner and I can't even find words to describe how amazing it all was.\n Firstly the cocktail list is very intelligently put together and I had an apple sour that had a shot glass full of Moscato Jelly! The textures and the sweetness offset the sourness of the apple cocktail beautifully. It was so clean and refreshing on the palate and very well mixed so there wasn't such an alcoholic back draft after each sip.\n The Rooftop bar too made all the difference especially in this hot, sultry weather. It was tranquil up there as well as nice and cool. L'Atelier is seriously one sexy place in terms of decor as well as everything else.\n If you want to take someone here to impress them then this would be a sure fire way. From the moment you enter the doors to the moment you are seated, the place seems to do a good job in seducing you in every single way.\n The food is a great concept too. We opted not to have the tasting menu on account that there was a bit too much Foie Gras in it (3 dishes had it in there) and we wanted to sample the other things a little more.\n My only criticism is that I felt that the tasting menu lacked imagination to provide 3 dishes with Foie Gras and before anyone states the obvious, I know it is a French restaurant in essence!\n That aside I felt between us we all chose well. We had a crab guacamole which was delicate and very beautifully presented, scallops and squid that were cooked to absolute perfection - I have never had squid melt so gently in my mouth. If this was to be a food erotica gastronomical moment then I would have sent my taste buds to Coco De Mer to be whipped, teased and tingled to a culinary orgasmic afterglow.\n There was another scallop dish too which had a baby leek, caviar, gently seasoned seared scallop and a lovely buttery lemon sauce that was like eating a slightly savory equivalent of something like lemon curd. It was delicate and gentle but gently cleansed the palate against the salty caviar. I could have eaten that dish a million times over.\n We tried the little hamburgers that had some foie gras and to go with that we had a lovely bottle of Pomerol. It is my absolute favorite red wine ever and it was so smooth it would have given James Bond a run for his money. For our mains we had Black Cod that was divine, some Veal that was beaten and topped with a salad and the veal was so good and so vegetarian friendly that it was more than suitable as a veggie option for one of our open minded members of our party.\n We were also served a delightful pot of mash that was so velvety and rich we literally found ourselves licking the pot clean. The french really know how to make potatoes taste good!\n We also had cheese, which was nicely ordered and slightly strong that was accompanied by some rather divine walnut bread.\n But for me the Chocolate Profiterole with vanilla ice cream and chocolate shell was the most amazing dessert ever. They poured chocolate over a chocolate shell which made the sauce that covered the profiterole and to say it was fantastic would be a complete understatement of the century. I rarely eat chocolate desserts either but this is going down as the best one I have eaten ever!\n There was also a yuzu mousse that was zingy and that was accompanied by a raspberry sorbet as well as a rum baba and meringue sphere that was accompanied by a 'multivitamin' sorbet which I suppose was there to make the diner feel a sense of some health after consuming the delicious calories offered.\n But saying that when you go for a dining experience like that it is about the food and the calorie counts will go out of the window.\n I would definitely go back again and it was certainly a graduation to remember!",
+                "datePublished": "2010-07-21"
+            },
+            {
+                "reviewId": "sTlbmRQpYbfJkm3tXrJoWQ",
+                "author": "Kevin C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Joël Robuchon is kind of a big deal, as he's pretty much the most well-respected chef of his generation and was named \"Chef of the Century.\" He's got restaurants all over the world, most of which have one or two Michelin stars. The two-starred London location is right by Piccadilly Circus, and upon arriving for my 1:30 pm seating, I took a seat at the bar, which is set right in front of the open kitchen. After placing my orders for the £28, three-course lunch prix fixe menu, I was served an amuse bouche, which is another thing about fine dining that appeals to my inner cheapass (more food!). Consisting of a spoonful of a potato-fish purée, the amuse bouche tasted very much like a white fish spread, and it was a tasty first bite. Served a bread basket consisting of white, wheat, and olive breads, I found myself going back for the olive bread again and again. I must have gone through four or five pieces of the olive bread before my meal was done; that's how good it was. And also because, well, unlimited bread!\nFor my first course, I went with what the waitress described as one of the restaurant's signature dishes. Described as \"Egg cocotte topped with light wild mushrooms cream,\" this dish was mind-blowingly good, and it's no wonder that it is a signature dish. A soft-poached egg nestled in a bath of creamy soup along with mushrooms and asparagus slivers, this was the highlight of the meal and had me using bread to sop up every last drop of soup.\nMy entrée, described as \"Razor clams fricassee with confit tomatoes, sweet onion, and macaroni,\" (pictured at top) was like a refined version of a pasta dish that you'd find at The Cheesecake Factory. I don't say that to slight the dish, but it just wasn't as creative or elaborate as the other courses I enjoyed. The creamy sauce actually tasted very similar to a vodka sauce, and the razor clams were cooked nicely. While I usually am not a huge fan of cilantro, I found the cilantro-bread crumb mixture on the razor clam shell to be quite refreshing.\nFor dessert, I ordered the \"Fresh strawberry and pistachio cream cake with mascarpone ice cream.\" The beautifully-presented dish was just as appealing to the taste buds as to the eyes, as the moist interior of pistachio cake was really quite tasty, especially when paired with the fresh strawberries and sweet ice cream. I wasn't particularly crazy about the outer pastry layer, which I found to be a bit tough, but everything else about the dessert was superb.\nWalking away from my meal at L'Atelier de Joël Robuchon, I can say that I was thoroughly impressed with the quality of the food and service, which was friendly and helpful throughout the lunch. Okay, so perhaps the restaurant would be better served by not applying foam to nearly every dish, and £28, or about $45, is definitely close to the maximum amount for how much I'd be willing to pay for a three-course lunch prix fixe, but all in all, I was quite pleased with my lunch. Whereas Restaurant Week prix fixes tend to be disappointing and underwhelming, year-round prix fixe deals at restaurants like L'Atelier de Joël Robuchon mean that there's no need to fight the crowds and muck your way through mediocre food. Overall, this is a good-value prix fixe that gets my recommendation.",
+                "datePublished": "2011-09-07"
+            },
+            {
+                "reviewId": "Ormre77cbo5NHghNj_WpIw",
+                "author": "Ani N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The food was mouth watering as was the preparation and delivery. I only give it 4 stars because the restaurant was too dark and the seats were uncomfortable. Otherwise, a perfect 10!",
+                "datePublished": "2014-06-11"
+            },
+            {
+                "reviewId": "gyEsHiSSqaMOCcLK0O5Alg",
+                "author": "Amy K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was a well-rounded experience with delicious offerings, great service, and entertainment.\nI enjoyed the pre-theatre deal at L'Atelier which included 2 courses for 28 pounds or 3 courses for 32 pounds.  I thought this was a great deal considering the accolades and 2 Michelin stars owned by this establishment.\nMy party was seated at the bar, which surrounded the kitchen.  This kept us entertained as we watched the kitchen staff put together our meal.  \nFor my starter, I had the warm asparagus salad with nuts and iberian ham.  It was well balanced and tasty.  My dining partner had Scottish salmon carpaccio, which I enjoyed more.  It was both refreshing and texturally interesting.\nFor the entree, I had the roasted cod bouillabaisse which sat atop a potato disk.  The bouillabaisse was really nice, with just the right amount of seafood flavor.  The fish was cooked expertly and I enjoyed the texture of the potato in the mix.  Our other entree was the braised pork belly, mild spices and served with celeriac mousseline.  This was very rich, unexpected in flavor, and all around enjoyable.\nLastly, the highlight of the meal was the dessert - Coulis and mousse of mango, Joconde biscuit and exotic sorbet.  The different textures of the mousse, sorbet and biscuit made the perfect, fruity, not-too-sweet bite!  I loved it!\nI felt extremely satisfied after my meal here and can't wait to go back and work my way through more of the menu (and maybe re-visit that mango dessert).",
+                "datePublished": "2012-06-05"
+            },
+            {
+                "reviewId": "DADHO6umYh5YWjG0s4BVrA",
+                "author": "Kate H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "There is really only one experience from my first year in London that is worthy of my 100th review.  We went to L'Atelier de Joel Robuchon back in March when we were first getting our feet wet in the London food scene.  Of course, I've been writing and rewriting the review, and it's been sitting unfinished in my account for nearly a year now--what can I say, I have an amazing talent for procrastination.  I wasn't sure (am still not sure) that I can do our experience the justice it deserves.  So, without further ado... my best London food experience of 2010.\nThe hubs and I made a pact that our time in London is going to be one of great experiences.  Chalk the first one up for Mr. Robuchon, one of the greatest culinary minds in the world.  We went to London's L'Atelier for my birthday in March. My husand has been to the one in Tokyo several times, and absolutely adores it.  We were seated near the far end of the sleek and sexy bar on the ground floor.  I was a little perturbed that we hadn't been seated in the empty seats smack in the middle of all the action.  My mind was quickly changed.\nNearly every seat at the bar has an amazing view into the kitchen.  Sitting to my right was a very well dressed Frenchman chatting it up with the sommelier.  Next came another European couple that took the two seats next to my husband.  Both impeccably dressed... the girl about twenty and the man somewhere in his late-40's.  Of course, I suspected the worst.  But after a couple glasses of champagne, we discovered that they were actually father and daughter, and the guy was Robuchon's business partner.  At which point, Robuchon made an appearance from the rear of the kitchen. He chatted with us for a few minutes. We mainly discussed the amazingness of the Chicago dining scene (he's tried repeatedly to open a place in Chicago to no avail--please keep trying! is all I have to say to that).\nAt this point, the evening becomes a fairly booze-fueled, and rather surreal experience.  We started the meal with the menu decouverte with the wine pairings.  This, however, was derailed after a few courses, because having made friends with the Monegasque father-daughter pair and the impeccably dressed Frenchman, who turned out to be one of Robuchon's most regular customers on the face of the planet--hey, if I could afford it, I'd make this place my own personal Cheers, too!--suggestions on what to try were made.  And wow, best, recommendations, ever! \nWe ate rounds of butter-laden mashed potatoes and wondefully divine truffle dishes. The Frenchman was our ticket into samples of amazing, 20-year-old, first-growths served by the awesome Bulgarian sommelier. Of course, then he introduced me to \"Francois' Yuzu Souffle\". There really is nothing sexier than a Frenchman talking about souffles. And of course, Robuchon's pastry chef, Francois is a super crazy diva--a man diva, but a diva nonetheless. The man wears sunglasses in the restaurant and hits on the gorgeous women sitting at the bar in his spare time. Like I said, man diva. Anyway, it was one of the best things I have ever consumed. Done so perfectly, it was absolutely incredible. I cannot even do it justice talking about it. You'll just have to try it for yourself. \nBy the end of the evening we had an open invitation to hang out in Monaco; a Polaroid with Joel Robuchon, that my husband proudly displays on his desk at work; and a bill that could have been far worse than it was (it was still the most expensive meal I've ever eaten). It was hands-down the best dining experience I've had in London so far. And while I can't promise anyone else the same experience, it is still my favorite fine dining restaurant in London, and my first recommendation to out-of-towners looking for a great experience. Robuchon is one of those chefs who wants his diners to love food as much as he does. And that in in itself is what makes this place so brilliant.",
+                "datePublished": "2011-01-28"
+            },
+            {
+                "reviewId": "T4zFB6oulSvUnVEgHGUF5w",
+                "author": "Jason C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you love Fois Gras, and amazing wine, and service, and ambience.. in fact; if you like food - you will LOVE this place! I was spoiled for selection - not one but three fois gras options on the menu -each as delectible as you would imagine, truly melt in your mouth ah-mazing! My friend took me here and raved about it - and it definitely lived up to expectation. :)",
+                "datePublished": "2014-05-29"
+            },
+            {
+                "reviewId": "8cUSFK6IsDSQrf7wp0jecw",
+                "author": "Anthony L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you are familiar with L'Atelier de Joel Robuchon, \nI'll highlight the main differences with the Paris rue du Bac mother-ship.\nIt's not just sitting at the counter around a plancha kitchen. They have a few small tables, and a bar/lounge. Which means that :\n1) they take reservations.\n2) you can wait in the lounge if no place is free!\nFor those who do not know Robuchon:\nHe is the most renowned French chef from the past quarter century. No less. You will not get very rich French classical cuisine. (and definitely not the over-creamy rendition offered to foreigners all over the world). But modern French cuisine at its best. You will be blown away.\nFor those not familiar with L'Atelier :\nSimilar restaurants been opened in Vegas, Hong-Kong, Taiwan and Tokyo. This is not the flagship 'High-cuisine' Robuchon restaurant ('La Table de Joel Robuchon', Michelin 3 stars), but a more convivial, less formal setting.  The Paris restaurant does not take reservations, for example... this one does.... \nYou will still get a very refined and modern take on some French and international classics. \nA bit like tapas, you get to choose between small 'bites' and larger dishes. Mix and match, as much as you like / can afford.\nThe menus range from the 27 quids 'pre-theatre' offer to the gigantic menu Decouverte. \nThe pre-theatre formula (27 quids) is definitely the best quality/price ratio food you're ever likely to get.\nMy advice is simple. GO!  If you can't get a seat right away, WAIT !\nBUT. WHATEVER YOU DO. DO GET THE MASHED POTATOES.",
+                "datePublished": "2010-12-01"
+            }
+        ]
+    },
+    "80": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "PPMpRe9BY6PqF_jZ_aVbcQ",
+                "author": "Jay W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I don't know what it takes to get three Michelin stars, but i believe this restaurant has done everything except bribe someone.  I ate here on Christmas Eve, and it was one of the few restaurants in London that wasn't doing a set menu, and I was glad they weren't.\nThe restaurant itself is beautiful with a very unique setup on the lower level.  It has the appearance of a high end sushi bar, but with a warmth that you don't generally find in Japanese restaurants.  The majority of the seating is at the bar with a few scattered tables throughout the downstairs.  I believe the upper levels are all table seating.  I would recommend sitting at the bar.  It is a unique setting.\nThere is an open kitchen that is actually inside of the seated bar, but separated by a small run in which the waiters and sommelier's pour drinks, take your order, and expedite your food.  Essentially, you still see the Chef's working, but you get a real waiter.  The service was spectacular.\nThis was one of the largest wine lists I have ever seen for a small restaurant.  They must have somewhere between 200 to 250 wines available by the bottle.  They have both red and white wines from every major wine region in the world, but (of course-Joel Robuchon) the majority is made up of French wines.  I am not very well versed in French wines so I requested the assistance of the sommelier.  I gave her a very short description of what I like and she immediately pointed us to a 2008 Sancere that was a perfect choice.\nThe first dish was a black truffle and endive salad followed by a scallop carpaccio in lemon oil.  Both were amazing.  The next was a pumpkin soup, it was my least favorite.  I want to be very clear in saying \"least favorite\" as opposed to \"worst\" because even being my least favorite; had this dish been served in 98% of the other restaurants I frequent it would have been the best dish.  We followed with a lobester ravioli with savoy cabbage and a foie gras reduction, which was flawless.  Finally, we had black cod with a cauliflower puree (it was the tits)..\nNo flaws to be found anywhere in the service, atmosphere, or food.   We ate at \"Gordon Ramsay at Claridge's\" the previous evening.  That restaurant was good, but not great.  It was what happens when a really great chef is no longer in the kitchen; some laziness in the dishes.  The best dishes at Ramsay's were the off menu amus bouche and pre-desert.  IThis had me greatly concerned when we went to Joel Robuchon's the next night.  I thought: \"Well he isn't going to be in the kitchen so the food may be suspect.\"  That couldn't be father from accurate.  Amazing food, kudos and my highest compliments to the staff, both kitchen and floor.",
+                "datePublished": "2012-12-25"
+            },
+            {
+                "reviewId": "A9arJOmzrVta7VFdDoSQww",
+                "author": "Green Devil W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a place to go for an experience. We went for lunch and the damage to the wallet was diminished with their 28 pound ($42) prix fixe. \nReally, you go to be stroked and coddled. They did and we felt like royalty (funny we were in London). The restaurant is gorgeous. The Mondrian inspired wall art with spices is original. The wall of ivy (?) cascading down brings life and color into the dark room. But the clear vases displaying vegetables above the kitchen radiate with carrot rings, perfectly green fennel, orange bell peppers. \nI'm sure the menu changes frequently. However the best part of our meal was the unexpected vegetables that accompanied our main courses. It was a bowl of cooked radishes napped in butter and the slightest hint of vanilla. After endless meals of meat/potatoes in England these vegetables made me so happy. \nAfter our entrees they invited us upstairs to the lounge to have our desserts. They went out of their way to provide the pregnant wife with enough pillows to support her back. Definitely would return!",
+                "datePublished": "2011-12-23"
+            },
+            {
+                "reviewId": "EaAHZvjV-U8TPZI0aMr7gw",
+                "author": "Gary Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Summary: 3-course prix fixe lunch menu for £28, great interesting food.\nCame on a Sat. around noon to try to lunch prix fixe solo. Got the egg cocotte, pollack stuff w/ squid ink, and a chocolate dessert. Also came w/ an amuse bouche and a bread basket with four types of bread and a great salted butter. All of the food was interesting, tasty, visually appealing, and well-prepared.\nService was friendly and pretty good, other than not filling up my water without having to ask (not a big deal, just not what I'd expect at a two Michelin star place).\nWould come back again.",
+                "datePublished": "2011-09-24"
+            },
+            {
+                "reviewId": "vgm0Qkt3ZlvN8PdBfVH-gw",
+                "author": "Patty L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier de Joël Robuchon is one of my treats to myself when I'm in the mood for a wonderful gastronomic experience in London. It is a short walk from Leicester Square or Covent Garden tube stations.\nI can see what other reviewers mean when they say that there is a bit of pretension here (Michelin star, etc) but I've never experienced anything but courteous and meticulous service when I come here - and once *gasp* without a reservation!\nThe best deals here are the lunch specials and the pre-theatre menu. I prefer to come for lunch since it is more relaxed. The food is always beautifully presented, absolutely delicious and very creative. My cousin, who detests fish dishes, will come to L'Atelier and devour their fish courses without complaint and even want more! \nI like to order a cappuccino after my meal, but I must admit that it's more for the accompanying house-made caramel than for the coffee itself. \nMy one tiny complaint is that something in the L'Atelier restaurant seems to irritate my eyes - they get very dry and itchy. I'm not sure if it's the proximity to the open kitchen (onion fumes?), the lighting or some combination of both. I don't have this up in La Cuisine (or when I leave and step outside into natural light). Odd, isn't it? Ah, but I will suffer itchy eyes for the delicious food here!",
+                "datePublished": "2010-08-23"
+            },
+            {
+                "reviewId": "JrsFEKt-1c78aBTxWLQ0EQ",
+                "author": "D T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Unbelievable dining experience. You've gotta do a tasting menu and get it paired with wines from Europe.",
+                "datePublished": "2013-07-27"
+            },
+            {
+                "reviewId": "Hc61J7q6FP8BhVvVEIFkIg",
+                "author": "Tracy Z.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My approach to restaurants that are SORT OF A BIG DEAL has always been to feign ignorance and not let my inner fangurl get the best of me. However, this was the second L'Atelier I've been to, though it must be said that the first was in Las Vegas so I'm not sure if the two experiences are even comparable. \nI arrived for lunch with a mid-sized group on a rainy afternoon and we were immediately seated (not too busy for a weekday). They were offering a type of set lunch with several courses, which all of us opted in for and turned out to be a great decision. After being well-oiled with several bottles of wine (though our server was rather stingy on the pours), we began feeeeeding. \nThe bread basket (as expected) was amazing and contained a variety of bread choices. I'm a bit of a carb-hound so I was obviously delighted. The food was very rich and cream-based, which I guess is to be expected, and the portions (though moderate) pack a punch. Let's just say I was not hungry for the rest of MY LIFE/day. \nAs others have mentioned before, the highlight may have been their mashed potatoes, which we all agreed were 90% butter and 10% potato. Either way, it was a decadent party in my mouth. I'm refraining from a five-star review because the service was rather lackluster. Though our group occupied two tables side-by-side, we had different servers and the other table's server was noticeably more attentive and GENEROUS WITH THE WINE POURS (yes, I am apparently fixated on this point). \nThe venue was obviously decorated by the same quirky set designer behind Darren Aronofsky's The Fountain (yeah wrap your head around THAT for a minute). What this means in reality is actually kind of hard to articulate but silly to witness so perhaps you should save yourself the Google image search and see for yourself.",
+                "datePublished": "2011-01-13"
+            },
+            {
+                "reviewId": "BwqlRdOMvfmyKl8d_wQzkg",
+                "author": "Steffanie S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Hubby and I were delighted to land a reservation at this restaurant with a Michelin-famed chef.  It is tucked away on a quiet street near the theater district. The interior is posh and swank, with a very cool sushi bar that is great for singles and watching the kitchen.  My husband is still raving about the cold avocado soup that he had as a first course.  All the chefs in the kitchen appeared to take incredible care in preparing their plates which were beautifully presented.   We blew some big bucks here, but it was worth it.",
+                "datePublished": "2013-09-28"
+            },
+            {
+                "reviewId": "fACxjhSLF2b6H3DyHDuSEA",
+                "author": "Bethany M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This was my second trip to the London L'Atelier outpost -- it didn't measure up to the first.  The a la carte and the wine menus are not as extensive as it used to be; indeed, not as expansive as those of other L'Atelier locations (e.g., Hong Kong or New York).  This seems indicative to me of the short-cutting that London L'Atelier engages in, generally (e.g., non-existent truffle shavings on the scallops; three rather \"blah\" selections of bread; timing and temperature issues with entrees and frozen desserts, etc.).  \nI was also sorely disappointed that our request (made at the time of booking of the reservation) to be seated at the counter was not honored when we arrived at the restaurant.\nNot sure that I would go back to the London L'Atelier anytime soon -- especially when Robuchon's other outposts are so much better.",
+                "datePublished": "2012-01-04"
+            },
+            {
+                "reviewId": "5iHV54DjPmVIs5j88ehJ1Q",
+                "author": "Dwayne H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier is a must do for a great dining experience.  \nSearched through Yelp reviews and stumbled upon L'Atelier. Sounded fab and used the online booking tool to make a reservation. Unless you book far in advance, you're kind of stuck with either 1700 or 2100. Ah, what the hell...I'll do my workout and hit the restaurant at 2100--earn that decadent food! \nSince I was a table of one, they seated me at the bar which was fine with me though it is a tad cramped.  You're almost sitting in the lap of the person next to you.  One of my few recommendations would be to take a  couple of chairs out and give folks a tad more room.  The guy next to me elbowed me a couple of times.  BUT, you get this awesome view into the kitchen.  The service is very attentive as the variety of folks working behind the bar continually check on you.  Great looking wait staff also.\nThe food is simply amazing.  For a starter, I had a crab tourteau (15 pounds) that was crab meat with a blood orange topping.  For the main, I chose the lamb loin special of the day (34 pounds) which was a nice thick slice of perfectly cooked lamb loin.  While sitting there admiring the kitchen operation, I spotted this animal leg perched in a silver holder.  After inquiring from the hostess, found out that it was Iberian ham...YES PLEASE.  The sommelier recommended this flight of wonderful sherries.  Of course, something like that is going to set you back some coins...37 pounds to be exact...but well worth the experience as you just can't get Iberian ham in the States and our sherry selections tend to be crap.  \nSo...all totaled, four courses, wine pairings with each and a cocktail to start off the madness...175 pounds.  You only live once!!!",
+                "datePublished": "2011-02-15"
+            },
+            {
+                "reviewId": "8UvcXhDfHJencSpGc4J2Qw",
+                "author": "Eliza D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Go for the fixed price lunch menu, and it will seem VERY affordable (for what you're getting) :)",
+                "datePublished": "2012-10-12"
+            },
+            {
+                "reviewId": "myuNZN8z3bGqbFFcLAnn6Q",
+                "author": "Christie K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I don't have that much more to add to the other reviews but really enjoyed the L'Ceuf and Roast Chicken.  Le Tropical was delightful but would recommend the Les Tartes if you're having the Menu Du Jour.",
+                "datePublished": "2011-02-12"
+            },
+            {
+                "reviewId": "7_VUP9Tgh1e1HfrVaPKkig",
+                "author": "Vikki C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I went here tonight with my Mum after sourcing the restaurant's pre-theatre offer on \nLastminute.com\n. Three courses for £27 at a Michelin starred place, courtesy of the 'chef of the century' doesn't sound too shabby to me.\nWe arrived a little early and had a drink at the salon bar upstairs. Just next to The Ivy, the place is hard to miss, but is surprising once you step instead. Any preconceptions about the kind of decor French cuisine might be served in are slashed immediately. L'Atelier is decked out in Oriental black and red, with the hostess & waiter's uniforms and beautiful Japanse plants to match.\nThe drinks upstairs were nice - the bar was nothing special, but empty and relaxing all the same.\nLovely service throughout dinner - as expected - and very tasty food. I had a country terrine with fresh bread, pickled mushrooms and redcurrant chutney, followed by haddock and mussels with pasta and a shelfish sauce. I finished off with a chocolate sorbet with mousse with a Oreo cookie crumb.\nAll very nice, but nothing that made me go 'wow'. I think my Mum picked the better dishes as she made yummy noises throughout eating. We had a nice bottle of white, but it was pricey at £38. \nI liked being able to see directly into the kitchen, and the chef's bar looked fun. I'd definitely go back to try the tasting plates, but I can't say it lived up to the over-hyped expectations.",
+                "datePublished": "2010-04-08"
+            },
+            {
+                "reviewId": "2Dv96R8FHr0MUDD1OxM_Vg",
+                "author": "kimberley h.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "It's a shame its fabulous reputation precedes it.  I can't help but feel disappointed.\nPresentation was amazing.  Out of this world beautifully (and meticulously) composed.  \nUnfortunately...  I took one bite of my main meal (white fish stuffed with basil and pinenuts) and was horrified.  In parts, the fish was translucent, lukewarm, chewy and definitely undercooked.  I took another small, cautious bite, and it was a letdown as much as the first.  I don't have a problem with sashimi, but I do feel like I need adequate warning.  If there's none, then I'll assume it's not supposed to be like that...\nI really didn't know what to do.  Was it supposed to be like that?  In the end, I said something to a member of staff (as I couldn't stomach the idea of a third mouthful), and she vehemently said the fish was perfectly cooked.  Grudgingly she took it away.  I felt like I was in the wrong.\nThe manager soon visited me and profusely apologised, as did the chef who had prepared my meal.  A second was prepared, while my dining partner finished their meal.  To occupy me while I was waiting (and my friend who later had to wait for me to finish my main), the manager kindly and thoughtfully provided us with two complementary foie gras burgers.  But unfortunately I don't eat foie gras for ethical reasons.\nAll this aside though, and judging by the merit of the food alone, it wasn't anything special.  Food combinations were boring, ingredients were common, I didn't savour each bite, and it was pretty average.  It was just beautifully plated in a fancy setting.",
+                "datePublished": "2011-05-07"
+            },
+            {
+                "reviewId": "BvyfWxnHPW8-F98qsOyDCQ",
+                "author": "Whitne Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "the desserts, come here for a few appetisers but focus on the desserts because they're not only creative, but damn delicious and is what you'd expect from fine dining.\none of my must go when traveling abroad.",
+                "datePublished": "2013-02-17"
+            },
+            {
+                "reviewId": "mNCAgn5R488WMS7M0E0UMQ",
+                "author": "Hannes H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Worth the money. Amazing setting and great food. The pre-theatre deal is almost a steal. The wine list is amazing and has surprisingly affordable options",
+                "datePublished": "2012-05-04"
+            },
+            {
+                "reviewId": "9akrPGq5Kg59aAaO8WPUkg",
+                "author": "Sami C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "No words to describe it... When we were sat at the bar, I was expecting the worst (I always find it awkward to sit at a bar - I feel it can be less personal and I hate people watching me eat...) but I need not have feared! We had the best seats in the house, since the kitchen is open plan - we got to watch all the food being prepared and really made us appreciate it more! This food is definitely an art form... I've never seen anyone select the right tips of some dill to place on a place before, nor have I ever seen anyone put tiny cubes of smoked salmon on a place using a pair of tweezers to get it in the right place...).  Sitting at the bar reminded me of sitting in a sushi bar in Tokyo, watching the chef make my sushi... \nThe food blew me away - it looked amazing on the plate (almost too pretty to eat... almost) and tasted really good.  We had some tasting plates to share - my favourite was the crab wrapped in spicy turnip and the scallop carpaccio.  Definitely leave room for dessert! \nI'm amazed how full it was, just for lunchtime on a weekday... but totally worth it! The staff are great - they explain all of the specials, memorise your order and have fabulous accents (I'm still working out whether the accents were genuine or not...!).  My favourite thing about the whole visit is the apple theme - giant apples placed strategically around the restaurant, very juicy looking apples displayed in a bowl... is it any wonder that when asked what I would like to drink, I said apple juice?! \nOverall, we had a wonderful time and it's a fab place for a special treat! Give it a try! You know you want to!",
+                "datePublished": "2010-10-01"
+            },
+            {
+                "reviewId": "QM6UcRH-cNT6MTD7gQOzoA",
+                "author": "Christian T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was clearly one of the highlights in a while. Seated at the bar, you peek into the kitchen, looking at a group of gastro-surgeons about to carve and cut little works of art. It's all clean, sleek, modern - but unlike some reviewers, I didn't find it pretentious. It's French - but all in the best possible way.\nAnd the food. The art. Aubergine caviar on coriander panna cotta is a flavour firework. Foie gras soft and rich, with a crunchy top. Jerusalem artichoke soup makes you sing. Highlights from the \"tapas\" menu were langoustine ravioli and milk-fed lamb, the latter as tender as a ripe pear. Desserts are all priced at £10, but each of them has a sweet wine recommendation for a surcharge of a few quid. Worth it. \nSpeaking of worth - cheap is different. But then, you only live once. Eating at Robuchon makes this one life worth so much more, though.",
+                "datePublished": "2009-11-30"
+            },
+            {
+                "reviewId": "C5JkoRihyhDPwAXDwj7PiQ",
+                "author": "Mike R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Outstanding. From arrival to departure, service was gracious and pleasant. Food was superb, and allowed us to choose from the a la carte for our 12yo, while 3 of us chose from small tasting dishes. Every mouthful was perfectly judged. Will definitely be back.\nIf only they could sort out the background music...",
+                "datePublished": "2011-01-04"
+            },
+            {
+                "reviewId": "PJnMO8F23rtrUBizNPhq9A",
+                "author": "Mieka S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Très magnifique! Outstanding all around. The whole wait staff, sommelier and chefs know exactly what they are doing here! It is a small and super intimate restaurant with the an open kitchen so if you want to watch edible art in action then sit at the bar. Do not eat all day if you want to do the tasting menu otherwise be brave and ask if the chef can prepare you something special, be adventurous!  You will not be disappointed. While it is dark and lounge-like inside it certainly doesn't cross onto the side of cheesy or kitsch.\nA place for food lovers and those wanting something special and memorable without the cliche. I think there are even set menu promotions on other websites if your nervous about the price but definitely one of London's finest offerings!",
+                "datePublished": "2010-05-04"
+            },
+            {
+                "reviewId": "m27FQGANGLG8_uwhahs0FQ",
+                "author": "Qype User\n chopst…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I heard they make fantastic cocktails, The L'egg coccotte was just amazing. good food with good vibe. Does create a hole in the wallet.\n To read the complete review, please go to \nchopstix2steaknives.blog…",
+                "datePublished": "2011-03-17"
+            }
+        ]
+    },
+    "100": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "S5JTaT6UAn2hDYS4O0lFVg",
+                "author": "Qype User\n Pierre…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Beautiful restaurant, the menu with 3 plats (first course + main course + dessert) for only 27 £ is delicious and the staf very kind. You have also the possibility to watch the kitchen where there are the french cooks who work during your lunch.",
+                "datePublished": "2011-03-15"
+            },
+            {
+                "reviewId": "SIEoHPK51SapTzsF2bwGHg",
+                "author": "Erica J.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Joel never seises to amaze me! I've eaten at his restaurant in NYC, Vegas, and Tokyo.  Thought I'd add London to the list.  Wonderful meal, service, and ambience!  I really enjoy sitting at the counter and watching the chef at work.  The avocado and crab meat were to die for!  Hell, anything with avocado is to die for!",
+                "datePublished": "2010-05-24"
+            },
+            {
+                "reviewId": "C6qC5T_mTE-LTGsJRh9iIg",
+                "author": "Qype User\n Hungry…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "For full review and picture please refer to\nhungryinlondon.com/2010/…\n \n I love pre-theatre menus. How else would one be able to regularly dine at Michelin starred restaurants in London without for instance being a stock broker (before the credit crunch) or a professional footballer? One of these restaurants is L'Atelier de Joel Robouchon in the middle of the theatre district in Covent Garden just next to The Ivy which offers a 2 course set menu for 22 pounds, 3 courses for 27 pounds. The French chef Joel Robouchon who has achieved more Michelin stars than any other chef (25 if Wikipedia is to be believed) has restaurants all over the globe. Two of these stars are held by the London joint of L'Atelier Joel Robouchon. So believe me  my expectations were higher than high and I was looking forward to a stunning meal.\n The restaurant is impressively beautiful. The elegant and stylish dining area is dimly lit and decorated in a red and black theme (I was not so sure about the apples in the big bowl (see below) but what do I know about interior decoration?). There are high tables and bar stools and, around the central kitchen area, patrons are seated at the counter and can watch the chefs preparing their dishes.\n Sometimes the service in high end restaurants can be a bit patronizing but the service at L'Atelier Joel Robouchon was absolutely perfect. Obliging and polite and, when they brought as the wrong main course, three people came one after the other to apologise (which was maybe slightly over the top). Also a very nice touch was that, when the wine we had ordered was not available, the somelier exchanged it with a (very delicious) cheaper one. Even though we 'only' had the pre-theater menu, they did not rush us at all to leave after we had finished.\n Unfortunately the food was not as enjoyable and exceptional as I had expected. Of the 3 starters and 3 mains to choose from a very autumn-style, mushroom-based menu we commenced our meal with Egg Cocotte Topped with Wild Mushroom Cream. The soft-boiled egg was at the bottom of the glass topped with a very tasty mushroom cream. It was nice but did not blow me away and I did not like the consistency too much.\n The second starter also embraced the autumn theme: Wild mushrooms served with Puff Pastry consisted of perfectly cooked, delectable wild mushrooms on light pastry. This was rather enjoyable dish but again not terribly special.\n We choose two different mains: RS really liked The Razor Clams served with White Wine Emulsion and Leek Fondue. I only had a small taste of it, far too much dill for my liking.\n The Crunchy chicken breast with Curry Sauce and Pilaw Rice was rather mediocre. The nicely cooked chicken was too salty and the combination of elements of chicken katsu curry and the Indian influences of the Pilaw rice were not convincing, especially for a 2 star restaurant.\n Now the question is  if you have a pre-theatre/ good value set menu in a Michelin star restaurant, would you expect the set menu to be of the same quality as the a la carte? I do, and L'Atelier Joel Robouchon did not deliver. Does this mean now I have to save and go back to try the a la carte (assuming that the Michelin inspectors know their job)? Or do I just give up on old Joel?",
+                "datePublished": "2010-11-11"
+            },
+            {
+                "reviewId": "WmYVJVu01j1O3-n1KvXpfA",
+                "author": "Teri Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier de Joel Robuchon was the best thing that happened to my fiance and I on our recent visit to London. The best thing that happened in our dining experience, that is. Being the foodies that we are, we did alot of research before we embarked on our trip and part of the process involved making reservations at must-eat places before we left Chicago for London. Needless to say, L'Atelier de Joel Robuchon was in our must-eat places.\nWe were seated at the bar. Actually, it's not really a bar either since you're not sitting in front of the bartender, but it's a high top counter that allows you to see all the action going on in the kitchen. What a fantastic experience seeing the kitchen crew prepping appetizers, entrees, and desserts. I had baked clams with minced garlic and mushrooms and the clams were served on a thick bed of sea salt. I ordered an entree of spaghetti which will make you think, \"What?! You ordered spaghetti in a 2-Michelin star restaurant? How boring!\" But wait til you hear what the spaghetti came with: sea urchin! Sea urchin and spaghetti = divine. I've only had sea urchin sashimi-style in sushi restaurants and have always loved it. And now having sea urchin Joel Robuchon-style tops it all. The sea urchin was used to make the creamy and there were also bite-size pieces of sea urchin hidden in the sauce. When I bit into it, the texture reminded me of foie gras. I think they don't always have sea urchin on the menu because it seems like they constantly change what goes into the spaghetti. My fiance had fried langoustine, duck liver pate, and octopus salad which he all loved very much. For dessert, we shared the Rum Baba which was absolutely divine. The sponge cake was soaked with rum that you can actually taste very well. in fact, the rum was pretty strong. This was what stood out for me because it's not one of those desserts that claim to have liqueur in it although you can't really taste it. We also got Irish coffee to go with dessert. They have several types of alcoholic coffee drinks, depending on the several countries of origin of whiskeys they offer.\nThe service was excellent. Our server was very friendly and helpful in answering our questions. This place isn't pompous or pretentious at all. You can dress up fancy here or show up in jeans and you won't feel out of place. Ask to sit at the kitchen bar, if they don't already seat you there.",
+                "datePublished": "2010-05-14"
+            },
+            {
+                "reviewId": "iH4L273uBeNzU1tjuRNh2g",
+                "author": "Annie W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I have to say that this restaurant single-handedly renewed my failing interest in French food. Everything was cooked to the exact millisecond for perfection and I couldn't help thinking, this is what French cuisine is really all about! Delicate, exquisite, satisfying. Each bite were mini explosions of all things wonderful in my mouth. \nGo there for their lunch menu where two courses are £19 or three for £25. With that and sharing a small tasting dish, we actually got to try quite a variety. \n+Egg cocotte \n+Sweet french onion soup with croutons (they pour the soup over the croutons when they serve it to you)\n+Lobster (la langoustine) ravioli\n+Suckling pig with polenta \n-Cod (was still very good but not mind blowing like the others)\nOh, and I really liked their bread basket, esp the mini baguette and ciabatta rolls! Seriously, we couldn't stop eating that bread.",
+                "datePublished": "2009-03-03"
+            },
+            {
+                "reviewId": "yd9VaXXA467Cf3f7E3tMog",
+                "author": "Kay S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I heard they make fantastic cocktails, The L'egg coccotte was just amazing. good food with good vibe. Does create a hole in the wallet.",
+                "datePublished": "2011-03-17"
+            },
+            {
+                "reviewId": "KspvxP2ozXUVQRxxJ1p5DQ",
+                "author": "Tony H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "This place is definitely not on the cheap side and the the portions of your meal is definitely not filling.  There are two sections to the menu, Tapas Style and Main Dishes.  They recommend that we order 8 tapas dishes (4 persons (2 of each)) and each order a main dish.  We elected not to take their recommendations and went with 4 tapas dishes and 2 main dishes.  It was still expensive, but fortunately, my friend picked up the tab since my girlfriend and I got engaged on the London Eye. (no, not where 30 other people were in the same capsule, but a private capsule)  \nThe food and ambiance was really good, but the service was less than stellar.  I would give them 4 stars, but the service really made the experience disappointing.  Our server took way to long to greet us.  We ordered cocktails in the beginning and that took forever.  Our server apologized and I looked over to some other tables and I noticed that there was bread at the table.  I asked if the bread was complimentary and she said it was and then she asked if we would like some.  We were starving at this time and we definitely wanted some!  If our experience was better, then I would've definitely given this place at least 4 stars.",
+                "datePublished": "2009-06-02"
+            },
+            {
+                "reviewId": "bC_rVXSHoZeQUp4c1fGfFg",
+                "author": "Olya S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Fantastic service, delicious food, and pleasant ambiance. I dined alone on a business trip, had no issues with splitting check into alcohol/food. Great wines and pairings.",
+                "datePublished": "2011-06-25"
+            },
+            {
+                "reviewId": "iU4jd8R2qxInVDPhAQE5ag",
+                "author": "Qype User\n Monika…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier de Joel Robuchon is perfectly poised near the Ivy. Although an international chain, it has that swanky, sultry glam factor matched with tiny plates of extreme deliciousness (including the truffle mash, allegedly 90% butter). Best seats are at the bar and witness the cheffy chefs at work. Not cheap though. (\nMonikasays.com\n)",
+                "datePublished": "2012-02-16"
+            },
+            {
+                "reviewId": "LYn11IkOyWfrsaeLP5pwhA",
+                "author": "Robin S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It's absurdly expensive, but if you've chosen to come here, this should not be a surprise.   It's great gastronomic fun to try the \"small tasting dishes\" but don't flinch when you see your bill and your stomach's still a-rumbling.  Even certain \"main\" plates are miniature.  This is indeed a fancy French tapas spot (with extraordinary food).  \nWhat may come as an annoying surprise is that one scallop costs nearly as much as a generous plate of steak tartare, or that the sea bass - a \"main\" dish like the steak tartare - is just a small square and sets you back £30.  It's impossible to choose wisely with an eye on both your hunger level and budget unless you've been here a load of times (or have tried most of the dishes).  I've done neither, but I can tell you this:  if you like red meat - and your heart is good shape - you will never regret having the mini foie gras burgers and the steak tartare.  Eat it downstairs at the atmospheric bar.  And if you're not alone, split this and the cheese plate.  You'll be full and not too broke - but please eat your fruit and veg the next day.",
+                "datePublished": "2008-12-13"
+            },
+            {
+                "reviewId": "9u61dbts4BXtqYiL-tYjRQ",
+                "author": "Mark T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Michelin 2 stars, the only 3star in London is Gorden Ramsey, but if you're the type to book months before [called 5 times and was offered a table minimum 2 weeks away], get on the list, I'm not booking months in damn advanced [only open 4 days a week], i ate in a lot of 3 star Michelin restaurants and didn't book more than a day or better yet the same day, so we're here at Joel, the food presentation is five star, the food is 4.5 star.\nThe service is all synchronized and you don't have one waiter, all employees know whats going on, it can be a minus at some point..\nThe food presentation is really amazing and five star, seeing the executive chef preparing with his team of about 10 chefs prepare all the dishes is really cool and entertaining, also love the bar style seating, all friendly together.\nThe portions are tapas style and small, but really good. The martini menu is extensive and has some exciting mixes. The tasting menu [which the executive chef Olivier Limousin did me a solid, and made it for me alone, which usually is only done for the whole table [party] as it is a complex and hard menu] has some really award wordy dishes.\nWhy five star? ok because it's the best tapas I've ever eaten, it don't get better then this. Yes 105quid for a nine dish tasting menu is quite high but totally worth it. If you say this is no tapas, than it's a four star restaurant.",
+                "datePublished": "2009-03-15"
+            },
+            {
+                "reviewId": "myUYzGB6hF3-ci5ZHDPlIA",
+                "author": "cynthia w.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This was a delicious meal! We sat at the bar and enjoyed watching all the dishes get prepared. We will definitely return.",
+                "datePublished": "2011-06-30"
+            },
+            {
+                "reviewId": "PlGlWUIEWfbxxaZmSws-OA",
+                "author": "Deborah M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If you are someone who really loves gourmet fine dining, this is the place for you. The food was brilliant. We had the tasting menu with the wine parings and every dish was incredible. The fois gras with the red wine reduction was to die for and the wine parings were impeccable.  We enjoyed sitting at the bar and watching the kitchen in action. All of the staff were extremely skilled and were wonderful! We also very much enjoyed conversing with other diners who were seated next to us. Three cheers for Chef Joel Robuchon! I hope to visit his restaurants in New York and Paris, next time I am there.",
+                "datePublished": "2011-08-06"
+            },
+            {
+                "reviewId": "hElxd-3CJ4ZKtCHEYId8Lg",
+                "author": "Irina M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place is pretty good, but I can't say it was quite worth the price. The location is beautiful, managing to be both classy and colorful. Good quality overall, but some of the dishes were inconsistent and/or lacked imagination (e.g., the sea bass was basically blah). I found the desserts to be their main strength, and the service was adequate. While a nice and classy restaurant overall, I put this place in the category of restaurants to which I would only return if someone accompanying me insisted on it.",
+                "datePublished": "2013-07-02"
+            },
+            {
+                "reviewId": "EG9eZYDLRKAi7Lr40yhNtg",
+                "author": "Keshar N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Merry Christmas to me! I have to say that it does not take a lot of convincing for me to give this place 5 stars. Bob and I were in London over the holidays and I saw that not only was there a reservation available at L'Atelier, but that there was also a price fix menu we could take a part of. We (naturally) decided to go with the price fix menu with the European wine flights and sat on the first floor - at the counter concept restaurant. The feel is very loungy - dark red, black and dim lighting. The counter wraps around the entire kitchen and you then have the added benefit of watching the talented chefs prep your food. Although there is a slight downside... you do get to see how much fantastic butter is being used. The food was absolutely beyond amazing. Everything tasted delicious, fresh, inventive - all the good adjectives that you would use to describe a great meal. The highlight of the meal was the mashed potatoes. OMG. These were probably the best potatoes I have ever had in my life. Sadly, the server thought that we were done and did snatch away our remaining spoonful... I literally thought about jumping over the counter and tackling her for that last morsel. It sounds ridiculous that mashed potatoes could be that good, but these were velvety smooth and just absolutely delicious. We were a little surprised by how many white wines were in the flight, but everything was paired beautifully. The service was very good - it was very different than the traditional table seating since we didn't have an assigned server per se. It was more casual than the food suggests, but still prompt and friendly. Overall, if you're looking for a fancy night out - or just in the mood to treat yo'self - check out this restaurant. And be prepared to latch on to those potatoes with an iron grip!",
+                "datePublished": "2012-12-28"
+            },
+            {
+                "reviewId": "8ZExp37nMGXmmOx2DG-3lQ",
+                "author": "Qype User\n donnyw…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Went during restaurant week (coincided with an offer for the pre-theatre set menu). Being a two-Michelin-starred restaurants, I was expecting a really blow-you-out-of-your-mind experience, but the restaurant didnt quite deliver.\n The food was very artfully presented, and you can watch them cooking the food and searing things in the open kitchen. The restaurant decor was beautifully done, with a large living wall on the far end.\n But a couple of things put me off. One was the service was a bit too smarmy. Maybe I am just a troglodyte, but I dont need people hovering over me with every step and course constantly checking to see if I was OK, or if I needed anything. I suppose there are people out there who require this sort of attention to validate themselves, but I dont care for it; it was almost as if they were willing to cut my meat for me, and maybe even pre-chew it for me so that I wouldnt have to lift a finger. If that is what 2 stars gets you, then I can give it a miss.\n The other thing was that the portions are a bit small and the food did not blow me away. I was expecting every bite to be a mouth orgasm, but that didnt happen. Go there if you need to impress someone, and go there if you are the type that needs to be seen at michelin-starred restaurant. But dont go if you expect a full belly at the end of your meal.",
+                "datePublished": "2011-07-12"
+            },
+            {
+                "reviewId": "B6qz2fCO1rBL7B6iq6QKtg",
+                "author": "Tirthankar D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My only visit here was not on a happy occasion. One of my best friends was leaving London (under less than ideal circumstances), and he wanted to have a treat at a good restaurant on his last day in town. He found out about a two course lunch offer for £19, and we walked in for my first visit to a michelin 2 star restaurant.\nIt takes a while to find this place, tucked away as it is in one of the many otherwise unknown alleys around leicester square.\nThe seating was unusual. Everybody were seated in tall stools next to the bar. I don't know what the purpose was, as it was pretty uncomfortable. We didn't interact with the chef ... but the guy who was serving us did spend quite a lot of time around us ... the attention was evident.\nThe food was exactly as i have come to expect from good french restaurants in London ... very good ... very tasty ... and very little. It tingles your taste buds, and leaves you craving for more (and if you indulge, be prepared for bankruptcy :p). The wild boar and foie gras was something i hadn't had before and i really liked it. \nWith the wine and the dessert, our bill came to northwards of £40 per head even with the discount offer, so you can guess how expensive this restaurant usually is, but totally worth a visit (my friend had a pleasant last lunch in London) .",
+                "datePublished": "2009-11-16"
+            },
+            {
+                "reviewId": "aeRCbSHZbt2ViuZFF22Mng",
+                "author": "Karen G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We had a 5* service from the moment of our arrival.  Good wine list without being the best like in NYC.  Robuchon has a great pride in his cuisine and it shows in every single plate!",
+                "datePublished": "2012-04-24"
+            },
+            {
+                "reviewId": "_Q_kvUUkLG0LZLcZGb0s5Q",
+                "author": "Amanda M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A magnificent restaurant, well-deserved of two Michelin stars. We sat at the bar, which provided a unique dining experience. Watching the meal preparation provided a greater appreciation of the culinary process.",
+                "datePublished": "2010-12-24"
+            },
+            {
+                "reviewId": "ouDFCM0-Qn_gaB90JDi4Ng",
+                "author": "Lina C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great food and very cool decor. The duck ragout gratin was a standout!\nOrdered the dessert tart selection, good but not remarkable.",
+                "datePublished": "2011-05-02"
+            }
+        ]
+    },
+    "120": {
+        "id": "HoS9YPbwzz-GzHhsVPQnCA",
+        "name": "L’Atelier de Joël Robuchon",
+        "category": "french",
+        "servesCuisine": "French",
+        "priceRange": "Above £46",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Covent Garden",
+            "streetAddress": "13-15 West Street\nLondon WC2H 9NE\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media1.fl.yelpcdn.com/bphoto/hCNgad4vMCulRLO0l7SLqQ/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7010 8600",
+        "review": [
+            {
+                "reviewId": "kHO_JziDXNoSA5qLWMOTOw",
+                "author": "Qype User\n guerni…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Hmmmm. For mere mortals, you can't look at l'Atelier Joel Robuchon in a purely comestible-based light. Wonderful though much of the food is, when you come to settle up at the end of the evening... well... can you feel that hollow sensation around your upper torso? That's where all your money used to be, as you just shelled out over £200 on dinner for two. And I didn't even have a digestif.\n It's a sort of Japanese-styled succession of very, very tiny French tasting dishes. Sorry, I should explain: not Japanese food, but served in a restaurant that's as close to being a bento box interior as I've ever seen. Now I know how salmon teriyaki feels.\n You're brought these tiny, delicate little courses, and you have this sort of explosion of taste, then it goes away, and you have some more wine, and wait for the next one. We ordered 2 mini-things and one more substantial course each and I have to say that we left feeling sated, if not (whisper it) full. Maybe it was just the sensory overload. Don't worry... neither felt the urge to scoff a pizza on the way home.\n It was a real experience, and one I'll think back to fondly on more than one occasion. If you're being taken, go easy on the paying partner though. You don't HAVE to order the lobster.",
+                "datePublished": "2008-03-03"
+            },
+            {
+                "reviewId": "W3aiHYmqqXhJl9FRqJ3zaw",
+                "author": "T D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "As good as you'd expect from an amazing chef such as Joel Robuchon.  Took some clients here for dinner and we thoroughly enjoyed our meal.  The service is amazing and it is a fantastic space.",
+                "datePublished": "2013-01-08"
+            },
+            {
+                "reviewId": "vCa6-H9lz_zW3HyB_H9tDA",
+                "author": "Stephen B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I went here as one of the three others that I was with suggested it for our monthly michelin meal and as they do a three course for £25 pre theatre menu we could not loose\nWe were wrong - we lost £50 each for a large mouth full of not very good food\nI started with the wild boar terrine with foie gras - poor flavour, foie gras flavour and texture was completely lost and the wild boar lacked something - it didn't work\nMy main was \nPan fried hake parsley roots purée, crunchy hazelnuts.  My hake was perfectly cooked and delicious though the accompanying 5 hazelnuts and a teaspoon of puree left one wanting more.  \nOne us received their hake raw and when he called the waiter over the waiter knew before my friend had said anything and just picked up the plate and said 'Not cooked?' and swept it away, I guess that it is not that unusual in this restaurant\nDesert was so so sponge with chocolate though two of my group thought it was very nice.\nA bottle of wine and some tea and coffee and £50 each and we all went home and had something to eat.\nService was good friendly and helpful though somewhat slow\nNone of us will visit again\nClos Maggiore knocks spots off of it",
+                "datePublished": "2009-11-23"
+            },
+            {
+                "reviewId": "9eq8rn7g770-4suQ0biOuQ",
+                "author": "Qype User\n touras…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I have been hearing stories about Robuchon himself regarding the myth etc. When I heard that l'atelier after Paris has opened in London, 2 things came in mind.. \n1. Wow!\n2. Is it another business-man opening branches??\n Tried L'atelier twice. The ambience is really nice and cool, with modern and innovative decoration. Its more of a place to chill and have a bite instead of a proper long-stay dining place. \nYou can sit on a bar or tall tables with stools, it's fine though, you enjoy.\n The mythological-must-try-speciality is the potato puree.. I know sounded weird to me as well but its really an interesting story!\n Everything fair and good enough till here. Now the downside. \nAlthough the food very good and tasty the portions. GOD really tiny ! And yes I know what gourmet kitchen is and what the word L'Atelier stands for. The story is that you cannot really sell L'atelier-styled food and charge for 2 big portions! Come on! \nFrom my experience so far this is the restaurant with smallest portions, except if you try the steak which will probably compensate a bit to your stomach. \nThe two stars missing from my rating is because of the relation Price/Quantity. \nYou really wouldn't wanna go there on empty stomach!\n Overall: A nice place with comfortable environment BUT very bad relation of Price vs Quality/Quantity.",
+                "datePublished": "2009-03-06"
+            },
+            {
+                "reviewId": "2Thrlc3-3iT-sLD2bFtkcA",
+                "author": "Qype User\n caitha…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The restaurant is quite stunning, a japanese red and black lacquer theme running throughout. Bathrooms are also absolutely beautiful. As a vegetarian my view is probably slightly slanted, I had the deep friend hens egg, followed by the leek terrine, both were interesting dishes (very flavourful), but not great. The others (who ate meat!) enjoyed their meal much more.\n Can't really add much more than the others have already written, except for they do a set lunch which is £19 for two courses or £25 for three. A good way to sample the food before you come here for a more expensive dinner.",
+                "datePublished": "2009-02-19"
+            },
+            {
+                "reviewId": "57dX1tFDscxbJrTG6fZV_w",
+                "author": "Anita S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The L'Atelier location in London is ten times better than the one in Vegas. So if you've been to the one in Vegas and didn't like it, then give this location a try. It's definitely worth it. It's about 8 courses and like the Vegas location you can sit at the bar and watch them make your food. The dishes that stood out for me here were the foie gras, butternut squash soup, quail and of course dessert. The dessert was ice cream mixed with a bunch of good things and sprinkled with Oreo crumbs (yum!). I give this place a B+. Just about everything tasted as good as it looked.\nanitaeat.com",
+                "datePublished": "2010-12-05"
+            },
+            {
+                "reviewId": "x_kmHHB3p_BNwuVTGoXvaw",
+                "author": "Qype User\n Hello_…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "L'Atelier is both a great food and ambience experience.\nMaybe ease into it by trying their incredibly value for money pre-theatre diner (until 6.30 -7pm if you're lucky) that gives you an overview of their excellent food.\nOr go for the tapas style mini dishes that will undoubtedly blow your mind (if not your appetite). The Egg or the Burger are to be recommended, as is the purée (50% potatoes, 50% butter!).\nSit at the bar, watch the cooks cautiously prepare your plate and relax, it's well worth it (also, note they have a vertical garden on the wall, very trendy!)",
+                "datePublished": "2009-01-11"
+            },
+            {
+                "reviewId": "fMRQZJjq3S7_ROxrW1PxKQ",
+                "author": "Qype User\n buster…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Right around the corner from the Ivy, this place is something special. The food is spectacular, and the dining areas are sumptuous. The greenery and the colours on the ground floor will make you feel extra special. The service is typically French (a bit blase and well not quite up to the American service standard, but still better than most London restaurants).\n The bar upstairs is also very special. Very expensive, but well worth it. The lamb is spectacular, and the mash that comes with is buttery and delicious. Don;t miss the foie gras burger...mouthwatering.\n After Petrus, this is my favourite fine dining restaurant in London.",
+                "datePublished": "2007-08-07"
+            },
+            {
+                "reviewId": "qtneJAGv7QJhrV2xsBU7HA",
+                "author": "Jennifer C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A couple of my friends and I were vacationing in London and we decided to treat ourselves to a nice meal at L'Atelier de Joel Robuchon.\nWe ordered the pretheatre menu, which came with an appetizer, entrée, and dessert for £25.  It's definitely a little expensive for a 3 course meal, but it's actually not too bad considering the fact that it's a very famous and renowned restaurant.\nThey started my meal with this amazing French onion soup.  The soup was served with crispy cheesy garlic croutons floating on top.  The crunchiness of the croutons was definitely a nice complement to the creaminess of the soup.  For my entrée, I ordered their flat iron steak, which was cooked to perfection, topped with caramelized onions, with creamy potato gratin on the side.  I have to say that it was the best flat iron steak I've ever had EVER!  It was tender, juicy, and well flavored.  I could tell that they used very simple ingredients to season the meat because the natural taste of the steak was preserved and didn't get over overpowered by the seasonings they used.  The potato gratin was very delicious as well.  It was very creamy and cheesy, yummy!  At last, they served this chocolate mousse/ice cream thing for dessert.  I still don't know the name of the dessert or exactly what's in it until this very day.  All I know is that the dessert was so amazing that it blew my mind away.  It was creamy, chocolaty, and crunchy (crisped rice, I think).  Overall, it was an amazing meal!",
+                "datePublished": "2009-07-19"
+            },
+            {
+                "reviewId": "NEnmN3G5FWmyTtl3Zfv-GQ",
+                "author": "Annie R.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I don't know where these other reviewers ate but it was not the same place we did! While the food was tasty, the portions were a joke- almost the equivalent of a bite each.  The service was horrendous-snotty waitress and sommelier- and the cost ludicrously high.   I would not recommend this to anyone. In fact, my only recommendation would be to stay away.",
+                "datePublished": "2011-10-28"
+            },
+            {
+                "reviewId": "6WAw2EryOkygIj2LNEtRwA",
+                "author": "colin m.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Went here for lunch with a friend one afternoon.  The Egg Croquet was especially memorable and went well for my Duck Confei.  \nModern decor, but felt a bit sterile.  I would like to go back to see what the atmosphere is like in the evenings.",
+                "datePublished": "2009-03-13"
+            },
+            {
+                "reviewId": "TGowoEld1tmOAF7U2FcMhA",
+                "author": "Greg P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "My wife and I ate there this past week and it was truly a wonderful experience with great food and attentive service. While we only had the 27 pound 3-course prix fixe lunch menu we will def try to come back for the more elaborate degustation menu.  Well worth a try and a really great atmosphere!",
+                "datePublished": "2009-12-10"
+            },
+            {
+                "reviewId": "9lhBTSiwJzhwS0eehMORnw",
+                "author": "Qype User\n shebro…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A bit too dark but the food is perfect",
+                "datePublished": "2012-05-26"
+            },
+            {
+                "reviewId": "HJP-Hg_WpsNSsTYUNbhbDQ",
+                "author": "Charlotte M.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "We arrived five minutes late for our reservation full of apologies, and were told that our table was not ready and we would have to wait another 15-20 minutes for our table! We asked if this sort of thing happens often, and we were told that they didn't rush people along with our meal, later we found that this simply isn't true. From the moment we arrived, the staff treated us terribly badly; they were so hot and cold that my partner asked me: 'what have we done wrong?'  I am convinced that our waiter was high, he didn't blink once, was sweating profusely, had no idea of personal space and kept saying 'YUMMY, YUMMY' every time he put our food down. \n As there was a delay in seating us we missed the 10 course menu, a real shame as the majority of what we ordered was terrible.  We were given a bread basket to start with, with no butter or oil, the French bread was so stale I would have reservations about feeding it to pigeons up the road in Trafalgar square! We both started with the Ravioli of Foie Gras in a chicken broth, this was terrible it reminded me of instant chicken and noodle soup.  I then had the stuffed clams- these were average, frankly I have had better at a local bistro. My partner had the lamb; he said the best part of this was the mash potato.  We both then finished off our mains with the quail stuffed with foie gras served with truffle mash potato, this was really very good, but completely ruined by the lack lustre service we received the truffle mash 10 minutes after we received the quail. The dessert was the lowest point of the meal and tasted like a tesco's finest chocolate cheese cake. \nThis year we have eaten at Gordon Ramsay's Royal Hospital, The Vineyard, La Trompette and Le Manoir Aux Quat'Saisons (my personal favourite); if you have £150 per person to spend eat at any of these other places. We both felt terribly ripped off at L'Atelier.",
+                "datePublished": "2010-06-19"
+            },
+            {
+                "reviewId": "--EYQd9vKEwuDdJULgWs0A",
+                "author": "Qype User\n Suram…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "No, seriously?\n I was disappointed by this restaurant. It is overpriced, and I use that term with care having happily paid far more for a meal elsewhere. I am happy to pay a lot of money for an excellent experience, but this just wasn't. This was mainly down to the service, which was indifferent at best - I'd've been unimpressed being served this way at a chain restaurant. It wasn't 'informal' - it was disinterested, cold and not even competent.\n The food was excellent. But I've had far better meals for less money in places which - crucially - had a far better atmosphere.\n We sat downstairs in the 'atelier' - perhaps things might've been better upstairs in the formal restaurant, but we chose downstairs because we wanted to try out a tapas-y approach to fine dining.\n The service spoilt this place for me. I actually refused to pay the service charge, for the first time ever. I am the sort of person who gets embarrassed when things are disappointing and I once didn't send back a still-frozen lasagne in a pub because I didn't want to offend anyone(!!!!!), so this is a big deal.\n I emailed to say how awful the service had been and someone wrote back offering us a free bottle of house champagne next time we dined there.\n Our meal, with wine, cost £200 for two. No ta.\n We went to Clos Maggiore a couple of weeks later to try to erase the bad memories and that was much better.",
+                "datePublished": "2009-11-13"
+            },
+            {
+                "reviewId": "kS2x7NGm-EArFI_7J6oSIQ",
+                "author": "Owen e.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "This was a very dissapointing experience. \nShockingly so actually. \nTo be honest i feel ripped off. \nI am willing to spend an obscene amount of money at a restaurant but only if i am blown away. In fact, not only was i nowhere near blown away but i can confidently say that i did not consume anything that was anywhere near memorable!\nThis restaurant is way overpriced for what is essentially quite average food.\nMy dining partner and I, opted for the tasting menu at £125 each. The amouse bouche seemed to signal a good start but unfortunately there was no highlight, no surprises, nothing really.\nThe inclusion of expensive ingredients (black truffle,caviar & alot of fois gras) was, I felt, a way of justifying the ludicrous prices. However, as a discerning diner i must say that if it was simply about the ingredients anyone can buy them for less and have them at home!\nThe point of making the effort and paying so much money is to sample great skill and creativity with great ingredients. Sadly, this was most definitely not the case at l'atelier. \nThe reputation does precede this restaurant and one does expect alot, but at these prices one should!\nI do not advise anyone to dine here. \nHaving said that, i think that the fixed price lunch for £27 may not leave you with as bad a taste as i have been left with!\nTotal failure. In fact i can honestly say : APPALLING!!",
+                "datePublished": "2011-12-18"
+            },
+            {
+                "reviewId": "C3OAjdOIK8sLV7aXx61JTA",
+                "author": "Herry L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Joel Robuchon's new London restaurant brings with it the 'atelier' or workshop approach to eating, when one sits at a counter and watches the chefs prepare the food a few feet away. It's common in Japan and works extremely well here, particularly as the leather bar stools are comfortable. The menu has a page of delicious small tasting dishes, which are basically half a starter size, to encourage you to have several. In fact one could eat entirely from the tasting dishes and try 90% of what's on the menu - but they are not cheap - between £10-20. We went for the £19 set-price lunch and experienced exemplary cooking - particularly a richly-reduced sweet onion soup. The waiter behind the counter was instantly accessible and although Hungarian, recommended an absolutely superb Grune Veltliner which came by the glass and caused us to spend much more on the wine than the food. The whole place (there is a standard-type restaurant and a bar as well) has a well-managed feel and with cooking and prices (at least at lunch) of that order, it should quickly become a favourite",
+                "datePublished": "2009-03-05"
+            },
+            {
+                "reviewId": "caTwgvcMJJr_upbpQ6su_w",
+                "author": "Qype User\n loic_a…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very good restaurant where you can enjoy delicious french food!\nThe staff was delicate, polite and quite helpful! Such a pleasant atmosphere to have dinner with friends! The dining sections are sumptuous!If you wonder where to go out for dinner, choose this restaurant, you'll be amazingly surprised!",
+                "datePublished": "2009-05-05"
+            },
+            {
+                "reviewId": "z08JqdCJAAGCO9ioi4QHAA",
+                "author": "Bella K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Highly recommend this place.  Everything was excellent.  We did many small sampling dishes.  However, I would say that their seafood dishes outshine the others.  This sentiment was echoed by my husband (a true red meat fan) as well.   Desserts were excellent... can't go wrong with French desserts.",
+                "datePublished": "2011-06-14"
+            },
+            {
+                "reviewId": "kobSNXCXcWooof5M8i0vtw",
+                "author": "Nana S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "we decided to treat ourselves here during our visit to london and it did not disappoint. the restaurant is down a somewhat sketchy alley in the bustling touristy area of covent gardens, but once inside you get quickly absorbed and lost in the cozy, dark environment. we were there for lunch but passed on the lunch tasting menu, instead we did small tasting dishes - everything we ordered was cooked to perfection: carpaccio (one of the best i've ever had, so flavorful and tender), egg cocotte (basically a poached egg topped with mushroom foam), ravioli with langoustine, lobster w/turnips. our favorite dish was the sliders with foie gras and caramelized onions. BEST sliders/burgers i've ever had! the bun was soft/fluffy, and every bite had the perfect amount of beef & foie gras.",
+                "datePublished": "2009-10-31"
+            }
+        ]
+    }
+}

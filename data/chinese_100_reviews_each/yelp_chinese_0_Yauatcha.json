@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "id": "MlTmag6U7woCXfE1xKIz2A",
+        "name": "Yauatcha",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "15-17 Broadwick Street\nLondon W1F 0DL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/qZINld0vk1qDzWQAL-MA8A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7494 8888",
+        "review": [
+            {
+                "reviewId": "38XDhG8I6tjLL88jNbTvhw",
+                "author": "Jiayi C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very nice Cantonese restaurant and actually pretty authentic - as a person raised in China. As other reviews already mentioned, prawn dishes generally are good, and all the cheung funs are fantastic",
+                "datePublished": "2018-09-16"
+            },
+            {
+                "reviewId": "O57KxDx9OH3E5aDLCWGMNw",
+                "author": "Willy X.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I'm making my way through high-end Chinese restaurants in London. In general, I have a narrative in my mind that while some asian foods, like sushi, enjoy a high markup, Chinese food in the Western world is often seen as cheap takeaway. You expect to have your kung-pao chickens and beef and broccolis served up to you in a takeaway box for about £5 - leading to caricatures like Panda Express in the states and Wok to Walk in the UK. The problem with these too for actual Chinese establishments is that because of this unidimensional view and a universal expectation of cheapness - Chinese restaurants end up battling over operational efficiency - cutting costs, skimping on taxes, paying minimum wage. Re-imagined, upscale Chinese restaurants would bring the benefit of giving Chinese chefs in the western world more freedom to experiment and explore while raising the overall expectation of what a Chinese restaurant could be.\nYauatcha, I'm visiting right on the cusp of having Duck and Rice yesterday. But Yauatcha is in style more similar to Hakkasan than it is Duck and Rice. So after I've eaten all of these foods, imagine my surprise when I realized that all three of these restaurants were created by the SAME GUY - Alan Yau; Yautcha of course being his namesake, Hakkasan named after his ethnic minority background of being Hakka and Duck and Rice I can only imagine because the guy probably GORGES himself on that stuff. Good for him.I happened to come with my Asian American roommate from New York that also went to Harvard (many shared identities as you can see) and we both had the Tou Chan. You can find the menu online, but I'll run through some of my favorite of the dishes:\nChicken Gyoza\nWild Mushroom Dumpling  - I generally like anything named \"wild mushroom x\" and this was no exception\nBeef in black-bean sauce - so good, it reminded me of my childhood favorite \"dou chi ling yu\" which is fish with black bean.\nUltimately a great meal, for a reasonable £35.\nI also highly enjoyed the \"nan\" and the \"nu\" on the door and briefly wondered how a non-Chinese reader would be able to distinguish between the men and women's bathroom, until I looked more closely and saw the \"W\" and \"M\" etched into the doors.",
+                "datePublished": "2018-06-21"
+            },
+            {
+                "reviewId": "W0SkDN9UFSFOVm62XbVvyw",
+                "author": "Nory B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great Asian restaurant in Soho!\nAmbiance is gorgeous--a salt water aquarium, beautiful blue hued decor, very modern. The chairs and tables were lower to the ground than usual, which was interesting.\nThe service was top notch, very solicitous....until the last few minutes when we had to ask for our bill instead of it being brought to us, but that was minor.\nThe food was really delicious! The sweet and sour soup with mushroom was very flavorful and thick....and served piping hot in a bowl with a lid. The Thai chicken was crispy yet moist and tasty, not spicy.\nThe Kung pao chicken was quite good but had way too many peppers in it--they were a quarter of the dish! \nThe vegetable fried rice was so good-- lots of flavor.\nAnd we had one of their slices of mocha cake for dessert; so much flavor packed into a few delicious bites!\nPricey but worth it!",
+                "datePublished": "2018-05-17"
+            },
+            {
+                "reviewId": "FeaCw44qrrHW-suwAMaXfQ",
+                "author": "VickiE G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "For a true Asian - probably three star at its best, over priced dim sum with some fancy ingredient twist. \nPortions are small and the flavor is not particularly different even with the superior materials. The wagyu beef puff is the only thing i enjoyed of our ordering.",
+                "datePublished": "2018-03-07"
+            },
+            {
+                "reviewId": "LWys-y_wG4Zs3tHObz19qQ",
+                "author": "Rohenne L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "High end beautiful dim sum restaurant. Very fancy and pricy for dim sum in London but quite delicious and surprisingly the few dishes I had tasted authentic. I was expecting it to be westernized since it's not like your typical dim sum restaurant. \nI went solo so couldn't order too many things thus just got a few classics.\n- steamed pork buns : pork was good mix of sweet and savory and the buns are nicely filled with the pork, they didn't skimp on the filling. It was slightly oversteamed but the taste was still really yummy.\n- scallop and pork siu Mai : unlike traditional siu Mai, the scallop wasn't dried it was a fresh one! Probably why it was so expensive for just 3 pieces. I prefer the cheaper version with dried scallop but this was also quite tasty. \n- Xiao long bao(pork soup buns) : the wrapper is thicker than I usually prefer it but the taste of the soup and pork were on point! \nOverall really good experience, great service and ambiance. Heard their cocktails are worth trying as well. Will have to come back with a bunch of people to try more dishes!",
+                "datePublished": "2018-03-17"
+            },
+            {
+                "reviewId": "zZaizKPjllmCvhEFQifA6Q",
+                "author": "Helen H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A Michelin Chinese restaurant in Soho London that specializes in Dim Sum. It opened in 2004 by Alan Yau who also created Wagamama and Hakkasan. Rated as one of the top restaurants in London plus multiple locations worldwide.....I was excited to try this place. But what a shocking disappointment in regards to the food. \nThis place was highly recommended by some friends. They said this place offers some of the best Chinese food in London......I would 100% disagree. Maybe for non-Chinese people (which is all I saw in the restaurant).\nThe inside is a cool and sexy contemporary vibe. The ambiance with the bright floor, star-lit ceiling, neon lighting, and aquarium bar in the basement is a clever refreshing way to bring light to this otherwise dark and cave like space. \nWhen we arrived the hostess took our coats and bags and seated us at the bar downstairs for a few drink while our table was bring prepped. It was at that minute I noticed not one other Asians were eating here.....\nAt the bar downstairs the drinks were divine. My husband got cognac and me some tropical lychee non alcoholic drink. The bartender was excellent. Drinks were delicious. \nDishes are colourful with strong flavours and texture contrasts according to the website with dim sum as the highlight. \nOnce are table was ready they brought us to our table to start ordering. Here is what we ordered:\nScallop shui mai\nChar siu bun\nCrispy duck roll\nPrawn cheung fun\nWagyu beef puff\nStir-fry rib eye beef in black bean sauce\nEvery tasted off. The stir fry rib eye and crispy duck roll was the closest to authentic...even that was a far stretch. I looked straight into the kitchen and saw only Chinese chefs......I should have asked to speak to a chef and asked him to cook me something off the menu. My husband ordered so much because he was simply hungry. But I asked him to stop ordering, grab the check, and let's head to Chinatown to eat after here. I was not about to waste precious macros on bad food. \nService was pretty standard and could only get so good as it was super busy. The bartenders offered great service though. Definitely deserve a mention. \nI can see how this would get a Michelin Star for interior design, service, and playing/presentation. Food though no offense reminded me of PF Chang's in the states. I don't see how it get a Michelin Star. But that must be why not one Chinese person was seen here eating when I visited. \nGo if you want a sexy and fun dinner. But not if you want authentic dim sum.",
+                "datePublished": "2018-01-09"
+            },
+            {
+                "reviewId": "bK71uyXikUR7cBzQafIJhA",
+                "author": "Samantha F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This review is strictly for their gorgeous cakes! They cost 6 pounds each which is pretty decent compared to many of the other dessert shops here. \nFOOD:\nGlancing at the case of cakes, I literally wanted to try everything! They all looked so beautiful. After much deliberation, I decided on the Honey Jasmine Milk Chocolate cake. I didn't try it that night, but the next day and it was soooo delicious! \nThe decor is designed to perfect. There were 3 layer compacted into the tiny cake: milk chocolate ganche, jasmine buttercream and honey buttercream and chocolate pop rocks! \nSERVICE: \nIf you want to come here just for the cakes, let the hostess know and they will call someone over to help you out at the cake station. The lady that helped us was really friendly! I asked if I could take a picture of the cake before she boxed it and she actually gave me the best looking one and asked if I wanted to take picture of any other cake. They box your cake in one of those boxes that you don't want to throw out.\nIf I'm ever back in London, I would come back just for the cakes!",
+                "datePublished": "2018-03-14"
+            },
+            {
+                "reviewId": "Q-6UPCQpF5V3PQRBTn5qXw",
+                "author": "Rob D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Dim Sum was on our must try list during our trip to London.  We had heard about Yauatcha and jumped at the chance to try,  We tried for reservations but there were none to be had.  They accommodated us quickly and got us a seat in the bar area that worked out great.  The food was REALLY good and had a lot of variety.  \nFood - We tried a few different things as there were so many good options on the table.  Dim Sum, Duck and a Noodle Dish were the things that we tried:\nDim Sum - Char Sui Bun, Pork and Prawn Shu Mai and finally Chinese Chive and Prawn Dumplings.  All were very good.  Char Sui Buns are classic dim sum, great flavor.  The Pork and Prawn Shu Mai was good.  Finally the Chinese Chive and Prawn Dumpling were also done very well.  \nMains - We had the Crispy Aromatic Duck and the Singapore Stir fry vermicelli with prawns and squid.  The duck was incredible (first time trying it).  Not too oily and had great flavor.  I didn't have any of the noodles but wife really enjoyed it. \nAtmosphere - The restaurant is very modern looking and tastefully decorated.  We ended up sitting in the bar for dinner, but it didn't matter.  Many times I didnt feel that I was in a restaurant.  It felt like a cool place to hang out.  \nService - The service was top notch.  The servers were attentive, but not overbearing.  I never had to ask for a refill as they approached us at the right time.  The dishes (yes there were a lot) were brought out in stages as it didn't feel that we had things piling up.  We took our time and really enjoyed the experience.  \nGreat Job.  We really enjoyed our experience and told many of our friends.",
+                "datePublished": "2017-11-26"
+            },
+            {
+                "reviewId": "W2acwf7q3av_9KApSqlN7Q",
+                "author": "Cynthia M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Loved the food. Great for lunch not recommended to dinner. Had two dishes that server suggested and both delicious. Next time, will try to seafood options. Not sure if this is something Robert would like.",
+                "datePublished": "2018-04-09"
+            },
+            {
+                "reviewId": "xpwBNvboeuwcAR7bQhAmOg",
+                "author": "Cassi L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I was really excited to try a Michelin star restaurant. We came here to try their set menu \"Taste of Yauatcha\". The food was kind of a disappointment honestly, I expected better. It was nothing special at all. I've had better dimsum at other places. The service was good, our waiter was really nice and attentive. The atmosphere was different and cool.",
+                "datePublished": "2018-07-25"
+            },
+            {
+                "reviewId": "ObI7vI4yoWWwgAgqkDdXrg",
+                "author": "Mark G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Michelin star dim sum, that should be enough to get any dumpling lover in the door. They offer both entrees and dim sum style dumplings in a very chic modern style restaurant. Very fun atmosphere and they did become packed very fast upon our arrival.\nThey have very high quality dumplings served as you order them, no cart here. They come about 3 per order, more on some items. The selection is about as good as a dumpling house can get. Really fresh stuff and they stand out for a reason. I also tried their chicken soup which was excellent. They have awesome desserts, you can look as them on display. We tried the macaroons that were a lovely way to finish our meal.\nThe price was very fair for the location and accolades. I would definitely check them out.",
+                "datePublished": "2017-05-20"
+            },
+            {
+                "reviewId": "QdGzllzj_BRbjYows_6dNg",
+                "author": "Ben S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Had dinner there yesterday with my wife and friend. Perfect Chinese food and amazing deserts. Definitely my go to Chinese in London. Don't miss the Duck salad, and prawn pastry thing in sauce. Take a few macaroons home, especially the salted caramel one",
+                "datePublished": "2018-08-25"
+            },
+            {
+                "reviewId": "CXqQuzMO7WOOhch4rx_eOg",
+                "author": "Wilson C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I first saw this restaurant on an article that stated that this was one of the cheaper options to try that has a Michelin star. As a result, when I went to London, I had to give this place a try. My family was seated right away when we went there. The environment was classy and it was very enjoyable looking at all of the desserts displayed on the side. Even though the dim sum is pricey compared to other Chinese restaurants, I think it's still worth the price since they use more expensive ingredients. My favorite was the scallop xiu mai. After eating here, I'd have to say this was the best dim sum restaurant I've ever had (and I've had a lot) but it's also by far the most expensive. If you have the cash, I highly recommend trying this place out. And don't forget to get the dessert too!",
+                "datePublished": "2017-11-29"
+            },
+            {
+                "reviewId": "UAyYNhIbeiApP2Uz7XPivw",
+                "author": "Anton L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Dimsum offers taste so great but are very expensive. Rating it 3star just because of the price but if you don't mind the money, i recommend this restaurant.",
+                "datePublished": "2018-08-26"
+            },
+            {
+                "reviewId": "Nv3uwKcYQ7FBL9WhXvI66Q",
+                "author": "Michelle P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Having made our reservation weeks in advance and from thousands of miles away, I had no idea what we were in for. Yauatcha wasn't what I expected. \nThere are no trolleys delivering steamed dishes. What you DO get is the option to choose a dim sum pre fixe that leaves your palette dazzled. \nIf your thing is variety, service, chic ambiance and umami for days, this is the place. \nI've deleted one star because there is a no take out policy that kept us from taking the abundant left overs home or to the homeless.",
+                "datePublished": "2018-02-14"
+            },
+            {
+                "reviewId": "hG0EcCxFRuO9fZilG47WNA",
+                "author": "Anja R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best Chinese in a clean, forward , cool setting.  Chinese food does not need to be in a dingy, loud, elbow to elbow setting.  We came in after a day of going about town.  We had out two girls with us.  The waiter graciously offered to 'build' us a meal based on our 'hunger level'.  We had an assortment of dumpling appetizers, but I still think about that prawn cheung fun a month later.  These paired well with their refreshing drinks.  We also had the chili fried fish.  The finale was equally amazing, kids were so happy with the eye candy desserts that were just divine.  We hope to back when we are back in London.",
+                "datePublished": "2018-01-14"
+            },
+            {
+                "reviewId": "WXoPZF0NEuk2IkhE6FVVMQ",
+                "author": "Nick N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Food: 5/5\nService: 5/5\nCleanliness: 5/5\nDecor & Style: 5/5\nOk yes, the food is amazing, but it is pretty expensive. It is not true authentic Dim Sum, however it is still very good. Michelin 1 star rated? Definitely. \nShui Mai & Har gauwas great, however not true Chinese taste, had a modern flavor to it.\nChar siu bun, Wagyu beef puff, Roasted duck pumpkin puff with pine nut, crispy duck roll all very, very good. \nAgain, come here for the amazing food and nice modern environment but don't expect true Chinese dim sum flavors.",
+                "datePublished": "2017-01-07"
+            },
+            {
+                "reviewId": "MF2dHL4wPx0hENAVDT_9sQ",
+                "author": "Jeffrey S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Let me start by saying how excited I was to try my first Michelin Star restaurant. My overall experience was great but I just couldn't see how this is a Michelin Star Restaurant. I've traveled across the world for food, been to many upscale venues, and have had much better dim sum. I'm mind blown that this place received such a prestigious award over other establishments. The ambiance was elegant and modern. The service was standard for a high-end restaurant but the food was not that impressive. We ordered five a la carte dim sum dishes to share between the two of us for lunch. We got Har Gow, Wagyu Puff, Shrimp Cheung Fan, Crab and Pork Soup Dumplings, and Scallop Shumai. The food was subpar but the dessert was pretty good! We got the Chocolate Pebbles cake. Hmmm... maybe they got their Michelin Star for their desserts?",
+                "datePublished": "2018-06-10"
+            },
+            {
+                "reviewId": "Y6D2nswVjy8WO3WkAoLh-w",
+                "author": "Sophie L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Highly overpriced.  If you're looking to get some great dim sum, I'd recommend walking over three blocks and hitting up Chinatown.  If you want a fusion experience with hit-or-miss dishes, you can give this place a try. \nYou'll need a reservation, so be sure to make one online or by phone. \nThings worth ordering:\n- Large Soup dumpling.  This is NOT the xiao long bao.  This is a small little pot lined with a dumpling wrap and stuffed with shrimp, scallop, and other delicious seafood bits.  The best part of this dish is the flavor of the soup that the dumpling is steamed in. \n- Shrimp cherng fun - The noodle wrap is very soft, yet not soggy.  The shrimp is also very fresh and crisp. \n- Turnip cake.  They prepare the dish a bit differently than the traditional style, pan frying the turnip cake with an egg.  \nThings you can skip: \n- Shumai.  These are tiny and not very good. \n- Small Soup dumpling.  Xiao long bao.  The dumplings have a lot of soup.  One thing to note is that they stuff their dumplings with fish and pork, which is not common.",
+                "datePublished": "2017-03-29"
+            },
+            {
+                "reviewId": "SMM9mSYlG8jMKKdXyk64ag",
+                "author": "Michelle C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "If nothing else, go here for the Wagyu Beef Puffs. They were unlike anything I have ever had and definitely worth the stop, I wanted to order about 3 more orders after finishing them.\nNot to mention the drink menu is so unique in that they have a tea menu, and alcohol menu and one that encompasses the two. The ambiance also makes it a great spot for a date or even for a party of one. Enjoy!",
+                "datePublished": "2018-02-05"
+            }
+        ]
+    },
+    "20": {
+        "id": "MlTmag6U7woCXfE1xKIz2A",
+        "name": "Yauatcha",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "15-17 Broadwick Street\nLondon W1F 0DL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/qZINld0vk1qDzWQAL-MA8A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7494 8888",
+        "review": [
+            {
+                "reviewId": "funTQc2-XTMBIajkv7EXYQ",
+                "author": "Alfie S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a must visit if you can, this is just an absolute experience that is hard to compare to anything i have ever tried, the quality of the food, the craftsmanship, the flavors so delicious and delicate is almost overwhelming!\nAnd when it comes to service this is second to none, you feel just whiskered into another universe where attention to your meal and enjoyment is the sole purpose.\nThe only thing with this place that I regret is that i am not there right now.",
+                "datePublished": "2017-06-19"
+            },
+            {
+                "reviewId": "3QLoaYBaSbMIOa6fACNg0A",
+                "author": "Louis C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This is a contemporary Chinese restaurant nestled in the SOHO area of London just north Chinatown.  It is not your typical Chinese place. It is one of the few Michelin-starred Chinese restaurants. The ambiance is hip and has a night club feel to it. I'd compare Yauatcha to Hakkasan; I do prefer Yauatcha a little more.  \nExcept for the kitchen, I don't think there was a single Asian staff in the restaurant.  The wait staff is comprised of good looking young men and women that seemed like aspiring actors or models.  With that said, the service was professional and attentive. \nWhile the food (dim sum) is traditional the quality was steps beyond most dim sums I've had, even in L.A.  The non-Asian part of the restaurant is the large display of European desserts and hand-crafted gourmet chocolate.  There is also a 25-feet long macaron bar by the front window that makes every passerby stop and admire.  \nThe sweet and sour pork was delicious beyond my expectation. The batter was crispy, the pork seemed like lean pork tender loin and the sweetness and tartness of the sauce was perfectly balanced.  The softshell crab was served with garlic chips that looked like almond slices and, along the the Thai basil, added good body to the flavor of the lightly battered crab.  The various steamed dumplings were all delicately made and tasted great.  The biggest surprise of the meal was the baby bokchoy.  It looked quite simple without any garnish yet the flavor was quite complex.  I never thought that a plain vegetable like this can taste this good.  It tasted like it had been stir-fried with chicken stock and Shaoxing wine.\nThe desserts were all excellent and the presentation impressive. The tough part was to make the choice from so many options.\nExpect to pay for the superb dining experience; but it is worth the money.",
+                "datePublished": "2016-08-23"
+            },
+            {
+                "reviewId": "JBTnDMP720vabfwYm_sMZQ",
+                "author": "Amanda M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I brought my parents to this place and maybe took them a bit out of their comfort zone but I didn't really care because I was excited to try everything! They offer so many different lovely exciting things. I had never heard of some of them. \nMy dad got the Kung Pao Chicken dish because he's scared of trying new things, but he really loved it so that's good! \nMy mom and I shared: \nprawn and bean curd cheung fun\nscallop shui mai\nsteamed vegetable dumpling\nmushroom spring roll with black truffle\nking crab dumping\nEverything we ate was very delicious. I had never tried cheung fun before but it was really interesting! It was a delicious prawn and bean curd filling in an incredibly crunchy layer with a pasta-like cover. Lots of textures and flavours. \nThe spring roll was also a win because the truffle flavour was amaaaaazing. I wasn't a huge fan of the vegetable dumpling just because it was nothing special, but for the most part everything was very delicious and the service was great. \nI even got to see the lady at the table next to me dump all of her ribs on her lap, wrap them in her napkins and put them in her purse! I suppose she's got a dog at home? Also, by the way, they don't offer take-away containers, in case you couldn't figure that out.",
+                "datePublished": "2016-06-20"
+            },
+            {
+                "reviewId": "T1lk6-SDaiO21UQxmdGBYg",
+                "author": "Wendy L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If their take out desserts are a part of the reason for their Michelin star, I can see why. Yauatcha was the last foodie stop I made during my trip in London as I was craving macarons. Unique Asian inspired macarons, yes please! Tip - this is a restaurant, so if you're just here for the desserts, inform the hostess and then make a sharp right to the display of desserts. You won't regret it!\nI went with a bag of 6 for 9.80 pounds, which is pretty affordable given Yauatcha's status; they could have easily marked up their prices! The 6 flavors I chose were the coconut, matcha yuzu, apricot pistachio, strawberry, salted caramel, and the sesame. Extra star for the superb service - for my last macaron, I couldn't decide, so I asked for suggestions. The employee recommended the popcorn or the coconut, in which I went with the coconut. To my surprise, she then gave me a popcorn macaron just because! If a popcorn macaron sounds weird to you (it sounded strange to me at first), fear not because it was absolutely delicious! Definitely was one of my favorites! \nAlthough they were all really good, the other highlights were the matcha yuzu, the coconut, and the sesame. Basically just get the Asian inspired flavors! \nAlso, these macarons come packaged in a cute little pink bow, making it a great gift :)",
+                "datePublished": "2016-07-30"
+            },
+            {
+                "reviewId": "W9q2U9B-URKAgXQENqyIwQ",
+                "author": "Paul V.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Michelin stars aren't just handed out to those who ask for them, and while i only sampled a few dessert offerings at Yauatcha as opposed to their flagship Cantonese dishes, I certainly see why they get the attention that they do. \nStar 1: How were the service and atmosphere?\nFrom their super high end dessert bar to their very chic and contemporary formal dining area (with light that's oh so conducive to taking photos of your dishes), Yauatcha absolutely oozes class, and you can immediately spot the similarities to their mother ship Hakkasan (neon blue ring a bell?). Service is fast, friendly, and formal. Star Granted. \nStar 2: How were the portions relative to the cost?\nMacarons are expensive these days, but I was pleasantly surprised to find that my macarons at Yauatcha, where were notably large, only priced out to be $2.10 USD each once I did the conversion from pounds. That's notably cheaper than (smaller) macarons that I've had at Pierre Herme in Paris, which is certainly a win. I also ordered a signature 'Chocolate Pebble' that was a staggering six pounds, but I really can't fault the prices of flagship specialty desserts. Star Granted. \nStars 3 and 4: How was the food?\nOne thing I'll point out is that the macaron flavors were just a tad bit limited at Yauatcha compared to some other shops that I've been to. Sure they had salted caramel and coconut and orange, but missing were classics like vanilla and rose or fun contemporary options like apple pie or banana. That's not really a fault (Pierre Herme has the same issue), but it was note worthy. \nThe macarons themselves were excellent. Outside of the coconut all six of my macarons had excellent and more importantly consistent contrasting textures with powerful flavors on the back end, and the salted caramel in particular was divine. \nArguably most surprising was the Chocolate Pebble, which was a symphony of truffle and liquid chocolate that had me appreciating chocolate like I'm not sure I ever have done. Dual Stars Granted. \nStar 5: Would you eat here every day if you could?\nYauatcha has earned all of the acclaim they've received, but their macarons fall ever so short compared to my all-time global favorites at Miann (Auckland) and Pierre Herme (Paris). I will certainly be back for the food though to give Yauatcha a proper and more thorough look. No Star Granted.",
+                "datePublished": "2016-08-13"
+            },
+            {
+                "reviewId": "zotNualLQTrAPWXhGpEOrA",
+                "author": "Soomin R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We went for a dim sum lunch, and I generally enjoyed it. \nDim sums were good, ranging the shu mai, har gow, wild mushrooms dim sum and prawn cheng fun. We also had the beef hor fun noodles, which went nicely with the dim sums. Lastly, they had a rather modern and western desserts menu, which we enjoyed to top off the meal.\nHaving said all that, I wasn't so sure if it lived up to all the fame and hype. Everything was good, but I felt lacked a differentiating personality. \nService was overall good, though our waiter was quite curt. He seemed to be in a bad mood, and our interactions were not very pleasant. \nAmbience was posh -- possibly the most modern and western dim sum place I've been to. A good choice if you're looking to impress whilst also enjoying down to earth dim sums. \nOverall, would recommend it, but don't keep your expectations up too high.",
+                "datePublished": "2016-03-20"
+            },
+            {
+                "reviewId": "K4vbjw1Jg-AneFdh6gsDTQ",
+                "author": "Mandy P.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I really, really wanted to like this place, as the food style and restaurant concept is truly right up my alley. However, abysmal service soured my whole experience, and the food wasn't good enough to make up for it. \nRight from the start, my server gave no greeting, did not ask if I had any questions, did not explain the menu (and it's quite a huge menu to navigate), just said \"You ready?\" and waited with his notepad. He was entirely unhelpful when I asked him to describe certain dishes, giving shrugs or an apathetic \"Yeah, it's good.\" \nWhen I asked for recommendations, he asked if I had dietary restrictions. I told him I did not eat cilantro, and the one item he recommended (wild mushroom dumplings) had cilantro. After taking a bite, I left the rest untouched - but I never saw the server again, and even when I mentioned to another server what had happened, there was no attempt to apologize, or ask if I'd like to order something else in its place.  \nThe other dumplings I got (poached chicken) were excellent. I also tried the crispy duck - and while I wanted to like it because it was a different take on Peking duck (I have no idea how it was prepared as that was - of course - not explained, but the duck was shredded in front of you instead of sliced), it was so dry that it was inedible without the sauce (which my server said would be \"oyster sauce\" - it was not - it was the classic Peking duck sauce). \nToo bad. Hope you have better luck than I did at this joint.",
+                "datePublished": "2017-07-05"
+            },
+            {
+                "reviewId": "GUWLp2E1suKDtGV2eob9Tg",
+                "author": "Angelica C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "From the outside, you'd think it's a modern/contemporary restaurant, but it's actually a dim sum and dessert house.  The food is more authentic than not.  \nI love baked goods and pastries, so I actually enjoyed that more than XLB and siu mai.  The green tea cake still is my favourite.",
+                "datePublished": "2016-05-05"
+            },
+            {
+                "reviewId": "NG3NKbP5K5IgK-yK7pz2Ug",
+                "author": "J. Karim A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I came across Yauatcha soho on a walk throughout London. The first time I got a few macaron. They were excellent. The next day I came for dim sum brunch. The venison puff was amazing. The dim sum was good overall. But a bit pricey. Better to go with a group and try one of the tasting menus. Beautiful space. Good service.",
+                "datePublished": "2017-07-08"
+            },
+            {
+                "reviewId": "1XK6ohaAzP6fScr2P5JtlQ",
+                "author": "Arik J.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I am not sure how this establishment maintains its Michelin one star as it just fails miserably to meet the standards. The food is nothing more than any good Chinese restaurant in your local neighborhood. What really surprised me was the service. We had to request several times for our drinks. Water was not refilled and my utensils were not changed even though we asked for new plates. Our table was left uncleaned until we had to ask the manager to wipe it after 10 minutes or so. It seems they employ young untrained waiting staff. \nIf you are looking for a good Chinese meal with very uncomfortable seating in a hip environment this is the place for you, however if you have visited other Michelin restaurants you will be deeply disappointed.",
+                "datePublished": "2017-10-23"
+            },
+            {
+                "reviewId": "ociksNcCJBJ4Fybs2shbGA",
+                "author": "Jenn Y.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "My friend recommended this restaurant as a must eat. The ambience is super cute and modern. Food was ok. The service needs improvement (the lady refilled my husband's cup for water but completed neglected mine...how rude!) i want to like this place but I don't think I'll come back. I'd rather go to Chinatown for some dim sum.",
+                "datePublished": "2017-07-07"
+            },
+            {
+                "reviewId": "moGn7YkmHxr_YvgVHMfpHQ",
+                "author": "Hank K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "just a fantastic experience!  For being michelin starred - it is very well priced.  Also the staff were excellent and service was quick.\nWe will definitely come back the next time we are in London!",
+                "datePublished": "2017-07-03"
+            },
+            {
+                "reviewId": "fxHRzxd8hhWI-kP2uUIDnw",
+                "author": "Wallet B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I went here cos I had heard they had some of the best scallops in London. Pre booked a table easily with a weeks notice. They phoned me up 2 days beforehand to check that I was still coming which was good. \nArrived at the restaurant and the staff were really friendly. Sat down and was offered water and a Cucumber dish with 3 difference dips. One was really hot (chilli type dip) another more of a sweet and sour type and the last one I think was soy sauce. Ordered our drinks but had to wait 45mins for it to arrive which was the most annoying thing of the evening. First dish arrived which was the Venison puff, tasty bits of meat in a pastry with sesame seeds on top. Had to wait around another 15-20 mins or so for the next 3 dishes to arrive, scallop shui mai which was delicious, lobster dumpling which had a hint of ginger. Last one was Champagne scallops which was also nice. We then had to wait another 20 or so minutes for our beef in black bean sauce and rice and noodles dishes to arrive. When they came, only the rice and noodles arrived and we had to wait about 10 mins for the beef to turn up. By the time it came the noodles were cold. Shame, because the beef was really nice and soft!!! Didn't bother ordering desert because we couldn't be bothered to wait again and we had already been sitting on the table for nearly 2 hours. Asked for the bill (waited another 10 mins for it)\nThe food was top notch, staff really friendly. Only thing that stops it being 5 stars was all the waiting about. Would give the place another go just to see if the waiting about was just a one off!!!",
+                "datePublished": "2017-10-09"
+            },
+            {
+                "reviewId": "fX4yHiZ2VD9xQcF7nFQ0IA",
+                "author": "Jonny M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nice setting in a prime central London location - lots of hustle and bustle outside yet they were able to capture a very serene and tranquil dining atmosphere inside on both levels (really enjoyed the lower level by the extra long aquarium). The dining is ideal of those of us who are vegetarians as suitable dishes are marked with an appropriate 'v' and servers are quite knowledgeable with all ingredients. Super nice to find in a London restaurant - progress!!! The food itself is high quality, absolutely fresh and delicious. We ordered a sampling of dim sum which were absolutely gorgeous and artwork in and of itself. The main course entrees were very tasty and enjoyable. Loved the experience and I'd return for lunch or dinner any day! Well done.",
+                "datePublished": "2018-02-08"
+            },
+            {
+                "reviewId": "SgpZbJHdQSl-Qt6LZBB-3w",
+                "author": "Ada H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Super overpriced for incredibly small portions. Some of the staff here are light weight on the rude side. Not too sure how this place got a Michelin star. Their noodles here are very delicious. Silky texture and flavorful but not greasy. Their lobster XLB is good but the skin broke way too easily. I'm pretty picky with my XLBs. Flavor was great, but not the best over ever had. Overall I definitely will not be coming back to this establishment.",
+                "datePublished": "2017-06-02"
+            },
+            {
+                "reviewId": "tjed4Bg-eOdJTCk1CLM33Q",
+                "author": "Danny N.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The Ha Gau and Shui Mai is very good as well as the sticky rice in lotus leaf.\n But the lobster dumpling was below average \nThe sweet and sour pork is not bad and it would be better paired with a steam rice but then I can't order and waste a full bowl of rice since the waitress informs me I can't take my left over food with me and I need to finished the food... \nSurprise how the management is able to put in the fine print re: disclaimer about food allergy, intolerance and any bespoke orders relate see can't be changed and even disclose about the VAT rate and  service charged of 13% but no where in the menu the management properly and appropriately inform or disclose no take out of left over... I failed to understand the policy and how the restaurant manage to operate without the consumer complaints",
+                "datePublished": "2016-11-14"
+            },
+            {
+                "reviewId": "DE2xkLcuX-OF7e9d5lEFIA",
+                "author": "Lam N.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The dim sum is pretty good, but would not compare with the best you will find in Hong Kong, Singapore or Shanghai. The skin on the xiao long Bão is almost as thick as gyoza. Chichi décor, attracting lots of young Chinese princelings staying in London.",
+                "datePublished": "2017-06-24"
+            },
+            {
+                "reviewId": "Ol3K2UGCyXWzX41moqA1Cw",
+                "author": "Rachel K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Alright. Arrived around 6:30pm and was seated immediately for two. Started with the chive and prawn steamed dumpling and another steamed dumpling with prawn. Three of each were served, and the presentation was unique and dainty. Also got the kung pao chicken and baby pak choi with garlic. It was a decent meal, but for the price, I thought it was unmemorable. Service was pretty slow: ended up having to ask three people for the check. Desserts looked amazing but opted for donuts down the road.",
+                "datePublished": "2017-05-26"
+            },
+            {
+                "reviewId": "48K-6XhQDJ4gDGCiEoo3Mw",
+                "author": "Sandra H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Not impressed. I rarely give a grim review... but when a table mate informed the server of her allergies... our waiters response was \"everything comes pre packaged or canned\" My thought was really?  \nSurely they could have served steamed rice with fresh sushi... no soy. Instead they told her \"we have nothing we can serve you.\" \nThat was my first disappointment, but I don't think I need to explain any further. \nMichelin Star??? Not based on service or accommodations!",
+                "datePublished": "2017-06-01"
+            },
+            {
+                "reviewId": "hHYMNpeTh2P-ue9MORDi9g",
+                "author": "Emily L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was traveling in London with my mom and we desperately wanted dim sum. I looked on Infatuation London and this place sounded like exactly what we wanted. I only found out that it has one Michelin star after I had already made the reservation and I got 10 times more excited. Seriously, this was some of the best, most fancy dim sum I've ever had. The wagu beef puffs and the lobster dumplings were the stars of the show for sure. The drinks were also delicious and impressive. If you're ever in Soho going to see a show, go to Yauatcha first. But don't forget to make a reservation!!",
+                "datePublished": "2017-09-11"
+            }
+        ]
+    },
+    "40": {
+        "id": "MlTmag6U7woCXfE1xKIz2A",
+        "name": "Yauatcha",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "15-17 Broadwick Street\nLondon W1F 0DL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/qZINld0vk1qDzWQAL-MA8A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7494 8888",
+        "review": [
+            {
+                "reviewId": "G_Nj95-No6AYUpB52GegKA",
+                "author": "mick m.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "A complete waste of time. After a confirmation call from the restaurant the night before,asking our table preference, special occasion etc., the hostess managed to not only treat us with utter disrespect but would not seat us until we PROVED we had a reservation here. All this on my birthday! We did manage to find an email, but needless to say we were in no mood to eat here after all the unnecessary drama and went elsewhere. There are so many evening dim sum joints in Soho alone, so skip this pricy snooty place.",
+                "datePublished": "2018-06-29"
+            },
+            {
+                "reviewId": "w1jTIRwT-EEPrhM9nNDefQ",
+                "author": "John A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Elevated take on Dim Sim in a trendy atmosphere. Opportunity to explore dishes you know done differently and many for the first time.",
+                "datePublished": "2018-01-14"
+            },
+            {
+                "reviewId": "hu6oF7EqsB9OhaF1HzmzDw",
+                "author": "Eileen C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Super modern setting, delicious food. The lychee martini while waiting for our table was a great start. We ordered a dozen small plates, including all three shu mai which were our favorite. Singapore noodles were very good as was the baby bok choy. Vegetable congee was a new taste for us. So glad we tried this Yelp hot spot.",
+                "datePublished": "2018-01-07"
+            },
+            {
+                "reviewId": "iCbMXZC_e6jksgpDziy6LA",
+                "author": "Kim H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We are Asian. We eat Asian food. We live in LA and NY the Mecca for Asian food of all kinds. In LA we live near Monterey Park which is known for its Chinese foods. This place albeit pricy is really good. Now you can find high quality like this in the US but in Soho with a great ambiance you are not going to be disappointed. Plus they have a macaroon bar!  We came in with no reservations however I would normally make one. We had a kid and they sat us at the bar. Any younger probably wouldn't work but for any kid 5 or older it works.",
+                "datePublished": "2016-08-14"
+            },
+            {
+                "reviewId": "0kpCJ2xzYx2Q-sfjE_YNGQ",
+                "author": "Ron R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing restaurant!\nThe food was very special, a feast for the eyes.\nHighly Recommend!",
+                "datePublished": "2017-01-22"
+            },
+            {
+                "reviewId": "kC4hVsSBN7cCtTVFn9W-zQ",
+                "author": "Matt L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very hip and modern restaurant that featured pan Asian and dim sum food. The restaurant seemed like it was geared towards both drinks and food so it's a good place for either or. \nDim sum dishes were roughly £4-7 and featured 3-4 shui Mai or dumplings depending on what you order. Noodle and meat dishes can range for £12-16 so the restaurant's food is a little on the pricey side.\nOverall this is a good place to take your date, get together with some friends for a drink, or to get some dinner with friends. There's something for everyone.",
+                "datePublished": "2015-12-20"
+            },
+            {
+                "reviewId": "qcVJIiS1r6VJKOEKJjTIfg",
+                "author": "Martina C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Michelin star? No. Service is average so don't expect a Michelin star restaurant. That said, the food is excellent, the menu is really for any taste and the desserts are just delicious.",
+                "datePublished": "2017-05-15"
+            },
+            {
+                "reviewId": "unSSBmpLSiFbRA8cUHxoOw",
+                "author": "Christine Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I think I love the interior design of the restaurant more than anything else haha. It's super modern and pretty but the Asian culture still remains. \nThe dim sums are amazing!! I've been to Hong Kong and had delicious dim sum and this place is up there. Every item is small/delicate. At the same time, it is innovate and has lots of flavors. Honestly, everything I had was really good so just be open minded and order something you've never had before and surprise yourself :). \nEach person would need to order about 3 items. It's not the cheapest dim sum but it is well worth the money.",
+                "datePublished": "2016-07-04"
+            },
+            {
+                "reviewId": "sBqZvnB6L59gd6DTossWqw",
+                "author": "Eijiro Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The foods and ambience were very nice and modern and I did not feel like I am in the Chinese restaurant as I saw almost none of Asian waiters nor waitresses. \nAgain, foods were delicious but portions were a bit small compared to its price so maybe everyone will feel a bit overpriced. However, that's worth it as I enjoyed the modern atmosphere there.",
+                "datePublished": "2017-04-16"
+            },
+            {
+                "reviewId": "spsXbh4SAfvL2_nRrVdZlg",
+                "author": "Romeo A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Remembered fondly by a friend. Went last evening, great service, over ordered on anticipation. 5 of 10 items did not disappoint, 5 bland. Great drinks. Prices expected and overall worth it.\nCompanionship the best part.",
+                "datePublished": "2017-06-23"
+            },
+            {
+                "reviewId": "txlzIOXy1lj20VO9dcy3mA",
+                "author": "Alexandra Ruyee T.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Overpriced but delicious 'modern' dim sum - there are plenty of great dim sum places in london so i would suggest giving this place a miss.",
+                "datePublished": "2018-01-08"
+            },
+            {
+                "reviewId": "LK2ZZ6pa-Sp6IYba3ZOx-Q",
+                "author": "Peter S.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Congratulations Yauatcha.  You managed to kill your reputation in one single swoop upon our latest visit.\nWe booked a table for our anniversary dinner WEEKS ago.  As requested, we re-confirmed the day before for 8pm. So far business as usual.\nWe arrived at exactly 8pm, and got our table downstairs as requested.\nUpon ordering, our waiter seemed quite uninterested, and was almost 'bitchy' when I asked about a dish we had the previous time. Hmmm.\nThe music was extremely loud, even more so than previous times, which made conversation quite strenuous.  We overheard the table next to us complain about the same problem. (On a separate note, they were annoyed as well about getting their main course before their starters).\nThe food quality was excellent, as always.  Nothing to say about that.\nHOWEVER .. when we decided to order desserts at 9pm (one hour after arriving, ordering, and getting our dishes), we were told that \"our table was booked only until 9:15pm, so it would be almost impossible to serve us desserts\". Wait. WHAT?\nSo we called the maitre d' to enquire about this.  He first started asking us if we were walk-ins.  Then proceeded to tell us that our reservation was for 7pm and we'd been an hour late. SERIOUSLY?  How UNPROFESSIONAL can one be?\nIf we'd been an hour late, our table would have been gone for 45 mins, since they have a 15min holding policy, so that excuse didn't fly! And not knowing we booked several weeks in advance, and then making us feel like it was our fault? NO WAY!\nAs said, the quality of the food was excellent, but the service is an absolute disgrace!\nIn the end, the desserts were on the house, but a situation like this should NEVER have occurred in a Michelin-star restaurant!\nThe whole experience left us leaving quite annoyed and bitter, and ruined what should have been a memorable anniversary dinner.\nWe'll give Yauatcha another try next time, but if this is the standard they're holding up now, it's bye-bye, never again.",
+                "datePublished": "2017-08-06"
+            },
+            {
+                "reviewId": "57h9dUdkDl43y9wjIPuAcQ",
+                "author": "Ling Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Whilst in london for a weekend, a friend took us to yauatcha in soho. When we walked there, she stopped and said we are here... We just looked and thought really?? It doesn't look like a restaurant outside though through the window we could see it was a bakery.\nWe hadn't made a booking so they gave us a table for three people and said we had two hours.\nWe ordered various dim sum, which are quite expensive and only really a treat, rather than somewhere you would go every Sunday like we normally have done in Birmingham!! The waitress told us we had ordered enough as they don't do take out boxes! Okay we got told lol \nSome of the dim sum was nice and some were too unusual for my taste. It is stylish and an Instagrammers heaven ! My friend paid so I don't know how much lunch cost! But must been expensive though we only drank water and green tea.\nThe toilets are downstairs and the sink is like a Japanese garden with slate steps. See my photo!! There were only two out of I think six toilets working which I think isn't acceptable especially as they didn't put up a notice on the doors. \nThere is a bakery with some gorgeous desserts which I wish I had tried but couldn't walk round london with them as takeaways. There's always next time!!!",
+                "datePublished": "2016-05-04"
+            },
+            {
+                "reviewId": "h-6qW51GmYbKO7UrOPqFDg",
+                "author": "Bethany W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wow. I mean, WOW! I am blown away by this place. It's not a secret that I love dim sum and I mean really LOVE IT and I've eaten a lot of it in my time but I have never had dim sum like this.\nWe arrived and seated straight away, our coats were checked and the waitress came over with the menus and some water. I do love it when restaurants do that without you asking.\nWe ordered a lot of food and when asking the waiter if he thought that would be enough, he kindly and honestly said he thinks we'll be full after the duck but he'll keep everything written down and ask us how we're feeling once we've  had the duck.\nWe ordered so many different types of dim sum but the real stand outs were the venison puffs, the char sui cheung and the pulled chicken dumplings but they were all amazing!\nThe duck was also fantastic. Beautifully cooked, crispy on the outside and pure meaty bliss once forked. I love the crispy bits! :) \nBy the time we'd finished the duck we were stuffed and I'm so glad we didn't have the rest but I'll definitely be back to try more!\nThey also brought me a birthday macaroon which was a lovely touch!\nIt was a birthday meal I will always remember and I 100% agree with the decision on it receiving a Michelin star. Just wonderful",
+                "datePublished": "2016-04-09"
+            },
+            {
+                "reviewId": "R_4M7Hm3mbvUkUhJlF92cw",
+                "author": "Gina H.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I was very excited to try this restaurant, but was unfortunately let down.  I was personally not a fan of the restaurant's setup.  The chairs that we sat in were uncomfortable and really low to the ground, and the tables were so close to each other that any movement to the side results in you rubbing against the person sitting next to you.  The service also leaves much to be desired; it was really slow, and it took forever to get a waiter's attention.\nSome of the dishes we got were pretty good.  The pork and prawn shui mai and the prawn and beancurd cheung fun were our two favorites, and we really enjoyed them.  The crispy duck roll was pretty mediocre; you could get something better at other dim sum restaurants.  When we ordered the chicken cheung fun, however, the dish came out very soggy and the chicken was really bland and dry.  The edamame truffle dumpling had a weirdly crunchy texture, and the flavors didn't blend well at all.\nI probably would've given this restaurant a 3-star rating if it did not have a Michelin star and was less pricey.  I don't think that the restaurant is worth the star or the price, and would not go back here.",
+                "datePublished": "2016-04-07"
+            },
+            {
+                "reviewId": "TpYkngvQbZ2j2Kw1LRFPkA",
+                "author": "Parvinder H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A beautiful display of cakes enticed us into the Chinese style restaurant. There were so many to choose from and I was grateful that we weren't being rushed into a decision. We settled on a citrus based cake, which was made with grapefruit and lemon. When the server brought it over it looked almost too beautiful and intricate to eat. \nWe also ordered a pot of jasmine tea which tasted just so perfect. It was light, floral and fragrant. \nAs we weren't eating a main meal they seated us at the bar, which was fine. The place is beyond stylish and feels like when you're at your best friends parents house and they've seated you in the guest living room, and your kind of too frightened to move in fear of breaking some expensive antique. I digress! \nVisit the toilets, the basin is a piece of art work in its own right.",
+                "datePublished": "2015-08-24"
+            },
+            {
+                "reviewId": "6v-LzoPSG3thVobxZ3QclA",
+                "author": "Chrissy H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Popped in for some takeaway cakes yesterday and today for various bday treats. Super scrumptious esp the jasmine and coconut with lime versions. On both occasions I was given full sized samples. Yesterday was the mini moon cake which was filled with a custard filling. And today was a macaron filed with gooey salted caramel. Wow. Both were scrumptious. However I def think it would taste even more amazing if I had with some hour Chinese tea as in their own, they did have a sweet aftertaste...but they were very good. Am definitely tempted to go back for more.",
+                "datePublished": "2016-08-20"
+            },
+            {
+                "reviewId": "S_hySWMGN-dyuoX3nphybA",
+                "author": "Tammy T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm not sure why, but I enjoyed Yauatcha a lot more the second time around.  We sat in the basement area again which has a dark and NYC-type of feel (if that makes any sense?).  \nTwo dishes that blew me away...\n1. Venison puffs: Outrageously amazing.  The pastry is light and flakey and the filling is sweet, savoury, and just perfect.\n2. Chili fried squid: Coated in slightly sweet, fried oats... It sounds odd, but it was such a delight.\nI will certainly be returning for these two dishes!",
+                "datePublished": "2015-08-06"
+            },
+            {
+                "reviewId": "pQOPkqnLlzem-E1Pl4gsRw",
+                "author": "Hannah M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "After eating at the wonder ground, we wanted something sweet, I jumped to search yelp for desserts, and of course, this place popped up. \nWe headed in, they took our coats and luggage, and we were sat in the blue lit bar area since we were just having pud. \nWe giggled struggling to read the menu in the low light and candles (who knew blue light made it so difficult?) Picking cocktails and elaborate puds. \nThe seats were tall and oddly comfy, and the atmosphere in both the bar and the restaurant were lovely, and the view into the kitchen gave us a peek at what we were waiting for. (also, people watching through the one way wall kept us entertained too!) Things didn't take long to arrive, and they were presented beautifully, and tasted even better. We plumped for things with ingredients that weren't every day, and there was a nice range to choose from, but ours were just lovely, tart, and well balanced, with a really nice mix of textures too. \nI'd like to come back and eat more than just puddings, because it all smelt great!",
+                "datePublished": "2016-07-28"
+            },
+            {
+                "reviewId": "OIvLEX4m00B9EYsdjjeT1g",
+                "author": "Sarah S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We went with the hype and tried this popular dim sum restaurant on our first night in London. Make a reservation, it was full on a Wednesday night. Tons of style and ambiance. Request to be seated in the lower level if youre going for a romantic night out, the ceiling is designed to look like the night sky. Stunning. It's very Vegetarian friendly. Try the vegan \"duck\" - sweet, spicy and smoky with the most gorgeous mushrooms. What are those mushrooms called??!  My carnivorous spouse had the venison puffs, he said that they totally deserve an award.  Every other dish we tried was very good but not great. If you're looking for a traditional dim sum place, this isn't for you. But if you want good dim sum-ish goodness in an upscale environment, book a table.",
+                "datePublished": "2016-07-05"
+            }
+        ]
+    },
+    "60": {
+        "id": "MlTmag6U7woCXfE1xKIz2A",
+        "name": "Yauatcha",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "15-17 Broadwick Street\nLondon W1F 0DL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/qZINld0vk1qDzWQAL-MA8A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7494 8888",
+        "review": [
+            {
+                "reviewId": "sUq9_fZUaGei8F8YJ_hDzw",
+                "author": "Dat D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Everything we order was really good. We had to make a reservation but the place wasn't even busy. Not sure why dim sum starts so late in London. The only draw back here is the price.",
+                "datePublished": "2017-03-05"
+            },
+            {
+                "reviewId": "B9pWNndlan_fQmmNMGImlg",
+                "author": "Alice C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Omg the chow fun is amazing. I would go for that as its so different than any dim sum dish I've had. It's basically a greasy roll stuffed with toppings of your choice wrapped with the white rice paper with soy sauce. So so so so good! Never had that before. They also had some amazing desserts especially the chocolate cake with rice Krispy in it! Yummy \nIt was also our friends bday so they gave us a candle which our kids loved more. \nSpacious as well with super nice service towards our kids. I wouldn't call it kid friendly with high chairs but they were very nice with them&",
+                "datePublished": "2015-06-02"
+            },
+            {
+                "reviewId": "dCM7I2HUczfCmHyZ-MREbQ",
+                "author": "Alan T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Delicious dim sum! Very trendy decor. Great service. \nFavorite dish was a shrimp wrapped in crunchy bean curd then wrapped in a noodle. Wish I could remember the name, but if you ask the waiter they will know. It's clear everyone knows it's a specialty. \nThe only let down was the sticky rice. It wasn't bad, but It was just ok; nothing special. A little fishy for my taste. \nThe other star was desert! Don't miss it! We had a strawberry dish. Maybe strawberry mouse? I'll post a picture.",
+                "datePublished": "2016-08-03"
+            },
+            {
+                "reviewId": "FGLvLURU-MR2A2muLGYutg",
+                "author": "Jason H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A Michelin starred dim sum joint is worth a visit for no other fact than it is what it is.\nThe food is incredible - better than any dim sum I've had in the US...disclaimer, though, that I live in East TN and most of our asian food options are \"fast\".  Between my time in Houston, DC, and San Fran, though, the dim sum here best all in the places I've lived.\nTheir signature is the shrimp and bean curd cheun fun - and worth every bite.  Every other dumpling we had was awesome...the edamame truffle stands out, as well.  Least favorite on the list for both of us was the wagyu beef dumpling - skip it.\nThe vibe is totally cool and the architecture/design is modern and slick.\nThe only negative was the seating - I felt like I was sitting at desk chairs at my daughter's elementary school.  Both my wife and I ended up curling our feet underneath the chairs/booth, which was both awkward and uncomfortable.  Fortunately, though, the quality of the food combined with a Suntory whisky or two and some sake we had eased the discomfort.",
+                "datePublished": "2017-06-01"
+            },
+            {
+                "reviewId": "exVpiJx-Gl8quUtlrpYhkg",
+                "author": "Tina L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Nay... the ambivalence is quite nice but theres only a limited selection of dim sums. I hope they can make the dim sums more authentic with more choices...",
+                "datePublished": "2017-10-23"
+            },
+            {
+                "reviewId": "Iexho0pD_SKApWqDKhCdTw",
+                "author": "Sara G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "As others have mentioned, service was a bit disappointing at times but the food was good enough that we left feeling satisfied. Will likely not be back but no regrets",
+                "datePublished": "2018-03-04"
+            },
+            {
+                "reviewId": "NWiWyDGk_h7Oq-FSp_cw2g",
+                "author": "Liz B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Not as good as the last time. Food is lovely but this just isn't running like a smoothly oiled machine like you would expect at a Michelin starred restaurant. I would come back but it just isn't doing as well as it did six months ago.",
+                "datePublished": "2017-01-14"
+            },
+            {
+                "reviewId": "Z5Jov8z3WTEQPE2SVOKOkQ",
+                "author": "John F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Some of the most amazing dim sum I have every had.  Great service, amazing ambiance.  Order the dim sum for sure!  Can't go wrong with anything.",
+                "datePublished": "2017-05-07"
+            },
+            {
+                "reviewId": "axeGjEGGdspaWkWYseXEWg",
+                "author": "Karen N.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I was a bit apprehensive to dine here after reading mixed reviews from Yelpers especially about whether it was deserving of its Michelin status. After one of the best Asian cuisine dining experiences I've had in London to date, it's a must! \nFor the folks who want to try Yauatcha / those who might've been and didn't rate it all too highly - this is for you!\nI don't ever post to sway your decision to return to a restaurant you mightn't have rated 5 stars on your first visit, but thought I had to share some dish recommendations that you absolutely need to try (disclaimer: I went with a group of friends, including one who gave it 5 stars (after a forgettable first time visit last year)) \nHere's what you must, must, must order!\n- Jasmine tea smoked ribs\n- Crispy duck roll\n- Roasted duck pumpkin puff with pine nut\n- Sticky rice\nMake sure you save room for desert! \n- Raspberry delice \n- Any of their macarons (yes!)",
+                "datePublished": "2015-11-27"
+            },
+            {
+                "reviewId": "jUvBJM2DXeWamoSxMxXBLA",
+                "author": "Virginia T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Imagine you're at dim sum with five other friends and you order two steamers of prawn shu mai.  You all take a piece and there are two left.  Who are the lucky two that get seconds?? Everyone is being all fake polite so no one claims them initially as you are secretly eyeing the dumplings, willing someone to just give up already in favour of those with hungrier stomachs (aka you).  Hey, no shame, we've all been there before...\nFortunately this completely hypothetical scenario never has to happen at Yauatcha! They just rolled out their Supreme Saturdays menu where they serve a generous tasting of assorted steamed and fried dim sum for a reasonable price and for those selfish eaters, you don't have to worry about sharing with others :). \nCan't make it on the weekend? Their Taste of Yauatcha menu offered on weekdays is just as good!\nI personally am a fan of their fusion, upscale dim sum items (e.g., prawn and bean curd cherng fun, curry taro puffs) but I'm aware it's not for everyone. Fear not, however, as they also serve a selection of the traditional items for all you purists out there.",
+                "datePublished": "2015-11-05"
+            },
+            {
+                "reviewId": "XQiylho3eeXKrNQXXq8wyg",
+                "author": "Amanda L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Duck: boo\nEverything else: yay\nWe had the weekday lunch promotion (£30 for an assortment of dishes plus tea, for two) and it was amazing and so worth it!\nToilets have Aesop products. Legit.",
+                "datePublished": "2017-01-05"
+            },
+            {
+                "reviewId": "dIn4jNLewKwnX_fXrAHa9g",
+                "author": "Coley B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yes it takes reservations and Yes it's very good. I went here with 3 coworkers for good dim sum and Chinese and it was AMAZING! Place has a really cool ambiance/vibe and it was packed on a Monday night. We got the dim sum meal which comes with multiple pre-chosen courses (minimum of 2 people) and also ordered some egg fried rice to go with it. At first they come out with some really good dim sum but I was wondering if we were still gonna be hungry after...then the duck confit and fried calimari / chicken comes out and you realize that there's soooooo much food. We were all stuffed when we left. I would definitely go back here. Very very good. Also, a lot of other tables ordered the ribs which I don't know how they cooked them but they looked soooo good too.",
+                "datePublished": "2017-09-19"
+            },
+            {
+                "reviewId": "FMXtVgGp5J_HspSDPNafnw",
+                "author": "Ali C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I am comparing this against probably the best dim sum joint in London.  Honestly, I have to say there is only Hakkasan Hanway Place which does the best in London.  This is the sister company.  It doesn't have that cool, dark, chic vibe like Hakkasan but the food is comparable.  If I have to say which is better, then of course, Hakkasan is a tad better.  The service here is really good and staff as attentive.  They have no attitude issues like some Chinese restaurant and are really professional.  Try to book in advance but if you come here on a Sunday afternoon dim sum time, then be prepared to wait.  That's when the Chinese family have their big outing and eating dim sum.  We had an issue with our last order and it came really late.  We decided to cancel and the manager was quick to come and apologise.  They even gave us free dessert each so we were happy for this.  This is what you call professional.  If you go to some other restaurants, they apologise and bring the food out late right when you are cancelling it and you are forced to eat them or take them home.  However, the one star is omitted due to Hakkasan performing slightly better.  That said, it is still probably one of the best dim sum in London so I would not miss giving this place a try at all.  Must go in London.",
+                "datePublished": "2016-11-23"
+            },
+            {
+                "reviewId": "kxUpQMkEnErYl1-dsFMX1w",
+                "author": "Alex P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I liked their food but I didn't go crazy and it didn't make me want to return tomorrow. Here are the details:\nOne general observation - all dishes were underseasoned ranging from moderately to seriously.  That said, since every dish was made in house from scratch, I think is enough for the above rating.\n- Singapore noodles - the blandest of all dishes I tasted.  Sigapore noodles need a (serious) kick and they tried to accomplish that by adding sliced red chili peppers.  Unfortunately, the peppers were as mild as they get... This dish has a lot of potential, but they need to fix the seasoning.\n- Beef fun noodles - seasoned better than the above Singapore noodles, but still on the short side.  I liked the way the beef was prepared.  A classic dish that desperately needs a twist.\n- Dim sum - good to very good, but also mostly neutral.",
+                "datePublished": "2016-03-29"
+            },
+            {
+                "reviewId": "Rg55FnY4oRfutV0aoAOEyg",
+                "author": "Luca D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I am not sure I felt comfortable at this restaurant, the interior is cold and not very cozy, plus I find the decoration a bit on the tacky side. \nYauatcha is very popular so be ready to share your experience with hundreds of other guests and to occasionally rub elbows with the customers at the neighbouring table. \nAnyway, I was happy with my dim sums and the service was kind and attentive. It turns out that Yauatcha has a Michelin star and maybe it deserves it, but if you're looking for dim sums there's a couple of similarly good (non-starred) options in China Town.",
+                "datePublished": "2016-03-15"
+            },
+            {
+                "reviewId": "JvTEkzd2SqrfeYGI7TQKIQ",
+                "author": "Natasha B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Loved loved dining here in London. But I must say that I preferred the appetizers than the main course. We had prawn and beancurd cheung fun which was incredible, I could have had like 50 of them. Also the beef wrapped with pastry was also delicious. But the main course was not wow enough for me with the thai style chicken and I forgot what the other main dish I ordered. Overall it was a great experience with good service and atmosphere.",
+                "datePublished": "2016-09-25"
+            },
+            {
+                "reviewId": "6UIQSUdPdNaQtCKEJbP72w",
+                "author": "Kenneth W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Very nice Dim Sum house and it also sells French pastries. The Dim Sum for the tasting menu very good, for £30/2person, it is kind of cheaper than outside. and it is a one star Michelin. Love it, love it.",
+                "datePublished": "2016-10-27"
+            },
+            {
+                "reviewId": "8IPDw5FrjNPfo9mcq5Qq0w",
+                "author": "Aaron R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Obviously this place is Amazon and it's Michelin star is well deserved.  I think the only thing I would call out is that next time, I may just come back for the dim sum.   It was probably the best I have ever had and the black pepper rib eye was only very good.  The same dish is probably topped by the Chinese restaurant at the Royal Harden Hotel, which is amazing.",
+                "datePublished": "2016-10-01"
+            },
+            {
+                "reviewId": "ipE-F0UhoTwqSOxApoMLxw",
+                "author": "Nik A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I have actually booked here 4 times over the past couple of years and had to cancel each time for various reasons. Finally with the family over from Australia it spurred to try one last time and am I glad I did! The dim sum was some of the best I have had anywhere! My father originally born in China agreed! \nOf particular note the Chueng Fun of any variety - There is something about a perfectly cooked battered prawn inside a warm blanket of steamed rice noodle that is ecstatic to the senses. Also the steamed lobster roll and Venison puffs and spicy pork wonton were incredible. I would love to say we made it through to some of the delightful looking main course dishes on the menu but we simply couldn't get past the Dim Sum menu. Next time it's a promise! \nOh yes I failed to mention the desserts but sometimes pictures tell a 1000 words.",
+                "datePublished": "2015-12-30"
+            },
+            {
+                "reviewId": "i_4BlyTFjFlQphZhzgGtyg",
+                "author": "Rob Z.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Cool spot. Great service and experience.  Dumplings are delicious and the atmosphere is fun and causal.  If you're looking for a comfortable setting for some nice Asian food; I'd definitely recommend!",
+                "datePublished": "2017-07-02"
+            }
+        ]
+    },
+    "80": {
+        "id": "MlTmag6U7woCXfE1xKIz2A",
+        "name": "Yauatcha",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£26-45",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "15-17 Broadwick Street\nLondon W1F 0DL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/qZINld0vk1qDzWQAL-MA8A/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7494 8888",
+        "review": [
+            {
+                "reviewId": "1q8_OnIs30WQ9vFGuSonBg",
+                "author": "TheGreedyPanda ..",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'd been dying to try out Yauatcha many years ago when they first opened their doors. Back then though, I was a student without the money to try out fancy restaurants. So fast forward some years and I'm finally seated inside. \nIf I want dim sum, I don't need to pay such an extortionate price. I could just opt for an authentic place down the road in Chinatown. So I opted to try a few plates, unique to Yauatcha instead. \nWas I impressed? Sadly not that much. Maybe it was because I'd paid double (or even triple) the price for a few dumplings. Or maybe it's because I'd had so much expectation for it for so long. \nSo I guess, if you're looking for decent authentic dimsum, don't go to Yauatcha. If you're looking for a fancy venue, then Yauatcha is for you!",
+                "datePublished": "2016-08-29"
+            },
+            {
+                "reviewId": "CEitr4ZPPX4D8zKpoG43LA",
+                "author": "Emma L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "! A Londoner suggested we give this place a try. What a great experience! Awesome dim sum & service. The sticky rice was yummy. My husband liked the mushroom spring roll. \nWe plan on going for dinner before leaving London. \nWe recommend this place!!!",
+                "datePublished": "2017-05-10"
+            },
+            {
+                "reviewId": "LFHHes27goq1HY3ctZhj4w",
+                "author": "Minh C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Michelin star yes, but amazing food? Not necessarily. Perhaps my palate isn't refined enough, but I'd prefer to pay for Ping Pong's all you can eat on Sundays and save some cash at the same time. \nDon't be mistaken, the food is good, just not good enough to justify the price or the hype.  Two definite must trys, however, are the duck and any of the chocolate desserts!",
+                "datePublished": "2016-09-01"
+            },
+            {
+                "reviewId": "lIslq-UFpPJIqgntW6WpGw",
+                "author": "Lauren S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "By a happy accident, I ended up here on my last night in London. After trying a place close by with an insane wait, my group was fortunate to stumble upon a free table at exactly the right time. \nUsually when I think of dim sim, I think of carts coming by or offering delicious, but often unsophisticated looking dumplings and buns. Yauatcha is a dim sum restaurant that made me feel like a grownup (and that is not something that I say lightly). \nThe dishes here were excellent. My group and I ate about 8-10 plates between us, and each item was fantastic. The char siu buns were steamed to perfection. The shrimp and bean curd cheng du...I could have eaten like three plates of that. The dumplings (considering I had about 3 different kinds) were all inhaled. And the turnip cake was the best turnip cake in the history of turnip cakes. \nThe plates are small, but shareable with about 3-4 pieces per dumpling and buns. Topping off our meal with some delicious sake made the entire experience complete.\nI felt a little out of place with my jeans here, and had I known this is where we were going to end up, I would have opted for something dressier. \nThe wait staff and FOH managers were very accommodating, and would check up on us often. Or suggest another delicious dish for our meal.\nSo many stars. I'm sad I had to stop at five. This place was one of the best meals that I have ever had.",
+                "datePublished": "2015-11-21"
+            },
+            {
+                "reviewId": "eUX8rT13xkuv1e61hT38Sg",
+                "author": "Kristen C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Hip and happening this Chinese restaurant is delicious. Sort of... People with shellfish allergies beware, as most dishes served here are with oyster sauce, even dishes that look vegetarian, and what first looks like an extensive and exciting menu limits those people with shellfish allergies down to a a measly few dishes to choose from. And when I say measly, I mean you can count the selection on one hand. This is important to note as one in our party was allergic and this meant that person had little to eat. \nEverybody else feasted. And the cuisine while distinctively Chinese had a modern approach which made for a truly tasty experience. Pork belly with truffles... foie gras, duck, and delightful pumpkin dim sum shaped into little pumpkins were divine. \nWe came for desserts, however we were disappointed as by the time we were finished with our meal, the tempting dessert selections we had seen upon entering the restaurant were nearly all sold out and we were left with little to choose from. So, that was sort of the theme of the night here at Yauatcha: So much to tempt, so little actually available. \nThe decor was trying too hard with its fish aquariums and Asian inspired seating. The seats themselves were very close to the ground and people were too close and on top of each other. My chair was next to one of the pillars and I had to sit a bit sideways and nearly on top of the table, so it was a bit uncomfortable. And yes, a bit noisy. Waitstaff too could have been a bit more attentive and not so rushed. \nIts a shame really as it is a fun place, great for small groups of friends. I think it definitely merits a try, as what was good, was tasty, but perhaps avoid Saturday night and the weekends.",
+                "datePublished": "2015-09-16"
+            },
+            {
+                "reviewId": "z_QArRPlW2liqZ_4SMwQig",
+                "author": "Rita Y.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Walking into the lounge, you're greeted with a lines and lines of beautiful desserts. \nYou think: What kind of dim sum place this is? And you're ushered downstairs to a star lit dim room. \nYauatcha is more a fusion sort of dim sum. Everything we had was typical chinese dim sum but they were just presented so clean and tasted mediocre. My parents remarked that we could get better dim sum for way cheaper back in San Francisco. I enjoyed all of the dishes we got, but I believe that there was nothing special about any of them. All of the plates were remarkably tiny sized for the amount we paid for it. \nThe only dish I thought was worth checking out were the Prawn & Beancurd Cheung Fun. \nOh and this place is the slowest service I have ever experienced before.. It takes forever to get anything done. Food comes out slow, waiters never seem to see you, water takes forever to come to the table. Oh and make sure you ask for tap water or they'll charge you for still water. \nI would recommend just coming here for drinks and desserts. We tried the Raspberry Delice. It looked better than it tasted. The lychee ice cream that came with it was much more delicious and unique.",
+                "datePublished": "2015-09-12"
+            },
+            {
+                "reviewId": "AZYvzIUn1ylXpIaC_zGVtg",
+                "author": "M L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good dim sum and wonderful service.  Delicious congee too.  The French pastries looked amazing and I will have to try them on my next visit.  I noticed on the menu that there was a reasonably priced special dim sum tasting menu after 2 pm Mondays to Thursdays.  A nice tea break if you are walking around Soho.",
+                "datePublished": "2017-07-03"
+            },
+            {
+                "reviewId": "b9Q3EnQeqL4GmMJSVHlzlA",
+                "author": "Mouette G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I've been going on and off pretty much since it's opened and it's retained its quality. Of the dozen places I've been to in London this is by far the best and the only one that comes close to what I'm used to in Hong Kong and Singapore, although I have yet to try Hakkasan which is supposed to be on the level.\nYauatcha brings modern cooking techniques and interesting ingredients to dim sum. The venison puff is a textbook butter pastry with French, rather than Cantonese techniques. The parcels (sorry, \"spinach prawn dumplings\") would not be out of place in a Vietnamese kitchen and are also reminiscent of greek leaf rice parcels. There are a few twists on classics, such as the pumpkin crystal dumpling which plays pumpkin's softer texture against just a hint of crunchy water chestnut (expected) and the oily nasal nuttiness of pine nuts (unexpected). Since the classics are done well without using the usual bulk frozen quality items, they taste different: the prawn and deep fried tofu cheung fun was crispier and more flavourful than expected although it's a shame they hold on to the sauce pot after pouring. The kitchen team here has taste and knowledge and the cooking is consistent. I like it, authenticity gets boring after a while.\nThey have always had amazing desserts but having not had one in 3 years I cannot comment on whether quality has been maintained, only point out that many tables were ordering some and they still look very pretty and skilled.\nThe restaurant itself is still claustrophobic downstairs, although it feels less packed than when it first opened years ago. There is also less queue, although it is still full. The audience, visually, seems half Chinese, and sounds mainland, probably a good sign, from large groups of men to lone diners enjoying a taste of home. The waitstaff has become more European.\nPrices feel much higher (4-5 GBP for the cheapest punnets), maybe I'm not used to London eye wateringly high food prices anymore, they are high at all the yum cha we tried this trip. I forgot that the \"pot\" did not have leaves and you have to pay twice as much if you want to be able to re-brew. One of the many ways in which your bill can skyrocket here, especially if you are used to tea being included.\nThe other way in which it does not feel like yum cha is that you are somewhat rushed every step of the way. The seating is uncomfortably low, the space between tables limited, the space noisy (downstairs especially), your legs hit the table legs, and they start cleaning your table before you've even finished your pot of tea. But I expect this considering the location, fame and long queue. If they let people linger 3 hours there wouldn't be any tables for walk ins and the prices would be even higher.\nWell, sometimes you want to have some yum cha that does not taste of MSG and frozen prawn and this is the place to go for it in London. Maybe I should try Hakkasan some time but old habits die hard.",
+                "datePublished": "2017-02-10"
+            },
+            {
+                "reviewId": "1GT9u1HkcQdApNvDfQIx0w",
+                "author": "Aisha S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I echo other's reviews regarding the duck! It was definitely fantastic, in particularly how crispy it was cooked (I mean obviously crispy on the outside whilst very tender on the inside!).\nOverall a really lovely environment and I also liked staff and their professionalism.",
+                "datePublished": "2016-06-02"
+            },
+            {
+                "reviewId": "eS8PGEsqKQUwVs9xReSvFw",
+                "author": "Anh Thu P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Michelin rated, so you must have high expectations. I'm not saying that they weren't met, but they weren't met with the friendliest staff.\nFor a party of four, we ordered: (with prices in pounds)\n1. Char siu bun - 4.80\n2. Steamed vegetable dumpling - 4.20\n3. Lobster dumpling X 2 - 9.80\n4. Spinach dumpling with prawns and cuttlefish - 5.20\n5. Wild mushroom dumpling - 5.60\n6. Venison puff - 5.20\n7. Aromatic duck (half) - 29.90\n8. Stir fry rib eye beef in black bean - 19.90\n9. Baby bok choi - 9.80\n10. Hand pulled noodles with mushroom\nDesserts\n1. Exotic pandan - passion fruit, mango, coconut and pandan - 8.90\n2. Chocolate lux gateaux - milk chocolate, golden raisins, liquorice\nAll in all, it was a good dining experience that was close to the office. The total bill came out to be $375 USD. Not my cup of tea for basic dim sum. I'd much rather shell out 1/4 of that price at a hole in a wall.",
+                "datePublished": "2015-06-01"
+            },
+            {
+                "reviewId": "pa_oGgDEdOxzklKMxau2fg",
+                "author": "Tanika M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Having been here a few times, I thought Yauatcha finally deserved a review.\nYep, you guessed it, It's a positive one!\nI thoroughly enjoyed each visit to this restaurant for a number of reasons. The service has always been impeccable; especially on my last visit where glasses of water would appear on our table as if by magic. Our waitress (each time) was only too happy to explain some of the dishes to us as they were vaguely described on the menu. Our food always arrived promptly and of course tasted delicious! \nThe decor is beautiful inside leaving your jaw ajar for the first 10 minutes as you take in the surroundings. Plus, the dessert display upstairs makes it incredibly difficult to resist!\nAfter tasting a variety of dishes on the menu with each one as mouthwatering as the next, I know I will be paying yet another visit for my dim sum fix as the menu is quite large I (and you) want to try everything.",
+                "datePublished": "2016-06-22"
+            },
+            {
+                "reviewId": "bmgO6KpCGpOmbygewR-3Jg",
+                "author": "Erica U.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Swanky spot in the heart of SoHo with attentive, friendly and accomodating staff. I was with my lovely gal pal and we ordered a ton of dim sum, some were better than others but I have to say that I think we ordered the wrong stuff. Everyone around us seemingly had wonderful smelling and looking main dishes that I will have to go back for. So i'm going to round up to 4 stars because of the potential that I think is there. \n-We tried the Wagyu beef puff which was steaming hot so be careful and super tasty. \n-Also the crispy duck roll which was nice, dipped in a brown sauce.... nothing crazy\n-a Venison puff or something of the like, it wasn't my cup of tea... too bready\n- Roasted duck pumpkin puff - meh\nand to finish we had the Raspberry Delice totally based on looks from another table.",
+                "datePublished": "2014-02-28"
+            },
+            {
+                "reviewId": "9aBP7aKzDvY2hn6WEkvXMA",
+                "author": "Amal S.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Amazing in every way. I was blown away by the quality and variety of the dim sum and there were so many other things on the menu too! I can't even pick favourites- there's such a rich variety to select from. \nOur waitress was a spitter -what a shame. And those one armed chairs don't cater to big bums so they are a but annoying. \nMalgre tous, They had amazing little cakes for dessert. Oh what a delight! Go forth my children.",
+                "datePublished": "2016-04-08"
+            },
+            {
+                "reviewId": "FrCpHqxkEvbVy2iwphvPxg",
+                "author": "Lov E.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent Chinese food! Highly recommend making a reservation otherwise you do wait a long time to get seated. In our case, we were seated at the bar. \nService was excellent- especially for such a busy restaurant. \nFood was fantastic- loved everything! Thai chicken dish, pork buns, chicken corn soup and the mushroom truffle egg rolls were stand outs!\nWill definitely go back. One star penalty for not allowing take away service for our leftovers :(",
+                "datePublished": "2015-11-28"
+            },
+            {
+                "reviewId": "r_bG1Kv8FPdQ3ArOG2PYoQ",
+                "author": "Kumiko Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "\"A Taste of Yauatcha.\" £28.88 for 2 people, from 2pm until 6pm, Monday to Thursday, includes 8 type of dim sum and tea. Everything is delicious and amazing value!\nAfter dim sum, my eyes were glued on beautiful cakes. When I ate the cake, it blew me away. That was fabulous!! You must try their cakes!!!",
+                "datePublished": "2015-08-11"
+            },
+            {
+                "reviewId": "HaJxrUeDRUVPI8hgA_st6w",
+                "author": "Marcus B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We ate at both branches Soho and City.  Both had amazing food.  I would give the City branch the win on service although both were good.\nWe ended up at the Soho branch after trying with out success to talk to anyone next door at Duck and Rice (I believe under the same ownership). Working on the principle of if you cannot say something nice do not say anything at all.\nYou can see how Yauatcha got its Michelin.  Amazing food served beautifully.  \nThe desserts were incredible maybe not very Asian but beautiful to the eyes and mouth \nPrices are a value but higher than you would pay for Dim Sim in NYC or Toronto",
+                "datePublished": "2015-09-07"
+            },
+            {
+                "reviewId": "dyZmgbO-guV_MsJBNxdO_Q",
+                "author": "Daniel K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Worthy of its Michelin star as far as I'm concerned.   Almost every dim sum dish we ordered was excellent (except for the Szechuan wontons, which were surprisingly lacking flavor).   We came for dinner on a Friday without a reservation, but came early and luckily got a seat immediately.  Also thankfully, unlike other reviewers, our server was super attentive.",
+                "datePublished": "2017-11-12"
+            },
+            {
+                "reviewId": "IUtGj_jIqCaBK8X8gDdRsA",
+                "author": "Valen B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best dim sum I've ever had in my entire life, service was excellent, food came out hot and perfect!!!",
+                "datePublished": "2016-10-14"
+            },
+            {
+                "reviewId": "rCC3c5AWipOcaf5FtaBkUQ",
+                "author": "Han N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I came to this location because of the high yelp reviews. Atmosphere was very nice. The food portion was tiny though. I'd say the food was better than the dim sum back in the US  (Bay Area), but pretty pricey for teeny tiny pieces. But I guess this restaurant is one of those places you should try if you're in London. Service was okay, but I expect more especially if I'm paying that much for dim sum.",
+                "datePublished": "2016-11-14"
+            },
+            {
+                "reviewId": "JxwCDhPWQ1L3m-CjvVIIew",
+                "author": "Mark T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "It didn't get a Michelin star for nothing.  Everything tasted great, some tasted amazing.  The dumplings are some of the best anywhere.  Ask to be seated in the main dining room if you get a choice.",
+                "datePublished": "2017-05-13"
+            }
+        ]
+    }
+}
