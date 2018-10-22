@@ -239,8 +239,11 @@ def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, 
     logger.info("---------------------------------------")
     
     if save_data:
-        with open("./data/yelp_{}_{}_{}.json".format(category, index, name), "w") as outfile:
+        filename = "./data/yelp_{}_{}_{}.json".format(category, index, name)
+        with open(filename, "w") as outfile:
+            logger.info("Save reviews to {}".format(filename))
             json.dump(records, fp=outfile, indent=4, ensure_ascii=False)
+            logger.info("---------------------------------------")
 
     return records
 
