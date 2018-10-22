@@ -204,7 +204,7 @@ def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, 
             reviews = []
             for element in review_elements:
                 try:
-                    if element.attrs["data-review-id"]:
+                    if element.has_attr("data-review-id"):
                         review = {
                             "reviewId": element.attrs["data-review-id"]
                         }
