@@ -1,0 +1,1322 @@
+{
+    "0": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/N0Hp7Us00l8lb4sWwpucqQ/o.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "w893wDMiow-csMxDQOox_Q",
+                "author": "George A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Stellar!!!  We were on our last night in London in the area visiting friends and wanted a quick bite to eat before heading back to our hotel and upon searching for nearby restaurants, this one caught my eye.   I haven't had dim sum in a very long time and my fiancée was up for it so we popped in.  \nWe were greeted immediately and sat promptly, there wasn't much of a wait time until our server approached us and explained the menu and took our drink order.  Drinks arrived and we ordered shortly after.  It was no more than 3 minutes that passed that the food began arriving.  It amazed me to see that many people I the restaurant receiving their food so quickly.  \nWe ordered 6 dishes.  Pork puffs which were packed with flavor yet light.  Prawn crackers which had a nice tangy chili dipping sauce along with it. Crispy prawn balls which had a nice crunch and another great sauce paired with it.  Next up was the firecracker chicken roll which packed some awesome heat, not too much but just right for our palates.  Traditional xiaolongbao was next and there were delicious; seasoned just right and I wish I ordered a second order.  Lastly we had one of the specials which was Crispy duck bao... oh my word!!!  This was the absolute best!  The buns were soft and fluffy, the duck had a nice crunch to the skin and seasoned perfectly and the plum sauce accentuated everything just right.\nThe service was exceptional and the food was amazing.  This is a must try for any dim sum fan or someone who wants to give some delicious food a go.  Cheers!!!",
+                "datePublished": "2017-09-03"
+            },
+            {
+                "reviewId": "A56rn2x433HsgfQSJZd3vg",
+                "author": "Michelle G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The decor is nice.  The staff is okay.  We went with 3 kids 2 year olds and a 12 year old.  We requested to be seated at the bottom level and they said we couldn't be seated there as they were close to closing it was still an hour and a half before they closed.  I realized when I looked below that it was all adults seated there and the guests with kids were seated upstairs.  It's not really kid friendly as it is kid tolerated.  The food was okay, I ordered a lychee martini which was decent but they forgot to wipe the bottom of the glass which was wet so when they settled on the table it was wet as well.  Our server did his best but with one server waiting on 7 tables it was just okay.",
+                "datePublished": "2018-08-03"
+            },
+            {
+                "reviewId": "hmEyRBEJ2KgegDfz4DPDiA",
+                "author": "Katlog G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "If you're looking for an authentic dim sum experience it won't be here. They have a mix of authentic dim sum with some fusion ones they've created... but it's hit or miss! They have chicken cashew dumplings and the chili chicken bowl to be very salty and not spicy a all. Some wins are your basic har gau dumplings and we had the soy ginger salad that was pretty good! Service was pretty good despite them being short staffed and the atmosphere is awesome. I wouldn't recommend coming here for actual dim sum but I don't see myself coming back! Not worth the price.",
+                "datePublished": "2018-07-09"
+            },
+            {
+                "reviewId": "hMgUmFgo6Ld5bsyZA-99kQ",
+                "author": "Amy H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A good atmosphere with nice decoration, which attracts a lot of customers - the place is pretty much full by 7pm. \nWe tries 8 dishes, to be honest, the taste is average...xiao long bao was overs-teamed and dried up inside, so are a few other dishes. The only best dish is the special dessert green tea custard bun - however green tea paste is more like green bean paste with green colouring. \nThe service is often delayed here but not fault of the waiters or waitresses, this place is just understaffed!!",
+                "datePublished": "2018-02-15"
+            },
+            {
+                "reviewId": "WXsC5sfl7ZkmhCW_7nmkPg",
+                "author": "Soomin R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We went for dinner with a few friends and had a good time. \nThe menu had a few standard dimsum plates but also, more generic Asian dishes in general. I found most of their dimsums acceptable but not the most flavourful. For instance, the soup within xiaolongbao should have been served much warmer, succulent and tasteful. Nonetheless, most everything got the job done, so I would give the place three stars. \nService was generally good. Whilst there was a slight glitch with our reservation, they were prompt in finding us a table for six. Throughout the meal, they served most everything on time. However, the bill they calculated turned out to be wrong on many items, so we had to manually check them and get them to correct for us. \nAmbience was modern and spacious. Not your average Chinatown dimsum place and good for reasonably stylish gatherings.",
+                "datePublished": "2017-08-05"
+            },
+            {
+                "reviewId": "J00mKKksUN4p6mkMePyNCQ",
+                "author": "D G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The food was good.  I recommend the spicy chicken dumpling.  It does have a kick to it.  The spinach and mushroom dumpling is good.  The firecracker chicken roll is not spicy.  The service was ok.",
+                "datePublished": "2018-08-12"
+            },
+            {
+                "reviewId": "rtiVvtwOCX3_CdrCNNVOlA",
+                "author": "Alison R.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here after a day of shopping looking for some take away food to have for dinner in the hotel. The only reason this didn't get 5 stars was because many of the items on their menu they didn't actually have.  One of the items they show off on their side walk board out front of their entrance, they only serve for lunch. So we were a little disappointed. But the food was amazing nonetheless. I'm glad we didn't walk out. We ordered 2 different chicken dumplings (chicken with cashews and spicy chicken with vegetables) and both of them were so fresh and flavorful. They were surprisingly out of vegetable rice so we opted for plain sticky rice and it was good and fresh. Their chicken skewers (3) were delicious and well portioned. Lastly, since their pan fried noodles advertised outside but only served for lunch were not available, we chose a vegetable dumpling and noodle soup and it was still hot when we got to the hotel and was packed full of goodies. We were very happy with everything we ordered and hope next time we can try the items they didn't have available. It was busy the entire time we waited for our order and every wait staff we encountered were very pleasant and kind. The place had a great vibe!",
+                "datePublished": "2017-12-30"
+            },
+            {
+                "reviewId": "cMR-Qo29myu_RD9sx_rnJQ",
+                "author": "Sarah V.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I've been to the Southbank branch a few times and always really enjoyed it, so I was excited to bring friends here. I booked a table for 3 on a Weds eve and we were given one of the solo tables rather than being along the shared bar which was great as it's much easier to talk when facing each other!\nUnfortunately it all went a bit downhill from there as the service was inexcusably bad. We had around 45 minutes of happy hour left when we arrived so were pretty confident we could fit 2 drinks into that time, I ended up chasing the waitress down in order to get our second drinks ticket in on time. We also had to wait around 20 minutes for them to pick up our order sheet, despite the fact that we filled it in straight after ordering our first drinks. The biggest bug bear was after our food arrived my friend asked for a fork as she can't use chopsticks, and after at least a 10 minute wait sitting with our food going cold she had to go and ask a second waitress to be provided with one.\nI've given 3* rather than 2 as the food  and drinks were good and reasonable for the price we paid. The restaurant has a great atmosphere and is buzzing, but on this occasion the service could have been a lot better.",
+                "datePublished": "2016-09-28"
+            },
+            {
+                "reviewId": "e8aCBQNMia_hWiK_qC6RmQ",
+                "author": "Tracey S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I do find it amazing how rare it is to find a restaurant that offers dim sum after the 5pm cut off point. Although not your typical china town establishment, Ping Pong has obviously honed in on this little niche market and has done quite well in delivering food quality wise and has even produced dumplings which have been experimented on Heston style. We are talking art form here and everything in this restaurant is very classy, very modern, very artsy. One place you definitely need to pay a visit to are the toilets (not for that reason!!) which is situated down a dimly lit corridor (which is my excuse as I accidentally walked into a room with funny wall sinks...) and which are accessible by swiping a hand over a motion sensor panel. The decor is very upscale market and although the food is quite expensive individually, it does work out better value when opting for the set menus which offers several dishes and which does fill you up! In the event of you not being full, and wanting to try more or as much of the dishes as possible, then please do visit Sunday's special buffet, neatly labelled lazy sumdays ;-) for under a fixed price of £25 you are treated to a wide range of dishes which you can easily get carried away with. \nIn terms of drinks, try the teas, as healthy as they are, it's also very fragrant and they come prepared with a 'tea bag' propped open with the tea contents shown.",
+                "datePublished": "2016-07-05"
+            },
+            {
+                "reviewId": "VX5JQwuH4qqKKux5jSURYg",
+                "author": "Aya T.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Why did they bring us all the dishes at the same time :-@ !!!!!!!!\nI could never ever understand!!!!! I've never experienced such a restaurant in Japan.\nSomething like Dim Sum which is considered that that served warm are the best way of eating should be always served one by one. Never ever all at once.\nIs this just the difference of our custom?! If so...  I should've told that when I ordered. OK I will from now on then. \nAnyway.... when it comes to the taste, (I ordered SHARING SELECTION FOR 2)\nOnly 'crab and prawn dumplings' and 'honeyed chili chicken&mushroom rice' were tasty. The others were ...... I wouldn't want to eat them. But I really liked this chicken rice. It was flavorful. full of Chinese soup taste.So I rated 2 stars.\nSorry again but I was sooooooo shocked that they brought them at the same time........  :-()",
+                "datePublished": "2016-03-16"
+            },
+            {
+                "reviewId": "ovys3XQsxW9Go-NuppRLqA",
+                "author": "Nathan D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I finally lost my dimsum virginity, and it was glorious!\nPing Pong serve super tasty food in quite an opulent setting, but if my calorie tracker is anything to go by, this richness comes at a cost!\nThe waitress told us that most people order 3 or 4 dishes and that the majority of dishes come in sets of three - three dumplings, three crispy prawn balls, stuff like that. So the three of us eating decided to order 14 dishes and share all of them to get a good selection.\nwe ordered:\nbasil and chilli cashew nuts, seaweed crackers & salted broad beans: TASTY\n3 dipping sauces: TASTY, BUT WHY ISN'T IT FREE OF CHARGE?\noyster mushrooms: COLD & STRANGE BUT STILL TASTY\ncrispy prawn balls: BIG, CRUMBLY BALLS OF MESSINESS\nprawn toast with sesame seeds: DELICIOUS AND MEATY\nbeef and chilli parcels: TASTY\nbeef gyoza dumplings: YUM\nfour mushroom puff: SUBTLE FLAVOURS BUT TASTY\nroast pork puff: GOOD\nchicken & mushroom rice pot: DIFFICULT TO EAT WITH CHOPSTICKS\nchilli pork tender loin: DELICIOUS\nhoney-soy chicken wings: WONDERFUL\nchicken & garlic dumplings: STICKY\nedamame & truffle dumplings: SOGGY BUT TASTY\nTo be honest, there was so much on the table it was difficult to keep track of what we were shoveling in. Everything tasted pretty good, and I recently found out they do an all-you-can-eat on sundays which I'll be sure to give a try!",
+                "datePublished": "2015-07-15"
+            },
+            {
+                "reviewId": "-vBBrJnLA3rdaPmljWSFow",
+                "author": "Lloyd M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "With all the great dim sum options in London, not sure how this restaurant thrives.  The dim sum overall is mediocre and the service is snotty.  If it was in Lexington, Kentucky, I could see the novelty but with the great options in Chinatown (and others) I would not return.\nWent with a friend and we tried multiple dim sum.  None were bad and some were pretty good:\n--  Duck bao.  One of the more disappointing.  The duck was smoked and I prefer roasted while the sauce was somewhat thin.  It was a nice sized portion, though.\n--  Duck spring roll, good but not great.\n--  Prawn toast with sesame seeds, one of the best options.  Tasty, a lot of prawn, not much filler.\n--  Spinach and mushroom dumpling.  A surprise success, especially as I normally don't care of mushroom.  Very tasty, fried but not greasy.\n--  Honey soy chicken wings.  Looked and sounded good, meaty wings, not much flavour\n--  Char siu bun, a standard but well prepared and tasty, good balance of filling and bun\n--  Prawn and chive dumpling, good but not great\n--  Black prawn dumpling, most interesting and innovative dish, good flavor\n--  crab and prawn dumpling, good but not incredible\nI also didn't like the service.  Empty restaurant but they could not put us in any of the tables we wanted.  Ended up eating outside, which was great, but they were really kind of jerks about finding us a table.  Overall, a competent meal but not worth the opportunity cost.",
+                "datePublished": "2015-07-22"
+            },
+            {
+                "reviewId": "MYPtNeMGmdyXhB6c3rWAkw",
+                "author": "Alice B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We went as a group of 5 on a Thursday night to Ping Ping Soho. Our table was downstairs and although you're underground it really doesn't seem as such. You almost feel as if you're in a fish tank looking out! There's a lot of natural light for an underground floor. \nThe wait staff are very polite and gave us a complimentary bottle of beer as it was a birthday in our group which was a nice touch. \nOn to the food...considering dumplings aren't really a speciality dish in their native country, Ping Pong manages to make the dish very appealing both to the eye and the palate. The selection is huge - seafood, chicken, beef, pork and lots more. Our favourite was the Shanghai Xiaolongbao. It's necessary to get the dipping sauces to add extra flavour to the dimsum. \nAnother top dish was the broccoli with the mustard dipping sauce. Then it's also worth trying the duck spring rolls with black sauce. \nThe portion size of the seaweed and prawn crackers was slightly small however they are of a higher quality than you'd typically find at a Soho Chinese restaurant so not too big a complain there. \nHuge recommendation whether a small family group or a large gathering of friends.",
+                "datePublished": "2016-06-02"
+            },
+            {
+                "reviewId": "l0NNcxPVv9DJvvAe680XLg",
+                "author": "Aneeka M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here for lunch with a friend whilst shopping on Oxford street. The decor and ambience in the place was lovely, and the service was great but the food was by far the best! It's easy to order from the list they give you and you just tick off what you want. The waiter was also helpful in suggesting how much to order. We order about 8 dishes (they suggest 4-5 per person) and shared them and it was exactly enough. My favourite was the prawn balls and the chilli squid! Soooooo tasty! \nI also had a glass of fresh lemonade which was really lovely and refreshing! \nI would definitely return here again!!",
+                "datePublished": "2016-11-24"
+            },
+            {
+                "reviewId": "3BkeSbFw9VQciJ1MjznxJA",
+                "author": "Josephine M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Wow. First of all, I really want to talk about the service - it was exceptional, we were served by two young girls, so nice, attentive and everything was served so quickly Probably best service I had in London! \nThe food deserves so many stars ! It was absolutely delicious, the beef gyoza was definitely my best choice! The drinks were beautifully served, I had a mojito - which was surprisingly big ! On top of having a 5star service and a 5star food rate they offered us free cocktails for our next visit- that's got to deserve 5 stars for sales and CRM right ?",
+                "datePublished": "2015-07-01"
+            },
+            {
+                "reviewId": "RVzF41rUiNbsDFlaOFiz-w",
+                "author": "Meghan R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Umm I did enjoy the food, not overly keen on sitting at a bar with other customers to eat my food but guess this is the style of the place. There are big circular tables downstairs which are available to book for groups. There are a lot of options on the menu to choose from and a good cocktail list too.\nThe house white wine was very nice.\nI think there could be a few more options for set deals as these were limited.",
+                "datePublished": "2016-05-30"
+            },
+            {
+                "reviewId": "9JNx_skR1U0Bc0p1mE1gKQ",
+                "author": "Gary L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Worst experience - no one to greet you as entered into the restaurant. Then when someone finally arrived they told us to go to table 43 without someone actually showing us to the table so we were left to wander the restaurant looking for our table. Then after trying to call numerous waiters to get our order, no one bothered to attend to us after 30min - didn't bother to wait around to give our orders in.",
+                "datePublished": "2017-07-02"
+            },
+            {
+                "reviewId": "CgDpSnFW_J67zm0FR3_R-Q",
+                "author": "Jonathan V.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Very bad service...\nWe visited with a group of friends 10 in the party.  As it was XMAS we all stuck to the set menu.  Before we could order drinks the food started arriving...  Within 10 minutes the first and second course was on our table.  Luckily by then a glass of bubbly arrived.  None of us could finish these courses before the next arrived.  Needless to say it felt like they wanted us out!  Then the long wait started...  Over 20 minutes before I could get the attention of a waiter who when I complaint said it is not her table...\nIn summary bad service and most of the drinks were out of stock... Skip this branch they don't care about customer service!",
+                "datePublished": "2015-12-05"
+            },
+            {
+                "reviewId": "lME7tS-pXfpBB49twJp9iw",
+                "author": "Elle W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I was invited out to lunch by a friend and we decided to go to Ping Pong; I had heard about them and she had already been. I love dim sum and wasn't too disappointed; it isn't the BEST in London, but it's tasty enough, the price is right and it's served on a decent environment with good atmosphere and sleek, modern decor (typical dim sum places can be noisy, too brightly lit, uncomfortable and that cliché \"chinese takeaway joint\"  decor can put one off).\nYou are given a menu and a list where you tick your selected dishes - quite fun and makes ordering easy. Each portion comes with around three pieces and most are under £4. The baskets come to the table all at once and will be stacked high if you order a lot; tables are on the small side, so it can become a bit awkward juggling all that stuff. But you'll manage. :) It is the right thing to do here, though; the portions aren't huge (they shouldn't be; it's dim sum after all) and it would be very time consuming to keep refilling your table everytime you finished a basket, increasing waiting times.  \nIf you're not too ravenous you could order two or three + a small main meal (one of the rice dishes, maybe). If you're really ravenous, well, you're going to spend a little more or go elsewhere. If you're going for the set menus they are good value, but remember you'll get mostly individual pieces instead of a portion of three as in the a la carte.\nAlmost everything I ordered was tasty, especially the honeyed chilli chicken and mushroom rice pot (not a big portion, but it's only over £6 so I certainly wasn't expecting a bucket). The char sui buns (steamed bun with BBQ pork) are ok; I've certainly had better, but also much worse. Loved my drink called Hibiscus Spritz; you are given a glass of fizz with a flower inside an ice cube in which you pour a concoction of liqueurs; very \"chemistry class\" and deliciously refreshing. Didn't have time for more cocktails and dessert, but will do next time - the drinks menu look particularly appealing and I really liked the one I tried.\nApparently they are always changing the menus with the seasons. A good trick to get you coming back, and I intend to. :)",
+                "datePublished": "2016-05-09"
+            },
+            {
+                "reviewId": "YYejBbLC1WKAeCRJpmMPTw",
+                "author": "Cristin L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "So much foooooood. Belly soooooo full!\nAll you can eat Sumdays rock here at Ping Pong.\nAs we had arrived before 1pm, we were also able to avail of their free cocktail on their Sumday. Woo hoo. \nEverything tasted great at the start, but by the end it was difficult. Too much food ordered and I for one was not going to embarrass myself by leaving any behind. By the end the taste of the food was not the priority and the novelty had worn off. \nBut still I recommend Ping Pong for their service, which was excellent. Also for their decor, which is very cool. And the food, which was great up to a point. \nJust don't make a pig of yourself and you should be grand. \nRecommended.",
+                "datePublished": "2015-01-29"
+            }
+        ]
+    },
+    "20": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/XHZZJuwpEp6dqkiABe9NDw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "6wag-48oWtK4cF1Q_Gh42Q",
+                "author": "Anna A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I have to admit I was really surprised with ping pong.\nThe quality of the food was excellent, the service was quick and they were really attentive.\nPrice and quality I think it is really reasonable and the dumplings were absolutely ridiculous.\nDumpling and cocktail heaven :)",
+                "datePublished": "2015-11-05"
+            },
+            {
+                "reviewId": "29NBEudYfdy2vX6iWmrplg",
+                "author": "S K.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Was able to get a table for 4 early on a weeknight, but they were extremely strict about the time limit. We were told to leave about 15 minutes before the end. Make sure that you book a table and maybe have plans for where to go afterwards. \nAs part of London restaurant month, they had a special dim sum set menu. Everything came out relatively quickly, but the portion that came out was a little small. It was also not the best dim sum I'd ever had, but I haven't had a good one in London yet.\nThis place was geared towards the foreign palate as opposed to real Chinese dim sum. Depends on what you're looking for.",
+                "datePublished": "2016-11-01"
+            },
+            {
+                "reviewId": "SfrcyOeM9Rei5tYQh0N65A",
+                "author": "Jessica L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "They can't even make proper xiaolongbao. How dare they call themselves a dimsum place??",
+                "datePublished": "2017-04-28"
+            },
+            {
+                "reviewId": "fgh41_L202SL2SoFi-LTlQ",
+                "author": "Richa S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've been to a different location a few years ago and although it was delicious-- it wasn't somewhere I would choose to go back to over and over again. I suppose I feel the same still but I was very pleasantly surprised at the value for money here! We were in the area and starving so we basically just picked the first place near us. We each got the set menu for 1 -- I got the vegetarian and my friend got the chicken I think. A rice bowl, 3 or 4 appetizers, and 4 dim sum for around £12.50 if I remember correctly! We were both shocked at how much food we got and even though service was mediocre and my wine glass came out a little dirty.. I'm not mad about it. We had a good time and the seating at the bar looking down was pretty cool. Wouldn't be opposed to coming again if I was in the area! The food was satisfying, the wine was good, and my company was great :D",
+                "datePublished": "2016-03-18"
+            },
+            {
+                "reviewId": "DkPkJXYYa4Jg83GrCIzLpw",
+                "author": "Georgina G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very trendy restaurant in soho. Got very busy on a thusday night. Lots of little sharing plates. Duck sprig rolls were lovlely as was prawn toast. great price. Ate 10 dishes and 4 drinks for less than £60. Read my full review at \ngeorginadoes.co.uk/2015/…",
+                "datePublished": "2015-11-28"
+            },
+            {
+                "reviewId": "sxeALIHWn_avvqmlPLjO-A",
+                "author": "Nuella D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It's crazy that I'd been planning on going here for the past YEAR but I never got around to it TILL two nights ago... They kinda wanna force you into getting 4-5 plates each which I don't appreciate as I don't eat much and don't like to be told how much to eat! Damn them for that! But apart from that the food is really tasty!! The scallop and shiitake steamed dumplings are the truth!! *falls on bender knees with hands raised to the sky* and the HONEY AND SOY HLAZED WINGS!! Ohhhhhhh myyyyyyyyyyyy goshhhhhhhh .. Chicken wings just became elite with that dish! \nWould defo recommend it!!",
+                "datePublished": "2015-05-08"
+            },
+            {
+                "reviewId": "aoHHquUbX2Cks1zh74bREQ",
+                "author": "Josie G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It's a good Chinese food place when you don't want to go into China town.\nWhile I am Chinese and I don't mind to go into China town, sometimes if you have a business meeting, it may not be appropriate to go into the hood and have the whole authentic experience.\nIn fact, since I am chinese, if we go to an authentic Chinese restaurant, sometimes people feel like it's \"my territory\". Ping Pong offers this non - territorial atmosphere where you can order a lychee martini or mojitos and have it with your dim sum. It's a great hang out place for 3+ people so everyone can have a sharing + fun experience. It's a great place to take your non-chinese friends for their first dim sum experience. Fantastic!",
+                "datePublished": "2013-06-19"
+            },
+            {
+                "reviewId": "i93BNfcUkZvozeyyMGUq4g",
+                "author": "Jacky W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Had a party of 10 we pretty much ordered everything and it was all good haha.  Even the asparagus was surprisingly delicious.  Good for parties =).",
+                "datePublished": "2016-09-06"
+            },
+            {
+                "reviewId": "uxWPaRrz_35XNuFtvBqQJQ",
+                "author": "Annie K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Had a great time at Ping Ping on Saturday night & really enjoyed all items on the menu. My personal favorite were the Barbecue Chicken dumplings-  SO tasty. I was with a group of 5, and everyone loved their meals. I look forward to coming back here very soon!",
+                "datePublished": "2016-05-03"
+            },
+            {
+                "reviewId": "g5TyqtU1vtt41ZqsurqBzQ",
+                "author": "Paul V.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "As far as Dim Sum goes, Ping Pong isn't bad, but especially with it's proximity to China Town taken into consideration, there really are better options for those craving Dim Sum in London.\nWhile Ping Pong provides a good atmosphere, with a unique layout and a well-dressed an attentive staff, one soon realizes that you end up truly paying for the atmosphere as opposed to top-notch food.\nWhile not bad by any means, the portions are small and the prices high to the point where you really are better off simply taking the walk to China Town for a more authentic experience.  \nIf you're absolutely desperate for some Dim Sum, Ping Pong is worth it for their unique atmosphere, but if you're looking for an authentic, filling, or cheap outing, look elsewhere.",
+                "datePublished": "2011-06-24"
+            },
+            {
+                "reviewId": "7YkqtV4aRUO-WHPkNAxffQ",
+                "author": "Clive B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "All you can eat Dim Sum,\nI'll give that a try.\nI ate so much I thought I would die.\nI tried all sorts, crispy and soft\nThere was lots of things served, steaming in pots.\nOn plates they came in parcels of joy.\nAll bite sized and served with Soy.\nBut overall I ate so much, \nMy stomach distended and caused an ache in my guts.\nMy advice to all when deciding when beat\nStop before you have had all you can eat.",
+                "datePublished": "2014-12-22"
+            },
+            {
+                "reviewId": "tBJ00_IpdPFFL4Ar4CgZrg",
+                "author": "Samantha R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Really fun and much bigger than we expected it to be. Very cool atmosphere!",
+                "datePublished": "2016-02-14"
+            },
+            {
+                "reviewId": "BFiTAJCOWnYS2O4yHevbPQ",
+                "author": "Maurizio A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Love the place.\nIt's a stylish, trendy and modern chinese restaurant, good both for couples and small groups (up to 8 people in the round table at the -1 floor).\nTheir specialities are dim sum: typical chinese dumplings, mostly steamed, with several different fillings.\nIt's a sharing restaurant: that's it, you order a few dishes and then share them with the whole table, that's why I said \"good for couples\", I don't really suggest it for a date! also because.. well dumplings are not really the food you want to have with somebody who never saw you naked: they are kind of big and you'll find yourself in that uncomfortable situation where you don't know whether it's better to eat the whole dumpling in one effort (and burn your tongue with the filling as it is damn hot), or bite the dumpling letting all the filling drop on the plate... well just don't come here for a date ok!? It's not the place!\nSpeaking about the food, the quality of it is really high: dim sum are great, with several different fillings and everyone with its characteristic taste and smell, delicious! strongly suggested the black ones (called black prawn dumplings), with squid ink pastry, and the chicken shu mai, chicken and asparagus in a top opened dumpling. But, just take some of them, portions are not that big (from 2 to 4 dumplings each) and it's just so good to share everything with your table!\nDon't forget to have a cocktail or something to drink, this place has a lot of different options you rarely see and their presentation is always special (as example, take the hybiscus spritz: awesome!)\nI still have to try the upper floor, with tables surrounding the kitchen, but I can't say anything bad about this place, this is just great! ah and it's not that expensive!",
+                "datePublished": "2014-05-17"
+            },
+            {
+                "reviewId": "pO60mi7uN1q9gwi-1JI0vw",
+                "author": "Nir A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "On a recent trip to the uk, tried out this place through recommendation, can't say I'm disappointed at all! Came with empty stomach and left stuffed!",
+                "datePublished": "2016-04-13"
+            },
+            {
+                "reviewId": "DnR8E156m0bfKU0c0erUJg",
+                "author": "Tanika M.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong is quite possibly my favourite dim sum restaurant. The service is great and there are lots of options to choose from on the menu including seasonal specials.\nThe cocktails are definitely worth trying but make sure you ask the waiter beforehand on what is recommended. \nThe only downside is that the portions are very small for the price. You'll have to order at least 5 dishes to feel somewhat full. \nI highly recommend the prawn and scallop sticky rice, the spicy chicken dumpling and the prawn and chive dumpling! Feeling hungry now...",
+                "datePublished": "2015-01-25"
+            },
+            {
+                "reviewId": "WrYjzUA9rXfAEPkFZK__qg",
+                "author": "Madison L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Best drinks here ever! I had my favorite drink here - their signature ping pong cocktail is one of my all time favorite drinks :)\nReally great dimsum! One of the best in London! Love the ambience and how hip this place is! I would definitely come back.",
+                "datePublished": "2014-12-22"
+            },
+            {
+                "reviewId": "sLWojOQZV33CBcPfcqGgsQ",
+                "author": "Carlo A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "After six days and ready to go for try the ping pong's all you can eat I'm writing my review. Environment and atmosphere were amazing and they bring you in an oriental place. You forget to be in London after the first bite. I forgot the dishes's name I will write down today. I can't wait to be there for breath again the same scent. Service was quick and very polite. Our waiter Vinh has been so kind, as our first time in ping pong he explained us everything about menu and dishes. Supervisor and manager were on the floor to check if was everything ok, and at all time you had chance to call someone that help you. The best ravioli and Chinese style dishes in London that I tried so far. I'll write another review about my all you can eat experience in ping pong really soon.",
+                "datePublished": "2015-03-29"
+            },
+            {
+                "reviewId": "TCp9fZzivZlvhLItWPCXTQ",
+                "author": "Mike A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Sorry, I just hands down love this place. Maybe because I'm a white guy and I don't know what \"real\" dim sum is, but this stuff is just the best. I have probably eaten here ... conservatively ... 20 times. And if you add up the other Ping Pong locations I've been to, it's easily over 30. I love it. This one has decent ambiance - better than the other ones I've been to. Here's what's good:\nHar gow - can't go wrong with this classic (again, says the white guy who has no business calling anything a classic)\nSteamed dumplings: spicy chicken, spicy vegetable, chicken and cashew nut oh good lord it is my absolute favorite thing there\nLemongrass Jasmine iced tea - get it everytime!\nHere's what's not good: leaving this place, not eating at this place, and anyone who reviews it less than four stars. Eff you.\nLastly, everything comes really quickly. You can't go wrong here. Really! If they were franchising in the US, I would sink some cash into one. And eat myself out of business.",
+                "datePublished": "2012-01-12"
+            },
+            {
+                "reviewId": "m1MdLERoN2yKlo7altMKOw",
+                "author": "Daphne S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "As restaurant chains go Ping Pong has to be one of the better ones.  I have been to a few of them over the years and they always serve delicious tasty food.\nPing Pong Soho is no different.  When I ate here recently it was full of people happily indulging in their favourite dim sum dishes and guzzling Ping Pong's fantastically exotic cocktails.\nThis is a particularly good venue for big groups and looking around this time I could see that most of the tables were filled with large groups of people.  The only small issue I had this time was my group of 16 were seated on two separate tables.\nThe food here is really delicious.  For those of you not familiar with the concept it is mainly Dim Sum, small bite sized portions of food which are traditionally served in small steamer baskets.  They can be steamed, fried or baked.  In addition to the dim sum they also serve a number of rice dishes such as Honey-Chilli \nChicken Rice Pot or Vegetable Sticky Fried Rice and some small plates such as Honey Glazed Spare Ribs and Chilli Squid.\nFor those of you a bit unsure of what to order there are set menus which will give you  a decent variety dishes to try and this is particularly good if you are ordering for groups.\nIf however you do fancy ordering for yourself then I can heartily recommend the aforementioned ribs, the Potato and Edamame Cakes, The Crispy Prawn Ball and to start the Garlic and Black Pepper Prawn Crackers.  Just don't go mad.  The food is a lot more filling than it looks and you can always order more later. \nThe big selling point for me though has to be the cocktails.  They put a big twist on your common or garden variety cocktail.  With names like Hong Kong Colada, Wasabi and Amaretto Sour and Smoked Nashi Negroni  they are sure to be a conversation starter and the best bit is they taste as good as they sound.  For those of you not so keen on alcohol they have  a good choice of mocktails and lemonades, and for those of you who want something simpler they have a good selection of beers, ciders and wines and a huge selection of teas.\nAnd the best bit of all is the bill at the end of the night will not break the bank!",
+                "datePublished": "2014-09-03"
+            },
+            {
+                "reviewId": "XGFBLc_UQvARNBNrCPaxng",
+                "author": "Becky F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "when i found out ping pong was a chain, i was ready to hate it, but it's actually pretty tasty! we ordered a bunch of dishes to split between three of us (probably about 8 plates) and i liked everything. we got a mix of things from buns to dumplings to edamame and it was all really good and served quickly *\nin total we spent about 20 pounds each including dessert (least fave part of the meal - get dessert somewhere else), a cocktail (these were good, just don't get lychee martini unless you reeeally like lychee) and enough food to completely stuff us. i thought it was a pretty good deal. our other friends got the set meals which were 10 pounds but didn't seem like such a good deal since you can't really pick which things you get..\n* the food comes out all at different times so you get all your dishes staggered. it's actually kind of better like that though, since you always have something to look forward to until the very end (and then you can look forward to dessert obviously)\n** also the bill came with two cute little wooden dolls which i took and will be re-gifting to some sad \"friends\" back in america this christmas and passing off as vintage japanese dolls from the uk. thanks ping pong!!!",
+                "datePublished": "2011-11-22"
+            }
+        ]
+    },
+    "40": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/XHZZJuwpEp6dqkiABe9NDw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "aqt8Y9LGUqw_-k6s9w4S6Q",
+                "author": "Nina P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong definitely has to be one of my favourite dinner spots. \nIt's a really modern, trendy, vibrant place to eat dim sum and have a few cocktails. I would definitely recommend going on a Sunday when their lazy sumday offer is on: £21.50 all you can eat (excluding a couple of areas of the menu). As ping pong is a dim sum restaurant, this offer definitely pays off, especially when in a group as you can all sample a large amount of dishes for far cheaper than you could ordinarily. \nThe cocktail (though excluded from the lazy sumday offer) are absolutely delicious as are the non alcoholic drinks. I would definitely recommend the Hong Kong Colada as well as the Passionfruit lemonade.\nAs far as food goes the dim sum is expertly made and really delicious. If you are unsure of what to order, go for anything in the Ping Pong selection but, as I said, I would recommend going on a sunday so you can experience many different types of dumpling. \nDefinitely recommend this spot for dinner/drinks in the city.",
+                "datePublished": "2014-09-29"
+            },
+            {
+                "reviewId": "qg8JOW5H1oeckRdmKarLUQ",
+                "author": "MühdieQuee N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "- modern, simple interiour; not too cozy (however, most Asian restaurants are not really cozy)\n- fast service, but not too friendly (very impersonal)\n- table in the basement: very dark/air not that fresh (you smell of food when you leave the restaurant)\n- great tea and unusual cocktails\n- good quality of dishes: edamame (2.65 GBP), spring rolls, vegetable/king prawns sticky rice were both very delicious (4.15/4.55 GBP)\n- great variety of dim sum: crab and prawn dumpling (3.85 GBP), black prawn dumpling (4.25 GBP), spicy chicken dumpling (3.65 GBP), etc.\nConclusion: I did not like the place/atmosphere that much, but the food was just great!",
+                "datePublished": "2013-10-31"
+            },
+            {
+                "reviewId": "Xq52QLuwg8qvrqxMCUwmwQ",
+                "author": "Sarah S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I loved this restaurant! I recently went there for my first time for Lazy Sundays - all you can eat dim sum for one base price. Everything we ordered was insanely delicious!!  My friend who is familiar/local ordered for us and it felt like he ordered one of everything! I can't even remember which dish was what because it was such a spread! The atmosphere was lovely and the service was great. Our waiter was very attentive and kept drinks and plates filled! Cannot wait to go back!",
+                "datePublished": "2014-06-24"
+            },
+            {
+                "reviewId": "MMGciU66gwckTg6TqQJ9Zw",
+                "author": "Tom C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "All you can eat dim sum on Sunday is a real treat! The black prawn dumplings are divine and there aren't many exclusions from the 'all you can eat' offer. The service is quick and friendly and we weren't waiting long for a table. If you like Asian food/sea food then you really should get down here.",
+                "datePublished": "2015-03-15"
+            },
+            {
+                "reviewId": "ie5kx6T7BMUfGvf026xslA",
+                "author": "Daniel C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Quick, tasty food, which doesn't cost the earth - it's just a shame that I don't like dumplings!\nAfter my third visit to a dim sum joint I've finally realised that I don't particularly like much of the food.  When I say much, I'm really referring to the dumplings, those steaming piles of slimy stuff delivered in towering stacks of bamboo baskets.  They're just not for me.  I really enjoyed everything else that we had, the edamame, duck rolls, honey chicken and rice.\nThe service was really efficient, although our waitress was either stoned or just extremely disengaged with the planet.  The beer was too expensive (£6.95 for a 640ml bottle) although this seems to have become standard at most chain restaurants these days.  If you can get a seat at the bar I'd recommend it - it looked much more comfortable and spacious up there.\n4 stars overall - a chain place like this can never really get 5 stars so to get 4 is doing very well indeed.",
+                "datePublished": "2013-10-24"
+            },
+            {
+                "reviewId": "jR1H-qV_XkECnLfDoqz_CQ",
+                "author": "Eitan A.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "They used to have more vegetarian/vegan dumpling options on the a la carte menu. While they offer more on the vegetarian combination meal, they do not offer most of them on the regular menu).",
+                "datePublished": "2016-09-25"
+            },
+            {
+                "reviewId": "ZexAmRsNngoWiR7HRO4uXg",
+                "author": "Mia F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "After viewing the menu online I was extremely excited about our planned dining experience. The menu has so much variety. I met a group of friends at the restaurant, great location, just a short walk from Oxford Circus underground station & perfect for a group of girls. The service was spot on, the staff were friendly and welcoming, the restaurant has a great feel to it with gorgeous interior decorating and warm lighting. After viewing the menu for a second time I was so excited about ordering food. We decided to go with the set menu, extremely cheap for central London and looked amazing. I think we paid £15 for a 3 servings including dumplings. When the food came out it looked great but was cold and unfortunately not all that tasty. Rice dishes weren't fresh, dumplings slightly over done. I would give this restaurant a second shot but I wouldn't go for the set menu. They also have gluten free options available which is great!!",
+                "datePublished": "2016-09-21"
+            },
+            {
+                "reviewId": "FxqvpWMAFj8ki1R8ETKhlw",
+                "author": "Michal J.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "My first and last visit. I was hoping to taste some interesting and good dim sum. But instead we got soggy overcooked stuff. Ginger lemonade or iced tea (not sure what was it) wasn't good as well. Service was really slow but the restaurant was not busy at all. Staff was just walking around like there were on holidays. We have specifically ordered one menu because of one dish which they didn't have. Which would not be a big problem if someone would actually tell us that they don't have it. Almost received bill before last dish arrived which we had to ask for! And of course our bill didn't reflect the food and service. I am really surprised that this place is still open.",
+                "datePublished": "2015-04-25"
+            },
+            {
+                "reviewId": "5xhdit8nj0jZY3ESeU1cQw",
+                "author": "Boon K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Not your traditional dim sum! All the classic dishes are on the menu - but with little twists, like using fragrant jasmine rice instead of glutinuous sticky rice, and prawn toast using french garlic baguette instead of normal toast.\n The menu is extensive and all the food, especially the seafood ones, were bursting with flavour and extremely fresh. You must try some of their more unusual dumplings - the seabass dumpling is a delight to the eyes, with a dunpling skin dyed purple using red cabbage juice.\n What sets Ping Pong apart from other dim sum restaurants in London is that its not a boring and stiff place - there's a lounge area, and their cocktail menu is quite extensive. You would go to Royal China for example if you had a business meal or a proper Sunday brunch with family. But you go to Ping Pong for a fun night out with friends.\n Pricewise, its more expensive than your usual dim sum in Chinatown, and probably the same price as other great dim sum places like Pearl Liang and Royal China.\n Reviewed by The London Insider\nlondon-insider.co.uk/201…",
+                "datePublished": "2011-02-21"
+            },
+            {
+                "reviewId": "q3iF8cHXUdV-tzQOecYEQg",
+                "author": "Ricardo B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "A little too expensive for the food quality, but definitely ask for the chicken wings.",
+                "datePublished": "2015-05-10"
+            },
+            {
+                "reviewId": "MkNswK34ppKykMam3xhLFQ",
+                "author": "Neelakantan N.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I like the ambience at Ping Pongs. We went as a group of around 20 from work and had a huge number of dishes. They have round tables which is always a  good idea if you are going as a group. \nThe ordering style is new as well..As mentioned by some of the other reviewers, they give you a small list of the dishes from which you tick off what you want. Surprisingly this list isn't taken by the waiter, instead they write down the order anyway... \nUnfortunately, I am a big fan of an un-dim-sum-like dish here- the honey pork ribs.",
+                "datePublished": "2013-01-26"
+            },
+            {
+                "reviewId": "_fsBC9XWZ2mNRABlyEg-vg",
+                "author": "Ritesh P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Worth the wait. Try the squid ink dumping. As good as dim sum gets without the carts which is actually better since i never know wth is the items they push around in the carts. With the menu it easier to figure out what you want to eat and order. They are popular for cocktails but I found them to be on the sweet side - yes I have more then a few.",
+                "datePublished": "2014-12-24"
+            },
+            {
+                "reviewId": "IHYUPQZsU7mTwuUgpCfVxQ",
+                "author": "Urban G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Wonderful atmosphere. \ndim sum is just OK,. The other dishes are mediocre.\nThe drinks are pretty good.\nThe waitstaff are attentive.",
+                "datePublished": "2012-08-22"
+            },
+            {
+                "reviewId": "gdMOiKXB6rUIURA8PJ5mFA",
+                "author": "Emily P.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I love this place. It's all about the duck spring rolls!!! The dim sum is also very good and would recommend getting their set menus which is great value for money.",
+                "datePublished": "2015-05-08"
+            },
+            {
+                "reviewId": "v7AO8_Bv-ZAKsngnmYyLFg",
+                "author": "Uli B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I have to say, I've been to this PingPong and the one in Hampstead for at least 7 or 8 times and I keep on coming back...yet still I only give this place a three-star rating - why is that?\nWell, the dim sum is actually pretty decent here, the selection is definitely very innovative and the food quality is always very high. In fact, I often come here with a Chinese friend who agrees with all of the above.\nSo, what is it that I don't like? Well, it comes down to the interior design and the customer service, which this place is kind of lacking. Inter-design-wise, I am sure that lots of people would disagree with me, but for me this is too slick, too stylish and too wanna-be funky. As for the customer service, the people here seem to be lacking a great deal of motivation - no smile, no sign of personal acknowledgement whatsoever...and this just doesn't go well with me.\nPlus, it's also not a cheap meal, unless you come on a Sunday, when you can do Lazy Sum Day, which is an all-you-can-eat-kind-of-deal for GBP 18.99...still not cheap though.\nWhat this place is lacking is the authentic Chinese experience of push cards being rolled around in the restaurant, the steam baskets piling up in the trolleys and also the fact that you can order in a more leisurely style. Along the lines of: I still could eat one more, let's see what the next lady is having in her trolley...\nWell, if you want this experience in London, I suggest you go to New World in Chinatown...",
+                "datePublished": "2010-03-15"
+            },
+            {
+                "reviewId": "wYxHWt31OlsMrA3myIfkdw",
+                "author": "Amy K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I heard great reviews of Ping Pong from Londoners before visiting myself.\nI think this place is pleasing because of the atmosphere.  There was special effort put into creating a modern ambiance for enjoying dim sum.  Regardless, I thought the food fell short.  \nI ordered the vegetarian special menu.  It's a great value because I was extremely full for only about 12-13 pounds.  However, I wasn't in love with any of the 6-7 items I received.  Everything seemed to lack flavor or have an oddly mushy exterior.  Nothing tasted bad, but it there were no moments of culinary interest.  Also, things felt a little too commercialized with the open demonstration of pulling pre-made items out of a fridge and plopping them on the steamer.  Efficient, yes.  Appealing to showcase, no.\nI think this place is great for a social gathering, where the focus is more on the company and less on the food.",
+                "datePublished": "2012-06-05"
+            },
+            {
+                "reviewId": "LrEp1tOLo6PHyu871tPefw",
+                "author": "Lindsey A.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Dim sum did not impress me this time at all. Very disgusting tasting. I have had ping pong a few times before but in other locations. I usually to the sum-days deal of the 21.95 all you can eat as eating there on a regular day is a rip off. After this experience of poor service and horrible food I will not be going back. Embarrassing how I took a friend and she hated it too. It's the worst to have to shell out good money for food you hate you just leave feeling ripped off and £30 each poorer as cocktails are a good £7 per cocktail. Never again ping pong.",
+                "datePublished": "2014-08-06"
+            },
+            {
+                "reviewId": "huL2PW9_7rKl1T1H4g1Fyw",
+                "author": "Joni P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Nice venue, quite chic setting but waiting staff were overrun, it was busy and there only seemed to be a couple of them. Very friendly though. The dim sum was delicious, and the cocktails were good too. Apparently the staff don't get all of the tips (management takes a cut), so we took that off the bill and left cash instead! That way it goes to the waiter. Overall it was good, we had booked a special Chinese New Year menu online for £16 per person which was good value - otherwise I'd say it might be a bit pricy for the portion sizes. Definitely book ahead, otherwise it was a 30-45 min wait on a Wednesday n",
+                "datePublished": "2016-02-28"
+            },
+            {
+                "reviewId": "tbPrKPeEiJf3ItzITci2zw",
+                "author": "Hazel L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Always enjoyable. BUT, prices are steep for what you get and the dim sum is merely acceptable. The stuff they serve in China Town is far superior. I do like Ping Pong's cocktails though and often go just to sample them before moving on to dinner elsewhere.",
+                "datePublished": "2014-11-13"
+            },
+            {
+                "reviewId": "6zNL0ZYJD4D26kbAcWsY8Q",
+                "author": "Christine K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Keep in mind that I have never had dim sum before- only korean dumplings which are a lot different. I am such a fan of Ping Pong. I love how clean and chic the dining experience is. I went with two friends and we ordered about 9 different things. Each one being better than the next. \nI will say that I wasn't full even after spending an exceptional amount of money, but it was so tasty. Maybe I'll try some other dim sum places and see how they compare to Ping Pong, but for now this place is great!",
+                "datePublished": "2011-10-25"
+            }
+        ]
+    },
+    "60": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/XHZZJuwpEp6dqkiABe9NDw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "9X7esM8OqV0tbkosA4abqQ",
+                "author": "Katie M.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Yawn.  From the food to the service, Ping Pong is a bore and I'm shocked that it has received 3.5 start from my fellow Yelpers.  \nMy hubby and I had to flag down a server to place our order and actually had to ask for our drinks to be delivered (they had been sitting on the bar counter for close to 5 minutes) after our horribly bland food arrived.  Sure, the decor is cool, but the only saving grace for their food is the spicy chili sauce that actually provided our bland dim sum a bit of flavor.  Ping Pong is overpriced and lacks in flavor...head to Chinatown for real dim sum.",
+                "datePublished": "2011-09-19"
+            },
+            {
+                "reviewId": "D6BKzafFQWMnLjt3oJZXqA",
+                "author": "Carmela S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I enjoyed the food here and it was certainly an interesting dining experience (you get a little menu at the start and you just mark what you want from it and hand it in, it also comes very quickly) but nothing to rave about really and think you can get better Dim Sum at Yauatcha quite nearby!\nHowever I really enjoyed the coconut and mushroom soup, the vegetable puffs and also the duck spring rolls!",
+                "datePublished": "2011-10-14"
+            },
+            {
+                "reviewId": "JJHvE4gHth1x7I4R5nfqDA",
+                "author": "Lauren B.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We totes stumbled into Ping Pong on Great Marlborough Street by accident really. We were trying to ditch the impending rain and fill our slightly soured hangover bellies when we waltzed in. \nLittle did my friends and I realise we had arrived for \"Lazy Sumdays\", possibly the best invention ever! On Sundays and on weekdays in most of the City locations, Ping Pong has an all you can eat special for just over £18 a head.  If you've never had dim sum, which many in my party had not, and you are superhero hungry then this is the deal for you! Most of the menu is available for this deal but the only trick is everyone in your party has to order this deal.  This was not a problem for my friends.\nWe basically ordered at least one of everything on the menu and if we came across anything we didn't like (which was rare) we simply moved on to the next thing.  We could barely waddle our fat rumps out of the door by the end. It definitely sorted our hangovers out and sent us off as lil happy dumplings.\nSign-up for the loyalty card for more deals and make sure you get one of their yummy cocktails or one of their beautiful gourmet teas.",
+                "datePublished": "2011-08-08"
+            },
+            {
+                "reviewId": "bQyaTakPs7NJZaqCHF_NyA",
+                "author": "Marie C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "PingPong, I love you. Three years after I lived in London, I still dream about you. I clutch your postcards and weep. I stalk you on Facebook - with each status update, my stomach drops. \nWhy?! Why?! WHY won't you open in Chicago?! \nIn all seriousness, though, PingPong was my favorite place to eat when I lived around the corner. I still crave it and I'm convinced you really should open a location in Chicago.",
+                "datePublished": "2011-06-13"
+            },
+            {
+                "reviewId": "e2H05AqJYBonRaSHzRn7bQ",
+                "author": "Sam H.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Ping pong is a definite must. \nThe atmosphere and feel is just great, as is the food. \nMust have's: \nChicken puff \nChicken and peanut \nSpicey chicken \nCrab claw \nAnything with prawns \nAsk for some dipping sauce. They really compliment the dim sum. \nMenu does change, so beware it may not all be on there. \nSelection of wine and beer is good. Their cocktails are heavenly! \nThe reason I have given it a 3 and not higher is because of the consistently poor service and the over pricing.  Food is def a 4.5, if not a 5.  The service and prices is minimal.",
+                "datePublished": "2011-01-02"
+            },
+            {
+                "reviewId": "RMD2w2KYa4Vm5EYZ6UCu4Q",
+                "author": "Yee Gan O.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I suppose, in a way, it's good that Ping Pong is spreading the gospel of dim sum across London. The choice of dishes extends enough to sate western palates and the ambiance is mass market chic\nThe 'service' is generally good but they do drop the 'ball' with the odd dish but I suppose this is because they're aiming to 'serve' a more mainstream market or for people who are new to dim sum. The best 'table' is probably at the counter where you can watch them steaming and preparing the dishes.\nA safe bet but not the most 'smash'ing for dim sum.",
+                "datePublished": "2010-08-11"
+            },
+            {
+                "reviewId": "7ijwIdmKcCS_VLdWfp5sCg",
+                "author": "Ashley V.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I love this place. It's Genius! Making a meal out of a bunch of appetisers allows you to sample a bunch of different things rather than picking one dinner choice. With 3 portions per appetiser, it is perfect for ordering a bunch and sharing. \nMy don't miss recommendations are the wonton soup, duck spring rolls, spicy chicken dumplings and fish and pepper gridled dumplings! Also great prices on wine by the glass and excellent cocktail; \nThe service and atmosphere at this location is spot on. Very friendly staff and a great vibe going on. Perfect for a meal with a friend or an interesting convo starter for a date.",
+                "datePublished": "2011-03-18"
+            },
+            {
+                "reviewId": "T0V-x057ufrLmlCx1DPx3w",
+                "author": "Qype User\n emma_c…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I dragged my sister to this Ping Pong venue to break her dim sum virginity. Thankfully, it didn't disappoint.\n Yummy little plates of dim sum, friendly service and great cocktails made for a successful evening. It's not cheap, so it's probably best to go for the set menu that Sarah mentioned below.\n If you're new to dim sum, I'd really recommend Ping Pong for serving something for all tastes. They've often got great specials on too, so you can try something new on most visits.",
+                "datePublished": "2011-06-02"
+            },
+            {
+                "reviewId": "Cv2Ei3sHa1EqZAKV2tahpQ",
+                "author": "Graham K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Came here with some friends on a Thursday evening. Very busy with lots of late night shoppers from Oxford Street and the surrounding area. I think I counted three other guys in there, everyone else seemed to be twenty or thirty-something groups of women (can't say that I was complaining!) \nI'm not a big fan of chains and prefer to support indie restaurants when possible, but sometimes when you're out with people you just want quick and easy 'safe' options. \nPing Pong is a very safe choice. Everything is fine at this branch. \nDrinks are ok. Good taste, but weak measures + too much ice) \nDim sum is ok, but a bit bland and pricy for what it is. \nService is good, lots of staff, typical of this sort of high-end mainstream type of restaurant (think Strada, Bertorelli etc.) \nSame goes for the surroundings, clean, well designed, with moody colours and lighting, but a bit soulless. \nAll in all, if you want a safe option, very close to Oxford Street tube, you could do a lot worse than Ping Pong. It's close to a 4 star rating, but expect to feel a bit rushed if they're very busy and they also don't accept American Express, which is pretty poor considering the number of restaurants in their chain + their enormous margins.",
+                "datePublished": "2010-08-30"
+            },
+            {
+                "reviewId": "02SxUxz0Nv4_fYF3jPoyJw",
+                "author": "Patty T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Big fan of this place.  The upstairs bar is great if you are waiting for the rest of your party to arrive.  Food is tasty and the drinks are outstanding.  This place is great for groups too.\nI recommend the maodou - soybeans with celery salt.. yum, spicy pork fillets and satay chicken spring roll.  Drinks: I would highly recommend the lemongrass and lime cocktail.",
+                "datePublished": "2010-06-10"
+            },
+            {
+                "reviewId": "5iNcGN30eW4l3IpGEL8kuA",
+                "author": "Cari S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I am not sure why I don't love Ping Pong. I mean, I should. I love food, and will generally and happily eat most things that are put in front of me. And then ask for more. My friends all love Ping Pong, and suggest stopping by whenever we pass the ubiquitous Ping, but after a couple of visits there I am not so sure. So what is my issue?\nWell, perhaps I'm not sure how I feel about dim sum? I mean, it is a little odd. It comes steaming to the table, and then by the time you have got your chopsticks out, the dumplings have turned cold and gone strangely sticky. \nThe other thing is the cost. On paper it seems inexpensive. £2.99 - £3.99 for three dumplings. But here is the thing; the dumplings are swallowed in a flash, and they recommend ordering at least three portions, so it starts to slowly add up, then there are all the little sides, then the bill is bigger than expected, and I am still hungry!",
+                "datePublished": "2008-12-12"
+            },
+            {
+                "reviewId": "LfQhCMKqPYOgkZs6Jqb6fA",
+                "author": "Rodene R.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "MAYBE its because we got this delivered?! Everyone is entitled a bad day right?\nAfter hearing so much about this place, I was more than excited to experience London's little dumplings, was super ecstatic, but.....boy was I let down.\nTheir menu was impressive, so many selections and options for vegetarians - so I went crazy and ordered just about one of everything. \nWhen the food arrived, it arrived in cute little packaging, so \"yay\" for packaging...but once the food arrived in my mouth, it was not a party.\nOkay, they weren't absolutely terrible, but a couple of the dumplings I had didn't belong in my mouth. \nI ordered: \ngreen chive dumplings\ncoriander dumplings\nseafood dumpling\ncrunchy golden vegetable dumpling\nfluffy white vegetable buns\nfresh veges in the sticky rice lotus leaf\nand a couple other things that I can't remember....\nI remember spitting out some of the dumplings and the foods wrapped in leaves. The buns weren't nice, kinda dry and tasteless. \nI don't know about this though, its hard not to get dumplings right, next time I'm in town, I'm definitely going back - they must've just had a bad day of cooking, because it wasn't only me who didn't have a pleasant experience. \nPing Pong, you're just so cool, I hope my next experience here is a better one. I promise not to get it delivered! \nMy first experience here was....DIM.",
+                "datePublished": "2010-12-17"
+            },
+            {
+                "reviewId": "lr2nGviv4biQN-zdBTMh4g",
+                "author": "Catherine H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "There are a couple of these restaurants around town now, and they are all good.  I was first introduced to Dim Sum by my sister and have now become a huge fan.  I love to get the little slips of paper and tick off the ones I want.  In the past I have often come here while I was starving and probably got a bit carried away as I ordered way to many.  \nI often team my meals here with a pretty jasmine tea to watch the flower open before my eyes.  They also serve some good cocktails making it a popular destinations for groups of rowdy girls.  I find it best to venture here at lunch since it is less busy, but both are good.",
+                "datePublished": "2008-11-13"
+            },
+            {
+                "reviewId": "86AUSEaxwzS4-hIZ0jW8DQ",
+                "author": "Jennifer M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The dim sum was great and I felt comfortable dining there alone.  Highly recommend for the business traveler.",
+                "datePublished": "2013-07-20"
+            },
+            {
+                "reviewId": "Csyry4bWoDA5jDubD3ZpBA",
+                "author": "Qype User\n lauren…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I went to the one in St.Katherines Docks just before Christmas, and considering I'm not a massive fan of Dim Sum I was pretty impressed.\n The food was full of flavour, which I was pretty surprised to discover because I normally find Dim Sum not up to much in the tantalising the tastebud department.\n Oh and I must also mention the pretty Jasmine tea, where the flower opens up as it soaks up the hot water.\n Very nice.",
+                "datePublished": "2011-01-07"
+            },
+            {
+                "reviewId": "LlE032u9fGcFnrkqFPwWGQ",
+                "author": "Qype User\n millie…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong is a new chinese restaurant chain in the city and I am quite sure that in few months everyone will know about it!\n There is a wide range of choice in terms of dishes and cocktails! The food is very traditional (I had never have something like that before) and worth more than its price.\n The place is getting more and more known by people, I highly recommend you to book.\n Staff is very efficient and friendly. The website is very useful, you can find all the menus, prices, events\n I would recommend you:\n Cocktail:(I had only one but really liked it! lol)\nPassion fruit and apple £5.50\nAppleton Estate V/X rum, green apple liqueur and passion fruit juice\n the Sticky rice Traditional: Rice with chicken, pork and king prawns wrapped in a Lotus leaf. for £3.32 you have 3!",
+                "datePublished": "2009-02-17"
+            },
+            {
+                "reviewId": "5plFWBAa7immoyxyeg91Qg",
+                "author": "Sandra N.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "wasn't bad nothing special\nmy friend and i had two set menus.\nthe prawn toast and crispy hoi sin duck spring rolls are really good\ndrinks are a bit on the weak side...\nlovely mango pudding",
+                "datePublished": "2010-09-03"
+            },
+            {
+                "reviewId": "iSOSVe3T2SbCARQFZRjhsg",
+                "author": "Qype User\n AnnieM…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong dim sum, London's latest all day dim sum haunt. We're great fans of Yauatcha - Alan Yau's (creator of Wagamama) fantastic all day dim sum place and we'd heard that Ping Pong was just as good but cheaper.\n Well was it?\n Certainly on entering it looked great. We were taken downstairs and there were a number of huge round tables with a subdued light in the centre. We sat on one of the squarer tables but this had a great view of huge ornamental Japanese style courtyard, with trendy projections playing against and enormous wall.\n The food and cocktails were certainly cheaper than Yauatcha (not that Yauatcha's expensive) the cocktails were only six or seven pounds each, which was terrific value as they were very long, full of fresh fruit like kumquats, lychees, blueberries and grapes. Mine in particular had tons of fresh mint and was very alcoholic - so much so I managed to knock a third of it over - D'OH!\n We chose about ten dim sum dishes between the three of us and they averaged at about £3 each. Ping Pong provided a handy menu that we could tick to keep track of our order and make it simpler to give our order to the waiter.\n Onto the food. If I hadn't already been to Yauatcha's several times, I would have thought the food was brilliant. It was certainly very, very good. Some dishes such as the chive dumplings stood out. The sticky rice in parcels was also tasty. The puffy buns were light and filling at the same time. The chilli sauce that was served with most dishes blew my head off - so handle with care.\n My friend had an amazing jasmine tea to finish - boiling water poured onto the head of jasmine flower. It looked like something out of Alien as it grew tendrils in the heat and eventually a white flower wound its way through the water looking like a sea anenome.\n Like all of the new dim sum places in London the toilets were highly trendy too. Black granite everywhere and sensitive taps which turn on as if by magic.",
+                "datePublished": "2007-11-29"
+            },
+            {
+                "reviewId": "IuqNzQSf-x968GooEL4DXQ",
+                "author": "Spencer G.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I agree with another reviewer that this is a great restaurant for socializing, but the food can go either way.  I arrived as part of a group of five, and we sat downstairs around a (too large) round table with benches.  It was a work-meeting at lunchtime, so non-alcoholic, and I had a delicious lemongrass-flavored iced tea. The waiter was extremely friendly and attentive, but the ordering and delivery of food was confusing, in part because it is all small dishes, and in a group it was difficult to figure out how much to order and sharing some of the dishes proved awkward.  Some of the deep fried stuff was great, but some of the others - meh.  Also, the bill escalated quickly, as all these little dishes add up very quickly.  I would suggest this as a place to go with one or two others who like to share, but it was not great for a larger group.",
+                "datePublished": "2013-07-23"
+            },
+            {
+                "reviewId": "Y5BaongBxHfYsmb8loQOpQ",
+                "author": "Qype User\n helena…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "On your first visit or if taking a ping pong virgin you have to have the jasmine tea. It isn't that great tasting but is a visual delight.\n I pretty much always love pingpong. Had a dull moment a while back when I ordered something which turned out to be a pudding by accident so along with everything else out came some deep fried loveliness with ice cream.\n I've never found anything bad just wish the portions were a little more generous. The lazy sumday is a bit of a challenge as you have to eat loads to make it good value.",
+                "datePublished": "2011-02-09"
+            }
+        ]
+    },
+    "80": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/XHZZJuwpEp6dqkiABe9NDw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "l4-6BFJXk-pxEnUH7mNM0g",
+                "author": "Jennifer B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Have been to a few different Ping Pongs. The food is lovely and straightforward to order.\nI was disappointed on this trip that they staff weren't terribly attentive. They didn't come back when my glass was empty to see if I would like another, or when the food was gone we waited a long time for attention when we were asked if we wanted dessert not if we would like to order any more dishes which came as a surprise to me. They had the potential to get more money out of us!\nSo, no extra drinks and no extra dishes....we went for dessert at Starbucks with a cheescake and coffee...pity Ping Pong missed out this time as on other occassions we have enjoyed our dinner there.",
+                "datePublished": "2009-09-19"
+            },
+            {
+                "reviewId": "H-K6NbFrlDE9EVRBWiYh8w",
+                "author": "Zeta F.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "First time I went I loved it.  And the second too.  After that the novelty wears off and you start to notice the Dim Sum is not the best nor the cheapest.\nBut every time I take someone new they love it, especially if they haven't had Dim Sum before, so we end up going back.\nReally good cocktails and atmosphere.  Try the cumquat mojito and the chinese tea with the flower in it that grows while you watch.  Great for groups.  Part of a chain there are a few around.",
+                "datePublished": "2009-04-14"
+            },
+            {
+                "reviewId": "wRpri6R7Be0b5__BJWRl1Q",
+                "author": "Li-mei H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong is my ideal place for dim sum. It is where Western standards meet Eastern foods and the jasmine flower balls are a pretty entertaining gimmick first time round. I'm not really a fan of gristle or fat on meat, which you can tend to get in a lot of Chinese restaurants.But Ping Pong is polished dim sum, there is no poor quality meat to be had here.\nMy usual list of things to order are: Traditional sticky rice parcels, the jasmine tea (with the ball!), chicken puff, har gau, spicy chicken and vegetable dumplings and char sui buns. This is usually enough for two people and me and my friend always eat them in a particular order as well.\nI like the dark decor as well, its very masculine and the seating is generally good. Though beware the curved tables at the back in this outlet, as although they have a great view are rather cramped when the food comes. Ask if you can sit downstairs if possible, it's equally as nice. There are couple of these around town, but I would say that this one has the best location and the best seating despite it not being the largest.",
+                "datePublished": "2008-11-07"
+            },
+            {
+                "reviewId": "bxU2RjvAdW747_PnfdyINA",
+                "author": "Qype User\n 122549…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I ate at this place about three years ago now and it had, hands down, the best dumplings I've ever had. I kind of fantasize about those dumplings. There were so many!\n It also has a fresh atmosphere and some seriously amazing ice cream.",
+                "datePublished": "2010-01-27"
+            },
+            {
+                "reviewId": "7XicVywkQaKsZs01SZUJbQ",
+                "author": "Qype User\n lovely…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Not at all unlike eating dim sum in a nightclub. It's nothing authentic, but a fairly swish operation, with decent quality ingredients and drinks abound.\n The ordering process is more than a little bewildering, and though the waiting staff do offer to help out with choosing and so on (a la Wahaca), I got the feeling they wouldn't put themselves out too much. Pah, maybe they're just busy.\n We had cocktails to start off with, which possibly wasn't the smartest move, but we had to wait for a table. They were worth it though, unusual and very well made. However it meant that tastebuds were somewhat dulled when we were seated and the tea came along. The teas are great and quite well sum up the whole experience - far from authentic but snazzy. The flowering teas open up when they are poured. Nice touch.\n Anyway, back to the food. Ordering is done by ticking boxes on your own lottery-esque ticket. Pretty standard stuff on display. In addition to a large array of dumplings, we tried a few pork buns, soft shelled crab and a chef special chilli prawn concoction. All the food was tasty, yes. Didn't set my world alight, but it was tasty, arrived quickly and made me happy.\n Ping Pong do a Dim Sumday on Sundays, eat all you can / like for £17. It's not a bad deal for Ping Pong, as it's not a cheap place to go on a regular day, but the formula works. Fresh, quick, accessible. People leave happy.",
+                "datePublished": "2009-05-27"
+            },
+            {
+                "reviewId": "thoVHzCtDGUrN5gElRn7Og",
+                "author": "Dominique L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Disclaimer: I grew up in East Asia, so my expectations may differ from the average Londoner when it comes to Chinese food.\n I've only eaten in Ping Pong once (the City branch), and that was more than enough. As far as I'm concerned, the only thing that this restaurant has going for it is the ambience. The portions were small and the food was bland at best. Definitely not up to the standard of restaurants found in Chinatown even the not-as-nicely-decorated ones. The dishes were rather pricey too.\n While I did not try the drinks here, I'm told by an alcohol-loving friend that this place has some incredible cocktails.",
+                "datePublished": "2009-02-20"
+            },
+            {
+                "reviewId": "BrP9t7QetbgNmIqadjyhLA",
+                "author": "Qype User\n brevit…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great idea: dim sum, jasmine tea with pop up flower, cocktails, and contemporary and clean feel. A mini-chain now.\n Try the sticky rice served in a leaf.",
+                "datePublished": "2009-06-09"
+            },
+            {
+                "reviewId": "WxXA3Nn0FTRO6NWsntXyTw",
+                "author": "Qype User\n maliky…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Dim Sum is tasty and the cocktails are Fab. I went with a group of people the service was o.k.a little pricey so typical for Soho",
+                "datePublished": "2011-10-06"
+            },
+            {
+                "reviewId": "oeWQaUjMZlH2uyiTE27ppQ",
+                "author": "Evelyn M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I love dim sum. Love it. Tasty pockets of deliciousness (think I just ripped off Ping Pong's slogan there) what's not to like? Well, Ping Pong's baked 'Pork Puff' that's what's not to like. This was the first dish to arrive to our table and it was essentially a mini sausage roll that someone had poured honey onto. Sickly sweet and unpleasant, it did not fill me with high hopes about the rest of the meal.\nFortunately, this was as bad as it got and although the Soft Shell Crab was greasy, all three of the steamed dim sum we chose were delicious. The service was very quick and efficient but I resented the waitress encouraging us to over order. Three to four dim sum each seemed a bit over the top and these dishes weren't cheap. In fact, being a big fan of dim sum I noticed that these prices were at least a pound more than anything you would pay in China town. Ok, you get to sit in sleek surroundings and sip cocktails but frankly I prefer my dim sum with a little more character and would rather sit in some weird Chinese back room restaurant than have another watery 'Lychee and roses' cocktail for £6!",
+                "datePublished": "2008-12-17"
+            },
+            {
+                "reviewId": "R57W8Kj4DrK9zr2qBucXCA",
+                "author": "Anna A.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Dim sums in every shape and flavor is a way to describe Ping Pong. There are lots of Ping Pong's in different areas in London, therefore a safe option to find one in your part of town.\nIn my opinion this place is perfect for visitors who like to put little bits and bobs together. The choice is extensive and for those who have a hard time making up their mind, there are set menus.\nYou get a pencil to tick the right menu box for the dim sum chosen. Ping Pong recommends 4-6 dishes each, which mean a table for two will be covered by all sorts of dim sum baskets in every shape and form. 'Surprise' is the right word to describe the dumplings you choose, as you do not know what it tastes like before you have tried each of them.\nI little tip, ask the waiters to not bring everything at once - it is a shame when food gets cold. The place is an experience, it not only holds surprises for you but also engages with the customer interactively. You will not get bored and you need to be skilled in eating the dim sum with chopsticks.",
+                "datePublished": "2008-11-12"
+            },
+            {
+                "reviewId": "BE2apHnaZA2ai87OVZF5RQ",
+                "author": "Qype User\n Sophie…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong is a perfect place to share a dinner with friends in a trendy and modern atmosphere.\n There are 12 place Ping Pong all around London, so choose the nearest and enjoy the moment. You can also choose to go to this awesome place to drink good coktails.",
+                "datePublished": "2009-01-29"
+            },
+            {
+                "reviewId": "jablgc7b_e2hvCKoKic7Zg",
+                "author": "Dina G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "When they say good things come in small packages, they were certainly referring to these delicious dim sum bites!\nIf there is any place in this world i  would spend £2.50 for 4 mouth fulls..it would be this place! hands down,no questions asked!! \nMeat eater or veg, they can accompany for both with equal rights seriously how many times have you gone to a place for a meal and you look at the menu and the veg to non-veg dishes ratio are like 1:10...anyone else have that problem?! But fear not this place shant disappoint on that front.\nThe food is healthy so no need to feel guilty for indulging. You would think with such portion it would take you at least 10 dishes to become satisfied but i was proved wrong! and believe you me this is the only time I am greatful to be proved wrong. I ordered 3 dishes and was relatively stuffed and that saying alot because I love food and I can eat!!\nThe drinks are rather extraordinary from the colours and the taste. This is one place were both alcoholic and non alcoholic drinks are enjoyed in the same matter. They are vibrant, thirst clenching and unique...\nThe setting are modern and abstract, the ambiance is relaxed,warm and welcoming. This place is perfect for birthdays, drinks after work, lunch, dinner, social get together, dates, and to simply indulge.\nneed i say more run to your closest one.",
+                "datePublished": "2009-09-26"
+            },
+            {
+                "reviewId": "4r8YBaThxOKqVP8WXm4tzg",
+                "author": "Qype User\n Jessic…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I love going to pingpong. The service is always brilliant and the food... the hoi sin vegetable puff with a honey glaze really is to die for! they also sell some unique cocktails and teas. I recommend the Kumquat Mojito. Brilliant for sharing, that means you can order a larger variety from the menu!!",
+                "datePublished": "2011-01-07"
+            },
+            {
+                "reviewId": "7UNaEHHFze5ZGcyVN-zEgw",
+                "author": "Qype User\n Sis…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I love the place.I eat at the one close to Carnaby Street and the food was amazing! Ok..I did not pick up the bill so maybe thats why I find the price ok\n I had a special cinnamon cocktail that was fab ( I had 3 )!!! The service was a bit on the slow side to make the first order, but after that all wa smooth!",
+                "datePublished": "2009-02-24"
+            },
+            {
+                "reviewId": "UORQlSkYBXm5C-2FV7dZwg",
+                "author": "Rosie S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "When I am out drinking in Oxford Circus, after a few beers my friends and I often head to Ping Pong .Basically this is what this place is good for, a quick, light bite. Love the decor and love the fact that its easy. Yes I could walk to Chinatown for Dim Sum, but why waste drinking time! Also, I like to eat in stylish environments and this place looks great.I really like the pork puff, but could be too sweet for some people Oh and GREAT cocktails!",
+                "datePublished": "2009-04-13"
+            },
+            {
+                "reviewId": "MPef7y7fHc_iq_tXTu1BpA",
+                "author": "Jon W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Been to this Ping Pong many times. Good spot for groups (with enough notice). Excellent and creative drinks. Decent food, but nothing very special. The usual \"asian fusion\" kind of fare that seems so commonplace these days. I go back just for the fun drinks :)",
+                "datePublished": "2010-01-27"
+            },
+            {
+                "reviewId": "g0Ub9Ic7n_Y2J2htDgAh1g",
+                "author": "Qype User\n lauren…",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "We went to this restaurant as a group of about 15 for my friend's birthday.\n Upon arrival I went to the bar and asked that I seperately order two bottles of expensive champagne and pay for them now in cash so as to keep them off the main bill. I wanted this to be a nice surprise for the birthday girl. They looked at me in a total state of confusion as to why I would want to do this. I eventually paid up and returned to the table.\n The champagne took 20 mins in getting to us, meanwhile I was trying to put everyone off ordering drinks so as not to spoil the surprise.\n The drinks eventually arrived and we ordered the food. The waitress was rude and uninterested. It took ages for her to take our ordering slip which we had promptly filled out. We each expected to make 2 or 3 rounds of orders but in the end it took 2 and a half hours for them to serve us just 2 dishes each, we gave up and I asked that the cake be bought out. Someone said they would deal with it. A few minutes later the rude waitress returned and asked loudly right infront of the birthday girl \"should I bring the cake out now?\" it was meant to have been a surprise.\n 20 mins later and the cake hadn't arrived, I asked her again, but still no cake arrived. Eventually I asked the manager who said he would deal with it which he did. However, as soon as 10 members of our party (including the birthday girl) left for a cigarette, he bought out the cake... To an empty table!!\n Eventually we complained and only paid a fraction of the bill. But this wasn't the point. It took 3 hours from start to finish and we received very little food. It totally ruined the evening and we were all still so hungry that we ended up getting noodles on the way home.\n If I could, I would only give one star. Thoroughly disappointed, will never visit again.\n Also, food that DID arrive was average.",
+                "datePublished": "2010-09-20"
+            },
+            {
+                "reviewId": "3TOE7sBps7jrFyhRhhB0fA",
+                "author": "Kurtis P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Aside from the wait, the experience was wonderful. The selections were great and presented beautifully. The food was great, and the interior design and atmosphere was a lot of fun.",
+                "datePublished": "2009-06-09"
+            },
+            {
+                "reviewId": "7UnMpM7zY2oPYUaRqz2EGA",
+                "author": "Benedict E.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The food is... ok. But it always feels like you're paying as much for the decor as the food, and the whole place is trying a bit too hard to tell you how cool and urban and happening you are. There are half a dozen places around the corner in Chinatown you could go to for better food (Top of the Town, maybe) - just ask for the dim sum menu and point at random.",
+                "datePublished": "2009-01-12"
+            },
+            {
+                "reviewId": "51fYO_4uSmLQa5l6XMQ6yA",
+                "author": "Qype User\n telema…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Where I come from something like ping pong would be amazing, but in London it arguably is nothing special. I nevertheless love to go there for a quick lunch (it's so close to the Soho office). And I don't really mind that they trade true authenticity and top quality for style and price. As long as they serve dim sum the way they do I'll come back.",
+                "datePublished": "2009-06-16"
+            }
+        ]
+    },
+    "100": {
+        "id": "jKyW7hm6ardg7ecRfuVLqA",
+        "name": "Ping Pong Soho",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Soho",
+            "streetAddress": "45 Great Marlborough Street\nLondon W1F 7JL\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/XHZZJuwpEp6dqkiABe9NDw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7851 6969",
+        "review": [
+            {
+                "reviewId": "wyvYhs904QnsObj5HI38sA",
+                "author": "Qype User\n Hannyp…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Tried the Oxford Circus PingPong for the 'DimSum'day lunch last Sunday. Cocktails do live up to their billing and the apple cinnamon one was incredible. Despite the pork puff tasting suspiciously like a Greggs steak-bake it was all delicous. The staff were friendly and the atmosphere very nice. I am sure that there are cheaper/tastier places to get Dim Sum but Ping Pong is really great for a lovely lunch or drinks.",
+                "datePublished": "2009-04-02"
+            },
+            {
+                "reviewId": "srpKgtK-dVLvLJ0WpYol1w",
+                "author": "Matt C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Love Ping Pong. I am a big fan of dim dum and when I found out London has a place that serves inexpensive Asian fare, I jumped on it. I've been a fan ever since. This place is always packed and for good reason. They serve top quality food. Like other places I frequent, I tend to order the same thing over and over. And here's what arrives; chive dumpling, corriander, dumpling, char sui bun, duck spring roll, and prawn toast all washed down with a beer or two. This is a fantastic place though at times the service is lacking.",
+                "datePublished": "2008-11-22"
+            },
+            {
+                "reviewId": "LgEZU-to2M3CYqgAseLC2g",
+                "author": "Anne S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We always choose this place for dinner when we want to have girls night out with my friends. The place has a clubby vibe and can get very busy and noisy during the weekends, but it is still cool and relaxed. I suppose you could call the restaurant a bit trendy but it is not too pricey and service is friendly.\nThe food is served in small dishes so it is fun to share and try out different sorts. Pick up Dim Sums in any flavor you like, combine with  sticky rise and veggies, and for drink I would recommend the jasmin flower green tea( so beautiful). But if you don't feel like having tea all night, also the drinks are fantastic. \nThe location is so central that after the dinner it is easy just head to the night life in Soho!",
+                "datePublished": "2008-11-13"
+            },
+            {
+                "reviewId": "DN-iWoWS29AkqBd4XM65Pw",
+                "author": "Sanjit C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Whilst lovely, Ping Pong is starting to get a tad formulaic. It still hits the spot, with a fine selection of Dim Sum . . . . but, well . . . . it fails to light fires in the way that I would want or in the way that say, Yautcha can. Granted, Yautcha is in a different league price wise and dim-sum there are freshly made to order. But Ping Pong's cut-price ready-meal formula is starting to wear thin.",
+                "datePublished": "2008-11-06"
+            },
+            {
+                "reviewId": "ZRQDUP5y6EV_YBLUAvYAvA",
+                "author": "Qype User\n goochi…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Pretty good Dim Sum, although probably not as authentic as you can get in China Town, (so long as you know where to go), no bookings unless large group. Stylish decor, good drinks menu. You can sit at at bar and watch food being prepared, or sit on stills around the atrium and there are tables from 2-12 people. Service can be erratic when busy, which it usually is. Reasonably priced.",
+                "datePublished": "2009-01-16"
+            },
+            {
+                "reviewId": "H8Ej6_1VRaoXwvb2NFVclw",
+                "author": "Qype User\n m3r0v1…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Just delicious, from the har gau to he jasmine bulb tea, just totally delicious all of it. cool modern atmosphere, reasonably quick service but not fast food quick, nice place to chill and chat with mates and great great food especially on Sundays when they have an all you can eat for 17 note, and i have taken advantage of that several times. The one in hampstead is also very good and usually less busy.",
+                "datePublished": "2009-03-02"
+            },
+            {
+                "reviewId": "21xMsSDUmH6EYNzK_C-V_Q",
+                "author": "Qype User\n norm…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "One of my favourite restaurants in London! It has a great atmosphere. Sit and enjoy a cocktail while you wait for your table. Very good service and food to die for!!",
+                "datePublished": "2008-11-28"
+            },
+            {
+                "reviewId": "in5iqDDJ1EpW_owVFPHV5Q",
+                "author": "Qype User\n w4tso…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great place to eat tasty, reasonably-priced Dim Sum in the centre of London.\n Although we ate around 6.30 on a Saturday evening, the three of us got a nice table\n downstairs no problem and despite being busy the food was timely and the staff were\n friendly.\n The interior is quite trendy but not imposing. Three of us ordered cocktails and none of us\n were disapointed, not bad for around 6 quid a drink.\n The food itself was very tasty and nicely presented. The steamed spicy prawn balls were\n particularly nice.\n Nice restaurant to take friends and unwind after a hectic shop on Oxford Street.",
+                "datePublished": "2009-03-09"
+            },
+            {
+                "reviewId": "WH48FKAtFqczICYUpfU7wg",
+                "author": "Qype User\n Tink…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Great place for Dim Sum.. funky interior, big round tables ideal for groups and reasonable priced. Yummy!",
+                "datePublished": "2007-10-31"
+            },
+            {
+                "reviewId": "bF6WjgOMBn73f-OSKXDslg",
+                "author": "Qype User\n hannah…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Luckily I managed to get to Ping Pong in time to avoid queuing, though having to wait at the bar for a table allowed us to enjoy one of their delicious freshly made cocktails which really were very tasty.\n Not knowing what to expect we went for a set menu (Dumpling Fix) which gave us chance to try several of their dishes for much better value than selecting individually, which would work out fairly expensive as most of them are around £3 each compared with the £11.50 we paid for 8 dim sums as well as duck spring rolls and pork puffs, and a mango pudding.\n It was the first time that I had tried dim sum, and I'm not sure it's really for me, though I certainly did not leave feeling hungry with dish after dish being brought to us.\n Definately worth a visit, even simply to determine whether you're a fan of dim sum or not.",
+                "datePublished": "2008-01-01"
+            },
+            {
+                "reviewId": "1fgsZp9SddPY7eRfWDDX_w",
+                "author": "Qype User\n minjuk…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "nice selection of dimsums and buns in modern building. it gives better taste i guess.",
+                "datePublished": "2011-02-16"
+            },
+            {
+                "reviewId": "ppFzqy1TGDMm6Y9KPQ99Qw",
+                "author": "Qype User\n Jimenc…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Was the first dim sum place I ever went to so it has a special place in my heart, but i've found that the genuine chinese-run places are a cut above. Still, the food is good and tasty, and the cocktails are stunning for the price (especially the ones with lychee juice in them). Try out the sunday all you can eat menu - it'll fill you up in no time!",
+                "datePublished": "2008-11-28"
+            },
+            {
+                "reviewId": "ThM1caF0wkNMpg74qnGW_w",
+                "author": "Qype User\n c_mont…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Ping Pong has got to be one of my fabvourite easy-dine restaurants, and not just because I'm a massive fan of dim sum. The whole style of communal eating is condusive to a fun and social night, and their cocktails are adventurous and tasty. Best going without a budget, as the tasty dimsum treats are best ordered without holding back. Look out for the 'Chef's Specials' too as they often offer a new take on tradtional dim sum treat.",
+                "datePublished": "2008-11-27"
+            },
+            {
+                "reviewId": "3U10wJomegkNgvSRmgZPrg",
+                "author": "Qype User\n MooCo…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Note to oneselfmust do another Ping Pong Lazy Sumday!\n Went here on the recommendation of a friend. I'd never experienced dim sum before, and subsequently now find myself drooling at the prospect of another of Ping Pong's fine char sui bunsOh dear it seems I'm hooked! \nBaked chicken puffs, seafood or chive dumplings, Jasmine chicken spring rolls and crispy prawn balls headline the growing list of favourites. Not to mention the beautiful flowering Jasmine teas.\n Portions are served in pieces of 3 - perfect if you visit with a couple of friends and take a culinary tour of the unlimited Sunday menu. Arrive in a small party, and you may find yourself sharing a table downstairs - as is the norm, but here is where the similarities to some of China-Town's old-school haunts end.\n The decor is all chocolate modernism with a minimalist kick. Even a visit to the loo is all theatre here!\n My one gripe then - and this has yet to spoil the day - is that the friendly staff are only somewhat attentive, being as at some point during service we felt forgotten - on both visits.\n That said, we will be returning for what feels like a lot of luxury for only a little bit of dosh in a truly lovely setting.\n Little steamed parcels of deliciousness indeed!",
+                "datePublished": "2008-08-25"
+            },
+            {
+                "reviewId": "Y8ohkPc_DrBZo6IaUJclwA",
+                "author": "Qype User\n foodie…",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Went to Ping Pong for dim sum with a couple of friends a few weeks ago, and I find their dim sum selection is as good as those offered in China Town. The prices are slightly more expensive than China Town, and the quality is about the same. I am not hugely impressed by the quality of food. However, on the positive side, you will be eating in a nicely decorated (contemporary) environment. Recommended if going with some friends whom you are trying to impress.",
+                "datePublished": "2008-11-21"
+            },
+            {
+                "reviewId": "pXMUaOqzf6rP2qcnoRHLnA",
+                "author": "Qype User\n rampra…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good Restaurant uppu!!!!!!!!! We went a group of friends to this Restaurant on occasion of my birthday. My friends all suggested me to go for this restaurant. After we came here we are very much pleased with food and service. I am really very Happy to celebrate my birthday in this restaurant. Next year also i would like to celebrate my birthday here only. I would suggest my other friends also to come here.",
+                "datePublished": "2010-11-18"
+            },
+            {
+                "reviewId": "MemBb8q1yynP_6GoslKA3A",
+                "author": "Qype User\n Coppaf…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good restaurant for groups of friends to gather together for a fun meal and a change of scene. If your new to the place order a set meal for a choice of different steamed dim sum the best choice for newbies would be 'Sum it all up' a very tasty set meal of about £12 and order an extra side of either steamed buns or bbq ribs if you feel for a top up. Very cool atmosphere and quick service. Will go again and again. Although you can pick up a steamed bun in china town for £1.",
+                "datePublished": "2010-08-13"
+            },
+            {
+                "reviewId": "MeFT5QUrjxMiuXki00Iqxw",
+                "author": "Qype User\n bogli…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Decided to give this place a try last night and was really impressed. Inexpensive, good atmosphere, and polite staff. Highly recommend the spinach and prawn wrap.",
+                "datePublished": "2009-08-05"
+            },
+            {
+                "reviewId": "Iq0jH9v4Exa4LobJ74xmAA",
+                "author": "Qype User\n carrym…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "it's a bit like the tardis,looks tiny from the outside , but goes on forever and has a big downstairs.. the atmosphere is good, I'd only say that if you haven't been before i didn't know what to order. so probably ended up with the blandest thing on the menunext time i'll go with someone who knows what there ordering, the drinks alcoholic or not are great good.long tall refreshing  and the toliets are a talking point.",
+                "datePublished": "2009-02-21"
+            },
+            {
+                "reviewId": "Oo3Au3op_gs1qietx9rerg",
+                "author": "Qype User\n susi1_…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "hey i had late lunch here last saturday with a good friend of mine and i really have to say it was just perfect! the little parcel were so nicely arranged and awesome yummy. the cocktail freshly made with best juices were übergreat. the only thing the could enhance would be the chocolate buns, european chocolate is so much better ;-)",
+                "datePublished": "2007-11-05"
+            }
+        ]
+    }
+}
