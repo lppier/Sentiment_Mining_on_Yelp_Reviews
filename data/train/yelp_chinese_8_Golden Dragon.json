@@ -1,0 +1,1322 @@
+{
+    "0": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "SHDknmQf_9BoWnUGoqHRtg",
+                "author": "Gordon M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good selection of dim sum, overall very good but I was expecting something that I couldn't get back home in Glasgow. Loon Fung in Glasgow is actually pretty similar in taste and the selection available.",
+                "datePublished": "2018-10-16"
+            },
+            {
+                "reviewId": "r0NwTEJXF-ES8z-aR7a3nQ",
+                "author": "Lily P.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The staff is so rude. My one year old daughter played with 4 toothpick. The waiter said in Cantonese, \"Don't hurt yourself. Otherwise you will cry with no tears.\" It means you can only blame yourself. He was not showing any care at all.\nAnd then my daughter played the china spoon. We was just gonna to replace our own plastic spoon. The same waiter came across again with a very mean tone: be careful don't break it. \nHow can customers have enjoyable dining experience in your restaurant?!!",
+                "datePublished": "2018-10-07"
+            },
+            {
+                "reviewId": "oUhCt0oO7r3QuizOpV2SdQ",
+                "author": "Ashley D.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "We stumbled on this place in Chinatown and were hoping to get dimsum, but noticed that they only serve it for lunch sadly. The interior is clean and the menu is expansive with options for everyone.\nWe ordered the duck, the chow mein, tofu with broccoli, and orange chicken. All of the food was FAR too salty besides the duck which was cooked perfectly. The only thing I would order again would be the duck. Everything else was too greasy, slimy, and salty.\nOverall, would not come here again! I had hopes since the yelp reviews were decent but this place disappointed me.",
+                "datePublished": "2017-06-20"
+            },
+            {
+                "reviewId": "O64CrdMctoF_wDPMVU-LZQ",
+                "author": "Cathryn G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "My husband and I found ourselves wandering around Chinatown shortly after seeing a musical in the West End.  Many of the restaurants had menu boards outside.  Most of them were open late and we were interested in a snack.  \nI had a terrible time deciding where to stop.  I'm pretty picky about my Chinese food after doing a study abroad in Shanghai a few years ago.  However, when we came upon Golden Dragon, all signs pointed to \"here.\"  First, there were about a million Yelp stickers on the window and I love yelp, it rarely steers me wrong.  Secondly, Golden Dragon is the name of our favorite Chinese restaurant back home.  Third, my husband saw the ducks and knew that was exactly what he wanted so in we went.  \nMy husband debated over which version of the duck to get and eventually decided on the duck with rice based on the recommendation of the server.  He LOVED it.  He said it was one of the best things that he ever put in his mouth.  It was by far and away his favorite meal in London, but one of his favorite meals of the year.  He wouldn't shut up about it the rest of the trip.  \nI ordered egg fried rice which I know sounds really boring, but it sounded incredible to this pregnant lady.  My stomach is super out of whack these days so I wanted something simple.  It was also very late so I didn't want to eat anything too heavy either.  I don't think the photo I took of my rice does it justice.  It looks really boring, but it was actually super delicious.  It had great balance of flavor.  \nFinally, the prices were reasonable and the service was fast and friendly.  I would definitely recommend this place.",
+                "datePublished": "2017-12-06"
+            },
+            {
+                "reviewId": "vhc9fBXTz0VCUSAcWBWO1A",
+                "author": "Zean C.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A nice busy chinese restaurant in the heart of China town London. The restaurant is clean - 2 story and full of people dining. \nThe food is flavorful, priced fairly, but I can tell that they used a lot of MSG. I felt the saltiness and headache after a couple of hours.\nThe roasted pecking duck was great. And so as the rest of our order.",
+                "datePublished": "2017-06-01"
+            },
+            {
+                "reviewId": "fXJJ4zbYBACBUM6FjNvPTA",
+                "author": "Matt B.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "fresh ingredients but bland seasoning - no spice in the kung po. Service is as expected for Chinatown.",
+                "datePublished": "2018-08-28"
+            },
+            {
+                "reviewId": "dKtrmM50G90q9Ov68KD7dA",
+                "author": "Kevin L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The dinner menu here makes it easy to order your food just by pointing, but too bad not everything you order looks like the picture. No surprise some places do that. But then I looked over at someone else's table and their version looks like it's ready for a tv commercial. The waitress told me it was because I said I wanted soft noodles inside of crispy. The bbq pork looked like it was days old, had no red outer glaze, and was inedible. I asked the other waiter if he would eat it and he paused for a good minute making an awkward smile then replied no. Nothing was done to resolve this.  \nThe other dishes we ordered were ok at best.\nFYI - Service fee of 12.5% is added to your bill automatically. The table next to us was screaming about it",
+                "datePublished": "2017-08-03"
+            },
+            {
+                "reviewId": "7H1tyzHOAO6A4RCdAOJWXw",
+                "author": "Chris E.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "My girlfriend and I luckily stumbled upon London's Chinadown while taking a stroll around Piccadilly Circus. Although there were plenty of restaurants to choose from, we rolled the dice on Golden Dragon after seeing their decent Yelp reviews. \nIt was no surprise that about 95% of the customers were non-Asian and, from the looks of it, were probably tourists, but don't let that deter you from thinking the food was not legit. Once we got inside and were seated, we actually could have easily mistaken the restaurant for any Chinese restaurant we had been to back home in New York. In addition, we were greeted by employees that spoke to us in Cantonese, and in a way it made us feel like we were home. \nAs for the menu and food, the menu selection was huge and very detailed. Every legit food that we could get back home was on the menu for all to see. All of it in Chinese and English. The only gripe we had about the menu ... the prices! Everything was much more expensive here.\nAfter mulling over the menu, we decided on the Crispy Sucking Pig, Orange Duck and Tofu with green vegetables. When the dishes came out there was an obvious observation and that was that the dishes were kind of small for family style type food. The flavors were OK, but nothing like we hadn't had before. However, it wasn't a bad thing either because we now knew that London had a Cantonese food scene that we didn't realize existed prior.\nBottom line: The restaurant was huge (with 2 floors), the employees were fairly nice and spoke good English, the menu was legitimately true to Cantonese style food and the flavors were average compared to what we had experienced back home.",
+                "datePublished": "2016-11-03"
+            },
+            {
+                "reviewId": "uTMyH08unONkl7KIdoI-dA",
+                "author": "Ryan S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Yuck. Fried rice extremely bland. Pork slices with greens not what was described and once I got it it was tough and chewy to the point where I had to spit it out. Soup was bad. I'm only giving it two stars because I'm in a good mood. My advice: go somewhere else",
+                "datePublished": "2018-05-05"
+            },
+            {
+                "reviewId": "tEDPmlG0r0paf9BxmUQ_MA",
+                "author": "Liz H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Food bland.  Overcooked noodles that was supposed to have crab.  Lots of carrots, green stuff, and needed a magnifying glass to find crab.  When we arrived we were taken upstairs and put with the all the non Asian people. We noticed upstairs it was paper napkins, downstairs  cloth napkins. Watch out they charge 12.5% service charge.  Typical tip 10% in London.  As you can imagine  don't expect great service.  Huge disappointment as this place was recommended",
+                "datePublished": "2018-05-21"
+            },
+            {
+                "reviewId": "M-6JBLcEJgLrbpgGHvWMxA",
+                "author": "Jonathan C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "This restaurant is our favorite Chinese spot in London.  Every time we're in London we always make it a must do.  We come here for the Dim Sum which is our favorite.  We live in the states and I got to admit this is the best Dim Sum I've ever had, including back home in the US.",
+                "datePublished": "2017-02-24"
+            },
+            {
+                "reviewId": "ARsPc_oOiKO2KAr6o-v8_A",
+                "author": "Rashida L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Try the Ho Fun- it is phenomenal! We also got the vegetarian stir fry with tofu but the tofu was pretty dry.",
+                "datePublished": "2018-05-01"
+            },
+            {
+                "reviewId": "zqJhvXZx0ezwt4je8OsV9A",
+                "author": "Jennifer F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Could this restaurant sever the best Peking duck in town? I dare not offend, but yes!\nMy mates and I were just craving some Peking duck and this restaurant, filled with yelp stickers on their window, served us exactly what we wanted. I would say I have an average knowledge of Peking duck around the world. Beijing tends to be really fatty and oily because that's how they like it. Hong Kong tends to serve the skin and aerate it so it's crispy and light. London, on the other hand, serves it crispy and light but cuts off loads of meat so we can eat the meat too!\nWe also ordered some other side dishes as well. Roast pork, Pei Pa Tofu, Kung Po Chicken, Garlic Kale. They were all very tasty and I can see myself trying other things on the menu in the future. I'm making a mental note to try their Dim Sum in the new year!\nIn terms of service, I felt that it could be better. Like any Chinatown restaurant, I find that they're a bit pushy. They wanted us to order food as soon as possible, eat and leave. I'm use to that. But I don't see why they need to be that pushy when they still have extra tables for customers.",
+                "datePublished": "2015-12-23"
+            },
+            {
+                "reviewId": "Yd3UxlaWC5VyTmxDJCNtvg",
+                "author": "Bianca W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Fantastic dim sum place. \nWe dropped in here with a party of five on a Sunday afternoon and got a table after only a twenty minute wait.\nStaff are very attentive and friendly. Their dim sum menu is quite large and everything was super tasty. Service is fast, even in a packed restaurant. There's definitely a reason people queue up to eat here.\nWe didn't try their regular menu, but I'd highly recommend their dim sum, especially for larger parties!",
+                "datePublished": "2015-12-29"
+            },
+            {
+                "reviewId": "rMoMq8vAAYPW6lf0GcWQ6A",
+                "author": "Daniel W.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Horrid horrid experience. Please read review and consider what I am saying. The place says Dim Sum on the outside but does not serve dim sum passed 6:00pm so went went for the incredibly lackluster menu. Food was bland, service worse paid and went to leave, left my receipt on the table upon leaving was grabbed by the staff who said they needed the signed copy, which I left on the table. Was physically held against my will and demanded the police intervene and they never called them. Please avoid, very unsafe atmosphere.",
+                "datePublished": "2018-02-12"
+            },
+            {
+                "reviewId": "v7dTJ6xcQ7olesJ5Ib3A_w",
+                "author": "Nathan A.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The waiters spilled hot tea on my leg and it essentially BURNED my leg. Now I have a dark cherry mark on my leg. Food was bland and they tried to charge us extra on the bill. Really bad Chinese restaurant.",
+                "datePublished": "2018-06-15"
+            },
+            {
+                "reviewId": "p0ffb5U1HxBwaaY6j7u0hg",
+                "author": "D. W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "The best thing I had was the dim sum, which was exactly why I stopped in.  Nice size establishment tucked away in china town (London).  I wish the customer service was a little better, and the knowledge of the dishes, but maybe I misuderstood some things.  All in all, a decent restaurant, with a very large chinese menu.  My szechuan was good, and spicy just how I like it!",
+                "datePublished": "2017-09-29"
+            },
+            {
+                "reviewId": "N9GvxbsZbqkkeeAgA0Yiyg",
+                "author": "JoAnne F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Recommended by a friend.  Food was great! They were slammed so customer service is at a 4. Would recommend to other",
+                "datePublished": "2017-08-12"
+            },
+            {
+                "reviewId": "icVYdTaTwzjrFe2v4uN7uw",
+                "author": "Kirstin L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good food in London's version of Chinatown. I was a little disappointed that when I arrived they no longer were serving dim sum. Made do with what they had on the menu (lots of good food) and had a delicious and filling meal. I was made slightly uncomfortable by the fact that the staff circled the dining room and I felt like I was being watched throughout my entire meal. What I loved about this restaurant was that they were able to store my large travel backpack for me while I ate (I had just come from the train station). There is plenty of seating, so getting a seat shouldn't be too difficult.",
+                "datePublished": "2017-02-15"
+            },
+            {
+                "reviewId": "SDSPc1FEwwHqGRG6-9OGaA",
+                "author": "Kristopher P.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "If you love to read an impossible to navigate menu and have a waitresses question how thirsty you are,then the Golden Dragon is for you.  I am going to assume that she had tenure, because that is the only reasons to give piss poor service the way she did. Other than that The food was pretty tasty and there were a couple of different wait staffers that help and the brief interaction we had with them more in enjoyable than the what seemed one minute to long with the waitresses with RBF.",
+                "datePublished": "2018-05-17"
+            }
+        ]
+    },
+    "20": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "r41mHFapUCqmlbsD1awUIw",
+                "author": "Belvo M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "We were drawn in by the dim sum, but realized they only had it at lunch. The food was good, the duck was excellent. The service wasn't what we expected. No personality and our chairs were bumped by waiters a few times with no apology.",
+                "datePublished": "2017-11-20"
+            },
+            {
+                "reviewId": "h2YipAEHnkxN8OSRKbKbBQ",
+                "author": "BRUCE J.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Was looking for a good place for Chinese since that is something that I cant find easily back home.  This place is in the heart of Chinatown in Soho and while it was very busy the night I was there, it took less than ten minutes to be seated.  Taking a tip from other reviewers I tried the crispy duck appetizer, then some wonton soup, followed by a crispy beef with chili main course.  Overall the food was quite good and I did not find it too salty as some reviewers have found it.  The duck was the best and I would not hesitate to go back just for that dish.  The soup was overflowing with wontons which was great, but the flavor was mild.  I expected the crispy beef with chili to have some heat to it, and it may have, but this was cut by its sweetness.  Reminded me of General Tso's chicken I have had elsewhere, which would have been fine but I was expecting a more savory and hotter dish (this was no fault of the food or it's preparation, just my expectations).",
+                "datePublished": "2018-03-11"
+            },
+            {
+                "reviewId": "F_KVEsHr_uFet86w7QX6MA",
+                "author": "Michael C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I'm writing this as I wait to digest my starter. Don't get my wrong, our main courses are in front of us but we so, so full. Words cannot describe how we're feeling right now.\nIn short, great food but do not over estimate yourself. You cannot take down the following between 2:\nHalf a duck,\nSpring rolls,\n2 soft shell crabs,\nPrawn crackers,\nCrispy pork belly on rice,\nSea weed,\nSingapore noodles,\nCrispy shredded beef. \nIt's a pity that they didn't advise us on the amount we ordered as the food is generally pretty good. Going to have to get a doggy bag...",
+                "datePublished": "2016-01-24"
+            },
+            {
+                "reviewId": "wI6l5PlakkV1EaK68OdL2g",
+                "author": "Juria Y.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Love coming here for dim sum. Service is good, food is great and prices are reasonable. There's usually a wait so be prepared.",
+                "datePublished": "2016-01-03"
+            },
+            {
+                "reviewId": "wRcTbT0YadxMu1nsQxi1nA",
+                "author": "Armen K.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "45 minutes...still waiting for shrimp...beef and rice...We ask manager how much longer? With attitude he said that it is normal to wait. Also he added...you can leave if you dont want to wait...Really? \nFood just Okay...nothing special...\nTry to find other place to eat.",
+                "datePublished": "2017-03-11"
+            },
+            {
+                "reviewId": "IROxypI7Wdc5uZ5YxewEOA",
+                "author": "Javier M.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "I wish I could put 0/5. I wouldn't recommend it. We never even go to the food because we had to order a minimum of 10 pounds per person plus the hidden service charge of 12.5% and none of us wanted more. The server would be judging all of us on our orders. They offered tea and didn't even mention that it cost money until AFTER we all poured a glass. It was the WORST experience I've ever had. Piece of shit!!",
+                "datePublished": "2018-03-19"
+            },
+            {
+                "reviewId": "zWXrWa0jE_xE0G-dsIXpLw",
+                "author": "Beverly Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I came here with a couple friends on a Tuesday evening (around 6 pm) and the place was already fairly packed. The wait wasn't too bad though - no more than 10 minutes. For food we went for three dishes - sauteed prawns with vegetables, monk vegetable dish, and honey barbecue pork (I don't remember the exact names) - and three orders of white rice. \nAfter we ordered, the lady taking our order indicated that she thought three dishes wouldn't be enough for us - this was fine, but what bothered me was how when we said we would order more later if that turned out to be the case, she said that if we did that we would have to wait 20 minutes for the next round of food...I also didn't appreciate how when we got three orders of rice (for four people) and I asked how big the rice portions were, she said they were \"very small\" and \"only for one person.\" Both of her claims turned out to be wrong, however, as the three dishes were perfect for feeding four people, and the rice portions were HUGE.\nAnyway, I was very satisfied with the food. My favorite dish was the prawns, which I thought was very light but well-flavored. I also liked the monk vegetable dish, which came with stir-fried tofu, mushrooms, and other greens. The honey barbecue pork though...I wasn't a fan - it was very difficult to chew and was too heavy on the sauce, in my opinion.\nOverall, I enjoyed my meal here (despite the service in the beginning) and the food definitely satisfied my craving for Chinese food. I've been to a couple other Chinese restaurants in the area, and this place has definitely been my favorite so far in terms of both food and service (overall).",
+                "datePublished": "2015-07-28"
+            },
+            {
+                "reviewId": "40adqBfV_CsEfwu1jU1DkA",
+                "author": "Sargis N.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "1. Zero customer service. 2. Manager is super rude. 3. Waiting for a food for 45 min and when we asked the manager how much longer we have to wait answer was as much as we need to prepare your food, do you still want it or you wanna leave? (Helllloooo I'm your customer be nice) 4. Come once to USA and learn to give a customer service and be polite, smile and be nice.",
+                "datePublished": "2017-03-11"
+            },
+            {
+                "reviewId": "5yjo0n11AkzhN8F5IMb6tA",
+                "author": "Don S.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Terrible service and slimy, terrible food. A package of top ramen would have been better than the sad excuses for noodle dishes - the shrimp looked like the dried shrimp that come in cup-o-noodle packages. Their famous duck was dry, sad and disappointing.",
+                "datePublished": "2017-03-27"
+            },
+            {
+                "reviewId": "XzPtfraoJA4S6oVKd0Vuiw",
+                "author": "Lin L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Yea... we waited for more than 30min for our dishes. Very hungry. These were really not complicated things to make.",
+                "datePublished": "2017-05-13"
+            },
+            {
+                "reviewId": "aDMkMiJLDMOldhV9vUXxPQ",
+                "author": "Thusi N.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "After a very long and exhausting day walking around in the streets, or more likely the underground hopping in London, we found our way to ChinaTown and visited this place because of a recommendation from a friend. It didn't take long before we were seated, at first we were told to go upstairs, but the lady saw we had luggage and didn't wanted to hand them in the \"wardrobe\" so she found another spacious table for us close to the door. We ordered a couple of things and got our chinese tea pretty quickly. 1 teapot were charged for 5 people and I see the same teapot everywhere it doesn't even depend on how many people were drinking from that. Our orders arrived pretty fast and before we thought about taking picture of our first dish, it disappeared quickly since we were so hungry! It looked delicious but I miss a bit taste to it, the others at the table agreed it was the fried beef ricenoodles. Then our fung chao arrived, there was nothing to complain about it. The charsiu buns were also fine! We also ordered 1/2 duck, it was perfect but a little bit raw since the meat was a bit too rosy. We also ordered charsiu cheong fun and it was smooth and delicious! \nLast but not least, we know that in London there's always a discretionairy charge so we were fine with it, but the waiter never came back with our change, at least if he was expecting tips, he should have come back with our money first, BEFORE TAKING WITHOUT ASKING. HOW RUDE! This is why it's a 2-star worth because of the service (VERY IMPORTANT!) and the expensive chinese tea.",
+                "datePublished": "2016-04-28"
+            },
+            {
+                "reviewId": "PzxLTgcKh3NNQtXuy-Uneg",
+                "author": "Ada C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Dinner at Golden Dragon was decent although a little bit more attention to detail in the kitchen could have made everything over the top amazing.  We had:\n- Baked crab with ginger and scallions:  this is a classic Cantonese preparation of crab although I'd never had it baked.  The crab was perfectly cook and the flavour was spot on.  They used a bit too much cornstarch to coat the crab though and brown crab and coating generally was gloopy because of it.  Still tasty but the consistency could have been less viscous.\n- Gai lan with oyster sauce:  again, another classic Cantonese dish.  Unfortunately, the gai lan was overcooked.   The stalks should have been still slightly crunchy but instead were very soft.\n- Salt and pepper pork chops with chillis:  very tasty seasoning which was great with rice.  The pork chops were unfortunately not served on the bone and were slightly overcooked.\nThe food was good but could have been slightly better.  However, I'd still come back here for a meal.  They do good dim sum if you are around at lunchtime.",
+                "datePublished": "2015-04-10"
+            },
+            {
+                "reviewId": "h7yepuy2iHZp3RoRhvxPlA",
+                "author": "Jenny M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Dim sum in London? Look no further. This place is it. First of all, the dim sum menu (like most Yelpers said) is super friendly - with pictures for each menu item served so you know exactly what you are getting. I'm Chinese but my Chinese is shabby so I always somehow manage to order a wrong dish when faced with a menu with no pictures and just text (even when it's translated into English). The wait was under ten minutes for two people at 2:00pm on a busy Saturday. \nWe got: shrimp/chive dumplings (good), bbq pork triangular pastries (a must get, there's a reason this menu item takes up one FULL page of their dim sum menu - it is definitely one of the hottest centrefolds I have ever seen), chicken feet w/ black bean sauce (really good), scallop cheung fun (pass, I have had better), fried shrimp dumplings with salad cream (pass, I have had way better), beef chow fun (good), taro croquettes (good), duck tongue (good, if you are into that stuff--my date was), and steamed spare ribs w/ black bean sauce (portions are too small but they are good). \nAs for the spotty service, we didn't experience any. You get different servers who bring you what you have ordered and some of them are smiling, some of them are not - but who cares? I feel like people who leave bad reviews just because not every server smiled at them when they put the food down is just looking to get their egos stroked. The food is piping hot, fresh and delicious. When you ask for water, it comes fast and when you want an extra plate of chili oil, it comes right away. Tea pot out of hot water? Flip the top up and put it on the edge of your table - it is a Chinese standard way of telling the servers you are in need of a tea refill. Tea is £1.50 pp but it has unlimited refills, and the refills come fast, which is surprising since my date and I  were seated in a dark corner - we thought they would forget about us, but that was far from the truth. \nI'm a generous tipper but don't like to be ambushed with the mandatory 12.5% service charge when handed the bill. This was the first dim sum place in Chinatown to have that mandatory 12.5% - so I took one star away. Other than that, I recommend this place and would take my parents here if they ever come visit me in London!",
+                "datePublished": "2014-12-08"
+            },
+            {
+                "reviewId": "vCuXBHujN2hHFUquZyiBSg",
+                "author": "Minh C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Very busy and crowded but feels undeserved. The service was sub par. The food was equally sub par. E.g. Fried rice was soggy and chicken was overly salty. \nHonestly, I would not return nor would I recommend this if another restaurant is available.",
+                "datePublished": "2015-12-27"
+            },
+            {
+                "reviewId": "PCmGRhk4Kf8c2asYWd2joQ",
+                "author": "Chadley P.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I decided to try this place rather than opting for my usual picks in China Town.\nI ordered duck and pork as i normally would do to see if they make it any better. It did not take long for us to be served nor did it take long for the food to arrive either.. But that was the problem, fried squid was too salty and soggy, not at all crispy. Portions were not as impressive as some of the photo reviews i've seen either - maybe because it was a Friday night, who knows.\nUpon receiving the bill i asked about their discretionary service charge - waitress was quick to defend and in her words \"you sat down, we served you..\" Quite forceful like I had no choice but to pay it.\nWhatever, I was going to pay it anyway i was only asking. Needles to say, she did not come back to process my payment and had to call over another waiter.",
+                "datePublished": "2016-06-25"
+            },
+            {
+                "reviewId": "2y1ARi9VimzXx2-SEsOP-w",
+                "author": "Grace H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This place was my favorite when I was living in London, in a flying visit, I decided to go back and see if the food is still good.\nIt was jam packed on a week night, a good sign.  \nThere were only the two of us, so we ordered a Wanton Soup,  Eel and Roast Pork Hotpot, BBQ Roast Pork and Suckling Pig, and the Bean Shoot in Garlic sauce.  \nThe Wanton Soup was nothing special to me. The eel was very well cooked, not overcooked which is easily done.  The Roast Pork and Suckling pig was great.  The vegetables was cooked to perfection.  \nI can testify that it still is as authentic as food I ate in Hong Kong, the service is efficient but impersonal.  Price is like everywhere else in the neighborhood.  I will not hesitate to go back again if I am in the same hood.",
+                "datePublished": "2015-02-06"
+            },
+            {
+                "reviewId": "OAd1rDHjdNimHEZQQvmOlw",
+                "author": "Ling Y.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Decided on eating in china town london, and got a table  for four straight away. \nWe ordered drinks, starters and mains. They did miss off one guy's noodles so he just ate the other noodles n rice on the table. It was tasty and reasonably quick. \nOne waiter didn't really do what we asked when we asked him to see where the noddles were, he never came back to us, we asked a second waiter who checked and found it was not on the order.\nBut I would return to eat again.",
+                "datePublished": "2016-02-06"
+            },
+            {
+                "reviewId": "tJ1E820N5udxwS2SlIL0Zw",
+                "author": "Lucy H.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Very rude personnel, however, the food is not bad. They have quite a lot of dishes on the menu and the food tastes quite nice. They could definitely work on their customer service and that was all I could think of when I left the restaurant. If I had to rate them purely on the quality of food, I would have given them 3 stars. I wouldn't recommend this place and I wouldn't return there.",
+                "datePublished": "2017-02-07"
+            },
+            {
+                "reviewId": "BxImTgj7uPeC04Zzcm5Mcg",
+                "author": "Kevin L.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "For my first dim sum experience in London, Golden Dragon was a jaw-dropping and belly-gratifying opening salvo, so I'm glad my mates invited me along!\nWe started with half a roast duck, dripping with nutrients (see: fat), and the flavors were so rich, I wasn't even really tempted by the usual orange sauce. My mouth just kept flashing DUCK, MM, DUCK into my brain, which was more than okay.\nThen the waves of steamed dumplings started washing over us all, and there were serene moments of the eight of us just chewing and sighing at how good it was. \nBig fan of their Shanghai soup dumplings actually, and the boiling soup didn't have that MSG tang when it hits the back of your throat.\nOther highlights were their aubergine clay pot (get some white rice to soak up all juices, folks), the sticky rice packets, and the spicy chicken feet.\nStaff was rather friendly! We had an OBSCENE amount of decadent food, and it came out to £17 a person.\nCome check it out on a Sunday afternoon with your eating dress on, and then go curl up somewhere for naptime before the dim sum sweats start.",
+                "datePublished": "2014-09-17"
+            },
+            {
+                "reviewId": "tPFBmOnjZogGTb2k06u3SA",
+                "author": "Theresa C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The food was decent and the restaurant was clean, so I would have rated this three stars, but given the service and the price - I simply cannot.\nWhen I stepped into this place, the server did not say \"hello.\"  Instead, she said \"10 pounds minimum.\"  I thought this was a bit rude, but I was starving and missing Asian food, so I sat.\nI ordered the following:  1 cup of hot and sour soup (decent, not great), salt and pepper soft shell crab (very good), and crispy noodles with seafood (decent, but the sauce was clumpy), and 1 glass of water.  My food was served efficiently, but the service was never friendly.\nTo top it all off, the bill was 23 £ - and yes, they added the 12.5% for the \"service\" I received.  The most offensive part is that they charged me 2 £ for my small glass of still water.  If they were going to charge me for my water, they could have (at the very least) left me the bottle on the table!  I do not mind paying for good service and great food, but that was not the case here.",
+                "datePublished": "2014-07-01"
+            }
+        ]
+    },
+    "40": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "UzsISsK4gXKzFSvZT0M5MQ",
+                "author": "Alyssa S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Delicious Dim Sum. The best by far were the pork soup dumplings, the fried pork dumplings and the prawn steamed dumplings. Wish we had ordered the duck it looking amazing. You also can't beat the price! Very reasonable for all the food we got but even with two people you are required to order 5 Dim Sum.",
+                "datePublished": "2015-12-23"
+            },
+            {
+                "reviewId": "09zwkjV_jz9-bcFqKKuBUQ",
+                "author": "Diane H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Decently priced dim sum, my friend and i enjoyed the food very much. We did get seated in a corner..so it was very hard to get the check as none of the waiters can see us! You just mark on the slip what dim sum you want to order and it comes out pretty quickly. I'd come again for dimsum when I come back to UK!",
+                "datePublished": "2015-10-10"
+            },
+            {
+                "reviewId": "veEdsB1H4bfSZUqzRb7f6w",
+                "author": "Magalie M.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Food: average- OK BUT not for vegetarians. \nService: blunt\nPrice: expensive for what you get. \nThere s a discretionary charge on your bill. 12,5%. \nWe always leave a tip but to already charge it ! That's just arrogant. \nWould I go back ? No.",
+                "datePublished": "2017-01-03"
+            },
+            {
+                "reviewId": "mLZ7tb0hYOy6yJN-ITGe8A",
+                "author": "_____KA C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I've been to Golden Dragon for so many times for dim sum and dinner. Personally, it is my favourite dim sum restaurant in London. It deserves 4 stars for the food, however, the service seems to be a bit worse than before. \nLast weekend, a friend and I decided to have dim sum for lunch and I suggested GD. There were only the 2 of us, so, we were going to order 4 dishes. When we finished placing our orders, the waitress said, \"Minimum order 6 dishes!\" Well, we had no choice but ordered 2 more. \nGuess it must be a new policy, I don't really suggest anyone to go alone in this case, unless you have a big appetite. \nBut at the end the dim sum were still good.",
+                "datePublished": "2015-06-28"
+            },
+            {
+                "reviewId": "tCoi7kAy-z7BFuaSrIRoLw",
+                "author": "James C.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "The best overall dim sum we've had in Chinatown and we've tried a lot of them. The congee is excellent too.  This has become our default dim sum place on weekends. Service is authentic too - grumpy and surly.",
+                "datePublished": "2016-12-11"
+            },
+            {
+                "reviewId": "xpj1Q3ivFsJBsaNs9QQ3RQ",
+                "author": "Jennifer W.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Took forever to get our food and then there was a hair in it.  It then took another 15 minutes.  Service was horrible and the food wasn't great.  Not a place I would go back to or recommend.",
+                "datePublished": "2016-09-17"
+            },
+            {
+                "reviewId": "x4Tq34uKTCzNMDoy8AF_XQ",
+                "author": "Lito A.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "A little Hong Kong right in the middle of London. Lovely authentic Cantonese food that is as good as the one in Hong Kong. \nGreat experience!",
+                "datePublished": "2014-10-01"
+            },
+            {
+                "reviewId": "F5LILdcvX5udOsewU6Jvtw",
+                "author": "Nicola W.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I come this Chinese restaurant for the 4th times in 13 years. \nThe dim sum brunch  and dinner here are both all right, some dishes are nice but some are not. So I actually want to Mark it as 3.5 out of 5. A nice to try out but I am not amazed by their food.  \nI always find it hard when my friend asks me for a authentic Chinese restaurant for them to try. It is not necessary the way they cook are different,  but it is just the fact that you can't get the same fresh meat and seafood in the UK compared to China.  Especially for Cantonese cuisine,  the freshness of the ingredients are the soul of the dishes. Similar to Italian cuisine,  if the ingredients are not fresh,  u can't copy the taste in Italy. \nBut this Restaurant is surely perfect for family as they have lots of space!! So difficult to find another like this in China Town.  So easy for family with kids!",
+                "datePublished": "2014-07-22"
+            },
+            {
+                "reviewId": "7cV1p3sxo3DVepcEU_IYuQ",
+                "author": "Drew S.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Terrible. We didn't get sick or walk out, so I'd give it 1.5 stars if I could. The food was dry (including the duck), the service was absolutely atrocious, and the ambiance was really bad. I'd eat at an airport take-away stand before this place-- I'm not exaggerating. And to be fair we weren't expecting a nice ambiance or great service, but the food was horrible. Did I mention the food was bad? Save yourself and try ANY OTHER place in Chinatown.",
+                "datePublished": "2016-09-25"
+            },
+            {
+                "reviewId": "Mqd3VM8HhADuZ2L_RrXwXQ",
+                "author": "Taylor B.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Absolute worst meal. Very slimy, chewy, bland food. Definitely discrimination towards us English, Five other Asian groups/couples were handled in much quicker, friendlier fashion. After waiting 40min for 3 plates the manager told me to sit back down and it was on the way. Very rude, tall and lanky manager. No wonder they charge a 12.5% gratuity without the option to tip. TRASH.",
+                "datePublished": "2017-05-20"
+            },
+            {
+                "reviewId": "D1V68B2j3M9qFEfsOc8m7w",
+                "author": "M A.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Roast duck was juicy tender but no crispiness to the skin.  Peking ribs tasty but so soaked in bbq sauce, you need to order white rice to balance it. Suggest you skip the vegetable spring rolls, tasteless. Chicken & vegetable stir fry dish was okay, fried rice was okay, crab and corn soup was okay.  We ordered tea, --the waiter poured out hot water, caught himself halfway through the pour and came back with actual tea a few minutes later.  Beware the food takes time coming out; the appetizers came out timely, the entree dishes took another 45 minutes & we were served finally only after we asked a waitress -- our original waiter had disappeared --  whatever happened to our order about 30 minutes in.  She checked the order computer then came back and assured us just another 10minutes.  It was another 15minutes, and I was a bit tired and grumpy at that point, but okay let's blame it on the disappeared waiter.  \nbtw London Chinatown itself was hustling and bustling and fun for people-watching on a Wednesday night.  Surrounded by live theatre venues, too.  Rainbow power and multiculturalism was very evident there, supercool.",
+                "datePublished": "2017-04-12"
+            },
+            {
+                "reviewId": "-HkN6uepSZl67ZNrBHNLOg",
+                "author": "JohnLee F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "We had roasted duck,  miced port with Aubergine pot cooked in hot pot, seasonal vegi, and monk Chinese mixed vegi. With soup of day. All are good, the soup and duck are super. Plus, the waiter and waitress are really nice. We love this place.",
+                "datePublished": "2016-07-11"
+            },
+            {
+                "reviewId": "8zO_OI0lsVjVnCfwaBcK2Q",
+                "author": "Julia D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Golden dragon does not have dim sum at dinner, which isn't a surprise, but that's kind of what I wanted. We had seafood chow mein with scallops. It was pretty good. I noticed that everyone else got orange slices with their bill, but I didn't. That made me a little sad. \nI'd like to come back and try the dim sum,.",
+                "datePublished": "2015-05-01"
+            },
+            {
+                "reviewId": "8VzJpJWWwNq5q3XwKbvtUw",
+                "author": "Irene G.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "We decided to try this restaurant after looking at the variety of different restaurants in China town. This seem to the busiest out of all the restaurant and it looked good judging from the menu. We went in and were seated immediately. We ordered the fixed menu since we weren't sure what to get and an order of dumplings. The service was a bit slow but the food was great. Everything tasted fresh and not too salty like some other Chinese restaurants make their food. I had an enjoyable experience there and would probably go back if I'm back in London.",
+                "datePublished": "2015-03-16"
+            },
+            {
+                "reviewId": "8HLwid4M_Z6U8R0rqDtBWw",
+                "author": "Elvi W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Came here 2 times while in london.both times Ordered the aromatic crispy duck which was very crispy and yummy. Barbecue pork was alright.fried rice was very bland not recommended.stir fry flat noodle with beef was good.",
+                "datePublished": "2016-06-26"
+            },
+            {
+                "reviewId": "546TWHjISiwdn0Z_76I6yg",
+                "author": "Neil K.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Always fantastic food\nSalt and pepper squid to die for\nBest with a large group so you can try a variety of dishes\nScallops now in season and well worth a treat\nHoping to go back again before we leave London",
+                "datePublished": "2015-09-16"
+            },
+            {
+                "reviewId": "qBHt9jNRHQ9Chup-nKntqg",
+                "author": "Adam L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I went here a couple weeks ago for Dim Sum with some friends, and I must say, I'm glad I did. This place finally quenched my dim sum craving that I have had since moving here. \nI particularly like the siu mai, duck tongue and chicken feet (my favorite), and the nai wong bao was quality. Their beef chow fun was also probably the most authentic I've had in London so far.\nThe funny thing with Chinese food is that everyone has different standards and tastes. I am from Portland, Oregon, USA, which is not necessarily renowned for Chinese restaurants, but actually has some great ones IF you know where to go. I consider myself a bit of a snob when it come to Chinese food, but this place was great.",
+                "datePublished": "2014-12-31"
+            },
+            {
+                "reviewId": "pjj_nib7PCi_t1hwSIQcaw",
+                "author": "Shirley W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Good dim sum, kind of pricey. Very quick service though! No carts if you're looking for that kind of dim sum experience. Perfect for if you're looking for a good place to get your dim sum fix.",
+                "datePublished": "2016-06-30"
+            },
+            {
+                "reviewId": "Ym1Bw4YrZiltkdxqetIrXg",
+                "author": "Carma H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Served rotten duck and they refused to swap it for a new plate or refund us. We even talked to a manager very politely and simply asked if they would swap the dish out and he said \"no\" and walked away. Too bad.",
+                "datePublished": "2016-02-12"
+            },
+            {
+                "reviewId": "gT-Fw1cetylXF73QFOleTQ",
+                "author": "James W.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "The quality would be 4 stars, but quantity of food and service brought my review down to 2 stars. We ordered 4 dishes off the menu, one of them pork belly (with extremely salty wasabi dipping sauce!?!! vulgar and destroyed taste buds) and another shrimp + scallions and were given tiny servings on tiny plates. Our party left with empty bellies and drained wallets with not much time left in our day since the service took a long time to get around to us.",
+                "datePublished": "2016-03-25"
+            }
+        ]
+    },
+    "60": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "MvHyQqpNy7MzFHd4FQVkVA",
+                "author": "Tiffany H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very yummy and tasty dim sum! A lot of the dishes remind me of my favourite dim sum place back at home.\nStill not sure if it is the BEST...hard to say...I need to keep exploring!  But I liked the chicken feet, ha gar, xiaolongbao and veggie potstickers!\nWould suggest this place to friends and for people who enjoy a good dim sum.",
+                "datePublished": "2014-12-11"
+            },
+            {
+                "reviewId": "w7vJErJDiqa_raaYxZTbAA",
+                "author": "Stephen H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "In search of the ever elusive \"best dim sum in London\" we visited Golden Dragon and left with bellies and hearts full.  They don't have CART SERVICE which I would normally consider a sine qua non of good dim sum, but this place proved that you don't need carts to have great food.  Love it.  Too many places to come back to this one immediately but I'm very comfortable recommending it to fellow dim-sum lovers.",
+                "datePublished": "2014-06-30"
+            },
+            {
+                "reviewId": "kuN51py4CE4TEr1VHWHCDg",
+                "author": "Sarah T.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "I've only come here for dim sum, but I've come here A LOT for dim sum. It is my default recommendation for anyone looking for dim sum because the quality is consistent and well above average, plus the location is central. I know Chinatown restaurants seem to get a bad rep, but I go by my taste buds.\nThe dim sum menu is really friendly, with pictures so you can point if you're a newbie. The service is \"Chinatown standard\", brusque and efficient, sometimes a bit hard to get someone's attention, but only a little rude. They only have one kind of tea, unfortunately.\nMust-gets: baked pork puff, taro croquettes, prawn and chive dumplings, egg tarts for dessert. Their specialty is sesame balls, which are sweet, and I haven't quite figured out when to order them because they take some time to prepare (unless they're sold out). The time is variable: 15 minutes to an hour(!). Sometimes I order them with everything else, and then they come before we're ready. Sometimes I order as we're finishing, but then the wait is too long. It's a mystery. But totally worth it.\nFine: cheung fun, steamed pork bun, beancurd prawn rolls, Chinese greens (hard to mess up). I once tried the crispy seafood noodles, which were a little disappointing.\nThey don't take reservations for Sunday dim sum, so just show up at noon. By the time we leave, there's always a queue out the door. Last time was just under £13pp with 7 people, including tea and service charge.",
+                "datePublished": "2014-10-14"
+            },
+            {
+                "reviewId": "XMGZsTZgxkXGgQUGquJvIg",
+                "author": "Elinor H.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Service quite slow but spring rolls, prawn dumplings and salt and pepper squid  are to die for. Unfortunately, they only serve dim sum at a certain time ) :",
+                "datePublished": "2016-03-25"
+            },
+            {
+                "reviewId": "mQmf6bj5AxaQzVe0qALYsw",
+                "author": "Janice C.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "After a full day of Stonehenge/Roman Baths sightseeing, we decided our best bet for anything that's open at 11pm would be in Chinatown. We wanted something relatively affordable and served quick to feed 7 hungry people.\nIt didn't take us long to decide what to order and in 15 minutes, piping hot dishes of minced pork with aubergrine, mushroom and chinese broccoli, chicken fried rice, beef teriyaki, chicken with scallion and ginger graced the table. It was like a war of chopticks and forks when everybody dived into their food. The roast duck with steamed buns took longer to arrive and by then, we'd already placed an extra order of fried rice, because, Asians LOVE their rice! the boys each had a bottle of Tiger beer to round out the greasiness of our food. I stuck with good old black tea.\nDecor is typical Chinese resto with wooden accents and year round Christmas tree lights. The tablecloths were tattered looking but the plates are clean. Service was so-so and we had to flag our waiter down for our bill which was 100 quid with tips. Overall, an ok choice in Chinatown but we should've just gone to the $6.99 AYCE buffet across the street.",
+                "datePublished": "2011-11-13"
+            },
+            {
+                "reviewId": "tT_pETQ6KvcEyCgIOchiLw",
+                "author": "Chris D.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Very good dianxin and chaomian. The mixed vegetable chaomian especially is quite wonderful and full of flavour. This is a Cantonese place through and through and the designs all across the room make that clear.\nExpect to pay a lot for dim sum, though. My fiancee and I ordered a mediocre amount and got charged £30 for the privilege.",
+                "datePublished": "2014-12-02"
+            },
+            {
+                "reviewId": "m2IjMFwJ0meOwSlF6TQtVQ",
+                "author": "WJ H.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "We found this place in Chinatown. The food was okay. It wasn't bad but not a standout. The shrimp chow mein had all of 7 shrimps in it. A bit chintzy. They charged us about 3.5 British pounds- that's over 4 US dollars-for a small bowl of white rice!  The worst part of our experience was that we had 2 grand-babies with us. While the 3 y.o. quietly ate her small bowl of plain white rice, the 2 y.o. was getting restless so we let him play with the small salt shaker where he put salt into a bowl, so he doesn't throw a tantrum or food around. The short man, whom I found out was the owner, marched over to our table in anger and scolded us for wasting his salt. He looked visibly angry. We spent 37 BPs ($48) for the light lunch, so I am sure we more than paid for the 5 cents worth of salt my grand-baby wasted.  As we were leaving, he lectured us about controlling the children. What a piece of work. He was plain mean and stingy.",
+                "datePublished": "2017-07-05"
+            },
+            {
+                "reviewId": "JKz5HUJw_PsWRryE0wcz3A",
+                "author": "Guy T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "'The Golden Dragon' is all you would expect from a premium restaurant in China Town...\nThe food is incredible and the servers are very friendly...yes there's more 'Cooler' places to go but sometimes it's nice to go somewhere that's a little more refined...\nIf you want all you can eat buffets or pokey smokey restaurants this isn't the place but if you want that quintessential Chinese restaurant feel from the movies from Hong Kong this is the place...",
+                "datePublished": "2014-09-22"
+            },
+            {
+                "reviewId": "SjWxLIj-ICul3qBpo4i9uQ",
+                "author": "Clément P.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Damn, this was so expensive for food that absolutely nothing exceptional and served as small quantities!\nPlus, the waiters are not welcoming at all.\nIn short: don't waste your time and money in this place.",
+                "datePublished": "2015-11-06"
+            },
+            {
+                "reviewId": "gejxCctakpwBdnlfDNzXKg",
+                "author": "Joe M.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Came looking for authentic bbq sliced pork on steamed rice.  Simple but pure heaven when done correctly.  Ordered the Sesame Toast (2 Stars) Pan Fried Dumplings (3 Stars) and Deep Fried Stuffed Crab ( 3 stars) appetizers.  Had one glass of red house wine for 9 pounds (1 start, only cause it was at least wet).  Then, received the aforementioned pork dish. Over one pound of perfectly prepared pork.  Great balance of sauce and sear, succulent pieces all.  This was 5 stars all day and worth the vinegar, err, \"wine\" I was forced to pair with it.  Now they had other wine choices, but I wasn't about to tempt fate for 25-30 pounds per glass.  If i ouwld have skipped the toast and had a better glass of wine, this was 4-4.5 stars all day. Wait time was 15 minutes.  Atmosphere was...well,  a classic London Chinese place I suppose!\nWould certainly come back for the pork!",
+                "datePublished": "2013-06-30"
+            },
+            {
+                "reviewId": "wwJKIfo9dQo_LwBT4kHaOg",
+                "author": "Santi D.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Excellent food and lovely service. I had the famous roast Peking duck and it was glorious! It's so crispy and the sauce is just mouth watering. I also had the honey glazed pork which is also well cooked and tasty.",
+                "datePublished": "2014-01-21"
+            },
+            {
+                "reviewId": "3XisxGvy2KgOytFBtR0t9w",
+                "author": "Meaghan F.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Great chinese food at a fair price. \nYou have to try the fillet steak, melts in your mouth.\nSingapore noodles are great if you want a kick.\nMy family raves about the duck -- its the number 1 reason they go.\nVegetable spring rolls are nice and light (tip: try them with mustard!)",
+                "datePublished": "2013-02-01"
+            },
+            {
+                "reviewId": "aHG80mtGncwJw2ZgcsyqRw",
+                "author": "Rachel A.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I'm sitting in the restaurant right now and I'm lowkey ticked off. We got seated almost right away and the food is typical Chinese food--maybe a notch higher than Panda Express--which is probably the only thing decent about this place, because the service is terrible. It took like half an hour for two dishes of our order to come out--and the place is crowded, so you'd think they'd try to clear the place out--and we had to wait maybe fifteen to twenty minutes more for our last dish, which was chow mein. Furthermore, in order to get our last plate to come out, we tried to flag a waiter down several times, only to be either ignored or unseen. One of the members of my party had to get up and talk to one of them in order to get them to bring the last dish out. Our water glasses were unfilled, nobody came over to ask if everything was okay, and the portions were fairly small. I might just be going on a rampage right now, but this restaurant was average at best. If I ever come back to London, I'm not coming back here.",
+                "datePublished": "2016-07-17"
+            },
+            {
+                "reviewId": "f34o575Qmuhnwg5WztaBvQ",
+                "author": "David N.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Tried this place when I was in London for work. The service was horrible and the food pretty average which makes a pretty bad combination.",
+                "datePublished": "2012-10-13"
+            },
+            {
+                "reviewId": "EKjE31Higqo_Gqkg-fGHgw",
+                "author": "Sunny K.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Fairly underwhelmed by this place. Our Chinese friends brought us here as their regular joint so I guess I expected a decent meal :s \nThis was probably more the case as I've been to some great places recently...\nAnyways, being veggie, there wasn't a great choice, but seeing mock chicken on the menu made me happy. We ordered that alongside some forgettable veggie and rice/noodle dishes. Everything except the jasmine tea and chilli sauce made me feel let down. Sorry folks, it was all bland and unappetising. Please do better?",
+                "datePublished": "2012-10-08"
+            },
+            {
+                "reviewId": "vKVg-niS7gm0dSyD1-GPww",
+                "author": "Michaela P.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Good food but service is rather rude at times. Often felt hurried to finish a course and our waitress was especially annoying initially, particularly with the constant buzzing around our table with an abrupt manner!\nThat said, the food is good and generally we had  a good time. The portion size was very good...for.five of us we left with a healthy doggy  bag!\nWatch out for the sneaky 12.5% service charge! Simply challenge them about this...due to the service we left a smaller tip- the waitress did eventually find a personality!",
+                "datePublished": "2012-07-10"
+            },
+            {
+                "reviewId": "AuGUKRxphG5yffCbKQ9CRg",
+                "author": "Namita A.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "A few of us came in for dinner after a couple drinks so very hungry and excited to eat. We started out with hot and sour soup, which was indeed hot and spicy - so be careful if you're weak of heart!  We then got the prawns, Kung pao chicken, soft tofu with meat sauce and rice. Super filling and actually quite tasty though it was oily. \nMinus one point for confusing service but I would come back to try some other spots.",
+                "datePublished": "2012-09-09"
+            },
+            {
+                "reviewId": "2nlarGM6Twg8icKEEgypcw",
+                "author": "Laura S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Despite of three stars, I do like this place and it's definitely not once that I've been there. Normally, when I have cravings for Chinese I find myself there.\nI like the large hall on the ground floor.\nDefinitely don't expect anything spectacular but food is nice, nothing special, but Chinese food well made.\nI would recommend the squid in black bean sauce and recommend against pork belly. The latter was stiff and not juicy at all. Whereas squid was tender and not at least rubbery.\nShame they don't have any side salads, but you can order broccoli with garlic sauce which is nice too.\nThe place is good for groups - they have large tables that can accommodate up to 8 people at a time.\nService is good: they would explain the difference between the sauces & dishes and drop an occasional joke.",
+                "datePublished": "2012-09-01"
+            },
+            {
+                "reviewId": "uQ6ykh0ZfYUvlw9wIocihw",
+                "author": "Wendy P.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is one of my go to spots in London.\nThe food is always great here and there is always a crowd.  Even late night is packed. So, the service can get a little slow.  Just be patient.  The servers are very friendly and willing to answer any questions you may have about the menu.\nMy favorites:  hot and sour soup, spring rolls, kung pao style chicken, vegetable fried rice, bbq spare ribs. \nEnjoy!",
+                "datePublished": "2012-11-09"
+            },
+            {
+                "reviewId": "TxoZRKCeqUdP38ivZ9jWcQ",
+                "author": "Rebecca M.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Solid food, not the best but good. Service is excellent. I highly recommend the honey barbecue pork and duck it's among the best I've ever had.",
+                "datePublished": "2015-01-06"
+            }
+        ]
+    },
+    "80": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "SQu9yskRddb3jBRHHvaKUA",
+                "author": "A S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "Ok Chinese food at an ok price. Shredded chicken starter and crab & sweetcorn soup were yummee.\nJust ok.",
+                "datePublished": "2012-08-31"
+            },
+            {
+                "reviewId": "69sZwXenWPSEzvyQvzl0Hg",
+                "author": "Justin K.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Decided to check out this restaurant after passing through Chinatown as it seemed to be the most crowded at around 2. We were seated immediately but it took quite some time for the waiter to take our order. We decided to order from the set lunch menu and sea urchin and pork dumplings. After about a 30 minute wait for our food, it finally came out. Being from New York, I'm always a little hesitant to try Chinese food in other cities but all in all it was very good. Sweet and sour pork was very tasty along with our beef with peppers. Only complaint would be the service at the establishment. Once our food arrived, we never saw our waiter again.  No one to ask if we would like any more water or additional drinks. I would have been more upset but the food made up for this. Would definitely come back here again when passing through.",
+                "datePublished": "2015-03-16"
+            },
+            {
+                "reviewId": "vqMnZMQwCu1Rx6I_tgODfg",
+                "author": "S S.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I love their Beef wrapped in noodle. Good place to have dim sum.",
+                "datePublished": "2012-08-22"
+            },
+            {
+                "reviewId": "F91SAxsidMf-I3GtdhxkjQ",
+                "author": "Wayne H.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "From the street level it's difficult to appreciate how different Golden Dragon (GD) is different from the rest.  Just going by their conventional menu GD appears to be no more touristy than the next.\nHaving visited for dim sum several times before booking Chinese New Year dinner, both of GD's on- and off-menus are, in terms of breadth and regional focus (soups, seafood and veggie dishes of the Cantonese persuasion), very much congruent to what one would find in major U.S. cities with a size-able Chinese population and, arguably, Hong Kong itself.  \nMost tourists and locals would for the most part opt for the BBQ items dangling from the shop window, but it's clear just looking about the dining floor that Chinese customers are calling up steamed sea bass, lobster on egg noodles and single-serving specialty soups.\nLike anything else in the city, eating out in London can be quite expensive and Chinatown is no exception.  When it comes to dining happiness is key, and to some degree so is value.  GD isn't the only game in town but certainly places in my Chinatown top 3.",
+                "datePublished": "2012-02-19"
+            },
+            {
+                "reviewId": "RkRSsoL9ccO4sP2iAxF_bw",
+                "author": "R B.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "There  was no choice of 0 stars , so had to give them 1 . Worse service in London with sub standard food . Avoid this trap at all cost.  I spoke to Managment about there service and they did not care.",
+                "datePublished": "2014-07-16"
+            },
+            {
+                "reviewId": "WZluXkgUqDbmWbOoZQizdQ",
+                "author": "Karen N.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Pricey but well worth it. We had the mabo-dofu, stir-fried vegetable, cha-siu pork, and stir-fried rice.  All were delightful, especially the cha-siu pork on crispy noodles. \nThe mabo-dofu (szechuan style tofu) could have been spicier with more szechuan peppercorns (my tongue was tingling but not stunned into submission as with some other places).\nUnfortunately no dim-sum for dinner (we wanted to get sho-ron-po) but otherwise a great dinner at the usual inflated London prices. As long as you can swallow that you'll spend $75 for two people, you'll be pleasantly pleased.",
+                "datePublished": "2014-01-01"
+            },
+            {
+                "reviewId": "NIKuPA0Gcd8Um6DhkEBOZw",
+                "author": "Aimee W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "After being told we couldn't get a table at all at honest burger and waiting for 30min at Byron it was quite nice to walk into the first place in China Town and get a table straight away. The food was delicious and the prices reasonable, even including the 12% service (20£ each for more than enough food + a pint of lager). However the service feels a bit rushed. Guess that's the reason we got out table so quickly though. Makes sense and hits the spot.",
+                "datePublished": "2014-01-18"
+            },
+            {
+                "reviewId": "RD7t0Zp0cmK-z7v8hCmx-Q",
+                "author": "Jocelyn L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I haven't had dimsum in about half a year (bad Chinese girl) and was really looking forward to this. \nThe dim sum was good...not great, but really quite good. \nI was shocked by how exp dimsum in London was tho...much cheaper in SF and even Toronto.\nGlad i tried it...but if you're visiting London, i'd skip dimsum if you can get it where you're from. \nOtherwise, Golden Dragon is a pretty good place...and clean. Definitely a place white people can venture into w/o feeling too sketched out (admit it, you know how i mean)",
+                "datePublished": "2011-09-06"
+            },
+            {
+                "reviewId": "lhearvutvA25IA9CJH-TXA",
+                "author": "Rycho Z.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Worst service ever! The server took us directly to a table of two without saying anything. I asked him if we could change to one of the other bigger open tables nearby since we have another friend coming in a bit. He was apparently offended and yelled at us \"why did you come inside if your friend is not here?! Go out and wait till everyone is here.\" That was so rude and we were just shocked. We left and we will never come back again. Worst experience in London.",
+                "datePublished": "2014-07-13"
+            },
+            {
+                "reviewId": "9GfYtZO6AO8uIos70S1LvQ",
+                "author": "Mike S.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "For food I would give this place a four, but for service and price a 1.\nI have been to London several times and have seen all the major tourist stuff and one of the tour books had a suggest day walking trip in the west end/SOHO area and seeing I love SOHO and was staying in the west end decided to do that on Thursday.\nI went to several businesses recommended on the tour and they were all great.   It recommended Golden Dragon for lunch and that was an awful recommendation.\nThe server was the rudest I have ever had at any place in London.   I ordered the number on the menu and she got nasty and said she didn't know the numbers and I had to tell her the item on the menu.   I had bought a pair of shoes in one of the shops that morning and had the bag sitting beside me out of the way and another server walked by and gave me a nasty look and picked the bag up and threw it on the empty chair next to me without even asking.\nWhen I ordered I asked for a diet coke and she asked if I was sure I didn't want tea and I said no diet coke and I could tell she was offended.   If you don't want your customers drinking diet coke and only tea, then don't offer diet coke on the menu.\nThe chicken dish was good and it was grilled sliced chicken instead of the deep fried stuff you get in the US.   I cant eat rice with chopsticks and when I asked for a fork was told they didn't have forks and I was in a Chinese restaurant and to use chop sticks.\nBy the time I got my lunch my diet coke bottle was empty and I asked for a glass of tap water.  I get the bill and not only was there a 12.5% service charge when I had awful service, there was also a charge for a glass of regular tap water.",
+                "datePublished": "2014-07-12"
+            },
+            {
+                "reviewId": "jtCDTBdwhxIzywMQ-a6W_w",
+                "author": "Steve B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Above average Chinatown restaurant.\nQuite large and bustling.\nEvening meal for four including crispy duck + pancakes (good), 2 hotpot dishes (one good, one OK), pork + choi sum (good), spicy prawns (OK).\nStraightforward service.\nNicely full and satisfied afterwards",
+                "datePublished": "2011-12-03"
+            },
+            {
+                "reviewId": "-yrkiDmjkJ-xIxi-tk8i3Q",
+                "author": "Leonardo M.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "The restaurant's employees are very rude! They require a minimum order witch is unacceptable!!! I do not recommend this restaurant!",
+                "datePublished": "2014-09-28"
+            },
+            {
+                "reviewId": "MbNBPmhVL3rQaJnCbPdqHA",
+                "author": "Simin L.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Foods are tasty, reasonable price. this restaurant is more spacious than other restaurants in China town, so you won't feel like you are over hearing conversation of other table.",
+                "datePublished": "2014-08-09"
+            },
+            {
+                "reviewId": "gVWDeFis7uy5jIucCKGUkw",
+                "author": "Meike B.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "I've long given up on Chinatown as most of the restaurants seem to have become mere tourist traps. But happy to make an exceptions when friends are in town, especially when aromatic crispy duck is included in the deal ...\nGold Dragon was busy with a good mix of people, ie not just tourists but also large groups of Chinese families, and staff were extremely friendly and efficient.\nBut it is the quality of the food that makes a great restaurant, after all. Perhaps we would have enjoyed everything more had it been a bit hotter. The pancakes served with the duck weren't even luke warm but cold with the main courses arriving on plastic plates - what happened to the old-fashioned tradition of hot plates?\nI am also not a big fan of MSG and all dishes were heavily reliant on this additive. Some of the sauces actually tasted as if they came straight from a bottle - all very underwhelming.\nNever again.",
+                "datePublished": "2011-05-31"
+            },
+            {
+                "reviewId": "d9-VoY1EjF26vvIFoxiKog",
+                "author": "Young R.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "The dim sum here was quite tasty on the absolute scale of dim sum tastiness, but I'm finding that London dim sum is quite good in general, so I can hardly recommend this place over others on that basis alone.\nThe service was appallingly slow (at like 3pm on a Sunday so it's not like they were that busy) and they lost track of what we ordered and what we had received. They don't keep the checklist at your table like other places do. We were served ice water that was absolutely funky, tasted like watered down rice wine. It probably wasn't alcohol, but maybe some result of a dirty glass?",
+                "datePublished": "2010-07-19"
+            },
+            {
+                "reviewId": "wjpYCLmPwj_g3W50bwG4Bg",
+                "author": "A L.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "On previous trips to London, I've walked past Golden Dragon, thinking it looked too touristy.  But I read some good reviews so I thought I'd give it a try.\nI walked up next to the cash register, waiting to be seated.  Many employees were rushing by all around me, apparently busy.  Finally one noticed me and seated me.\nThe Chinese broccoli with oyster sauce (hoe yau gie lon) and the rice arrived at the same time.  They were both tepid.  With electric rice cookers nowadays, which can keep cooked rice fresh and hot for 24 hours, how is it possible to serve tepid rice?\nThe tofu and seafood hot pot (dung gong dau fu boe) did arrive hot and steamy.  It had generous pieces of tofu, some pieces of squid and shrimp, some mushroom caps, and very tender but not overcooked baby bok choy -- all in a broth.  This is a standard Cantonese menu item.  Here, however, the tofu had been stuffed with shrimp and deep fried before being put into the broth.  I wondered, why go through the bother of deep frying something and then putting it into a broth?  And why stuff the tofu with shrimp when this dish already has shrimp in it?  Then the thought crossed my mind that the deep fried shrimp-stuffed tofu could be an \"overstock\" dim sum item.  This dish (dung gong dau fu boe) is typically made with regular, plain tofu.\nThe service was not friendly, but it was efficient.  It was easy for me to flag down a server and ask for some hot sauce.  (In some Chinese restaurants, this is impossible.)\nMy beverage was Chinese tea.  The bill came to £24.40.  It was not itemized.  I added a 10% tip.  However, I was just re-reading some of the of reviews for this restaurant and they mention that the gratuity was included in the bill.  My bill had nothing broken out.",
+                "datePublished": "2010-10-26"
+            },
+            {
+                "reviewId": "OyRYISeaKOqmbZjyWOOaIQ",
+                "author": "Rachel R.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Excellent dim sum selection, and great service. I'd go again in a second.",
+                "datePublished": "2013-05-12"
+            },
+            {
+                "reviewId": "ZS0MepxDxuAkPnXh65TuPQ",
+                "author": "Chrissy B.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Yummity yumm! Me love dim sum, me love traditional chinese dim sum even more!\nLove their scallop and prawn cheung funs, an order of each is always a must, pork hot buns why yes, followed up by some prawn dumplings oh my!  I never get their main entrees and just stuff my face full of dim sum so can't comment on that (although my father had a beef entree there which was huge and that he enjoyed).  \nDownside of this place, like most of the restos in chinatown is that it looks a bit run-down, easily forgettable decor for sure, and the staff is not the most attentive or gentile buuuut, I don't think I've ever been to a Chinese restaurant where the staff cracks a smile so I'm going to assume it's a cultural thing and just shove another dim sum in my belly.  Cause at the end of a dim sum day, that's all I really care about, quality dim sum that isn't ridiculously priced and you'll find it here!",
+                "datePublished": "2010-08-20"
+            },
+            {
+                "reviewId": "sqFO1ntsou5_iRn-UMZ-Dg",
+                "author": "Eliza F.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Having visited this place 2 days running, I thought it would be rude not to write about it. The Golden Dragon is a special favourite of mine, simply because it's never let me down. \nWhilst the menu is full of all the standard tasty stuff, it's the Dim Sum that I dribble over. There's none of your Ping Pong pretension here -  presentation is average, but the dishes are reasonably priced, generous and taste divine. I absolutely love the Prawn Cheung Fun and the Char Siu. \nThe place is big, sprawling and I often wonder whether they have a hierarchy system in placing people upstairs or downstairs. I'm still trying to work that one out as it all seems rather random. Service is typically unfriendly but fast and efficient. \nI've spent hours here over lunch, catching up with friends and slowly becoming more whale-like. It's definitely easy to keep eating. At least it keeps gym memberships alive!",
+                "datePublished": "2010-04-22"
+            },
+            {
+                "reviewId": "21-HQ5aDRHwZ1F1CCxBvBQ",
+                "author": "Sean C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "At most, just your average dim sum based on the Har Gow (shrimp dumpling) and Siu Mai and the Siu Long Bao that I got. Maybe because of the rave on YELP and also an auntie we met on the road that said this place is quite well known for its Dim Sum in the area, so I thought it was going to be good but turned out to be sub par. Pretty average dim sum in my opinion. Nothing really stood out. Not elegant, no unique taste.\nTaste Breakown\nHar Gow: it was ok. just your typical taste, typical size\nSiu Mai: there was a piece of shrimp on the top. feels a bit like the taste of har gow more than the typical siu mai which is more of a pork taste.\nSiu Long Bao: no juice inside. did not even make my mouth water (not hard to do when I'm hungry).\nI thought the price was ok since I have had more expensive ones and also cheaper ones but maybe in London, this is cheap. I saw another table ordering actual dishes and those look quite good so maybe their other food might be better but based on my own experience on the Dim Sum... it was sub par and therefore the 2 stars.",
+                "datePublished": "2011-04-04"
+            }
+        ]
+    },
+    "100": {
+        "id": "SR_EikaYqs2PiNGPLLWPhg",
+        "name": "Golden Dragon",
+        "category": "chinese",
+        "servesCuisine": "Dim Sum",
+        "priceRange": "£11-25",
+        "address": {
+            "addressLocality": "United Kingdom",
+            "addressRegion": "Chinatown",
+            "streetAddress": "28-29 Gerrard Street\nLondon W1D 6JW\nUnited Kingdom",
+            "postalCode": null,
+            "addressCountry": "GB"
+        },
+        "context": "http://schema.org/",
+        "image": "https://s3-media4.fl.yelpcdn.com/bphoto/PKHLByL4iPa9obe_fjgwaw/ls.jpg",
+        "type": "Restaurant",
+        "telephone": "+44 20 7734 1073",
+        "review": [
+            {
+                "reviewId": "c6vYkaU95uEKDwfuVNKZ5A",
+                "author": "Amar T.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Went here for dinner with friends while on vacation in London.\nThe star of the show...or rather what made this place get 5 stars:\nDuck with Black Bean and Chili Sauce\nReally...that is what makes this place 5 stars! Best duck I've ever had and so much of it too.",
+                "datePublished": "2010-06-04"
+            },
+            {
+                "reviewId": "kTU0xwDMWV4YfQPSSuIvkA",
+                "author": "Qype User\n FM_Dol…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is by far the best Chinese restaurant in Soho.\n The food is divine (i've never felt OD'd on MSG as one person mentioned). If there's something you want that isn't on the menu they will do their best to accomodate you.\n Some of the female waiting staff aren't the friendliest in the world and if you want a relaxing, sedate meal then this definitely isn't the place for you.\n Little tip, order the steaming bowl of fruit for desert lol",
+                "datePublished": "2011-05-13"
+            },
+            {
+                "reviewId": "FmviUterSeXj2simAPL3vA",
+                "author": "Hans K.",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "I went to this place for some traditional Dim Sum.\nI wanted a push out tray and waiters/waitresses pushing you to eat the dim sum served. I didnt quite get that, you ordered on the menu and they brought out the dim sum.\nI was not really impressed with what was served. The portion sizes were small. The taste was good but not great. I have had better dim sum that was more authintic than what was being served here.\ni would recommend this place but I think that there are better places out there where you can get cheaper and tastier dim sum",
+                "datePublished": "2010-09-10"
+            },
+            {
+                "reviewId": "xu1hrHfW0zRK7Zo1yf3WeQ",
+                "author": "S G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I  went there all the time between 2005-2009, before I came to the US.\nGood interior, good atmosphere with good music, good waiters with good manners.\nTheir Ha Gaw, Shiu Mai and Siao Long Bao were really really good! They serve good teas. I love their Pork Congee with those black colored eggs in it and some of their deep-fried dishes were super good too. I went back there to find the old time feels when I stopped by London in 2010 and they were still as good as I expected. \nGood job, Golden Dragon! Cheers!",
+                "datePublished": "2012-09-03"
+            },
+            {
+                "reviewId": "hgrbo2EvuhDiKvFObqe1wA",
+                "author": "Kintaro O.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Bollocks! A Yank beat me to it! Haha... Well, I agree with his assessment of Golden Dragon. This is a top notch establishment frequented by many ethnic Chinese. That is generally a good sign of a restaurant's authenticity. If you wander out into the West Midlands or worse, Essex... You'll be hard pressed to find a Chinese restaurant of this calibre.\nThe red barbecue pork buns (Cha Siu Bao) are fluffy and flavourful. Do NOT give into the temptation to dip those perfect white buns into the soy! It ruins the balance of the flavour and the pork is already a bit salty. I also enjoyed the chicken feet. As strange as they may look, they're delicious. They're steamed in some soy sauce vinegar broth, reminiscent of Filipino Adobo. Bloody Hell, I could mong out on those feet for ages; and the best part: you can pick your teeth with the little claws.\nNow, for the bad part. For traditional Hong Kong dim sum, this place is rather spendy. You can easily shell out 35 quid a person, especially if you accompany your meal with a Tsingtao lager. A similar feast in the States would cost you just about half, but don't think about that. You're an ocean away from New York, and in Jolly England, this is as good as it gets. Eat, drink and be merry!",
+                "datePublished": "2009-02-25"
+            },
+            {
+                "reviewId": "SvYiF1fb9ol23qf250AUIg",
+                "author": "Qype User\n david-…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "In the chaos of China town restaurants this one is always a good staple. It is quite large and there is a lot of coming and going. Guests are asked to leave their name and number of guests and are then called out. I have never waited longer than 15 min.\n They have an excellent dim sum during the day but not in the evening. The quality of the food is excellent and decent value for money. If you do not like the hustle and bustle downstairs ask to be seated upstairs.\n A word of advise: This is an extremely busy restaurant so sometimes it can be a challenge to get the attention of the waiters. Some of them can be quite rude. The breakdown of the bill is written in Mandarin, so try to keep track of what you ordered. Service charge is included in the bill, do not let them charge you twice.\n Verdict: Good quality food for decent prices in a very touristic area. Good for large groups, but don't expect a zen moment in this busy place.",
+                "datePublished": "2009-12-10"
+            },
+            {
+                "reviewId": "BQIdWQHOzFzFKYmwXsYvZw",
+                "author": "Sophie W.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "It was really busy and we had to wait for about 10 minutes for a table, but the service was very fast and swift. They had a wide variety of dim sum dishes which were all delicious, although the spicy duck tongue was not as spicy as I had hoped, perhaps the flavour was lowered for other tastes. Apart from that everything tasted fresh and the flavours were well balanced.",
+                "datePublished": "2014-02-18"
+            },
+            {
+                "reviewId": "6oNgzRqeMjs6Z66VD_y64A",
+                "author": "Nick L.",
+                "reviewRating": {
+                    "ratingValue": 1
+                },
+                "sentiment": "negative",
+                "description": "Servers seemed inconvenienced by us.  My food was ok, but other plates served at my table weren't so good.  Bathroom was disgusting.  I wouldn't go back since there are lots of other options on the same street.",
+                "datePublished": "2013-10-12"
+            },
+            {
+                "reviewId": "Mk_6dPNx2uMNPnkCcv7esA",
+                "author": "vance l.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Yum yum dim sum.. HK, LA, GZ, Richmond (Vancouver, not  Virginia).. and London??  \nLondon, the united freaking kingdom that is no longer a kingdom.  Home of sausage & mash, fish & chips,  also has good dim sum?   Crazy right?  But I had some of the best char siu cheung HERE!  The place is packed, and I ate with a bunch of younger folks, so we got the customary stuff.. like duck tongue, chicken feet, and taro.  The crazy stuff like har gow , siu mai, etc. is also available for the crazy folks.   All fresh and made to order...   \nAs good as LA?  Check\nAs good as Richmond? Check... \nAs good as HK?  Check.. \nAs good as GZ?  ..  ..  no.. GZ is good and super cheap.. this is just super good.",
+                "datePublished": "2009-01-22"
+            },
+            {
+                "reviewId": "qqn9UzxXTqhTdCfdgsPTQw",
+                "author": "Alfred L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Following the recommendation of a shopkeeping at a Chinese takeout place around my flat, I went to Golden Dragon for dim sum. Quality of the dim sum is definitely up to par with places in Hong Kong and Toronto. Prices are high but not any more than other dim sum venues in London. I recommend this place.",
+                "datePublished": "2010-05-16"
+            },
+            {
+                "reviewId": "TgReQKpMFu2osLa2exxIdQ",
+                "author": "Susan W.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "Fantastic choice for a late night Chinese dinner. The seafood is fresh, delicious and served up in copious quantities. If you like it spicy, just ask.",
+                "datePublished": "2013-09-21"
+            },
+            {
+                "reviewId": "ijQzuXlJ1dtZwlAkLcnYHQ",
+                "author": "Qype User\n theku…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Golden Dragon is always a reliable place to go to for some great dim sum, or for some decent Chinese food. They have two large floors that are constantly busy with people, so much so that it's sometimes hard to get a waiter's or waitress' attention. There are so many tables on the floor that they can quickly accommodate especially large groups, something many other Chinese restaurants in the area struggle to do.\n All of the dim sum dishes are always consistently good, and if anything I highly recommend people try the black sesame dumplings for dessert. It's a little bit of an acquired taste, but when you bite into those warm, white dumplings to intercept the tasty black liquid that fills it, there's just nothing like it.\n One word of warning is that sometimes they ask if you want to put extra service on your card, when it's already been included in the bill. Sometimes it pays to double check the items you order as you end up having to decipher Chinese characters to validate your bill.",
+                "datePublished": "2008-11-15"
+            },
+            {
+                "reviewId": "M0MVOU3597NT-iRTiux8bg",
+                "author": "Qype User\n danle…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If one afternoon you're in Chinatown on the prowl for some delectable Dim Sum, you'll be hard-pressed to trump the Golden Dragon. Dishes are moderately priced and you certainly won't be doing your taste buds a disservice. Must-tries include the prawn rice noodle rolls, lotus leaf-wrapped glutinous rice and their mini egg-custards (a sweet alternative to the British nutmeg-laced treats). Be aware however that the staff have a tendency to impose a minimum dish order not levied against linguistically able compatriots. Still, the main menu has much to offer also, and will appear much less daunting if accompanied by an aficionado of Cantonese cuisine. As with most high quality Chinese restaurants, sharing is the key to a rounded meal, particularly given the generous portions afforded for main dishes here.\n The ambiance encapsulates the fervent collective, both large dining areas ornate and joyous in their decoration, typical of the nation's favoured depiction of prosperity. The service is efficient without being overly boisterous, but do note that as much as they would like you to believe otherwise, the bill summary does include a standard service charge (you can always check the total against the detailed list, albeit written in Chinese).\n The highest accolade I can bestow upon this restaurant is the simple fact that the three generations of my girlfriend's family (originally from Hong Kong, and including a retired chef), have selected this as their Central London point of convergence. Evidence enough to give the place a chance? Well you know my answer to that",
+                "datePublished": "2008-05-30"
+            },
+            {
+                "reviewId": "bgs-CEPLeR-NZt7Sj7Lj3Q",
+                "author": "Qype User\n thirst…",
+                "reviewRating": {
+                    "ratingValue": 3
+                },
+                "sentiment": "negative",
+                "description": "Chinatown staple with all the usual dishes but it's open until late which is always handy.\n It's a bit quieter upstairs, so ask to be seated up there and you can fit bigger groups.\n Always good to wash it all down with some Tiger beer.",
+                "datePublished": "2008-12-17"
+            },
+            {
+                "reviewId": "FDdMYVQR3kq52q_iYA6vXQ",
+                "author": "Qype User\n animal…",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "Excellent place to venture if you're in need of a dim sum hit. The swanky interior is nice if not a bit snobbish, but the food is lovely.\n Had some great sui mai here, as well as some of the others things the menu has to offer. Recommend the deep fried squid - very tasty!\n It's often hard to choose where to come when you're surrounded by so many in Chinatown, but this one always seems to shine.",
+                "datePublished": "2008-11-30"
+            },
+            {
+                "reviewId": "jjMNHxIf82NxeQvKYXoDbw",
+                "author": "Joe C.",
+                "reviewRating": {
+                    "ratingValue": 2
+                },
+                "sentiment": "negative",
+                "description": "over priced and food was just so so. i went for dinner and their food had a very westernized taste to it. would not recommend for people looking for legit chinese food.",
+                "datePublished": "2012-01-15"
+            },
+            {
+                "reviewId": "Ky6fHytuTbVGNSqWU4dqGA",
+                "author": "S L.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "This is one of the best places in china town. I especially like the roast duck, which is one of the best in London. It is a nice place aswell with plenty of space. The staff are more polite and attentive than in some of the other china-town restaurants.",
+                "datePublished": "2010-07-21"
+            },
+            {
+                "reviewId": "5NrxVHtlOo2Hj0AyMaeu2w",
+                "author": "Fi G.",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "I'm very picky about my Cantonese food and this place is just awesome!\nWe celebrated my dad's 60th here with one of their set banquet menus (I believe it included dishes from every meat category and then some!).  We were rolling out of there, and ooo'ing and ahhh'ing about the quality of the food and incredible presentation.\nThe staff were fabulous and treated us really well even though this is the first time we had a meal there.\nEnded up having over 12 dishes for 9 people and every single one of them was great.  \nApparently queues for their dim sum start at 11, never tried it but I will the next trip.",
+                "datePublished": "2010-04-28"
+            },
+            {
+                "reviewId": "tWxKoLDH4Y0Fb8JAWbYvHA",
+                "author": "Qype User\n wai…",
+                "reviewRating": {
+                    "ratingValue": 5
+                },
+                "sentiment": "positive",
+                "description": "If your after consistently good Chinese food or dim sum and you happen to be in Chinatown, you can't go wrong with Golden Dragon. The place can get extremely busy so try to book or come extra early if your after Dim Sum. I have been coming to this place for years, since childhood in fact and I have to say I have never been disappointed. Prices are very fair for the food you get and the staff are very good compared to some places in Chinatwon. My only tiny niggle would be the roast meats, (such as roast pork) they seem to lack tenderness and moisture that I look for. Though this might just be a personal preference.",
+                "datePublished": "2008-11-18"
+            },
+            {
+                "reviewId": "kUpFUdVEOgwGZk18AoATgg",
+                "author": "Dirk S.",
+                "reviewRating": {
+                    "ratingValue": 4
+                },
+                "sentiment": "positive",
+                "description": "In China Town gibt es sehr viele Chinarestaurants, das verwundert kaum. Doch welches ist gut? Im \"Golden Dragon\" habe ich sehr lecker gegessen. Dass fast nur chinesische Gäste dort waren, werte ich auch mal als Qualitätssymbol!",
+                "datePublished": "2010-04-17"
+            }
+        ]
+    }
+}
