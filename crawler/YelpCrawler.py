@@ -202,7 +202,6 @@ def fetch_restaurant_reviews(category, index, url, id, name, max_reviews_count, 
                 "review": []
             }    
             reviews = []
-            logger.info("Fetch reviews from page {}".format(page_no + 1))
             for element in review_elements:
                 try:
                     if element.attrs["data-review-id"]:
