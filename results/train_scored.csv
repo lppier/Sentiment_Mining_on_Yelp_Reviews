@@ -12,22 +12,22 @@ actuals,-1,1,All,,,class,f1_score,precision,recall,support
 1,705,12855,13560,,,1,0.94,0.95,0.93,13854
 All,12220,13854,26074,,,,,,,
 ,,,,,,Accuracy,93.4,,,
-,,,,Na•ve Bayes Scraped,,,,,,
+,,,,Naive Bayes Scraped,,,,,,
 ,predicted,,,,,,,,,
 actuals,-1,1,All,,,class,f1_score,precision,recall,support
 -1,1156,141,1297,,,-1,0.88,0.89,0.88,1319
 1,163,1134,1297,,,1,0.88,0.87,0.89,1275
 All,1319,1275,2594,,,,,,,
 ,,,,,,Accuracy ,88.3,,,
-,,,,Na•ve Bayes Combined,,,,,,
+,,,,Naive Bayes Combined,,,,,,
 ,predicted,,,,,,,,,
 actuals,-1,1,All,,,class,f1_score,precision,recall,support
 -1,10662,1852,12514,,,-1,0.88,0.85,0.9,11837
 1,1175,12385,13560,,,1,0.89,0.91,0.87,14237
 All,11837,14237,26074,,,,,,,
 ,,,,,,Accuracy,88.4,,,
-,,,,Na•ve Bayes Combined with Negation,,,,,,
-,,,,,,,,,,
+,,,,Naive Bayes Combined with Negation,,,,,,
+,predicted,,,,,,,,,
 actuals,-1,1,All,,,class,f1_score,precision,recall,support
 -1,10797,1717,12514,,,-1,0.88,0.86,0.9,11971
 1,1174,12386,13560,,,1,0.9,0.91,0.88,14103
@@ -40,6 +40,13 @@ actuals,-1,1,All,,,class,f1_score,precision,recall,support
 1,585,12975,13560,,,1,0.95,0.96,0.94,13868
 All,12206,13868,26074,,,,,,,
 ,,,,,,Accuracy,94.3,,,
+,,,,RNN (LSTM),,,,,,
+,predicted,,,,,,,,,
+actuals,-1,1,All,,,class,f1_score,precision,recall,support
+-1,10895,118,11013,,,-1,0.99,0.99,0.99,11013
+1,113,9733,9846,,,1,0.99,0.99,0.99,9846
+All,11008,9851,20859,,,,,,,
+,,,,,,Accuracy,99.49,,,
 ,,,,,,,,,,
 ,,,Combined Data,,,,,,Scraped Data ,
 ,actual,nb,svm,nb_negation,svm_negation,,,actual,nb,svm
