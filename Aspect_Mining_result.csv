@@ -1,0 +1,26 @@
+Chinese Restaurant – Wong Kei ,,,,,
+,total,negative,positive,Negative (%),Positive (%)
+ambience,93,44,49,47.31%,52.69%
+price   ,108,45,63,41.67%,58.33%
+service ,252,168,84,66.67%,33.33%
+food    ,517,248,269,47.97%,52.03%
+overall ,762,405,357,53.15%,46.85%
+Total,1732,910,822,52.54%,47.46%
+,,,,,
+Chinese Restaurant – Yauatcha,,,,,
+,total,negative,positive,Negative (%),Positive (%)
+price   ,119,71,48,59.66%,40.34%
+ambience,237,94,143,39.66%,60.34%
+service ,378,172,206,45.50%,54.50%
+food    ,1629,497,1132,30.51%,69.49%
+overall ,1638,696,942,42.49%,57.51%
+Total,4001,1530,2471,38.24%,61.76%
+,,,,,
+Indian Restaurant – Dishoom,,,,,
+,total,negative,positive,Negative (%),Positive (%)
+price   ,145,66,79,45.52%,54.48%
+ambience,513,170,343,33.14%,66.86%
+service ,1784,601,1183,33.69%,66.31%
+food    ,4613,1045,3568,22.65%,77.35%
+overall ,4868,1696,3172,34.84%,65.16%
+Total,11923,3578,8345,30.01%,69.99%
